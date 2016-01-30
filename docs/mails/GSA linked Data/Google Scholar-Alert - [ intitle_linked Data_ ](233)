@@ -1,0 +1,84 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.79.82.193 with SMTP id g184csp902025ivb;
+        Wed, 17 Jun 2015 17:56:48 -0700 (PDT)
+X-Received: by 10.43.92.199 with SMTP id br7mr3220205icc.43.1434589005641;
+        Wed, 17 Jun 2015 17:56:45 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 31xOCVRUKDLgqafmjYpYjcprq-lmpcnjwemmejc.amkcpgarcqqclmuucZ.bc@scholar-alerts.bounces.google.com designates 209.85.160.202 as permitted sender) smtp.mail=31xOCVRUKDLgqafmjYpYjcprq-lmpcnjwemmejc.amkcpgarcqqclmuucZ.bc@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 31xOCVRUKDLgqafmjYpYjcprq-lmpcnjwemmejc.amkcpgarcqqclmuucZ.bc@scholar-alerts.bounces.google.com designates 209.85.160.202 as permitted sender) client-ip=209.85.160.202;
+Received: by 10.50.16.232 with POP3 id j8mf1233604igd.5;
+        Wed, 17 Jun 2015 17:56:45 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 31xOCVRUKDLgqafmjYpYjcprq-lmpcnjwemmejc.amkcpgarcqqclmuucZ.bc@scholar-alerts.bounces.google.com
+Received: from mail-yk0-f202.google.com ([209.85.160.202]) by mx-ha.web.de
+ (mxweb105) with ESMTPS (Nemesis) id 0LqB1o-1Yahqa386K-00dpW8 for
+ <erictessenow@web.de>; Thu, 18 Jun 2015 02:42:00 +0200
+Received: by ykp9 with SMTP id 9so2615618ykp.0
+        for <erictessenow@web.de>; Wed, 17 Jun 2015 17:41:59 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=nXkAPd2/xL8Vsbs/+IdmPM3B5v/ShuBWuCjJwpRYOu8=;
+        b=Qaf4AGDNktHFmNs4cYDCFYKqilWoJ6wzQcN38CmDfO7F6M+iFqUO0Vmpgkt/WNI1wP
+         mKX4e11qFYbuc2rM15+zX9CIiOF4k7lYFdkUOryg2D59CK9QgvcYmH0NcW8oQJIy2+vV
+         8anzQmW045AX4EVGfNpOBc60WXG4Vl40yyetUEhx1Kg69hF9ecaWt5GgSdXZq2FtHnCN
+         ulRM6HBXAbPAHDkGBKn0ciicnlU53CFPg6KvWHhrPtFWiz+0XOLrlT30N7lE149WC9o+
+         AU6zXKSkMk2n8mefSrPpYqUm8Th5GUVttu8+5f7sy0DjwWYqs8pDPn3pCQB4PPnAJZ3y
+         BwsA==
+MIME-Version: 1.0
+X-Received: by 10.13.219.15 with SMTP id d15mr10870982ywe.4.1434588119704;
+ Wed, 17 Jun 2015 17:41:59 -0700 (PDT)
+Message-ID: <001a114fd80446292b0518c0138d@google.com>
+Date: Thu, 18 Jun 2015 00:41:59 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:y+pfEDMWTpM=:fj8Dyky1mqpH8VpZqOIoKmsdGD
+ xr/wxfMYlvP2sqCRcV3oU/YcQoOyut+oqFDhzzSn5HomcM829a/kayYjLIRKZk8SWkWk17dCG
+ 4pUyTTjVLkawh2taFf1aqIhhnYFQe6DCq6EOJhxsTO5ygidHDxUfdyBKMDgkDOieetA7Mlb38
+ xXpzLkKLBywm6X/AKOKzdP8P4P3Ed7LwlakD13lsdvgjvhSCbyGDOmmIScSAP4rnEEeSLUs1Q
+ AGFjoQtAkHYbDMuAMf4eiYq3a6qVRDVEazGc6q+UPF4fTsWOQoZH/VSjOBPFlLVVeyxhzeK46
+ cywXoLE/OBDPVh4h0yRUb1iuFrprXZ8P14B4KGxpG4JvhTqlfwVbL9AVzmkcDhpZQkW2UzoT8
+ Au+lGd1XWSglaCU4kjbLZimY8T8LLYRYqkmVFW5U7//Lh0BfRALEC+QMJY4dSGaNsmtHNqxxr
+ NFr8SMeQai9uvPTNGZlXXTMoRQyFNGLX2Qdf+IGReKlwkpY0nAnTcE2cVhhyYcJnKpftI0zmc
+ KLkGZ8WSXqzHT0gKOv+lnkWDQask7j5qbi2F1rLzAel5KjUCgu5y6QNKyke20gxNlkdOqOzY8
+ m+fuVTQxx08jR2AKI8xRp9IhjdvTQJsNkHY2d0LYYQu+ywz7DvXxIA1GVRCNkey09vVXF7PQq
+ 5mgl4XnRuLZjkp9FJgvkL58sxPDCXLHa3/SGy8RT5DSBz4DNDy14vEO+9O/dfNNfk9vr5HasV
+ 97JGgg/m/Q77bgBbDxzXP9zIqa1jB3IzqI+7mGsp4DIUeSOJ+s7YSeHKcliwPSebxtySBiw/c
+ RfdxhAMtD5vlkhkOBdb0FzfTp9jJPuurypsU3spt+4+tIl9vOgpqVQhGoJJUPd7DkSncjFdRd
+ 4LAXAxESoOUadTx4qQ/PTxDw+INiUNTdla4N6Q13I+LIXpa0FEnTYEcFHfeFKeyfjRdogWQtT
+ V/vzTi2oaEsjU4kWhR/pIPiz09NVyJdRLl4XvXujQMxWTM5CYiGvS/pVpv4djXZxXfoCgBtb1
+ AnxJ+dqxltlkb/2ScnKj2ORZ9tsyGNVhGBbvFfRhe+Pt9bJmtXij+11Radv0ylgGWpWM1CAwQ
+ uXzuyMu7+CCK3odA0PdfJPpiuTRgKfyd5+tzkgYUhGfzeupWlb8S5OBqxiP1QESdOp3JCQgxo
+ L8JDvcyRVuAp3rARrEWN50k29C4eWp2Rw79OwbJyboqoXOLSSJllakmRxH5InQWh0EfEBsTZt
+ 2shjAx3S+vg9eva6x9eSoy0AP8CxH8vlDhoroqqRoW57EhULrkBFPhRTfNebHfn0kCLgkBrMC
+ cboAr/btiDm56fM6xP28Mv8CNO6DRGw70cgW7AvkzyAT70ze1oDZ1SYNRB0qedcSzXIMIftiM
+ Ww4PDIzb5WXqqWFNtRPQV9l8eQ7r28ulGLKUEAeiSbETv9Th3I4vxH0Am8IoPoJMviSlmh5lq
+ DaccCqI8V0FdIJ5mMgnhDWmQw0sN5F1FMW/40FIY1l6spmZjnh
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttp://www.indjst.org/index.php/in=
+djst/article/view/68289&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm38oIOmJLE=
+e0HeW0Q_O7G8z6F8xOw&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 colo=
+r=3D#1a0dab style=3D"text-decoration:underline">Utilization Method of <b>Li=
+nked Data </b>Profiles Connecting Curricula and Digital Content</font></a><=
+/h3><div><font size=3D2 color=3D#006621>C Hyunsook, K Jeongmin - Indian Jou=
+rnal of Science and Technology, 2015</font></div><div><font size=3D2 color=
+=3D#222222>Abstract In this paper, the design and use of <b>linked data </b=
+>profiles is introduced on the basis of <br>education content achievement s=
+tandards. The achievement standards specify in detail the <br>knowledge, ab=
+ility, and attitude that students must have as a result of learning; and ar=
+e <b> ...</b></font></div><br><p><hr noshade size=3D1><font size=3D2 color=
+=3D#222222>Dieser Google Scholar-Alert wird Ihnen von Google zur Verf=C3=BC=
+gung gestellt.<br><br><a href=3D"http://scholar.google.de/scholar_alerts?vi=
+ew_op=3Dcancel_alert_options&amp;email_for_op=3Derictessenow%40web.de&amp;a=
+lert_id=3DAIfevv3NkPcJ&amp;hl=3Dde"><font color=3D#1a0dab>Alert stornieren<=
+/font></a><br></font></div></body></html>

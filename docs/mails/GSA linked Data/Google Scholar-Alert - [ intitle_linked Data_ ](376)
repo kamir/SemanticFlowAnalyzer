@@ -1,0 +1,174 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.79.82.193 with SMTP id g184csp1673466ivb;
+        Mon, 15 Jun 2015 18:50:19 -0700 (PDT)
+X-Received: by 10.107.31.134 with SMTP id f128mr38468329iof.19.1434419416444;
+        Mon, 15 Jun 2015 18:50:16 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3Hnt_VRUKDMM1lqxuj0jun021-wx0nyu7pxxpun.lxvn0rl2n11nwx55nk.mn@scholar-alerts.bounces.google.com designates 209.85.220.73 as permitted sender) smtp.mail=3Hnt_VRUKDMM1lqxuj0jun021-wx0nyu7pxxpun.lxvn0rl2n11nwx55nk.mn@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3Hnt_VRUKDMM1lqxuj0jun021-wx0nyu7pxxpun.lxvn0rl2n11nwx55nk.mn@scholar-alerts.bounces.google.com designates 209.85.220.73 as permitted sender) client-ip=209.85.220.73;
+Received: by 10.50.16.232 with POP3 id j8mf4061402igd.3;
+        Mon, 15 Jun 2015 18:50:16 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3Hnt_VRUKDMM1lqxuj0jun021-wx0nyu7pxxpun.lxvn0rl2n11nwx55nk.mn@scholar-alerts.bounces.google.com
+Received: from mail-pa0-f73.google.com ([209.85.220.73]) by mx-ha.web.de
+ (mxweb003) with ESMTPS (Nemesis) id 0LqSKP-1ZZJUf1b4D-00e5NQ for
+ <erictessenow@web.de>; Tue, 16 Jun 2015 03:25:52 +0200
+Received: by pablj1 with SMTP id lj1so304801pab.0
+        for <erictessenow@web.de>; Mon, 15 Jun 2015 18:25:50 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=BTSx+5iLudOI0r+gkQEMD7E4XNWCsnhoDezLh/4SGWQ=;
+        b=JMzqUT80yirsxhhhYHz6u8OOcfJiGVlouE/BHyrNXiL8738uxPrQ0XsViCpE2cX+9S
+         ZvJL6445D0xnWEZai99iD5Kp+UM7oUzG6sPxX0Ej9vamJ/zvgtVf4Ql/lzQgk9Vq0R1U
+         WzMgwn8w69qNBostTRVDwlXgka4HLmxXZwHK3o1QLyUDBjvLgDbOs0T+QKKp/oIv9ict
+         Wsz93+fczJk16TUr+k/8t5mdGJQfKDIoqm9LiEMAck19ao15yhZXmxFW2zQYkOidHlpq
+         ZNXmel1P7HbHD8SSffnQjurGooSbwjpmtUGYN/5/KExL6OMcD/mkoxq1niF6fgj+UPjT
+         scjw==
+MIME-Version: 1.0
+X-Received: by 10.68.91.162 with SMTP id cf2mr41118380pbb.2.1434417950891;
+ Mon, 15 Jun 2015 18:25:50 -0700 (PDT)
+Message-ID: <047d7b6d7a766c23200518987487@google.com>
+Date: Tue, 16 Jun 2015 01:25:50 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:wuraR6UTzhQ=:p/y7HK08yq6HUOszmh6AOPeiiD
+ Pd64PC0H9YDpShuu4gYGNl/rrcoh2UsnaQM1oQ+HcmjNtCGD5XzNDAP9awHoiS8Ab5NUOw74K
+ 0dem+iPKrUE57s+dVYmKuOXeJAHFQwcIvHtIC+8Oxb4yVTOutmtNS9kXMhvT0ql6IS3NnLS4J
+ biT0dSi/9gWKmaAyLIYlmfDDyEbIPKUH6Fe5SIbyddsi5Bom75LTWSGY0K6+bE8xUsvwrVBUJ
+ HyZ4YGizOiHLzvV1Id4wvtLyZIjTF1PUswcXPCLBKPw27DOPd0LnnmBy8iT5HKaWQHA/gOsFD
+ KBZaWx2w9JLxv4ZkgR3ZrnyEe6MgSqruDF6B4/b6Qhob91DXpSagfJHPVO44kZYK6VF5sgl6U
+ Q04YshTSdgrIS+19J96Ivt4OEx/XKsyt74xI2T7PVHZyH8yKV3UF/p87/2ub3OL+D2q6Dmsvw
+ DEycyteQQ+98JIe30TSCel1L31duCEjbZ3YLY8ZEDddtn9+tEaUOT/SuxXfqK6tMdow+FyDTF
+ Q4ubOGewON+WAfBiH81vMSKsKpH5ydUlh0BvSDRLjFw9cV/JEYKhSqRv2a72JV9SC+QUjG3uC
+ grqWwalaW4Taj/OwrE3v0QzS42Jm6yv8mdz7/oWfcpH6c/jJfeOFBWtUaIxB6OGJqHmHpzwVx
+ 5fDmBHxxjn0W6MNsAM/TRPHMjVBvj+sd4KVmO3LcwlIXbqcqg8RnzdUwIzTHuggqn56tQUgfe
+ NrHTR8Rt6fa9EN8l52zE4Fl41TOHlDKV7KZdBUJUHaMKr+FMzYlC3u4Yi2aZ9V0HglbCIj2QD
+ 35ThucPxNz/pRj/+22J8NfUcxH8ervq0+iQl7CahNVC5pHMzdYDq0doY90OpLz+EH2QZPUIUa
+ z74JMd1clfCVmdlx4/t2l0o6Us8xvUQ0MU7I7lTalEC1lyRf6g6THW541U59DlMjRXbXUWQNz
+ kzz8Vqb25+GKLXbxN5FhRQ8NVz6XAAugw739Q6P0z690YG4AS7mlRKrg97siSxoLS1D+uP3u+
+ V2pmqAKuO468chP1soGqdsEvfePvWVn4+UYNPbpIlbtXvRyoiZLhvQOfkSYehcPw6IH8KlR6Q
+ gOIqGU9bx4mb9YwJHMYTf9B19NO/jIb2XeFOlZYopCCUTKJhQ7YjP1DKGZP3QF0TwOMVdQU2k
+ H8WXU4tj461niHzZtctNlvK8FYXgYOWt3Rz5vUSfqShPzZ/F97xam43KCtrDN2AXUqh5i/oGK
+ dXeK3ZdBm8l2kfmJz/ZsC22p6CQTM6kHpddhK7gkv7+oKdAhlW5ehumNH5ttvjbqvcm3PrLWg
+ Auib
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttp://link.springer.com/chapter/1=
+0.1007/978-3-319-20424-6_5&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm1mYBGw=
+WYy8PDmyXTV0uFsLxFn-Sg&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 c=
+olor=3D#1a0dab style=3D"text-decoration:underline">Implementing Peer-to-Pee=
+r Semantic Integration of <b>Linked Data</b></font></a></h3><div><font size=
+=3D2 color=3D#006621>MM Dimartino, A Cal=C3=AC, A Poulovassilis, PT Wood - =
+Data Science, 2015</font></div><div><font size=3D2 color=3D#222222>Abstract=
+ The World Wide Web has expanded from a network of hyper-linked documents t=
+o a <br>more complex structure where both documents and data are easily pub=
+lished, consumed <br>and reused. Ideally, users should be able to access th=
+is information as a single, global <b> ...</b></font></div><br><h3 style=3D=
+"font-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"=
+http://scholar.google.de/scholar_url?url=3Dhttp://link.springer.com/article=
+/10.1007/s11695-015-1763-y&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm1R0x0t=
+JimqDRPcOVf0Or4q1Ksf0g&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 c=
+olor=3D#1a0dab style=3D"text-decoration:underline">A Comparison of Bariatri=
+c Surgery in Hospitals With and Without ICU: a <b>Linked Data </b>Cohort St=
+udy</font></a></h3><div><font size=3D2 color=3D#006621>DJR Morgan, KM Ho - =
+Obesity Surgery, 2015</font></div><div><font size=3D2 color=3D#222222>Backg=
+round It is uncertain whether bariatric surgery can be safely performed in =
+secondary <br>hospitals without on-site intensive care unit (ICU) support. =
+This study describes the <br>outcomes of elective bariatric surgery patient=
+s who required inter-hospital transfers for <b> ...</b></font></div><br><h3=
+ style=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a=
+ href=3D"http://scholar.google.de/scholar_url?url=3Dhttp://ajph.aphapublica=
+tions.org/doi/abs/10.2105/AJPH.2015.302597&amp;hl=3Dde&amp;sa=3DX&amp;scisi=
+g=3DAAGBfm0u3_ucjdMBB8s3gYfPHoDRs0-Qkw&amp;nossl=3D1&amp;oi=3Dscholaralrt">=
+<font size=3D3 color=3D#1a0dab style=3D"text-decoration:underline">Bereavem=
+ent After Informal Caregiving: Assessing Mental Health Burden Using Linked =
+Population Data</font></a></h3><div><font size=3D2 color=3D#006621>J Moriar=
+ty, A Maguire, D O&#39;Reilly, M McCann - American Journal of Public Health=
+, 2015</font></div><div><font size=3D2 color=3D#222222><b>...</b> further a=
+t risk or further protected (hypothesis 3). METHODS This study capitalized<=
+br>
+on a unique <b>linked</b> <b>data</b> set that allows for population-wide a=
+s- sessment of mental<br>
+health outcomes. The spine of the data set is the Northern <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttp://www.researchgate.net/profil=
+e/Zhan_Liu2/publication/278026643_Two_birds_with_one_stone._An_economically=
+_viable_solution_for_linked_open_data_platforms/links/5579b71208aeb6d8c0205=
+70c.pdf&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm3MWXU1L4OaHcjrqI1GxHddj3V=
+3Mg&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab styl=
+e=3D"text-decoration:underline">Two birds with one stone. An economically v=
+iable solution for linked open data platforms</font></a></h3><div><font siz=
+e=3D2 color=3D#006621>R Bonazzi, Z Liu</font></div><div><font size=3D2 colo=
+r=3D#222222><b>...</b> The notion of linked open data (hereinafter referred=
+ to as LOD) comes from two concepts:<br>
+(1) open data and (2) <b>linked</b> <b>data</b>. <b>...</b> <b>Linked</b> <=
+b>data</b> describes a method of publishing structured<br>
+data, upon standard Web Page 2. Bonazzi and Liu (2015) 78 <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttp://www.kalampok.is/Papers/egov=
+15_preprint.pdf&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm08OfmpwkfPNzKmVtm=
+k7-M59ZzDlg&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0=
+dab style=3D"text-decoration:underline">Processing Linked Open Data Cubes</=
+font></a></h3><div><font size=3D2 color=3D#006621>E Tambouris, E Kalampokis=
+, K Tarabanis</font></div><div><font size=3D2 color=3D#222222>Page 1. This =
+is a pre-print version of the following paper: E. Tambouris, E. Kalampokis =
+and K.<br>
+Tarabanis (2015) Processing <b>Linked</b> <b>Data</b> Cubes, E. Tambouris e=
+t al. <b>...</b> <b>Linked</b> <b>data</b> provide the<br>
+most promising technological paradigm to enable such analytics across the W=
+eb. <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttp://cslt.riit.tsinghua.edu.cn/m=
+ediawiki/images/c/c8/Learning_Semantics_for_Linked_Data.pdf&amp;hl=3Dde&amp=
+;sa=3DX&amp;scisig=3DAAGBfm196ereiJ9-XS67IJdSXJuZAzOzpw&amp;nossl=3D1&amp;o=
+i=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:un=
+derline">Learning Semantics for <b>Linked Data</b>: How to Evaluate Embeddi=
+ng Models in a View of Semantic Web</font></a></h3><div><font size=3D2 colo=
+r=3D#006621>Y Luo</font></div><div><font size=3D2 color=3D#222222>Abstract =
+<b>Linked data</b>, knowledge graph and other large-scale structured datase=
+ts are <br>growing at an incredible rate. Exploring strategies for effectiv=
+ely and efficiently exploiting <br>these datasets is a long standing goal o=
+f the Semantic Web. Among proposed solutions <b> ...</b></font></div><br><h=
+3 style=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em"><=
+font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"http://scholar.google=
+.de/scholar_url?url=3Dhttp://derczynski.com/sheffield/papers/usfd_wnut_syst=
+em.pdf&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm0a61CF-I7NWc_Bsi--KUlA_a_7=
+Jw&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=
+=3D"text-decoration:underline">USFD: Twitter NER with Drift Compensation an=
+d <b>Linked Data</b></font></a></h3><div><font size=3D2 color=3D#006621>L D=
+erczynski, I Augenstein, K Bontcheva</font></div><div><font size=3D2 color=
+=3D#222222>Abstract This paper describes a pilot NER system for Twitter, co=
+mprising the USFD system <br>entry to the W-NUT 2015 NER shared task. The g=
+oal is to correctly label entities in a tweet <br>dataset, using an invento=
+ry of ten types. We employ structured learning, drawing on <b> ...</b></fon=
+t></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;max-w=
+idth:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"http://=
+scholar.google.de/scholar_url?url=3Dhttp://km.aifb.kit.edu/ws/sumpre2015/Qu=
+eryVOWL_HSWI.pdf&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm2QJxmVx0JmdMA-m3=
+CL6pWMIlwX7w&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a=
+0dab style=3D"text-decoration:underline">Visual Querying of <b>Linked Data =
+</b>with QueryVOWL</font></a></h3><div><font size=3D2 color=3D#006621>F Haa=
+g, S Lohmann, S Siek, T Ertl</font></div><div><font size=3D2 color=3D#22222=
+2>Abstract. In order to enable users without any knowledge of RDF and SPARQ=
+L to query <br><b>Linked Data</b>, visual approaches can be helpful by prov=
+iding graphical support for query <br>building. We present QueryVOWL, a vis=
+ual query language that is based upon the <b> ...</b></font></div><br><p><h=
+r noshade size=3D1><font size=3D2 color=3D#222222>Dieser Google Scholar-Ale=
+rt wird Ihnen von Google zur Verf=C3=BCgung gestellt.<br><br><a href=3D"htt=
+p://scholar.google.de/scholar_alerts?view_op=3Dcancel_alert_options&amp;ema=
+il_for_op=3Derictessenow%40web.de&amp;alert_id=3DAIfevv3NkPcJ&amp;hl=3Dde">=
+<font color=3D#1a0dab>Alert stornieren</font></a><br></font></div></body></=
+html>

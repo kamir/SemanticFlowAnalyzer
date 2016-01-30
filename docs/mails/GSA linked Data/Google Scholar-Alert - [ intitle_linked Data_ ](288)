@@ -1,0 +1,131 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.64.67.99 with SMTP id m3csp44480iet;
+        Thu, 28 Nov 2013 16:32:55 -0800 (PST)
+X-Received: by 10.50.87.33 with SMTP id u1mr3999352igz.42.1385685174672;
+        Thu, 28 Nov 2013 16:32:54 -0800 (PST)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3r-CXUhUKDGoaKPWTIZITMZba-VWZMXTgOWWOTM.KWUMZQKbMaaMVWeeMJ.LM@scholar-alerts.bounces.google.com designates 209.85.223.201 as permitted sender) smtp.mail=3r-CXUhUKDGoaKPWTIZITMZba-VWZMXTgOWWOTM.KWUMZQKbMaaMVWeeMJ.LM@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3r-CXUhUKDGoaKPWTIZITMZba-VWZMXTgOWWOTM.KWUMZQKbMaaMVWeeMJ.LM@scholar-alerts.bounces.google.com designates 209.85.223.201 as permitted sender) client-ip=209.85.223.201;
+Received: by 10.64.171.52 with POP3 id ar20mf6693156iec.0;
+        Thu, 28 Nov 2013 16:32:53 -0800 (PST)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3r-CXUhUKDGoaKPWTIZITMZba-VWZMXTgOWWOTM.KWUMZQKbMaaMVWeeMJ.LM@scholar-alerts.bounces.google.com
+Received: from mail-ie0-f201.google.com ([209.85.223.201]) by mx-ha.web.de
+ (mxweb001) with ESMTPS (Nemesis) id 0LaEus-1VMBeY2kCU-00m687 for
+ <erictessenow@web.de>; Fri, 29 Nov 2013 01:32:48 +0100
+Received: by mail-ie0-f201.google.com with SMTP id at1so1864291iec.4
+        for <erictessenow@web.de>; Thu, 28 Nov 2013 16:32:47 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=4FAhJFWfxYJ/FO727COuGfvP108eA5sQ54+2g3gKCDY=;
+        b=JHZqt9FloQL4lhjIyCXGswOtRw9skcSwU7u+KHTAg+2EorQhKajgnKpia2g0Qg3n5a
+         S4j/PSyNx4DRh8VI7ed0KXgqpWIvnFrJvAUFZeRgZCwg9MZ+deu7ADvq6TnBJSgPBRBQ
+         3kWAlzlnkowfbDO6fu6BMc2MJjIOlDfawWNZNzeehSUEGxAPtLwa7KlEYKSXp6tg19lW
+         QODYCp9Z4VeXZ0diqnNCaTutGgyfRfhpCn/3eIaBIGQJzdFi99/VaUyDlpVCsgrAv6J+
+         iGzJ0/Hl/I+N3xI/b5GYHGQXZRkRL3TKDVF+gnwtVPN8B3N8GmqVgk+Gg8wiS42vOrwB
+         6NSA==
+MIME-Version: 1.0
+X-Received: by 10.50.126.69 with SMTP id mw5mr1798481igb.7.1385685167449; Thu,
+ 28 Nov 2013 16:32:47 -0800 (PST)
+Message-ID: <047d7b2e09db2d26ae04ec45f84e@google.com>
+Date: Fri, 29 Nov 2013 00:32:47 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:0TMy6B7bLmo=:qfWdRIz2LuYcOKRhB9y+sRjEz4
+ SsweGIrWQLv+xS7RMtuFELxOIcKcGtoP2DM6IU+2Gep/V1CpU6hp0bpqCJSrE9WNnhXgr8+lW
+ PdIG7ufIqtrDlDGq9OaNN+xT+v4fd7o1oIp6TCT7MHPbyu/MvzR7V8wVRO8ykxQtKgxiGBHFG
+ xvVos0+STrhsljghJM1xvkCqeUStl1dKiNfuXx/iwSNBZnuVFfA50kV4f2GcZzrjYPhJdhqY4
+ 8J31WeSl+sjzx5WvmgYVzqonUIQGwaMn7Cmlf4jPAY+cO7vlaiSl5g/EFaw3It+zei7/l44cj
+ 7yxg4SprEYGJ7QYSGrh3QygnEJTsFYEso+yVZQhobtKoWG+gnwqWY4ShlFvqWikQzLYHxIChR
+ v7o1dvQSGa4gonezvTXvfpSQntYLwfeAFsaNAooF1eeAzXzU5VVzNIEiAECNnkdA/1mirJ/nP
+ NxTww+FWwn+an6yNvn6g3aVfDZ6ekyh7EmD/dKufGzbvYP5wRHPYLUeWQcoLpMeUJXQA+y814
+ KHohQrprSLoz6GWZerBxXN2vtfZwiZk10g3m0BxaeUdZnCtZBHpuOzTLzVHbB9P26xaF5FtC5
+ oQUpAZBHY1RHdFTcEy0aJh+kJ/epGX2H2rijr4fvweITvTY2jWepbYoFFfniuEAOyhjjXJr7y
+ 79tuqqXV9Z77gTK7PPWuXpi8sFiUx8kw7N/quMCFjnNdm9l9pd1ninnuzPjUbrhzv/DdCFMWt
+ 4T+6gz5p7fBD9g1EiwJfeEVwVlt4dv4dcrA4m0FQlhZ+Hc8BOCOFF6wBBashcGdRO3Sp7QyIj
+ CY+J6VkJE3Etgajj8PZNTldfT5DoFGh0xdZUwYOmGr5yZxj3V8LOIuF1F4erPF5RWJCZOHD8Q
+ gjizDd3XN4gp4R9+vwDc5nXz/8WnVEygn+gDnE9DXgKLW897qgdiB+ATCh49JfBUBrsS3P1kr
+ gMDJ2QSEOkkyCBOomg/ELcTrPkQ1C5ecEHH2QDBtHU0dM+GvewE/K1WJSNWdUk00qRyP42nWw
+ vSDFIxWk1mZFC5jBe/K6Ao627caL0kQ7/sx8N0taoAyYW/ddxOq2rh9mQ1PHCsh8VW859MwaJ
+ R+YxzEzVJurdteYEmNVfJDtqFqlQIV05cQuEp7TrEaN4+3XMn3dL0Qc7r19SSYiTK1SNqPE2j
+ FIRggf185k0+65BGK9hMvZuLq5fJHS1lLZZ8pZteyP3OzoH9dsXLYzWhviKcJ691E=
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://www.degruyter.com=
+/dg/viewbooktoc.chapterlist.resultlinks.fullcontentlink:pdfeventlink/%24002=
+fbooks%24002f9783110278736%24002f9783110278736.201%24002f9783110278736.201.=
+pdf%3Ft:ac%3Dproduct/181080&amp;sa=3DX&amp;scisig=3DAAGBfm01v4mrJi4xrMW5cHU=
+p-TULAeBJ2w&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D"t=
+ext-decoration:underline">Open Data und <b>Linked Data </b>in einem Informa=
+tionssystem f=C3=BCr die Arch=C3=A4ologie</font></a></h3><div><font size=3D=
+2 color=3D#009933>M Lins, HG Becker</font></div><div><font size=3D2 color=
+=3D#222222>Neue digitale M=C3=B6glichkeiten und Technologien er=C3=B6ffnen =
+Wissenschaftlern und Forschenden <br>aller Fachrichtungen fr=C3=BCher ungea=
+hnte Wege, mit wissenschaftlichen Daten umzugehen. <br>Um die Nutzung der D=
+aten, ihre Qualit=C3=A4t und Zug=C3=A4nglichkeit langfristig zu sichern, is=
+t die <b> ...</b></font></div><br><h3 style=3D"font-weight:normal;margin:0;=
+font-size:medium;max-width:44.5em"><a href=3D"http://scholar.google.de/scho=
+lar_url?hl=3Dde&amp;q=3Dhttp://www.degruyter.com/dg/viewbooktoc.chapterlist=
+.resultlinks.fullcontentlink:pdfeventlink/%24002fbooks%24002f9783110278736%=
+24002f9783110278736.97%24002f9783110278736.97.pdf%3Ft:ac%3Dproduct/181080&a=
+mp;sa=3DX&amp;scisig=3DAAGBfm3xUo5smHMStwRxQXKQ3j4kLqSt5g&amp;oi=3Dscholara=
+lrt"><font size=3D3 color=3D#1122cc style=3D"text-decoration:underline">Die=
+ Provenienz von <b>Linked Data</b></font></a></h3><div><font size=3D2 color=
+=3D#009933>K Eckert</font></div><div><font size=3D2 color=3D#222222>Linked =
+Open Data =C3=B6ffnet die Datenmodelle der Bibliotheken f=C3=BCr die Nutzun=
+g von au=C3=9Fen und <br>verhei=C3=9Ft im Gegenzug einfachere M=C3=B6glichk=
+eiten, die eigenen Daten durch andere Daten <br>anzureichern. Zu Recht best=
+eht deshalb der Wunsch, die Herkunft aller Daten <b> ...</b></font></div><b=
+r><h3 style=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5e=
+m"><font size=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"http://scholar.go=
+ogle.de/scholar_url?hl=3Dde&amp;q=3Dhttp://staffwww.dcs.shef.ac.uk/people/I=
+.Augenstein/WOP2013-Statistical.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm0Mn-xnq2t=
+SRR3kMguxm-Yd1HNrAA&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc st=
+yle=3D"text-decoration:underline">Statistical Knowledge Patterns for Charac=
+terising <b>Linked Data</b></font></a></h3><div><font size=3D2 color=3D#009=
+933>E Blomqvist, Z Zhang, AL Gentile, I Augenstein&hellip;</font></div><div=
+><font size=3D2 color=3D#222222>Abstract. Knowledge Patterns (KPs), and eve=
+n more specifically Ontology Design Patterns <br>(ODPs), are no longer only=
+ generated in a top-down fashion, rather patterns are being <br>extracted i=
+n a bottom-up fashion from online ontologies and data sources, such as <b>L=
+inked </b><b> ...</b></font></div><br><h3 style=3D"font-weight:normal;margi=
+n:0;font-size:medium;max-width:44.5em"><font size=3D2 color=3D#1122cc>[PDF]=
+</font> <a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhtt=
+p://www.deri.ie/sites/default/files/publications/wi-2013.pdf&amp;sa=3DX&amp=
+;scisig=3DAAGBfm1WuGj-mTJ_CO7xLOZg_mh2517cFw&amp;oi=3Dscholaralrt"><font si=
+ze=3D3 color=3D#1122cc style=3D"text-decoration:underline">Characterising c=
+oncepts of interest leveraging <b>Linked Data </b>and the Social Web</font>=
+</a></h3><div><font size=3D2 color=3D#009933>F Orlandi, P Kapanipathi, A Sh=
+eth, A Passant</font></div><div><font size=3D2 color=3D#222222>Abstract=E2=
+=80=94Extracting and representing user interests on the Social Web is becom=
+ing an <br>essential part of the Web for personalisation and recommendation=
+s. Such personalisation is <br>required in order to provide an adaptive Web=
+ to users, where content fits their preferences, <b> ...</b></font></div><b=
+r><h3 style=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5e=
+m"><font size=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"http://scholar.go=
+ogle.de/scholar_url?hl=3Dde&amp;q=3Dhttp://ceur-ws.org/Vol-1091/paper4.pdf&=
+amp;sa=3DX&amp;scisig=3DAAGBfm3vVuWUZnOzf2ve2tbe6G0HHSR_Aw&amp;oi=3Dscholar=
+alrt"><font size=3D3 color=3D#1122cc style=3D"text-decoration:underline">El=
+evating Natural History Museums&#39; Cultural Collections to the <b>Linked =
+Data </b>Cloud</font></a></h3><div><font size=3D2 color=3D#009933>G Skevaki=
+s, K Makris, P Arapi, S Christodoulakis</font></div><div><font size=3D2 col=
+or=3D#222222>Abstract. An impressive abundance of high quality scientific c=
+ontent about Natural History <br>and Biodiversity is produced in a distribu=
+ted, open fashion by Natural History Museums <br>(NHMs) using their own est=
+ablished standards and best practices. Managing publication <b> ...</b></fo=
+nt></div><br><p><hr noshade size=3D1><font size=3D2 color=3D#222222>Dieser =
+Google Scholar-Alert wird Ihnen von Google zur Verf=C3=BCgung gestellt.<br>=
+<br><a href=3D"http://scholar.google.de/scholar_alerts?view_op=3Dcancel_ale=
+rt_options&amp;email_for_op=3Derictessenow%40web.de&amp;alert_id=3DAIfevv3N=
+kPcJ&amp;hl=3Dde"><font color=3D#1122cc>Alert stornieren</font></a><br></fo=
+nt></div></body></html>

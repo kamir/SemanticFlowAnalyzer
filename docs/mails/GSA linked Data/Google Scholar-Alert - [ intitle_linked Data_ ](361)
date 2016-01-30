@@ -1,0 +1,194 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.64.67.99 with SMTP id m3csp133530iet;
+        Mon, 30 Sep 2013 18:24:24 -0700 (PDT)
+X-Received: by 10.42.250.201 with SMTP id mp9mr18578701icb.0.1380590663732;
+        Mon, 30 Sep 2013 18:24:23 -0700 (PDT)
+DomainKey-Status: good
+Received-SPF: pass (google.com: domain of 3KiFKUhUKDC0bLQXUJaJUNacb-WXaNYUhPXXPUN.LXVNaRLcNbbNWXffNK.MN@scholar-alerts.bounces.google.com designates 209.85.128.201 as permitted sender) client-ip=209.85.128.201;
+Received: by 10.64.24.237 with POP3 id x13mf3026951ief.30;
+        Mon, 30 Sep 2013 18:24:22 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3KiFKUhUKDC0bLQXUJaJUNacb-WXaNYUhPXXPUN.LXVNaRLcNbbNWXffNK.MN@scholar-alerts.bounces.google.com
+Received:  from mail-ve0-f201.google.com ([209.85.128.201]) by mx-ha.web.de
+ (mxweb104) with ESMTPS (Nemesis) id 0M7qKy-1Vn2JH0yem-00vSxL for
+ <erictessenow@web.de>; Tue, 01 Oct 2013 03:11:07 +0200
+Received: by mail-ve0-f201.google.com with SMTP id c14so573238vea.2
+        for <erictessenow@web.de>; Mon, 30 Sep 2013 18:11:07 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=GcTr/jWXbzos4Cii9oapc5vcPbkDZ3cYZNGlKiTLQVs=;
+        b=Pt6fVL0H/htJSCSH1Qfsir/bDgRGhb39sVm5k/KCVURBujppTLYgdfhG3t5MjMRuYf
+         uCoS9OvOIciBgm3mryUuxrFjcTlw0aOucQvJnY4O3t8WVJUGU+huIFhoIYzpe613AjXZ
+         mCH6mPewAuCsnFD89mkAY2l2M+Jf5D7YgsGbQ6XlMp1lZhALvhlIXytbZVw0lo++POsS
+         3bLBP0auEsDs3AU4gOSTndPpL4UsaKj+fJ3a6P6cDcWY7BYUfwG2tdYQDgoitqUw9W8e
+         rhu75v58BYkyIlfWgUXzKOP8TfoEG7Kmq1JZ6tLZfnKKm4zhrAlTOx2xlpDsAcrqwWv8
+         5OXg==
+MIME-Version: 1.0
+X-Received: by 10.224.5.5 with SMTP id 5mr15725149qat.4.1380589866874; Mon, 30
+ Sep 2013 18:11:06 -0700 (PDT)
+Message-ID: <001a11c256e298791d04e7a3a0b9@google.com>
+Date: Tue, 01 Oct 2013 01:11:06 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:TPv6LXDbbT0=:qWSjxr9dlCg8XobUk6cymNLAd4
+ d5f1FBvTj5QXK514Y8POfRNivRT76kDRfH25nCYgVE6AS4yYULfur4b2h1RR6BxqPGgmGrDHR
+ DYkkf4tcdNJqoz3gDFi8t4fuHKkR/ZRltbNp+aqd6C81hjrbw/q7GGXs8vbN5ynJGPJdkdm67
+ h0QO4XvJCFynSsQFkKtuJTLxXGz9UXLJKcVNAeoxGfE25CK1QADz1OHWhq4zyO3hdTm7dbMRQ
+ euEHGMI3o+kK5sGUCvcet8A64LcdRVVvBnRVAu2QDxsTv+ay/W58GLVQWzi4K6S14QCkdloJR
+ P1dNGbm6e8TrBips11RUvma2UnJOD4kSoQkh3Yd1/XBF1EMLslsLaEmB+0LVPLWg4OzETL0L5
+ nM1V4u1NfS9P1DlNB+G3lxCdL8Zw+3IpS3DePdw9nFkl/BQhn6wDq5AeyTU/q4HNKN2V07cdz
+ rdPNqQ0fCCICdZHh4wlSMzbZ3qiIq7/1CZmx1JgMTce1eTZYGtVfgIFxoZolteKbZC3NRWQ3w
+ 8+6AdKZ+mEyRhmQ1U1hGvwPswfzLZFcoojeg7s4xtXPMpi0nHZ3UHHjhzHWM7pYm/SVDL6GVy
+ XuPCkTIpZUBEJobRD45bfd5yuzAMfM+jBO9edaJjo4DZCZTB6QHh8DOhZPCowFFL3vb4PMM2w
+ wHhrLpBSLnqs9OleQGMeEY8dTrqKH3cH6AlPNK+hg0ybYRH+KnvpvEE653gGUHN7RINO9IgpP
+ IYGvXGE1f2nRoxr54kyogqczMes/y+YWCc1lOGtPbxx6FDGDM37is8lFV4hJFYsTJNmTPuILo
+ H857TNDTaQKZOexoTmb8LOKjQv/zHoUrK9MjbFBo3sk0snLKQy7p62adtwrVEEryII1ZtHeG/
+ 7fsk3C29NQ5VS5SNtSk985QzgaYvemPDBbShyRUoXv5dshu6BYgxA7k2n54tDGICrbmegLQe0
+ OiWVhmSrokkcp6/AHI5pPBqTMaSjI+MENZB+4ZMXy0Ez4LfDl7yaYCvJgoLMudFhXRFLzWhVn
+ gaMU3MA67P+R6v8sSIq9uUSCy7ActZ9IJ07/X5OOlD4fZQjgeQlP8lZxDG6EJPzj89Sd5DEez
+ UUHXM5bvU7iutPTuc64NTViH+U64zcsjBA09SdZ5gOxO28g1RBGi9/R7tfZKm06HmoqVifXCn
+ 0lZJ/tzxQUlvXAdwN7s32AB5BVOqLjM2jAdkQNkfZH1jP1mhteLX1QjEFsi+hCFDQtTgQCB59
+ HGNK7PUtDGy2XPFWubReBdyyktgUkOmumsc0soGqUcIAnAOKtCFNeiBQuuMTBcReoyuQEEqeF
+ wNt9V6qZO2yjhAEBAreSeep2UUqQDwd/9vvnUhOhfrHtKKQ6aRCz9JtBa4gz4rcPS8ntR9sGK
+ Igjof7qmp05udibk4wAUBYdwPYybc0WrvSpjl9v+ikUkqUg4TIqVAQQrPwi2qk2ZWIP5WKe5L
+ gYyTk9lj8VnKnpDCh9gZMzHIUlIRNoyHwOgMmA87NJdOEwD+LO4b2xMxKM0vDC0YZh/kDZWQ=
+ =
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://dl.acm.org/citati=
+on.cfm%3Fid%3D2506193&amp;sa=3DX&amp;scisig=3DAAGBfm2LvgAEG2hpKW73EFwUP2B9x=
+d83ow&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D"text-de=
+coration:underline">Monitoring the dynamism of the <b>linked data </b>space=
+ through environment abstraction</font></a></h3><div><font size=3D2 color=
+=3D#009933>RC Erdur, O Alatli, TG Hala=C3=A7, O Dikenelli - &hellip;  of th=
+e 9th International Conference on  &hellip;, 2013</font></div><div><font si=
+ze=3D2 color=3D#222222>Abstract Management of data dynamics is a major issu=
+e for <b>linked data </b>applications. There <br>are some approaches and ap=
+plications addressing this problem which are either pull or <br>push based.=
+ However, these one sided solutions do not solve the problem since pull <b>=
+ ...</b></font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size=
+:medium;max-width:44.5em"><a href=3D"http://scholar.google.de/scholar_url?h=
+l=3Dde&amp;q=3Dhttp://dl.acm.org/citation.cfm%3Fid%3D2506185&amp;sa=3DX&amp=
+;scisig=3DAAGBfm0NocBH4TYxHKX7H9vFLJaBZwDGgA&amp;oi=3Dscholaralrt"><font si=
+ze=3D3 color=3D#1122cc style=3D"text-decoration:underline">Discovery hub: o=
+n-the-fly <b>linked data </b>exploratory search</font></a></h3><div><font s=
+ize=3D2 color=3D#009933>N Marie, F Gandon, M Ribi=C3=A8re, F Rodio - &helli=
+p;  of the 9th International Conference on  &hellip;, 2013</font></div><div=
+><font size=3D2 color=3D#222222>Abstract Exploratory search systems help us=
+ers learn or investigate a topic. The richness of <br>the linked open data =
+can be used to assist this task. We present a method that selects and <br>r=
+anks <b>linked data </b>resources that are semantically related to the user=
+&#39;s interest. The <b> ...</b></font></div><br><h3 style=3D"font-weight:n=
+ormal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"http://scholar=
+.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://www.freepatentsonline.com/y20=
+13/0254322.html&amp;sa=3DX&amp;scisig=3DAAGBfm2OOtOKv2IAe5OgfNpjnSEIHFTCbg&=
+amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D"text-decorati=
+on:underline">NETWORK <b>LINKED DATA </b>CARRIERS</font></a></h3><div><font=
+ size=3D2 color=3D#009933>BJ Lipsky, P Lee, W Ho, LSK Cindy - US Patent 20,=
+130,254,322, 2013</font></div><div><font size=3D2 color=3D#222222>Abstract:=
+ A data carrier carries at least one identifier capable of being read by an=
+ electronic <br>aid and is used by associating content in the form of a dig=
+ital audio recording with an <br>identifier coded on a data carrier to be r=
+ead out loud by an aid. Such content is based on <b> ...</b></font></div><b=
+r><h3 style=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5e=
+m"><font size=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"http://scholar.go=
+ogle.de/scholar_url?hl=3Dde&amp;q=3Dhttp://eciencia.urjc.es/jspui/bitstream=
+/10115/11832/1/MEMORIA.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm33qX3IB0aYqkpDpVAr=
+s8uhTSDSxQ&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D"te=
+xt-decoration:underline">Aplicaci=C3=B3n sobre ocio y cultura usando <b>Lin=
+ked Data</b></font></a></h3><div><font size=3D2 color=3D#009933>M Garc=C3=
+=ADa, J Manuel - 2013</font></div><div><font size=3D2 color=3D#222222>No ha=
+ce falta remontarse mucho tiempo atr=C3=A1s para comprobar c=C3=B3mo se ha =
+avanzado en la <br>forma de comunicarse y de buscar informaci=C3=B3n. Hace =
+unos a=C3=B1os para escribir una carta <br>hab=C3=ADa que ir a correos a ma=
+ndar un sobre, hoy d=C3=ADa sin salir de casa se puede enviar un <b> ...</b=
+></font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium=
+;max-width:44.5em"><font size=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"h=
+ttp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://www.win.tue.nl/~=
+gfletche/Cai_MSc_thesis.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm0mnLH6pujLNRW_rfI=
+Eq6eFLqthpA&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D"t=
+ext-decoration:underline">Design and Implementation of a Linked Open Data O=
+ntology Repository</font></a></h3><div><font size=3D2 color=3D#009933>C Cai=
+ - 2013</font></div><div><font size=3D2 color=3D#222222><b>...</b> A. Sereb=
+renik Page 2. Page 3. Abstract <b>Linked</b> <b>Data</b> is currently a hot=
+ topic, both in industry and<br>
+in academic research, because it provides a mechanism to facilitate the re-=
+usability, cross-linking,<br>
+in- tegration and sharing of data on the web. <b>...</b> 2.3 <b>Linked</b> =
+<b>Data</b> Platform <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://ceur-ws.org/Vol-1=
+045/ISWCDC2013-complete.pdf%23page%3D60&amp;sa=3DX&amp;scisig=3DAAGBfm3pPms=
+bX-4U65TFLOdy-nPuLrVhsQ&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122c=
+c style=3D"text-decoration:underline">Explaining data patterns using backgr=
+ound knowledge from <b>Linked Data</b></font></a></h3><div><font size=3D2 c=
+olor=3D#009933>I Tiddi - Doctoral (Consortium, 2013</font></div><div><font =
+size=3D2 color=3D#222222>Abstract. When using data mining to find regularit=
+ies in data, the obtained results (or <br>patterns) need to be interpreted.=
+ The explanation of such patterns is achieved using the <br>background know=
+ledge which might be scattered among different sources. This intensive <b> =
+...</b></font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:=
+medium;max-width:44.5em"><font size=3D2 color=3D#1122cc>[PDF]</font> <a hre=
+f=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttps://fedcsis.o=
+rg/proceedings/2013/pliks/269.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm1VpaHj8GRuT=
+jrDDec3O5kOdkTvjw&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc styl=
+e=3D"text-decoration:underline">Applying Big Data and <b>Linked Data </b>Co=
+ncepts in Supply Chains Management</font></a></h3><div><font size=3D2 color=
+=3D#009933>S Robak, B Franczyk, M Robak</font></div><div><font size=3D2 col=
+or=3D#222222>Abstract=E2=80=94One of the contemporary problems, and at the =
+same time a big opportunity, in <br>business networks of supply chains are =
+the issues associated with the vast amounts of data <br>arising there. The =
+data may be utilized by the decision support systems in logistics; <b> ...<=
+/b></font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medi=
+um;max-width:44.5em"><font size=3D2 color=3D#1122cc>[PDF]</font> <a href=3D=
+"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://publicationsli=
+st.org/data/muhammad-saleem/ref-4/SWC_ISWC2013.pdf&amp;sa=3DX&amp;scisig=3D=
+AAGBfm2TmEgorU6mntrwy9x1O-5BYwSZRw&amp;oi=3Dscholaralrt"><font size=3D3 col=
+or=3D#1122cc style=3D"text-decoration:underline">Fostering Serendipity thro=
+ugh Big <b>Linked Data</b></font></a></h3><div><font size=3D2 color=3D#0099=
+33>M Saleem, MR Kamdar, A Iqbal, S Sampath, HF Deus&hellip;</font></div><di=
+v><font size=3D2 color=3D#222222>Abstract. The amount of bio-medical data a=
+vailable over the Web grows exponentially with <br>time. The large volume o=
+f the currently available data makes it difficult to explore, while the <br=
+>velocity at which this data changes and the variety of formats in which bi=
+o-medical is <b> ...</b></font></div><br><h3 style=3D"font-weight:normal;ma=
+rgin:0;font-size:medium;max-width:44.5em"><font size=3D2 color=3D#1122cc>[P=
+DF]</font> <a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=3D=
+http://ceur-ws.org/Vol-1046/SSWS2013_paper6.pdf&amp;sa=3DX&amp;scisig=3DAAG=
+Bfm1wq_WUPO2fDcgABPlYo9oJU2CsZA&amp;oi=3Dscholaralrt"><font size=3D3 color=
+=3D#1122cc style=3D"text-decoration:underline">Scalable <b>Linked Data </b>=
+Stream Processing via Network-Aware Workload Scheduling</font></a></h3><div=
+><font size=3D2 color=3D#009933>L Fischer, T Scharrenbach, A Bernstein - 9t=
+h International Workshop on Scalable Semantic  &hellip;</font></div><div><f=
+ont size=3D2 color=3D#222222>Abstract. In order to cope with the ever-incre=
+asing data volume, distributed stream <br>processing systems have been prop=
+osed. To ensure scalability most distributed systems <br>partition the data=
+ and distribute the workload among multiple machines. This approach <b> ...=
+</b></font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:med=
+ium;max-width:44.5em"><font size=3D2 color=3D#1122cc>[PDF]</font> <a href=
+=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://ganges.usc.=
+edu/pgroupW/images/a/ab/ICEIS13.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm05kqRN5bD=
+eBWNYMhNt89Iej5WELA&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc st=
+yle=3D"text-decoration:underline">Event Recommendation in Social Networks w=
+ith <b>Linked Data </b>Enablement</font></a></h3><div><font size=3D2 color=
+=3D#009933>Y Zhang, H Wu, V Sorathia, VK Prasanna</font></div><div><font si=
+ze=3D2 color=3D#222222>Abstract: In recent years, social networking service=
+s have gained phenomenal popularity. <br>They allow us to explore the world=
+ and share our findings in a convenient way. Event is a <br>critical compon=
+ent in social networks. A user can create, share or join different events i=
+n <b> ...</b></font></div><br><p><hr noshade size=3D1><font size=3D2 color=
+=3D#222222>Dieser Google Scholar-Alert wird Ihnen von Google zur Verf=C3=BC=
+gung gestellt.<br><br><a href=3D"http://scholar.google.de/scholar_alerts?vi=
+ew_op=3Dcancel_alert_options&amp;email_for_op=3Derictessenow%40web.de&amp;a=
+lert_id=3DAIfevv3NkPcJ&amp;hl=3Dde"><font color=3D#1122cc>Alert stornieren<=
+/font></a><br></font></div></body></html>

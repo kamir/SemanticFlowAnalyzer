@@ -1,0 +1,126 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.140.227.210 with SMTP id x201csp1839449qhb;
+        Fri, 6 Feb 2015 13:55:43 -0800 (PST)
+X-Received: by 10.224.53.130 with SMTP id m2mr13029744qag.13.1423259740565;
+        Fri, 06 Feb 2015 13:55:40 -0800 (PST)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3mDPVVBUKDAEtdipmbsbmfsut-opsfqmzhpphmf.dpnfsjdufttfopxxfc.ef@scholar-alerts.bounces.google.com designates 209.85.160.201 as permitted sender) smtp.mail=3mDPVVBUKDAEtdipmbsbmfsut-opsfqmzhpphmf.dpnfsjdufttfopxxfc.ef@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3mDPVVBUKDAEtdipmbsbmfsut-opsfqmzhpphmf.dpnfsjdufttfopxxfc.ef@scholar-alerts.bounces.google.com designates 209.85.160.201 as permitted sender) client-ip=209.85.160.201;
+Received: by 10.224.189.16 with POP3 id dc16mf1831084qab.18;
+        Fri, 06 Feb 2015 13:55:40 -0800 (PST)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3mDPVVBUKDAEtdipmbsbmfsut-opsfqmzhpphmf.dpnfsjdufttfopxxfc.ef@scholar-alerts.bounces.google.com
+Received: from mail-yk0-f201.google.com ([209.85.160.201]) by mx-ha.web.de
+ (mxweb107) with ESMTPS (Nemesis) id 0MLe2B-1YK7PG1Z23-000qRH for
+ <erictessenow@web.de>; Fri, 06 Feb 2015 22:35:21 +0100
+Received: by mail-yk0-f201.google.com with SMTP id q9so1663257ykb.0
+        for <erictessenow@web.de>; Fri, 06 Feb 2015 13:35:20 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=HU/L5j8kF40+hV0276k03ocQ1x2YAbxif6Sp0EVCJeQ=;
+        b=kXDRDLde9DKcTaifDedIBOwPUtP8Q7serUfPtFAIyDjBEpxxL6V6tlenmN8n7vMszD
+         F/eAncyQvtfTCoa9L5tf/Mbfix0EXwuZ7zBfudECcEoCwgRG3dPV3zRS117PnFIHW2qS
+         s+mTEbMNtwIUXSEIEgJsHr8SZxBm71T7mwgqJF0Gx9BWtDgp+J1qz+bDwnIL2fyykPE1
+         fheOLfNEuEtyFIKuEgE6iSzD2LNBCwsQCUU9IyAHH1OnU07iDo9qqEOnpS03XXifPRBv
+         EWqyGTBggxIrBNqVbAhCeksslJLIf/Yi9psET4aBfyWktDTMWdYDnsLv5BfD13NzE+D+
+         nCrQ==
+MIME-Version: 1.0
+X-Received: by 10.236.47.170 with SMTP id t30mr4389542yhb.19.1423258520299;
+ Fri, 06 Feb 2015 13:35:20 -0800 (PST)
+Message-ID: <047d7b67383c86aa19050e72326d@google.com>
+Date: Fri, 06 Feb 2015 21:35:20 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:gqTt6z9wasY=:mqDiZsYZZ3Z9lIq6gFpbin+Xxg
+ VC0UH+XqxET9bRdVUr7KelU3+lhzmhpXae5YkmympTL16rbUUioEwgOwjk/Q8+VegNe3Am8Ic
+ apy/nA8tZAMJIEdUFwrx3uUIbyPyv7xdb+/qO9YY81eXNBT3f9ikm4oP+/e3dc0b4pUIIviyG
+ TxfxcaSU8Gzw2xzeRcp5yN5HoQAfVLMq7H4QCkoskhko0Tr51x+caMEU8PlckgsqS3MG0t5MO
+ wz5Au5SfooC3TnhqGVQYsCNaOZfCIS/O/Cr6RqaVWY/G91BaDemeHe9w7p6OSdhMtx142Fhh7
+ NLCjdiUuUAhE4Crq+6t3p+1J3fJzNEhcyo1l8E07orvNaLe3JzdB/VZAg1O5lNYCeCW9jICCW
+ qtsbH+ADNMSGAqFnPFKRusmPN006j1ryl2q9XABvExnV7CLdtwYRcbPxK2Aly5IhjZ0fmKww7
+ oa0N2H3XAXqxBhCJXA3oQ1hZ5TbqsXFu1fyYMRNMhfxUYEAxeTda3r81xX6Qgx5CafakzMtig
+ Ewt+n9me0KEAOdYMeK+D2nIs9Rtz3OyzMe0CG9a//LmFBUBQlV1usCYW/ucDK6uRulQZ/OJdZ
+ W/e5zmo2YqBpkzfbKAVGnZX5uAHnJTHaAyTbIo5vNSc2xrakKDcU81HafO91j2A/3BHOAWPHD
+ HDEGpKhRYkMhxLav8plIzkvIA7CqKzaa9j4FwF1fWB0TtdQjsVQSyXXa6wCK09Ho6KdoVh7Rl
+ /fXfMwyKGc1Ic+qBm177ZQh64Cf/LLggCD8pTSbZpFPXOfVftKxJHvBVVeUd5qi6uXO6fNh2p
+ VZ/7O86cuwJKmVorlFqbKj+zTvToFVx1hm9iyFH7r0ePQ57uPj36t4iokbwQQjJSUCm3VBMRl
+ 8IiAD/Ew+0DQ9qoD4wnqKLOWjqjUJsA9H3ZDIWcw7gnYhVe/Vxg3kX2TrDyoty3MdUdzZWtGH
+ e6xs0pfVlkyIrDdY/zEdwD//Jl7clIRigGAwVTonHE4/U9vBAoqxw2KK8TbbH3FY3iSWiyD+v
+ 0ydsBE2SYimz+rNvrGNpdRyE4HrmFWzzXVTq4U0xbzrYN4nvuztVWx1Cc4wh/7FheGtz21pb2
+ nrsnWPYqzVmvxiBPkUID5/TvXvvfpyN86MD9dYCy74N5AmgqSRnGAJ8D2xxXiKPIU/bckG52i
+ jPGoSj+2q4gDB0FozLVRDP2BjdfopGVYgweEw/se8FYXlksVTDYcon1UQBUCcyOzxfc2f46OE
+ CR6NBCGJeoZNrxZsqBkUL5V+UwTDM0gxKqEYPGQRg9ys4zTqgCrJU75U5n0ffxDrNVG5JeAku
+ JMBEcGjQ5tnvtMhfBZj3WKh6OMYKDkD5ixWFocJEtlGKzMBzNWk2BAaCrzAWmLz0faduR7KOc
+ wl13/NlgYmlRjdHsZcvcTchWtbh2lpRGfN3CTcRDA3A5vFbrhWWtgTfLi1jJS6s6te1GNhfaI
+ ZxZbetSS6Y0Qa+LQkmcJDTFvVH5filtNPjGaJ4ZBGr+Jh6QUu8
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttp://ieeexplore.ieee.org/xpls/ab=
+s_all.jsp%3Farnumber%3D7028165&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm0X=
+BlzgENxm2sQgdrNOi2Vod6UYHw&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=
+=3D3 color=3D#1a0dab style=3D"text-decoration:underline">Deanonymisation in=
+ <b>Linked Data</b>: A research roadmap</font></a></h3><div><font size=3D2 =
+color=3D#006621>D Al-Azizy, D Millard, N Shadbolt, K O&#39;Hara - Internet =
+Security (WorldCIS), 2014 World &hellip;, 2014</font></div><div><font size=
+=3D2 color=3D#222222>Abstract-The objective of this roadmap is to summarise=
+ the state-of-the-art and to identify critical <br>
+challenges for privacy in <b>Linked Data</b>. Our research particularly foc=
+uses on examining how the <br>
+problem of data deanonymisation fits within the context of <b>Linked Data</=
+b>. This draws <b> ...</b> </font></div><br><h3 style=3D"font-weight:normal=
+;margin:0;font-size:medium;max-width:44.5em"><a href=3D"http://scholar.goog=
+le.de/scholar_url?url=3Dhttp://www.researchgate.net/profile/Yusniel_Hidalgo=
+_Delgado/publication/260554972_BM2LOD_Platform_For_Publishing_Bibliographic=
+_Data_As_Linked_Open_Data/links/0c96053191f6c677d8000000.pdf&amp;hl=3Dde&am=
+p;sa=3DX&amp;scisig=3DAAGBfm0J6nIiTedSHVBVhosesoXQ_9e3XA&amp;nossl=3D1&amp;=
+oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:u=
+nderline">BM2LOD: PLATFORM FOR PUBLISHING BIBLIOGRAPHIC DATA AS LINKED OPEN=
+ DATA</font></a></h3><div><font size=3D2 color=3D#006621>Y Hidalgo, L Reyes=
+, M Amed Leiva&hellip;</font></div><div><font size=3D2 color=3D#222222><b>.=
+..</b> Page 6. OBJECTIVES =E2=80=A2 We propose the BM2LOD platform for publ=
+ishing bibliographic data<br>
+following the <b>linked</b> <b>data</b> principles. =E2=80=A2 The proposed =
+approach has been applied in a <b>...</b> Open Access<br>
+journals in Cuba. Page 7. <b>LINKED</b> <b>DATA</b> PRINCIPLES 1. Use URIs =
+to denote things. <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttp://www.semantic-web-journal.ne=
+t/system/files/swj986.pdf&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm1o8-hZ-=
+liFcLNCzOmEuNwSqoDIjw&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 co=
+lor=3D#1a0dab style=3D"text-decoration:underline">Interoperable read-write =
+<b>Linked Data </b>application development with the LDP4j framework</font><=
+/a></h3><div><font size=3D2 color=3D#006621>M Esteban-Guti=C3=A9rrez, N Mih=
+indukulasooriya&hellip;</font></div><div><font size=3D2 color=3D#222222>Abs=
+tract. Enterprises are increasingly using a wide range of heterogeneous inf=
+ormation <br>systems for executing and governing their business activities.=
+ Even if the adoption of service <br>orientation has improved loose couplin=
+g and re-usability, applications are still isolated <b> ...</b></font></div=
+><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;max-width:44=
+.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"http://scholar=
+.google.de/scholar_url?url=3Dhttp://www.semantic-web-journal.net/system/fil=
+es/swj998.pdf&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm0smCDd4TeaXA9K0onQs=
+kcN_VgoAA&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0da=
+b style=3D"text-decoration:underline">LinDA=E2=80=93<b>Linked Data </b>for =
+SMEs</font></a></h3><div><font size=3D2 color=3D#006621>S Mouzakitis, J Att=
+ard, R Danitz, L Farid, E Fotopoulou&hellip;</font></div><div><font size=3D=
+2 color=3D#222222>Abstract. <b>Linked Data </b>is an active research field =
+currently; new ideas, concepts, and tools <br>keep emerging in quick succes=
+sion. In contrast, relatively little activity is being seen towards <br>asp=
+ects like ease of use and accessibility of tools for non-experts to promote=
+ <b>Linked Data </b><b> ...</b></font></div><br><p><hr noshade size=3D1><fo=
+nt size=3D2 color=3D#222222>Dieser Google Scholar-Alert wird Ihnen von Goog=
+le zur Verf=C3=BCgung gestellt.<br><br><a href=3D"http://scholar.google.de/=
+scholar_alerts?view_op=3Dcancel_alert_options&amp;email_for_op=3Derictessen=
+ow%40web.de&amp;alert_id=3DAIfevv3NkPcJ&amp;hl=3Dde"><font color=3D#1a0dab>=
+Alert stornieren</font></a><br></font></div></body></html>

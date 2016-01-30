@@ -1,0 +1,196 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.79.82.193 with SMTP id g184csp686055ivb;
+        Sat, 13 Jun 2015 23:35:30 -0700 (PDT)
+X-Received: by 10.50.8.68 with SMTP id p4mr13887882iga.4.1434263730048;
+        Sat, 13 Jun 2015 23:35:30 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3uh19VRUKDJsN7CJG5M5G9MON-IJM9KGTBJJBG9.7JH9MD7O9NN9IJRR96.89@scholar-alerts.bounces.google.com designates 209.85.160.202 as permitted sender) smtp.mail=3uh19VRUKDJsN7CJG5M5G9MON-IJM9KGTBJJBG9.7JH9MD7O9NN9IJRR96.89@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3uh19VRUKDJsN7CJG5M5G9MON-IJM9KGTBJJBG9.7JH9MD7O9NN9IJRR96.89@scholar-alerts.bounces.google.com designates 209.85.160.202 as permitted sender) client-ip=209.85.160.202;
+Received: by 10.64.148.102 with POP3 id tr6mf3183621ieb.38;
+        Sat, 13 Jun 2015 23:35:29 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3uh19VRUKDJsN7CJG5M5G9MON-IJM9KGTBJJBG9.7JH9MD7O9NN9IJRR96.89@scholar-alerts.bounces.google.com
+Received: from mail-yk0-f202.google.com ([209.85.160.202]) by mx-ha.web.de
+ (mxweb007) with ESMTPS (Nemesis) id 0Mg4NZ-1Ygh2M44I9-00NVbR for
+ <erictessenow@web.de>; Sun, 14 Jun 2015 08:22:52 +0200
+Received: by ykp9 with SMTP id 9so2436151ykp.0
+        for <erictessenow@web.de>; Sat, 13 Jun 2015 23:22:50 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=Y6zWu+FtBkMIpbu9aXhlFt+z7rvQwZOMjXfSZlmfm9s=;
+        b=cb06qc4uGYW+XN5Kro4Z0o7FOYJi5AeVXCGTviwcgq28NCptt9OIuK5qN1jMj4WF7P
+         So8MqPPQfSWNqDvkd676NUQqiXdpA6Xpj/ch20HrK/gGg84aJf11T7zpfxISwkITqyIN
+         XKS+ke+JMiQTkDhhreWGW5q9RRRivc9oO9ymYNgU6dZC9WgTS9QkhJDsTF7uQP7YdtZA
+         ULtDXrGH9ZfkjVyOXgsGQf0sA0Bb3BzyGDNRqSuOFdDqoSZLbXj23958T9AU9JbktjnL
+         7RGQIMLPrzryZGrPBCS89Vi3x7rA5M2KIQz316Xsx5nD/e4lbUf/Oou7wb4E14aTnd0y
+         HZJg==
+MIME-Version: 1.0
+X-Received: by 10.140.144.140 with SMTP id 134mr29684968qhq.12.1434262970711;
+ Sat, 13 Jun 2015 23:22:50 -0700 (PDT)
+Message-ID: <001a11356b12e23d050518745e4d@google.com>
+Date: Sun, 14 Jun 2015 06:22:50 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:DHg4AX5T1EI=:4+vtsgAG3uB/1pS2L06brgkMGQ
+ Tpybj7lNUuhxDAWEIOGML0nZCYP/+v6RoYplXnO32mTAMH5OMHhB3Rzpga2hObcjK0mZ1BotE
+ 5F44n30Vu3laVRQJDZUEygKKUOSjnSxnVHxSPribWBxnOgh/768tQFatnWgoGHyxLwA8j4A/J
+ OlcjqVexs21PHe5yflPK00ju/8u5kzrqCdSiq6pYDwLwrkZxZ51jaqRBFMCQCqXlaTyjwXM7V
+ xCCbCgSAQJJYpV92r07nv4XjpKeXIN0rVD3lP6SUrYdpIYg1PmQXjy+wJe4FFzuXPuIi1RWnE
+ 3MKIzk/v2ff5LAfkpzmOxTnsd5kXWXjanLiJLe329osoYF2Ny+Y8jo2+H0f2zuXFYyo9AECIO
+ u5tS8kpD3BTOi17ZnitdJMsAx+hY+71ncgthC3QJBE/pRlQfkiGjStV4hPH18cBzVrlW5Fnin
+ qV50g0qqRAWPjSS8spPAqt1ai9BQL0rELzbOKlesfCUoblWvjOJle307sFD/nLQnoT4Q6IqNX
+ FxSS/0F5Cn23aeV8Gl+vvKOaSg9D6Ea8U02zc+qara2gK9D2MjtuNoLFNUraGX3UUkW88d9OT
+ xyoqXur4GunJi0CE4O8tsEgCtmI7oOVzpAIeOiUUDlAinFE58IzQl1Y86tpjulOuXSny3iwOS
+ n8Aq9KVGdXWzT+WGUoI20gdbt3f2TcbZI22K9ebfBjeOTRwkQ8bsUiDrzCLCOTZP/FD6Al+AG
+ MVRRUvbcISv9IZte2ZNqD2VhUVKuUoLl2C/Et0JcNe+y+tEjiwZW9ucnVCEM/YDTN29Ob8IKT
+ t1D2emOYJr1Q79OidJS4E36M06ziJeKagqK7NyWDWASaUOjXGY7lKEGkJLOdC0bt6sRUrF16R
+ 6lvM7+SuHeXMR/OLRAHopgZ8GbpDaCwbHhN5sYngl/RPzrvPK7b8keL/pbsOrOAA7AnZR2Ob1
+ 0gbKBkEoXpNOAYN4TYUnsQb7ZAAFqvPlT8IouY0U4LEdOcfv9yULBxOAWHj3X0zbf/MYY1vmT
+ yKN0GVxwxMnp8Wt3sg9NJB5bWK2UR+DFxxOW9ysLLOuz7eBg8ISQ7NDOOD7SyOq1c9hHNwr2/
+ yFPScwP4J8+a8geQNP1c8cYI/Tjx6pIA99duftKbHlQzuChctiw3wGMblLg+oBAFhmPmwY8/q
+ atRBh2KC3crkgLP/vgdx1eMjfQ/6S2+MS87xdpLM7VoOOJBd9xgW3fAZeMKhkCFpUvffDzvHw
+ rFH4XI2WXC+vFrYJ33d8cujldulOO0HIXJ6YJOjTgLZB2X1rD9xi8uVFZA4Jh3Zo53RdmuGgd
+ m2aCSCxxVefGB54GMq+hR3n/UeoUpeMfPJlHKnr2t3fraLG3xfgJjSSCWuXQQ+95wCeZ4B1Oi
+ WK0V7VDsHR1mWdlqjNam3RuRVjPyDfk1hc5hBgWd3x829gJEx2Khs8olLRmPooCiTbttsfy6A
+ FnwuCKhrgp5tFWGK02n2CZoAd+EJqD7bKBaGQy3UZ87fGAAa4U
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttp://link.springer.com/chapter/1=
+0.1007/978-3-319-19890-3_20&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm239Mz=
+zkAh6it6PDCnmC0xTyrEwNQ&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 =
+color=3D#1a0dab style=3D"text-decoration:underline">Approximate Continuous =
+Query Answering over Streams and Dynamic <b>Linked Data </b>Sets</font></a>=
+</h3><div><font size=3D2 color=3D#006621>S Dehghanzadeh, D Dell&#39;Aglio, =
+S Gao, E Della Valle&hellip; - &hellip;  the Web in the Big Data Era, 2015<=
+/font></div><div><font size=3D2 color=3D#222222>Abstract To perform complex=
+ tasks, RDF Stream Processing Web applications evaluate <br>continuous quer=
+ies over streams and quasi-static (background) data. While the former are <=
+br>pushed in the application, the latter are continuously retrieved from th=
+e sources. As soon <b> ...</b></font></div><br><h3 style=3D"font-weight:nor=
+mal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"http://scholar.g=
+oogle.de/scholar_url?url=3Dhttp://link.springer.com/chapter/10.1007/978-3-3=
+19-19890-3_45&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm0WHAfwnNPCfFqKmu5u-=
+g0HPakjSQ&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0da=
+b style=3D"text-decoration:underline">A Distributed Transaction Model for R=
+ead-Write <b>Linked Data </b>Applications</font></a></h3><div><font size=3D=
+2 color=3D#006621>N Mihindukulasooriya, R Garc=C3=ADa-Castro&hellip; - &hel=
+lip;  the Web in the Big Data Era, 2015</font></div><div><font size=3D2 col=
+or=3D#222222>Abstract Read-write <b>Linked Data </b>applications provide a =
+novel alternative to application <br>integration that helps breaking data s=
+ilos by combining the Semantic Web technologies with <br>the REST design pr=
+inciples. One drawback that hinders the adoption of this approach in <b> ..=
+.</b></font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:me=
+dium;max-width:44.5em"><a href=3D"http://scholar.google.de/scholar_url?url=
+=3Dhttp://link.springer.com/chapter/10.1007/978-3-319-19890-3_19&amp;hl=3Dd=
+e&amp;sa=3DX&amp;scisig=3DAAGBfm1AzMd5IgwcSMeO3VZ4gi5RX9OTAQ&amp;nossl=3D1&=
+amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decorati=
+on:underline">Keyword Pattern Graph Relaxation for Selective Result Space E=
+xpansion on <b>Linked Data</b></font></a></h3><div><font size=3D2 color=3D#=
+006621>A Dass, C Aksoy, A Dimitriou, D Theodoratos - Engineering the Web in=
+ the Big Data  &hellip;, 2015</font></div><div><font size=3D2 color=3D#2222=
+22>Abstract Keyword search is a popular technique for querying the ever gro=
+wing repositories <br>of RDF graph data. In recent years different approach=
+es leverage a structural summary of <br>the graph data to address the typic=
+al keyword search related problems. These <b> ...</b></font></div><br><h3 s=
+tyle=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a h=
+ref=3D"http://scholar.google.de/scholar_url?url=3Dhttps://hal.archives-ouve=
+rtes.fr/hal-01159391/&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm18WlkqG7Rmj=
+nVj-vhu3cnDuoPIFA&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=
+=3D#1a0dab style=3D"text-decoration:underline">Leveraging Knowledge from th=
+e Linked Open Data Cloud in the task of Reverse Geo-tagging</font></a></h3>=
+<div><font size=3D2 color=3D#006621>E Egyed-Zsigmond, H Kosch, V Charpenay =
+- Inforsid, 2015</font></div><div><font size=3D2 color=3D#222222>Currently,=
+ Reverse Geo-tagging relies on the keywords describing an image and use pro=
+babilistic<br>
+algorithms to guess the localization of the depicted scene. However, such a=
+lgorithms still perform<br>
+poorly and show clear limitations Notably, the location estimation only occ=
+urs at the <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><a href=3D"http://scholar.google.de/scholar_url?url=3Dhtt=
+p://link.springer.com/chapter/10.1007/978-3-319-19890-3_23&amp;hl=3Dde&amp;=
+sa=3DX&amp;scisig=3DAAGBfm3khTQenl1C2EveBY0AirLCP3Rb1g&amp;nossl=3D1&amp;oi=
+=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:und=
+erline">YQL as a Platform for <b>Linked</b>-<b>Data </b>Wrapper Development=
+</font></a></h3><div><font size=3D2 color=3D#006621>J Iturrioz, I Azpeitia,=
+ O D=C3=ADaz - Engineering the Web in the Big Data Era, 2015</font></div><d=
+iv><font size=3D2 color=3D#222222>Abstract <b>Linked</b>-<b>Data </b>Wrappe=
+rs (LDWs) have been proposed to integrate Open APIs into the <br><b>linked<=
+/b>-<b>data </b>cloud. A main stumbling block is maintenance: LDWs need to =
+be kept in sync <br>with the APIs they wrap. Hence, LDWs are not single-sho=
+t efforts, but sustained endeavors <b> ...</b></font></div><br><h3 style=3D=
+"font-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"=
+http://scholar.google.de/scholar_url?url=3Dhttp://books.google.de/books%3Fh=
+l%3Dde%26lr%3D%26id%3D3svWCQAAQBAJ%26oi%3Dfnd%26pg%3DPA96%26dq%3D%2522linke=
+d%2BData%2522%26ots%3DR7ZeTfi2jB%26sig%3DTygB5dodgbUnnX1sMxvpfKqr_n0&amp;hl=
+=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm1DFkDiinElwFwT8eFy9ICBxAc5eA&amp;nossl=
+=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-dec=
+oration:underline">Enhancing Workspace Composition by Exploiting Linked Ope=
+n Data as a Polymorphic Data Source</font></a></h3><div><font size=3D2 colo=
+r=3D#006621>G Desolda - Intelligent Interactive Multimedia Systems and Serv=
+ices, 2015</font></div><div><font size=3D2 color=3D#222222><b>...</b> In 20=
+09, Tim Berners-Lee defined <b>Linked</b> <b>Data</b> as =E2=80=9Ca set of =
+best practices for publishing and<br>
+connecting structured data Page 109. 100 G. Desolda on the Web=E2=80=9D[4].=
+ The goal of the <b>Linked</b><br>
+<b>Data</b> project is to publish data so that they are readable by a human=
+ and an automatic agent. <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><a href=3D"http://scholar.google.de/scholar_url?url=3Dhtt=
+ps://opus4.kobv.de/opus4-bib-info/frontdoor/index/index/year/2015/docId/177=
+0&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm0DPahOAK1to-XbORtapSQVYXLKzA&am=
+p;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"t=
+ext-decoration:underline">Repositorieninhalte als <b>Linked Data </b>bereit=
+stellen</font></a></h3><div><font size=3D2 color=3D#006621>PN Becker</font>=
+</div><div><font size=3D2 color=3D#222222><b>...</b> Inzwischen bietet <b>L=
+inked</b> <b>Data</b> die erforderlichen Grundlagen f=C3=BCr einen generisc=
+hen Export von<br>
+quasi beliebigen Daten an. F=C3=BCr Daten, die als <b>Linked</b> <b>Data</b=
+> publiziert werden sollen, werden<br>
+Metadaten oft erst aufw=C3=A4ndig manuell erfasst oder automatisch generier=
+t. <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><a href=3D"http://scholar.google.de/scholar_url?url=3Dhtt=
+ps://opus4.kobv.de/opus4-bib-info/frontdoor/index/index/year/2015/docId/170=
+4&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm2XLQ1ycSOAnvIQKfmqbCY0lvx9oQ&am=
+p;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"t=
+ext-decoration:underline">Sind wir bereit f=C3=BCr <b>Linked Data</b>? Meta=
+datenqualit=C3=A4t als Erfolgsfaktor f=C3=BCr dauerhaften Zugang zum deutsc=
+hen Kulturerbe-eine gemeinsame Aufgabe der Deutschen  &hellip;</font></a></=
+h3><div><font size=3D2 color=3D#006621>F Schulze, M B=C3=BCchner, C Effenbe=
+rger</font></div><div><font size=3D2 color=3D#222222>Der dauerhafte bildung=
+s- und kulturpolitische Auftrag der Deutschen Digitalen<br>
+Bibliothek (DDB) und die kontinuierlichen Entwicklungen im Kontext von <b>L=
+inked</b><br>
+<b>Data</b> stellen neue Herausforderungen dar. Gute Metadaten sind <b>...<=
+/b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><a href=3D"http://scholar.google.de/scholar_url?url=3Dhtt=
+ps://opus4.kobv.de/opus4-bib-info/frontdoor/index/index/year/2015/docId/168=
+6&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm0kr93-UdUKBB0BjMRT6BfQmc55GA&am=
+p;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"t=
+ext-decoration:underline">ERM mit <b>Linked Data</b>-wie ver=C3=A4ndert ams=
+l die Verwaltung elektronischer Ressourcen? Ein Praxisbericht</font></a></h=
+3><div><font size=3D2 color=3D#006621>E Weiser</font></div><div><font size=
+=3D2 color=3D#222222><b>...</b> An der UB Leipzig wurde deshalb von Juni 20=
+13 bis September 2014 amsl entwickelt, ein<br>
+Electronic Resource Management (ERM) System auf der Basis von <b>Linked</b>=
+-<b>Data</b>-Technologie.<br>
+Seit Oktober 2014 ist die Webanwendung im produktiven Einsatz. <b>...</b>=
+=20
+</font></div><br><p><hr noshade size=3D1><font size=3D2 color=3D#222222>Die=
+ser Google Scholar-Alert wird Ihnen von Google zur Verf=C3=BCgung gestellt.=
+<br><br><a href=3D"http://scholar.google.de/scholar_alerts?view_op=3Dcancel=
+_alert_options&amp;email_for_op=3Derictessenow%40web.de&amp;alert_id=3DAIfe=
+vv3NkPcJ&amp;hl=3Dde"><font color=3D#1a0dab>Alert stornieren</font></a><br>=
+</font></div></body></html>

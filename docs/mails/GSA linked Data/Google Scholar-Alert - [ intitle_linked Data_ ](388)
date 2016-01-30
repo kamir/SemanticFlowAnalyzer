@@ -1,0 +1,111 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.55.157.10 with SMTP id g10csp584299qke;
+        Thu, 15 Oct 2015 06:14:05 -0700 (PDT)
+X-Received: by 10.140.201.85 with SMTP id w82mr12106974qha.91.1444914828938;
+        Thu, 15 Oct 2015 06:13:48 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3qCsfVhUKDDMhRWdaPgPaTgih-cdgTeanVddVaT.RdbTgXRiThhTcdllTQ.ST@scholar-alerts.bounces.google.com designates 209.85.223.202 as permitted sender) smtp.mailfrom=3qCsfVhUKDDMhRWdaPgPaTgih-cdgTeanVddVaT.RdbTgXRiThhTcdllTQ.ST@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3qCsfVhUKDDMhRWdaPgPaTgih-cdgTeanVddVaT.RdbTgXRiThhTcdllTQ.ST@scholar-alerts.bounces.google.com designates 209.85.223.202 as permitted sender) client-ip=209.85.223.202;
+Received: by 10.140.25.178 with POP3 id 47mf12845840qgt.1;
+        Thu, 15 Oct 2015 06:13:48 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: <3qCsfVhUKDDMhRWdaPgPaTgih-cdgTeanVddVaT.RdbTgXRiThhTcdllTQ.ST@scholar-alerts.bounces.google.com>
+Received: from mail-io0-f202.google.com ([209.85.223.202]) by mx-ha.web.de
+ (mxweb004) with ESMTPS (Nemesis) id 0MRWG0-1aAo4n2CLo-00Shkj for
+ <erictessenow@web.de>; Thu, 15 Oct 2015 06:29:29 +0200
+Received: by iow1 with SMTP id 1so5771081iow.1
+        for <erictessenow@web.de>; Wed, 14 Oct 2015 21:29:28 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=wEV/4Z5b0MDBmMFmdDHbhrNR7Q27xsrsUKKWs/3oxX0=;
+        b=X8hHhwSyXIJltqberMu0jS9LTiw1l/EwwH5KZdlxOV6AbGJyrPrjNdS8rcfnMSPgaX
+         aJp0GC5vSgwl30VG+E74j4C7uGBYbT2WlAyLCeIlfxnAIq/FCQRTsEwOD3ChQqwyNfML
+         c2jSJtJRrkTUb08vS/BXXcFtwVauIN+L1v67NGntL36JOf8hBAEyrmDvIb8idaQtH6+x
+         8xHC6gi7pFKVtaqq2nFAqx+SMAKt656rHc9fNiKPu40xFpPY/RVU7x+xoRujPBdTUUjB
+         Fpyqt48XvAh9/8NyRGwQezDcbSCFAtuauLqvlIZ3Xb9iZYYFDvdjU7eFEfoApVSZZ107
+         IRiw==
+MIME-Version: 1.0
+X-Received: by 10.182.28.100 with SMTP id a4mr5765442obh.20.1444883368368;
+ Wed, 14 Oct 2015 21:29:28 -0700 (PDT)
+Message-ID: <089e01495336e9da9905221d1fa2@google.com>
+Date: Thu, 15 Oct 2015 04:29:28 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:2rBIysTChuc=:xUiw6wVQmrUWg7JlgQu67vfhIs
+ JOVlNSrFA+1s2cKThINI3SB1HYvXhcu0iRMbtbah9NFK14n+9ujgSY5N/PYgLu6L92hdgrCrn
+ HZr4iPrQD5Vydsw0uwOhcLLU4Mh+yF+gWAZffUO7PPnHGBKNJUkOvSAApPb1Az0uIxhIIRxMm
+ 8gUnZFhq/I7w0IZDYHoFwQC33pV4wY83YHrNTo/LcmpwT9kWHAcKzmjXPWAIp+FZ1JPlqpYpF
+ IlleJNVJXrIbywAMiqTipmzSVnE5Lja+/I2fPAXPQl1Y0XwcOxCFoWzPH3hkhSX+ke+/g11by
+ BV037KjzKBYOtKgZPNLkG39fAud+KCFF7YWzAHKRB0GrBsuXyICiHoPgWWn3QXpDdFQUMKkk5
+ MqMnE3ZYamEccuA7gdgybgB5WMYIpklgzKE+FfmkPrLIfGg13oMkaFn5qC8tgnYLhL1W6Wl1M
+ TxiUy38o4rdxZVHvfgRR0rzzmGkQydoyhsmgmtKefLAZqRQ8ZULFpHLvBm5XNdzAZO0nQILEi
+ I030AbBlshCwoZi4HJuM3VBEqYl2nzKEVWiowbkvP8eSK2vMTUnmQa5ERHOAsIpIaNZaVrTTe
+ gMkzdru9kem2WBGXqulSZS6XETQakYrNO7r/HfDxP7WuGg30YhaOGul9v0A9lgenZ3Nvc2cFp
+ h8pjoWIAzF4ZSKWnelm2aaPVA/y+RKgMPFeaTXOvjI9FXb8gkJ2ImRjsM6SWzDbmfWpFqR4YL
+ s1MHqWaaiJ/YUls54VM0hetRuRz4Z4JZl84wjVgGhvVugDDHUIk/EyaMOxVnz5ll+hxlS0z9g
+ pHx2TJkepE3mtWyCK3tL0JJQxZSzdb0U8fgEX1EZrAgwrxX9fSyQbHa0v+g1B/T8leWMFHxZo
+ x1Q/K4GjtE1vCSe4wJ1WI3nz/eH0UIyDzHSD0aw25GXn1w+nwIKIkgLy/Vu8j9oXtqetq1oCp
+ ZhnZlTr9QMmYbYdxM7JEPOuLoC/ybxs7Zv5Uqs2TzdTKNCxPeRkBumr+h2/owEUNz4/0cg4mJ
+ 38qTwhZLCp26Ol+5Bns8PUIcwSOKZuXr5nBN4rSL20RO1qhzEKDSY7jWUKPm178IHEdUVWh1I
+ yn9fFINJeXFhh/N8UsxY1+fwZKQecgllY4YTwUiMz+rkzDsR+Lvp+GC9gu7+8DeWT9wnaLHJ1
+ MMHp6nmr7ka3eM7aNF1RUtW7ZwEoCDe2/SJoeiRAqIo10BPqTAoNgW5YZozQp/TiG4AdPgr7v
+ X6W5AIYZsg5Gbfe56s84b8UlhMQpW2emLyqLUGdc8r49eBwfqo7Tr+JZX2i8qsfkCBfmcC5IV
+ 28YRvrjXZNwPE/uJzfz3m31SLsSjsVwNSgXMZr8KS/Tui1s=
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttp://europepmc.org/abstract/med/=
+26450686&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm3q7YJvRZV76ZBGPCzfmskK_N=
+eE2A&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab sty=
+le=3D"text-decoration:underline">Early estimation of pandemic influenza Ant=
+iviral and Vaccine Effectiveness (EAVE): use of a unique community and labo=
+ratory national data-linked cohort study.</font></a></h3><div><font size=3D=
+2 color=3D#006621>CR Simpson, N Lone, J McMenamin, R Gunson&hellip; - Healt=
+h technology  &hellip;, 2015</font></div><div><font size=3D2 color=3D#22222=
+2><b>...</b> pandemic). SETTING: A national linkage of patient-level genera=
+l practice data from<br>
+41 Practice Team Information general practices, hospitalisation and death c=
+ertification,<br>
+virological swab and serology-<b>linked</b> <b>data</b>. PARTICIPANTS <b>..=
+.</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttp://ceur-ws.org/Vol-1452/paper1=
+8.pdf&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm2uKUf8ymg-0YmSJf3MFTPbwRms4=
+A&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=
+=3D"text-decoration:underline">Semi-automated Integration of Legacy Systems=
+ Using <b>Linked Data</b></font></a></h3><div><font size=3D2 color=3D#00662=
+1>I Semerhanov, D Mouromtsev</font></div><div><font size=3D2 color=3D#22222=
+2>Abstract. A lot of valuable data is stored in standalone legacy systems i=
+nside enterprise <br>infrastructure across different domains. It was always=
+ a big challenge to integrate such <br>systems with each other even on stru=
+ctural level, but with the recent development of <b> ...</b></font></div><b=
+r><h3 style=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5e=
+m"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"http://scholar.go=
+ogle.de/scholar_url?url=3Dhttp://ceur-ws.org/Vol-1468/bd2015_kocbek.pdf&amp=
+;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm0rwcV2eBm6f9gGyErm5j1kMx4SoA&amp;nos=
+sl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-d=
+ecoration:underline">Evaluating classification power of linked admission da=
+ta sources with text mining</font></a></h3><div><font size=3D2 color=3D#006=
+621>S KOCBEK, L CAVEDON, D MARTINEZ, C BAIN&hellip;</font></div><div><font =
+size=3D2 color=3D#222222><b>...</b> Results show that mining over <b>linked=
+</b> <b>data</b> sources significantly improves classification<br>
+performance with a maximum F-Score improvement of 0.057. Keywords. Text min=
+ing, natural<br>
+language processing, lung cancer, linked hospital data Introduction <b>...<=
+/b>=20
+</font></div><br><p><hr noshade size=3D1><font size=3D2 color=3D#222222>Die=
+ser Google Scholar-Alert wird Ihnen von Google zur Verf=C3=BCgung gestellt.=
+<br><br><a href=3D"http://scholar.google.de/scholar_alerts?view_op=3Dcancel=
+_alert_options&amp;email_for_op=3Derictessenow%40web.de&amp;alert_id=3DAIfe=
+vv3NkPcJ&amp;hl=3Dde"><font color=3D#1a0dab>Alert stornieren</font></a><br>=
+</font></div></body></html>

@@ -1,0 +1,144 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.79.39.210 with SMTP id n201csp2040817ivn;
+        Mon, 10 Aug 2015 19:59:44 -0700 (PDT)
+X-Received: by 10.50.33.82 with SMTP id p18mr15913373igi.8.1439261981072;
+        Mon, 10 Aug 2015 19:59:41 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3OVnJVRUKDMQ2mryvk1kvo132-xy1ozv8qyyqvo.mywo1sm3o22oxy66ol.no@scholar-alerts.bounces.google.com designates 209.85.213.201 as permitted sender) smtp.mail=3OVnJVRUKDMQ2mryvk1kvo132-xy1ozv8qyyqvo.mywo1sm3o22oxy66ol.no@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3OVnJVRUKDMQ2mryvk1kvo132-xy1ozv8qyyqvo.mywo1sm3o22oxy66ol.no@scholar-alerts.bounces.google.com designates 209.85.213.201 as permitted sender) client-ip=209.85.213.201;
+Received: by 10.107.144.212 with POP3 id s203mf5934651iod.0;
+        Mon, 10 Aug 2015 19:59:40 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3OVnJVRUKDMQ2mryvk1kvo132-xy1ozv8qyyqvo.mywo1sm3o22oxy66ol.no@scholar-alerts.bounces.google.com
+Received: from mail-ig0-f201.google.com ([209.85.213.201]) by mx-ha.web.de
+ (mxweb008) with ESMTPS (Nemesis) id 0M6AX4-1Yayw50K6M-00yBrT for
+ <erictessenow@web.de>; Tue, 11 Aug 2015 04:08:59 +0200
+Received: by igcwe12 with SMTP id we12so1476093igc.1
+        for <erictessenow@web.de>; Mon, 10 Aug 2015 19:08:57 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=RH7ve9rT2uFIfwPfgUpSgVMCaRXN0SCBzwKCZU4Evdo=;
+        b=Xr99+nQQFSerPnMlNEsOdHaM4iYxY1vvTJB723KSBMJtflFmy42on6/lyEKXMEOXNv
+         XPTxG8I/j1ayLf6jdGybI4Wdk0bACBMH1P2pjkOMM51yfXtWGOp0unKzS/Jf5mZF2rNg
+         iticARtFZ9JXvUCocbi1Z8gMWiZMP2iwDXk7S6DytygCqfjD0A+4y/Vm8e2I55XHl9uR
+         uuY3uzfmu+4ueTrALESMVzAxikNHq3F1WhCzPB3VXcemQgoMFay2Klv6QHktSYwsM+EA
+         /cYsF/T0bukSggYyXjP/6ltWyuSYvMIxiyGAWfrWVOgY4aC/BlCMsqmfwwTuf+0wRd8x
+         ugQw==
+MIME-Version: 1.0
+X-Received: by 10.50.29.9 with SMTP id f9mr14938663igh.0.1439258937917; Mon,
+ 10 Aug 2015 19:08:57 -0700 (PDT)
+Message-ID: <047d7bd755d6bbff12051cff9590@google.com>
+Date: Tue, 11 Aug 2015 02:08:57 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:08qKDlYYENk=:NirfD4Lv9W0cmBeUgAyyms6+vy
+ JD3OmNUuncrZjoXQFbKvVIJ6lYOwie2MPYyXcaMHtCu1eCVr0vDOUZDbSUQ3X359BWtaigBaE
+ u5qEpCY+SFiGAPMTIUcuirUr0ysmJY8mcY2r/88mMcakXOaLwHb1TQBfaygbKUjw2lt1c6kE0
+ Z5kUp2iDyWE6L08TBeDCRoPSdQrZ81vsENSAY+m2MhFkubOHCT/r0KMjdebh5pJzguMiDUozk
+ NWNNoZo9cjQUGqvJ+HEl8hWNuqKVoYuCGCXzYGkh8XUJl63YlmrFd2HiFMaSlPx8h2/ySiQ29
+ W9JIiAzY4E1C7rv/eDZt+qn/bNn7cYIsLXSUCPDTLQhByQ7yABtLQRVPG4LkfpAkxmJNG91lT
+ h/Zd/0XHbxrdIiHX+Q5hD6FuZax3UyrIY0PREznOHCcw39cArb2M64UZV5BaUcLHjsDzxk9u0
+ xBeb7sI6oH+JI+Aq+RyP84G7rbg8Zb7jrWus9QljNY3eXd5+8vJ5E1yE1bJU8GwFOXJKmCooh
+ npPuFavPrfaABkTI2JX9yESfgSPBON9R026AIGoLKsVpEqywJ98SIIAtvIfXqYFcsY/CWFZof
+ mAf+n3TBjUOdgNrzdWRIyNKtr5tNcHUKLfOr987gW2Js55kVa71t7Thtz7vvY7jQRtYO3gp+q
+ UHXJwZZO/J14EUom9XklNrd6EzfyUQnWTiaJAPX+3wfR3f2XAhAoVkXUzxuMu4Lv66TNyufpV
+ STRhQ556faWD4SR9QnwM2IKZJKPPlshM0VFIZYHsTrt9bu/14E8infegHliaVkttysgR0rteF
+ R1cEtcLOmZi0tHJbMG4im2LmsfD15mxduXbT5dBWUnd0ZhZfGXGwryiV8DGayW/IulZajXerZ
+ +4V1fJQcp4/id2labesDl1zRS7ADQAcqyrqCCss4Ww7HHlX16RhoBg2q5jvELzj9oYQL8sHEy
+ nZjafgIkAvIJmAn6XwvHkT8Gc9rx/cKOJS/94p2X8ERVPdB5N+sgvcIEMIo2pW/sBHDixnIf2
+ hODq1FFrKmpmYOCsAJaIfkgRtXqWoF/tplKNo4Ozi353gFLpvfIddeMOTGPX2jivJHkKegHkU
+ Ne/3zh9yMY04ozirCt3LnR0V6UQi6O9sCM6/m8Rc4bKStXT2RW6rDpBUgv0mEca5WMy2GZPZ/
+ IAqvGvFhiZjRWqX9xaOIKsuuuBGlScVX619clnIiwWg+jhAHONBPXgkets1/9hjN7EbSfXTId
+ WM+nbpeQn1IjtBAza4G05xOXHtunDHewLKHRfENeKDgKHnPjv20jtKNVPV6gaTOUyDwwLuhcF
+ T9pd
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D=
+2 color=3D#1a0dab>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_=
+url?url=3Dhttp://ceur-ws.org/Vol-1391/127-CR.pdf&amp;hl=3Dde&amp;sa=3DX&amp=
+;scisig=3DAAGBfm0erNFRNfa8CQYoBmGrkHd0_9P1uw&amp;nossl=3D1&amp;oi=3Dscholar=
+alrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:underline">IS=
+OFT at QALD-5: Hybrid question answering system over <b>linked data </b>and=
+ text data</font></a></h3><div><font size=3D2 color=3D#006621>S Park, S Kwo=
+n, B Kim, GG Lee - 2015</font></div><div><font size=3D2 color=3D#222222>Abs=
+tract. We develop a question answering system over <b>linked data </b>and t=
+ext data. We <br>combine knowledgebase-based question answering (KBQA) appr=
+oach and information <br>retrieval based question answering (IRQA) approach=
+ to solve complex questions. To solve <b> ...</b></font></div><br><h3 style=
+=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font si=
+ze=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"http://scholar.google.de/sch=
+olar_url?url=3Dhttp://ceur-ws.org/Vol-1391/99-CR.pdf&amp;hl=3Dde&amp;sa=3DX=
+&amp;scisig=3DAAGBfm3LvLGOE0N4tc7QTDwMPaVhig0czA&amp;nossl=3D1&amp;oi=3Dsch=
+olaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:underline=
+">QAnswer-Enhanced Entity Matching for Question Answering over <b>Linked Da=
+ta</b></font></a></h3><div><font size=3D2 color=3D#006621>S Ruseti, A Mirea=
+, T Rebedea, S Trausan-Matu - 2015</font></div><div><font size=3D2 color=3D=
+#222222>Abstract. QAnswer is a question answering system that uses DBpedia =
+as a knowledge base <br>and converts natural language questions into a SPAR=
+QL query. In order to improve the <br>match between entities and relations =
+and natural language text, we make use of <b> ...</b></font></div><br><h3 s=
+tyle=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em"><fon=
+t size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"http://scholar.google.de=
+/scholar_url?url=3Dhttp://revista.ibict.br/ciinf/index.php/ciinf/article/do=
+wnload/2290/1913&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm1MyfgzIRESmlQVqX=
+WAvtOXS40uVw&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a=
+0dab style=3D"text-decoration:underline">Reposit=C3=B3rios de dados para E-=
+Science: Open Data, <b>Linked Data </b>e suas tecnologias</font></a></h3><d=
+iv><font size=3D2 color=3D#006621>DIR Junior - Ci=C3=AAncia da Informa=C3=
+=A7=C3=A3o, 2015</font></div><div><font size=3D2 color=3D#222222>Resumo Um =
+novo paradigma de atividade cient=C3=ADfica tem se caracterizado a partir d=
+os <br>constantes investimentos em computa=C3=A7=C3=A3o de larga escala e r=
+eposit=C3=B3rios de dados: a e-<br>Science. Os reposit=C3=B3rios de dados n=
+esse contexto fazem uso de tecnologias da Web <b> ...</b></font></div><br><=
+h3 style=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em">=
+<a href=3D"http://scholar.google.de/scholar_url?url=3Dhttp://link.springer.=
+com/chapter/10.1007/978-3-319-17738-0_10&amp;hl=3Dde&amp;sa=3DX&amp;scisig=
+=3DAAGBfm1Xop-CkRhMQrsVDjLND5veXbkjHg&amp;nossl=3D1&amp;oi=3Dscholaralrt"><=
+font size=3D3 color=3D#1a0dab style=3D"text-decoration:underline">Adapting =
+the US National Hydrography Dataset to Linked Open Data</font></a></h3><div=
+><font size=3D2 color=3D#006621>DE Varanka, EL Usery, DM Mattli - Cartograp=
+hy-Maps Connecting the World, 2015</font></div><div><font size=3D2 color=3D=
+#222222><b>...</b> definitions that were developed for general hydrographic=
+ features collected for and depicted<br>
+on topographic maps =E2=80=A2 Triplification: the conversion of the GIS att=
+ribute table schemas to RDF =E2=80=A2<br>
+Formal semantics: manual mediation of the converted data to a <b>linked</b>=
+ <b>data</b> design in RDF <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1a0dab>[HTML]</font> <a href=3D"h=
+ttp://scholar.google.de/scholar_url?url=3Dhttp://www.paulallen.ca/category/=
+linked-data/&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm2HaR3S-7hFG6tP0f1eb2=
+26OgXBXQ&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab=
+ style=3D"text-decoration:underline">Category Archives: <b>linked data</b><=
+/font></a></h3><div><font size=3D2 color=3D#006621>P Allen</font></div><div=
+><font size=3D2 color=3D#222222>The importance of real-world services, that=
+ is business activities of a mostly intangible nature <br>(eg, life insuran=
+ce, consulting), has grown over the last 50 years to dominate economic <br>=
+activity [1]. Because of their intangible nature, services can often be bun=
+dled, adapted, <b> ...</b></font></div><br><h3 style=3D"font-weight:normal;=
+margin:0;font-size:medium;max-width:44.5em"><font size=3D2 color=3D#1a0dab>=
+[PDF]</font> <a href=3D"http://scholar.google.de/scholar_url?url=3Dhttp://s=
+vn.aksw.org/papers/2015/ISWC_ASSESS/public.pdf&amp;hl=3Dde&amp;sa=3DX&amp;s=
+cisig=3DAAGBfm1XiArbmAa0Jv1a76ErHJNhXOnq4A&amp;nossl=3D1&amp;oi=3Dscholaral=
+rt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:underline">ASSE=
+SS=E2=80=94Automatic Self-Assessment Using <b>Linked Data</b></font></a></h=
+3><div><font size=3D2 color=3D#006621>L B=C3=BChmann, R Usbeck, ACN Ngomo</=
+font></div><div><font size=3D2 color=3D#222222>Abstract. The Linked Open Da=
+ta Cloud is a goldmine for creating open and low-cost <br>educational appli=
+cations: First, it contains open knowledge of encyclopedic nature on a <br>=
+large number of real-world entities. Moreover, the data being structured en=
+sures that the <b> ...</b></font></div><br><p><hr noshade size=3D1><font si=
+ze=3D2 color=3D#222222>Dieser Google Scholar-Alert wird Ihnen von Google zu=
+r Verf=C3=BCgung gestellt.<br><br><a href=3D"http://scholar.google.de/schol=
+ar_alerts?view_op=3Dcancel_alert_options&amp;email_for_op=3Derictessenow%40=
+web.de&amp;alert_id=3DAIfevv3NkPcJ&amp;hl=3Dde"><font color=3D#1a0dab>Alert=
+ stornieren</font></a><br></font></div></body></html>

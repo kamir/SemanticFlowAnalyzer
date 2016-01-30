@@ -1,0 +1,123 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.64.31.33 with SMTP id x1csp128212ieh;
+        Tue, 17 Jun 2014 01:20:12 -0700 (PDT)
+X-Received: by 10.50.20.97 with SMTP id m1mr31592494ige.28.1402993210184;
+        Tue, 17 Jun 2014 01:20:10 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3IvmfUxUKDDclVaheTkTeXkml-ghkXierZhhZeX.VhfXkbVmXllXghppXU.WX@scholar-alerts.bounces.google.com designates 209.85.216.74 as permitted sender) smtp.mail=3IvmfUxUKDDclVaheTkTeXkml-ghkXierZhhZeX.VhfXkbVmXllXghppXU.WX@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3IvmfUxUKDDclVaheTkTeXkml-ghkXierZhhZeX.VhfXkbVmXllXghppXU.WX@scholar-alerts.bounces.google.com designates 209.85.216.74 as permitted sender) client-ip=209.85.216.74;
+Received: by 10.50.16.175 with POP3 id h15mf2016735igd.5;
+        Tue, 17 Jun 2014 01:20:10 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3IvmfUxUKDDclVaheTkTeXkml-ghkXierZhhZeX.VhfXkbVmXllXghppXU.WX@scholar-alerts.bounces.google.com
+Received: from mail-qa0-f74.google.com ([209.85.216.74]) by mx-ha.web.de
+ (mxweb101) with ESMTPS (Nemesis) id 0MTzcT-1XMpkL1PbF-00Qn0I for
+ <erictessenow@web.de>; Tue, 17 Jun 2014 10:15:32 +0200
+Received: by mail-qa0-f74.google.com with SMTP id w8so977748qac.1
+        for <erictessenow@web.de>; Tue, 17 Jun 2014 01:15:31 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=bSQ7hrvXBDsQSTKezPJQq3yKK4dHz6CUASlP1DiohJY=;
+        b=b851jhx+igTUkVoGvPogUMYvHsjLamTXVhErcE7WfOKBU9tj83g4rmVTb+wgBt3D8G
+         OM4l/KHeIggh3QAswWiTeevXeyRaw3C/3tlSSptgrWSC6tL59tznXJQmnf3HzOQJIUr7
+         a2C9DXOod7/y8dcqnWlnycvnvHcQ77o1zv9Q8a9nB4+TuoEsi6iAacVvUyTHYl0va+l2
+         tOQHPG/bZo9+FEKrFr9MUl9xykDIR+2pMyBe5aheIXO1zJNMj4KKEoochbsAi1Qn4K3j
+         gIZhUK2Cx0vkFCk9dFnXBZ4zuDMuXnczaOcYif5DflQfxWXw1Jyv5NMWeAwWd3pXpIka
+         KmaA==
+MIME-Version: 1.0
+X-Received: by 10.236.124.100 with SMTP id w64mr2143865yhh.57.1402992930923;
+ Tue, 17 Jun 2014 01:15:30 -0700 (PDT)
+Message-ID: <20cf301b659545238d04fc03bf32@google.com>
+Date: Tue, 17 Jun 2014 08:15:30 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:0x6UbBqt9pA=:PIUiPJgNl6evWnK1q60wmaGyPh
+ 8FupL3m+yRd1/LlCvGo0aCIjwSUWYWak+wEJC7OnF4Y9CICUBHucPC+adyFA4XvkxgeiZbcdX
+ 1krDc4xeVaAxfreFz+p++Y7R48IKf4xNyrlqKUGWhgn819kFq59qwBtSgvsOUpyuiddWKtrTu
+ QXnRrjeeAIYCHr+S81A3SsY5rktCcJSIEcE+eDdrfNid7HrsIaMO1bYR/icxIIDyMwqu+0VdY
+ COTKcIk+63HGKxf64nk0QltmQD9HSZCyKteXTcfpeGwH+3Lqwvw/ZKLHJxeaqoUd1jvodHzQG
+ YmErLqAZb5A4/YGakCXCT9vcRwnbVuLMkzLl3kj4oo+5SgbUFKryPu+8tdRWN/QlWTJ7/zCqz
+ spE+ur82iKQdKiPLn1tryJ6LE+Pu22/O23dvLh6oXD42287L7knAXHKzIVILGtpnH/JrCmmIV
+ i50p9wpLvT4bXGPVUFwNpdyIvfudZ2gMsA0lbQtXlTDoZkZzqGG3fiISZiSlBCubfWy77kxiK
+ YjBmWMAme8dRHDE3+jMxdbbKrP9dmcgIEafIMoC3t2rEyHEfSXMBx77mEJozrVWDmkQJGFEsm
+ 4i+VEexHKQIO1eZTa6DYu+ZRioUd3OZIfuI1If1c76YMbxdlwB35XJdH16+mecl82PH0z1eBy
+ 5EFifKwijVPMTG/LBo4AG3cbVDFvvnvLRBkqq0itDUy7kk7C1fg0RqV2v0fWSzu6VeHXXJFmh
+ WtFDlSwvdbyNj1K4h28079Rfh8gkc1zN/QUkWM0Twl7I1d5+xeulKwtCm2Q8n1oauQno85h3X
+ +age50GLrJ+zRZNxYbMaWExvdIv0OGB28Oa36oIVcxP5fCg+z1SIcCiKHfVYeKbeqRAKbGfwx
+ nqP6LMaPXEuSJNaqK6Bdv4kHVEk4IFgyA/ZO7T7OKL4FZF1IOiX9OUEoI3jJs0GMKnPBcir+q
+ 4z0HP84Rv4MLQWD07wa0TrLhL+mKePn8ylOHb3BeWOoINdqbsn7MiYIDs0i5YLWuVBJHYkEP/
+ jcWdOsLkQ6CxG+Svt3WGkv7uddY6P3O2loGsIpIATYaHP9v/62GTGQygp8xD0G+RSG/4mLTkT
+ YDTHgl95sXadNjYVsYDrIIxkHddt/EuPrCWC56QvS+q/99kUeyAXBJSadg+XxIUMq5Cx9xeTZ
+ R5NcwrqEMRSGRK1dWKDkRlYc9cud10BPXi9Lo8WAVEa14XzfLSodXkjh+IJ5w0A6jdOP0kKhn
+ BXvFQK1+QsVRzB8dYWuJAt4R1hxFkpRVhNqaZ85iqBKGO1VYHLfjmhtGiGRXx66G/46sn6EPJ
+ Ke3odj95plwWaWB9LYty0z5zcQLEbrygk4lJv7HRIPCUIGYdvF7A7Lm8u1SVuaT+UewJFs6Rs
+ 4qXxYlBjOMDHBNgFZ52aHv98ISZOtB9mb8H2OEYv8TERh8qTWBu93FSdv/DOSM8SYsWQsVWA8
+ QjsCda19ElwH4yMjGYAGm2OKeoD93R8b3NZGqORPz2YxKetM//
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D=
+2 color=3D#1122cc>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_=
+url?hl=3Dde&amp;q=3Dhttp://www.ling.uni-potsdam.de/~koller/aclpub/W14-30/cd=
+rom/W14-30-2014.pdf%23page%3D28&amp;sa=3DX&amp;scisig=3DAAGBfm0wHtRlzIvjaG2=
+RQrmMVA01oXcnEg&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=
+=3D"text-decoration:underline">FrameNet and <b>Linked Data</b></font></a></=
+h3><div><font size=3D2 color=3D#009933>N Ide - ACL 2014, 2014</font></div><=
+div><font size=3D2 color=3D#222222>Abstract FrameNet is the ideal resource =
+for representation as <b>linked data</b>, and several <br>renderings of the=
+ resource in RDF/OWL have been created. FrameNet has also been and <br>cont=
+inues to be linked to other major resources, including WordNet, BabelNet, a=
+nd MASC, <b> ...</b></font></div><br><h3 style=3D"font-weight:normal;margin=
+:0;font-size:medium;max-width:44.5em"><font size=3D2 color=3D#1122cc>[PDF]<=
+/font> <a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp=
+://www.iza.org/conference_files/wagerigidities_2014/kurmann_a10099.pdf&amp;=
+sa=3DX&amp;scisig=3DAAGBfm3Cg8p779Sqhi7dPBCbVFYWdKijzA&amp;oi=3Dscholaralrt=
+"><font size=3D3 color=3D#1122cc style=3D"text-decoration:underline">Downwa=
+rd Wage Rigidity in the US: New Evidence from Worker-=E2=80=90Firm <b>Linke=
+d Data</b></font></a></h3><div><font size=3D2 color=3D#009933>A Kurmann, E =
+McEntarfer, J Spletzer - 2014</font></div><div><font size=3D2 color=3D#2222=
+22>Abstract We analyze the extent and consequences of downward wage rigidit=
+y in the US <br>using administrative worker-=E2=80=90firm <b>linked data </=
+b>from the Longitudinal Employer Household <br>Dynamics (LEHD) program of t=
+he US Census Bureau. We start by documenting that firms <b> ...</b></font><=
+/div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;max-widt=
+h:44.5em"><font size=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"http://sch=
+olar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://dspace.utpl.edu.ec/jspui/=
+bitstream/123456789/9374/1/Valverde%2520Vasquez%2520Maria%2520Fernanda.pdf&=
+amp;sa=3DX&amp;scisig=3DAAGBfm1uEZ7GZJVSgzkn_UD7THM0sAEkfg&amp;oi=3Dscholar=
+alrt"><font size=3D3 color=3D#1122cc style=3D"text-decoration:underline">Pu=
+blicaci=C3=B3n de datos enlazados observando los principios de <b>Linked Da=
+ta </b>en el =C3=A1mbito de Legislaci=C3=B3n de Educaci=C3=B3n Superior</fo=
+nt></a></h3><div><font size=3D2 color=3D#009933>MF Valverde V=C3=A1squez - =
+2014</font></div><div><font size=3D2 color=3D#222222>El presente proyecto d=
+e investigaci=C3=B3n se desarrollacon la finalidad de publicar datos <br>en=
+lazados en el =C3=A1mbito de Legislaci=C3=B3n de Educaci=C3=B3n Superior en=
+ Latinoam=C3=A9rica que <br>contiene informaci=C3=B3n sobre: Universidades,=
+ Organismos Reguladores y Normas que <b> ...</b></font></div><br><h3 style=
+=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font si=
+ze=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"http://scholar.google.de/sch=
+olar_url?hl=3Dde&amp;q=3Dhttp://www.edwardcurry.org/publications/Curry_HIC2=
+014.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm0eDE0xmjIsK0aWREWjaE8RMBFEPw&amp;oi=
+=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D"text-decoration:und=
+erline">LINKED WATER DATA FOR WATER INFORMATION MANAGEMENT</font></a></h3><=
+div><font size=3D2 color=3D#009933>E CURRY, V DEGELER, E CLIFFORD, D COAKLE=
+Y</font></div><div><font size=3D2 color=3D#222222><b>...</b> <b>Linked</b> =
+<b>Data</b> is a set of web technologies that enables integration of differ=
+ent data<br>
+sources. This work investigates the usage of <b>Linked</b> <b>Data</b> tech=
+nologies in the Water<br>
+Management domain, describes the fundamental concepts <b>...</b>=20
+</font></div><br><p><hr noshade size=3D1><font size=3D2 color=3D#222222>Die=
+ser Google Scholar-Alert wird Ihnen von Google zur Verf=C3=BCgung gestellt.=
+<br><br><a href=3D"http://scholar.google.de/scholar_alerts?view_op=3Dcancel=
+_alert_options&amp;email_for_op=3Derictessenow%40web.de&amp;alert_id=3DAIfe=
+vv3NkPcJ&amp;hl=3Dde"><font color=3D#1122cc>Alert stornieren</font></a><br>=
+</font></div></body></html>

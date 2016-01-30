@@ -1,0 +1,82 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.64.67.99 with SMTP id m3csp140940iet;
+        Mon, 25 Nov 2013 21:16:47 -0800 (PST)
+X-Received: by 10.50.66.195 with SMTP id h3mr1821324igt.41.1385443001679;
+        Mon, 25 Nov 2013 21:16:41 -0800 (PST)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3fC2UUhUKDMEzjovshyhsly0z-uvylws5nvvnsl.jvtlypj0lzzluv33li.kl@scholar-alerts.bounces.google.com designates 209.85.223.201 as permitted sender) smtp.mail=3fC2UUhUKDMEzjovshyhsly0z-uvylws5nvvnsl.jvtlypj0lzzluv33li.kl@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3fC2UUhUKDMEzjovshyhsly0z-uvylws5nvvnsl.jvtlypj0lzzluv33li.kl@scholar-alerts.bounces.google.com designates 209.85.223.201 as permitted sender) client-ip=209.85.223.201;
+Received: by 10.64.24.237 with POP3 id x13mf3754034ief.31;
+        Mon, 25 Nov 2013 21:16:40 -0800 (PST)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3fC2UUhUKDMEzjovshyhsly0z-uvylws5nvvnsl.jvtlypj0lzzluv33li.kl@scholar-alerts.bounces.google.com
+Received: from mail-ie0-f201.google.com ([209.85.223.201]) by mx-ha.web.de
+ (mxweb005) with ESMTPS (Nemesis) id 0M2sPG-1VTEN91rCI-00sf4W for
+ <erictessenow@web.de>; Tue, 26 Nov 2013 06:11:25 +0100
+Received: by mail-ie0-f201.google.com with SMTP id at1so1105456iec.4
+        for <erictessenow@web.de>; Mon, 25 Nov 2013 21:11:24 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=/OTLV+q34W6Ub0HhrULGKgUkp7otRZnsLcFbm6gEE2Y=;
+        b=RshpGHM2QgGrJTSCGE0TxrmkbVYTxQTLTEgurTzSMqPGQblp4EwUGrJokKQaH6PbWl
+         mgAAQ98Z8FvFgwJe34hgMNvyg0v2llWBZmzI7mrb5LDCsU964ms3Upe55kyu9SEyEZ5J
+         bw+Z3eAClMP/lLphJRDDtaBrIp0e7NUUAXkBIDcn4MpBgXAHQJCGQJw6j1LekRssmIx3
+         azgD0TNriNro/f2Hnm+HIWONdyqTD+5Y5Gsz0aipXNWsdF3vZblEe6F/e0vZN03/LIfY
+         nwEkpddT9sfrj3yNHH76wASAVQG1dzq0XPur/lPEctUlsv4zzbBmlSrqXHgTlEcVusHh
+         +juA==
+MIME-Version: 1.0
+X-Received: by 10.43.152.19 with SMTP id ku19mr9465830icc.24.1385442684245;
+ Mon, 25 Nov 2013 21:11:24 -0800 (PST)
+Message-ID: <001a11c30a720d16c404ec0d8384@google.com>
+Date: Tue, 26 Nov 2013 05:11:24 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:F+ZqMAi2+wA=:0lhAd8oMNwgYWb/s+ZBQdwDiSJ
+ SHp2zIuhOntqk8p78nHMKNpXZg/l9s6qKvd4w1zR2Jc14+KNzj/+u3L30ahumPLzdOkOmP4mB
+ nkG6zyb7cicZAZo6rX71jUgfVlmnxiIx0lMJVQ4fyoHW5OgZgEFP55EaIuJ8wZYw0FS9sP0qU
+ y+mFMmzUm+xnfYf1HV0syzlE4BHud8wTi60f7O7ezL5vT64R6uXB9f3TX/bPt/fl44I5v4J1T
+ GfBjg6EzokTTAatIfufYsn/Tu9W8ZtBK6xZMPQvWMNbOgJScmGLibUexjXp/b521oy8wOczEb
+ e9TMHD960Nw+zQV79vvT8pzJ6IvljMM8xdSNG5NpMSbjlvAf8g9yRtub9vjKmBIf2/8iPFnPg
+ NpA7vHgXwDqlR2VtV/6iHCAv+duGPRc+DOQAraZ2se6ydEO5tYSE8EFPscoKaT4qHrJ15afHl
+ Ingz/ENXB7Zn1j7rEDruyzld8CG/By6hcXAFHbc7f+6b/pCLN31rSx58X1lSb4wgcHqyGVdhp
+ 7Cx9xXe01NmABd/MbJiq2vTuWkyxuPoocSlaH1OawSKgZdM0KGriAkKFexZcYKxKnOF6RFgBU
+ Y7jqjM/eFbWFe6Jy0+anCYqTrS1FkOSC6E493jEPd56JcJ18bzcPJkQ5L7jaX00GaK/p5RBRr
+ +Ry52inh0XIH+piCsHO62DUe9dlud6euV2RnlliTOQkvPMYCPu3dmHnkkg9gnTB9VAG60Y2pl
+ DaxSUxXraeGzVRrKbgjy0YnMDnUmgN5sky+Nc0o8+WN0p9UqnO8NKFP3zkTT3vrEf9hCeiZ7s
+ 7zWw1kYdWtTJL/48KVyWNRYYFqYR2ehAzBDv4N57nukNmRxdh9oPoBjuR5srjuwajuJQCt/Of
+ ZgatVEzy9ByheDoNtwSqOt+igp8TiBZ+0SI9KM8i1ONUgzMj5HJH9oSNEoCZxuEIV+vM6U3q+
+ Bb98kiPJB4tWRYEy2ff68Hb7U7FoQEd8vHZlHnMH+17s9FrRScx2KV0ts7n+PpNOu49JrzDLg
+ a2KOFePsLH7rxie+AevrHGuKBGyNAt7ML1D7Ogs2xMydxkuoonw27A+eK1dS3dqL6XfOh7K/e
+ 9nSzR24Ri5xA2lJ9a/CSGWpWH+CXv+SUH/K+JQG/GCUBvsUV/FBhbLJhAC+oWzR91PqnDdd4i
+ Rm/21pXK34J48LXj6p0ByjQZ0eYGVPVOC5Yxb4bIGj/PDgjlQr+te3T28wDkG/tnk=
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://dl.acm.org/citati=
+on.cfm%3Fid%3D2517992&amp;sa=3DX&amp;scisig=3DAAGBfm1ctHZ8Ol9bryv4Dis0yskjf=
+XrEAA&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D"text-de=
+coration:underline">Classical antiquity and semantic content management on =
+linked open data</font></a></h3><div><font size=3D2 color=3D#009933>D Spamp=
+inato, I Zangara - Proceedings of the 1st International Workshop on  &helli=
+p;, 2013</font></div><div><font size=3D2 color=3D#222222><b>...</b> Thesaur=
+uses. Keywords <b>Linked</b> <b>Data</b>, TEI, Dublin Core, SKOS, Thesaurus=
+, Ancient<br>
+Roman Law, Bibliotheca Iuris Antiqui. 1. INTRODUCTION Overlapping points of=
+<br>
+different disciplines are an interesting context for discovery. <b>...</b>=
+=20
+</font></div><br><p><hr noshade size=3D1><font size=3D2 color=3D#222222>Die=
+ser Google Scholar-Alert wird Ihnen von Google zur Verf=C3=BCgung gestellt.=
+<br><br><a href=3D"http://scholar.google.de/scholar_alerts?view_op=3Dcancel=
+_alert_options&amp;email_for_op=3Derictessenow%40web.de&amp;alert_id=3DAIfe=
+vv3NkPcJ&amp;hl=3Dde"><font color=3D#1122cc>Alert stornieren</font></a><br>=
+</font></div></body></html>

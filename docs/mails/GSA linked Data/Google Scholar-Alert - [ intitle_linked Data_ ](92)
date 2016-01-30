@@ -1,0 +1,151 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.140.140.136 with SMTP id 130csp349647qhm;
+        Sat, 6 Dec 2014 10:09:55 -0800 (PST)
+X-Received: by 10.140.98.202 with SMTP id o68mr36883038qge.49.1417889393958;
+        Sat, 06 Dec 2014 10:09:53 -0800 (PST)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 35UGDVBUKDCAO8DKH6N6HANPO-JKNALHUCKKCHA.8KIANE8PAOOAJKSSA7.9A@scholar-alerts.bounces.google.com designates 209.85.216.74 as permitted sender) smtp.mail=35UGDVBUKDCAO8DKH6N6HANPO-JKNALHUCKKCHA.8KIANE8PAOOAJKSSA7.9A@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 35UGDVBUKDCAO8DKH6N6HANPO-JKNALHUCKKCHA.8KIANE8PAOOAJKSSA7.9A@scholar-alerts.bounces.google.com designates 209.85.216.74 as permitted sender) client-ip=209.85.216.74;
+Received: by 10.229.148.134 with POP3 id p6mf6447361qcv.1;
+        Sat, 06 Dec 2014 10:09:53 -0800 (PST)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 35UGDVBUKDCAO8DKH6N6HANPO-JKNALHUCKKCHA.8KIANE8PAOOAJKSSA7.9A@scholar-alerts.bounces.google.com
+Received: from mail-qa0-f74.google.com ([209.85.216.74]) by mx-ha.web.de
+ (mxweb001) with ESMTPS (Nemesis) id 0MIc4e-1XzWQQ3u9I-002DQl for
+ <erictessenow@web.de>; Sat, 06 Dec 2014 18:50:31 +0100
+Received: by mail-qa0-f74.google.com with SMTP id i13so133791qae.5
+        for <erictessenow@web.de>; Sat, 06 Dec 2014 09:50:29 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=GWhW99JQnS1Zu/RvhWy9Ll9AjkHJqGd3cuDJ1ZVK/rA=;
+        b=bOb/Lpe15aulisnNorW/nMWukVvfRJbEpA2UKsf2NW4hRDfUbmMIjDJLfHqMwfItxu
+         YGqnYx4RixdCRzmKo1L2WD1lfhhXb4SMknT8DJUSQ8E3s/AsvZYpGJqWtIZHHSNOXj12
+         JvIXSU41215vGLEXTj/VCs2ir16BMSkf7/qn4LE8S3+SDYrcIkKU6dTHmAgW7smb7qog
+         7qj9ayWz8wqNA+1H/HfIyGqJKpDWPZeE8Go3MGy2A4U+/1jVg27/faJmdh/aoumPqCQO
+         W6+bss5L1gqeLrchQbhsNLTu/XxtAie1A6+BC7rHo6BWOHoPf0NR4ln5eYXnIgraSkyU
+         Az9A==
+MIME-Version: 1.0
+X-Received: by 10.236.23.230 with SMTP id v66mr7153294yhv.42.1417888229811;
+ Sat, 06 Dec 2014 09:50:29 -0800 (PST)
+Message-ID: <089e01293f9e44e5de05098fd467@google.com>
+Date: Sat, 06 Dec 2014 17:50:29 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:yPoRMpmpH4E=:OuNIcsk9e0Pq38pHbF9bKWAQ+B
+ 2W7M6UVab3ik1wOrzuyS+VRDS+cFafTUU0/h7U9jgUCIORBNgbmYF8yE254j43XCv7b2MVdQL
+ 2CdaQYTqufCIxzs5JW+N6fSrlCQ93nBf9HXhzsFFveG0hLH5O2VLghzjCFVYh1wgYpPvdQSLW
+ +OPHxNP3MnAclDdrtloXCzr/Kes4wwCQINQbv+QvHW1qiNCeF7lJZLQ/O94Bh+dH/S7j55NFN
+ 33ccm/MoWx1dwcEy/V2tZx9FtZcsmHEFxyO1Aw2dKkIAW7XJFEgDporAXzVioFwOoxW73rkvL
+ LrUfextOjXv15EYKqdZg3DInr0triuRVva7WtakbobrR/1Yd2d5uBMeEIxbXVNVNLyA/BVqKU
+ C9k3mFb59r+DWFQqROu7PwfHFmD7ObFqaXczA9A4nZYyFwv5+VKd5w8P9V34IqJ6LIWtD4RqF
+ d53DA4B5lwTih1gERFSgs5ecWbHVsU8R1S6YqO3YwQfu/43+BK4sC6rdQFFoUKT+gvDRREXhG
+ llLWWt0tsRap1emPIEOha5nbzrSDutFciEp2lqMO5St/i2dqH170tTHmBgkqauhdrfoqFRIox
+ tjXzASObk3j54cJV+Q7BOxfGAXclsqRmtIGuHQWpnLpSDyNqRqt9klBOSBKAQ1oFlhVZGWRs6
+ ctJ6+INkaeR/YijhBvPbltdSANOMeJXFb8sTMZ3QFNMTxqyZORQ2NJxv83uZdxn3GoQg7Pvsd
+ 2aNS0NEweu2hxFgNdQWOP73pUAiJ7n8Dmf1w9AM+Pl8r7tgSNEJo30X0HWMG3u4q4EskqLiGc
+ o4HuGfWq3pB9LVYQsZp1hC5x9QlYQruOCjyGCrKoBEUiYnP4RJTQKs/qGHLM1kp3OBLMiO9Qp
+ Aqb+X5LzaidPu+0lGl10mY1OfHWvsY/ug4ZZ++M/pHGqUU1onHK4ayl7cAiOyysiQlhP1A49O
+ QnD8XCodNn8aGM7c53FibJcRhXShFhOMV+hWlY2vV3NI44Tdjel1f5p1cM+FmDvkU4GB22DYI
+ hoanr8XuIpeiUyvuadDLjXov2Uem79tVjG4GqNSWTwLGGvA7p8X1IVH2o9hGzQonmhyCfIMc3
+ 3vsPg6HZx3+Xd8K0MrfcLxYUueKEhUcpwzcOa4YKb3wiLTTRKyJgJwOYxW+akmr6nYLV8lhdZ
+ vztqxM23itP73NOrGMFcGMKA3EHdG6BQIL9qZ+A3wiCWz0EpdzhC2U9O1J12LrRn39Y/VynAO
+ AbvGzQi77GdNof8+vgkHx5B4rgxxqx21IMKIQt0g/EQFyKbQEHKe1GEXwd36GbSCmep3WRePv
+ F2UQ2FFCj6eELvAnxjeaWgT7cjDMQcRDK7l64hdt4jkyJCPf2OwXehBZj6VT7jCNue6EgsvEv
+ 7PNsUA66sxN3guX5sjFUyJ8YkdW3keeZDBI+2Jk/+S2RXTFRNaFsKxLuYvCJ0lEquddwYVxqZ
+ mVJ/l4yLZ5QkoGRt1POpMozxMtP474zf/3sCkRFPdajNAK8eQL
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://www.publish.csiro=
+.au/view/journals/dsp_journals_pip_abstract_scholar1.cfm%3Fnid%3D270%26pip%=
+3DAH14102&amp;sa=3DX&amp;scisig=3DAAGBfm1gBCtui-NyUvaAHcDa1UtHRUlpgg&amp;oi=
+=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:und=
+erline">Strategic information for hospital service planning: a <b>linked da=
+ta </b>study to inform an urban Aboriginal Health Liaison Officer program i=
+n Western Australia</font></a></h3><div><font size=3D2 color=3D#006621>J Ka=
+tzenellenbogen, L Miller, P Somerford, S McEvoy&hellip; - Australian Health=
+ Review, 2014</font></div><div><font size=3D2 color=3D#222222>Objectives: T=
+o provide descriptive planning data for a hospital-based Aboriginal Health =
+<br>Liaison Officer (AHLO) program, specifically quantifying episodes of ca=
+re and outcomes <br>within 28 days post-discharge. Methods: A follow-up stu=
+dy of Aboriginal inpatient hospital <b> ...</b></font></div><br><h3 style=
+=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=
+=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://www.tandfon=
+line.com/doi/full/10.1080/1941126X.2014.972126&amp;sa=3DX&amp;scisig=3DAAGB=
+fm01Ox_aZVa4mW9yq5kISTSkzDFSbw&amp;oi=3Dscholaralrt"><font size=3D3 color=
+=3D#1a0dab style=3D"text-decoration:underline">A Review of =E2=80=9C<b>Link=
+ed Data </b>for Libraries, Archives and Museums: How to Clean, Link and Pub=
+lish Your Metadata.=E2=80=9D Seth van Hooland and Ruben Verborgh. 2014.  &h=
+ellip;</font></a></h3><div><font size=3D2 color=3D#006621>P Martinez - Jour=
+nal of Electronic Resources Librarianship, 2014</font></div><div><font size=
+=3D2 color=3D#222222>The accidental instruction librarian who does not have=
+ time to take a full-length course in <br>instructional design can use this=
+ as a brief textbook. Librarians new to teaching will find a <br>concise an=
+d useful introduction to information literacy instruction, which started ou=
+t as <b> ...</b></font></div><br><h3 style=3D"font-weight:normal;margin:0;f=
+ont-size:medium;max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</fon=
+t> <a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttps://=
+etd.ohiolink.edu/!etd.send_file%3Faccession%3Dkent1416791055%26disposition%=
+3Dinline&amp;sa=3DX&amp;scisig=3DAAGBfm3ZnhqhbPe1PjVZnCgRvwT06ORVPQ&amp;oi=
+=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:und=
+erline">Building a Semantic Web of Comics: Publishing <b>Linked Data </b>in=
+ HTML/RDFa Using a Comic Book Ontology and Metadata Application Profiles</f=
+ont></a></h3><div><font size=3D2 color=3D#006621>S Petiya - 2014</font></di=
+v><div><font size=3D2 color=3D#222222>I would first like to thank my thesis=
+ committee, Dr. Karen Gracy and Dr. David Robins, for <br>their feedback an=
+d input, and my advisor Dr. Marcia Zeng for her commitment, advice, and <br=
+>direction during the course of this project and in my studies. I am also g=
+rateful to all of the <b> ...</b></font></div><br><h3 style=3D"font-weight:=
+normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D2 color=3D#=
+1a0dab>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_url?hl=3Dde=
+&amp;q=3Dhttp://www2.hu-berlin.de/vivaldi/tagung/beitraege/pdf/01_di_nunzio=
+_rabanus.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm3RCScRPqAdTXqDjsixMxhBEmfjSA&amp=
+;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:=
+underline">Research on Geolinguistic <b>Linked Data</b>: The Test Case of C=
+imbrian Varieties</font></a></h3><div><font size=3D2 color=3D#006621>GM Di =
+Nunzio</font></div><div><font size=3D2 color=3D#222222>In this paper, we pr=
+esent a geolinguistic linked open data approach of a multidisciplinary <br>=
+and collaborative project,=E2=80=9CCimbrian as a test case for synchronic a=
+nd diachronic language <br>variation=E2=80=9D, which provides linguists wit=
+h a test bed for formal hypotheses concerning <b> ...</b></font></div><br><=
+h3 style=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em">=
+<font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"http://scholar.googl=
+e.de/scholar_url?hl=3Dde&amp;q=3Dhttp://perso.limsi.fr/hamon/publications/P=
+DF/nliwod2014_submission_8.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm1C_43Fpx07BKgX=
+F7pADHlVzLpdMA&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=
+=3D"text-decoration:underline">Natural Language Question Analysis for Query=
+ing Biomedical <b>Linked Data</b></font></a></h3><div><font size=3D2 color=
+=3D#006621>T Hamon, N Grabar, F Mougin</font></div><div><font size=3D2 colo=
+r=3D#222222>Abstract. Biomedical knowledge is disseminated in knowledge bas=
+es which become <br>increasingly available on the Web. While using biomedic=
+al <b>Linked Data </b>is crucial, life-<br>science researchers may have dif=
+ficulties using SPARQL language. Interfaces based on <b> ...</b></font></di=
+v><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;max-width:4=
+4.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"http://schola=
+r.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://www.semantic-web-journal.net=
+/system/files/swj937.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm3vlumank9qd8BN0fQrsz=
+CwqqChqw&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text=
+-decoration:underline">Linked Open Data Visualization Revisited: A Survey</=
+font></a></h3><div><font size=3D2 color=3D#006621>O Pe=C3=B1a, U Aguilera, =
+D L=C3=B3pez-de-Ipi=C3=B1a</font></div><div><font size=3D2 color=3D#222222>=
+<b>...</b> dering. The <b>Linked</b> <b>Data</b> Visualization Model (LDVM)=
+ [22], mapped these datatypes<br>
+to visualization tools and RDF vocabularies, creating the mappings summaris=
+ed<br>
+in Table 1. The <b>Linked</b> <b>Data</b> Visualization Wizard (LD- VizWiz =
+<b>...</b>=20
+</font></div><br><p><hr noshade size=3D1><font size=3D2 color=3D#222222>Die=
+ser Google Scholar-Alert wird Ihnen von Google zur Verf=C3=BCgung gestellt.=
+<br><br><a href=3D"http://scholar.google.de/scholar_alerts?view_op=3Dcancel=
+_alert_options&amp;email_for_op=3Derictessenow%40web.de&amp;alert_id=3DAIfe=
+vv3NkPcJ&amp;hl=3Dde"><font color=3D#1a0dab>Alert stornieren</font></a><br>=
+</font></div></body></html>

@@ -1,0 +1,84 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.140.140.136 with SMTP id 130csp45471qhm;
+        Thu, 27 Nov 2014 07:49:19 -0800 (PST)
+X-Received: by 10.140.108.201 with SMTP id j67mr54821406qgf.89.1417103357527;
+        Thu, 27 Nov 2014 07:49:17 -0800 (PST)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3dUR3VBUKDIQ0kpwtizitmz10-vwzmxt6owwotm.kwumzqk1m00mvw44mj.lm@scholar-alerts.bounces.google.com designates 209.85.214.202 as permitted sender) smtp.mail=3dUR3VBUKDIQ0kpwtizitmz10-vwzmxt6owwotm.kwumzqk1m00mvw44mj.lm@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3dUR3VBUKDIQ0kpwtizitmz10-vwzmxt6owwotm.kwumzqk1m00mvw44mj.lm@scholar-alerts.bounces.google.com designates 209.85.214.202 as permitted sender) client-ip=209.85.214.202;
+Received: by 10.229.125.7 with POP3 id w7mf1773441qcr.31;
+        Thu, 27 Nov 2014 07:49:17 -0800 (PST)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3dUR3VBUKDIQ0kpwtizitmz10-vwzmxt6owwotm.kwumzqk1m00mvw44mj.lm@scholar-alerts.bounces.google.com
+Received: from mail-ob0-f202.google.com ([209.85.214.202]) by mx-ha.web.de
+ (mxweb006) with ESMTPS (Nemesis) id 0MWlBr-1XQaUP1oiJ-00Xvuj for
+ <erictessenow@web.de>; Thu, 27 Nov 2014 16:34:14 +0100
+Received: by mail-ob0-f202.google.com with SMTP id va2so541349obc.1
+        for <erictessenow@web.de>; Thu, 27 Nov 2014 07:34:13 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=rtKHYvbaROXGs0ideBWk33B8YOMILnQvgEXmVq19Q8g=;
+        b=ez/oziZYj2BD81SVkuA7MyNPENdumLsLvI6Ysu+gGIQnfsApUbmpYdTUlbJpoCeeC3
+         vgyB0f0C8DtcP8pPsVJ5Gr4eqR2CmstcKY9P71SSayijDHeFW7vldMmOHtxlHhKChfsL
+         yCo7s2vWsT0uquzoa/Xep+X2691Z9NQAs37wGy/elIpTWpG1P8Z4bNxKGKbGzTCVBRPW
+         BpD9VnZEnRKakluvyFX3hI++d+ASI1ffuTcOlCxt9y/LRw8Zn3yINU4ER9q6Io5UUtSe
+         yOZjkaKHEo8RLiVmBCZiYuEFYNRQD3/Y4AgVTExtcF9qk2pR+I6yMeiXwWENO2mMjpmR
+         pJwA==
+MIME-Version: 1.0
+X-Received: by 10.182.43.170 with SMTP id x10mr35961448obl.15.1417102453196;
+ Thu, 27 Nov 2014 07:34:13 -0800 (PST)
+Message-ID: <001a11c32a9a5546bf0508d8e0f9@google.com>
+Date: Thu, 27 Nov 2014 15:34:13 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:1Q7XZ9ueYeA=:S5QIiDnq29Kddy+UW/W0Ng+Cnn
+ BA9QiuZ18yu799vGWINoWgfDYL4otKNMz3w1wFR6L4AHtZhy09SlhtUhmFjZN2rWk1Pl0dWd4
+ cPdcc9r3bicHVdQXNmakpLeDX9hxBNoDCKXVTbeYUlue+6ghn2a4kWCF50KaZBndBMLTzY8iJ
+ EbAbBSzLb7fOMBQ8Apt2XeM8jaFEqM+wIR2uDbIWdArixgL8zbnHcPMhXENBC6NYMoPeDDsfU
+ IQVscxW7nw2YxflF923pFxazMRMqVBERotGk43phANui+xGcusyxL9m8AV1O5WF1MIUa0y6Qj
+ AKap8hjWCFQsR8HpcpXmIqOhOC+8VHJ49rn597BqhNrxpTSENB79tBpKk6lLaQLtDwYioR2R/
+ 99roxZ2PVHKQfbV3cWerfpikaQyYIBmxMh4d4CEVYsZpOpFatRbkqfS/HjTPGxNMC0CtZXCI/
+ EnjOi/yqJN+v8uwoS5ZI3brkGtd5r9wdmB3Uy4PPSA6YoUDCPkAVdOgbCMyqxJSGKZDCqYKLL
+ Gd1Y4b+w7GNNyyo1JRypl34xl5CxkEC4PohSNK0PRyVu2NK0lC41q8fEOAinKv/7Q3TI4k1RN
+ 4Asup03ngb2caQXl36GvpZLHyqu7fzy62nPp+1DTRGZ0j/3BBdh0RRQ4lbTyeYzQ1wv7P8ESJ
+ SQQ2Vih+1aO1bOa2lLYbD4y9CxkNI93fJj+Cdzvt0FsIFNUwlF0cMsldcdH/l7oK9zn8BdsrJ
+ X48W3Rv0s3JZaDBJJBlU5oPOvR7x0hzLmGoyNn1WKYdN4AFsh52AvTIIOJHwiHg9azNPQW6R2
+ BEyl7UxmrDuRWlJdIwTuR9rCTI33cVnSZzrdptRgLgERtIXHIfvDYkcAhpm/44oc/Wr0ZArCd
+ yJt7iJ/2crvRXm8GWfZ8XiCjLARG4zaIiObQ43HpS7ivM6peM8o9bnmI6efnjf5NaboBhMVAP
+ LuQE/EEY71YYMebRz21L3m3BMd7gbrpdkbsUkdE2cyc8lo6p7leLjPvMGF7F7Zt0HsHR07Hy4
+ FQixbOGDzuoqoNRQ41ZxVbI82/cTlOOAzYqo4rR/yAP1JVS057f9t/Oc+U9FrLEliRID85FWj
+ zmHhNLGywFntNT1rtypiseirBISpwVVItolFhQHxvlYyz2aUr6wgjJvOH7jwTxjPHMnCO8jvj
+ Cfxj7IyWSkNBA5lzZgtRm/3XWGnEoHKlc5qObjGYDBAZPt2HHETbpimE8edMiPKpsg2th9+I7
+ 3W1zZHgFa0KoK/e8h+ViGzoqY7QFmxFogYAPkXzBhjMJ1/3LJ/e8ypcVGvlXGYPuMgFe2XpDL
+ Wlhv1FXS2x2MkqAnfq+xwTIh38It0XGN9jlo/tutzrckpj3G/v57z1RhlGCq0QD4SSHmjrDkQ
+ MHD5lYx4NMmgU6Cj8PEIhRyHnfKsFALbAp0c8z2YADPeGDfK3DCbRN7KKOwgpI5nms5SSjFsC
+ 53QCWLmQC11jTPEZeebW+rsf7p1ppLpuy0+Omd8SAednji2dV4
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://ieeexplore.ieee.o=
+rg/xpls/abs_all.jsp%3Farnumber%3D6965183&amp;sa=3DX&amp;scisig=3DAAGBfm10zm=
+c_25t3MU20fhdjA85OblEa3Q&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0d=
+ab style=3D"text-decoration:underline">Semantic data services: An approach =
+to access and manipulate <b>Linked Data</b></font></a></h3><div><font size=
+=3D2 color=3D#006621>HA Lira, JRV Dantas, B de Azevedo Muniz, LM Chaves&hel=
+lip; - &hellip;  Conference (CLEI), 2014  &hellip;, 2014</font></div><div><=
+font size=3D2 color=3D#222222>Data Services (SDS), ie, data services built =
+on Semantic Web technologies and aligned to <br>the REST architectural styl=
+e. SDS is a concrete implementation of the abstract and semantic <br>interf=
+aces of the SERIN specification. To support it, SERIN was extended with the=
+ <b> ...</b></font></div><br><p><hr noshade size=3D1><font size=3D2 color=
+=3D#222222>Dieser Google Scholar-Alert wird Ihnen von Google zur Verf=C3=BC=
+gung gestellt.<br><br><a href=3D"http://scholar.google.de/scholar_alerts?vi=
+ew_op=3Dcancel_alert_options&amp;email_for_op=3Derictessenow%40web.de&amp;a=
+lert_id=3DAIfevv3NkPcJ&amp;hl=3Dde"><font color=3D#1a0dab>Alert stornieren<=
+/font></a><br></font></div></body></html>

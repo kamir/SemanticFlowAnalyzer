@@ -1,0 +1,194 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.64.44.105 with SMTP id d9csp204970iem;
+        Mon, 5 Aug 2013 02:06:57 -0700 (PDT)
+X-Received: by 10.182.246.232 with SMTP id xz8mr4956611obc.9.1375693613893;
+        Mon, 05 Aug 2013 02:06:53 -0700 (PDT)
+DomainKey-Status: good
+Received-SPF: pass (google.com: domain of 3t2n_URUKDB4M6BIF4L4F8LNM-HIL8JFSAIIAF8.6IG8LC6N8MM8HIQQ85.78@scholar-alerts.bounces.google.com designates 209.85.216.201 as permitted sender) client-ip=209.85.216.201;
+Received: by 10.76.26.39 with POP3 id i7mf6274953oag.14;
+        Mon, 05 Aug 2013 02:06:52 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3t2n_URUKDB4M6BIF4L4F8LNM-HIL8JFSAIIAF8.6IG8LC6N8MM8HIQQ85.78@scholar-alerts.bounces.google.com
+Received:  from mail-qc0-f201.google.com ([209.85.216.201]) by mx-ha.web.de
+ (mxweb107) with ESMTPS (Nemesis) id 0LuOHj-1U4mnX3vbb-011hBO for
+ <erictessenow@web.de>; Mon, 05 Aug 2013 11:00:41 +0200
+Received: by mail-qc0-f201.google.com with SMTP id j10so305221qcx.2
+        for <erictessenow@web.de>; Mon, 05 Aug 2013 02:00:39 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=1uoV8hhQmxItS4IhGObvHtXXkiwFXqSh8tWChaE+D1U=;
+        b=cUqgOcmdv1mCnrWFuTkYCI5Xq4ipTUgEQWPcChK3pnVP0JO4GyXVulz3icis7bOEEE
+         u+iirLTAWofIlckA6/Er9i70i9tn2FM0liP0x0XNjjBLs8kD4m56hcQObdqMcf4IZVbQ
+         va2SAuxwrWUGOjaeBMHKEYfbd2qBZO4/qfS7qsRKx6IhmqqiuAM0gCuJhFM13WjJgJKF
+         DKxtTo+jdJFNaWdZ3ZRGYZujVXnK23VyMb1Xbrl8iZbj2Tsj4MxluSZBAQxzL86qH5cF
+         wSP3vG4ydZKfNnsomzztMOiAWrCRcpTWOaKgoSaybXCByd13ZpV5YUCOJW+6EkVZ9iIA
+         sQJQ==
+MIME-Version: 1.0
+X-Received: by 10.224.172.68 with SMTP id k4mr24800575qaz.1.1375693239827;
+ Mon, 05 Aug 2013 02:00:39 -0700 (PDT)
+Message-ID: <001a11c2a5dee13bbf04e32f8a6d@google.com>
+Date: Mon, 05 Aug 2013 09:00:39 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:zsVr8/4LL4U=:Y9h9456gwRmDFAFTtMMo43BgNW
+ uKigtNSlVDOePsVvQvdaLsb1niRkq6X5uRbEnOBx3nOJvqMYTJufIfRfDD1XTZOZEFtg3PaYC
+ rNBWnLQ6M4sk7K3EkXceto3jbyksbn38rqCnl7xWKorUKb4z1r1TWfHCEPjctUILp4mMv9/HH
+ I964VTHG8p6+P1OWJIcm2cBD8/8AmZDRhSqlisoqfp9MN2sI3LvPXtDEISVKCTOWFdzAEAFQ+
+ 403qqMkvzNb26q3LoP0k7ShsJRRJOJws5WA0a8YOZposDwQUgAYf1UOS9Wwq9MFNsolw7ZGd5
+ i0LraeZV83uP/bYYGbP4mNSfwb95ir63i/Ws21SDHxdE5nT4O1+H7aiw/euxZhgiElHN3BJFS
+ yaFq+Us5adszBV3+dtWV/ikRXOPUAxerzAH55ykzW5Qt9zQ0ci48B1+EQhT/Ko0+6L4hcjhp4
+ CO95qLXQ8KUTblD/uLzc2Ck9xmhIeelLvQWzgQy4AbBELYwfx+U06+PrTZ3PtrBd634CjzE/y
+ g10lpeIvCK7CmirzMSdRBQvxEa1e9PUix5I2uyc2dT0JiOIxnxqsDD6PSQVhNFDg6anGfvRz6
+ 96IgsnTU0RInR4KJZLNNAVbT8TYkTt9xm9pKWpCbfGIYuF5eGIVa8wTQ2L0z2t1UJubZ2U+i+
+ XbTOrNzM3dx/cbRg/cCOpPlICnbL0WMAhuMZ5IN+DV7taRJQJJPHxAUfPICFTXD4Z3AcrKkHO
+ sz2m/oAFnP2xrwrlc1zVH9sdk26kl5q+xvOExCQOlFR5ivILDot2cMAtiv9I5tmPLqZo8BZYg
+ OATMclYlPyYuQuA9YCxaW5aUchbSobgMe8ULHl1NNYUT+X8Hf3mCYY5htw9dPKvWB98oeBZnm
+ DCVLpDtsuQEUEJir/2IZcJ3yGo1yeBiNrqcSWbCluBrKp9khlEFe1bo8+AVMCvxUFgi0i2esU
+ 9M7MNC1pktjnyxbi45g/MDpMR/7Pihp85icOdOhthU415NxaSYRIuUjAdmMZ+HkzKUHVh8gWa
+ QjbpMYoD20tnc9eTQB7Q+I9ROUB4unEhUor556OGa4PQAhbRQ9M67KdB992d1j+KQP+ZNZnZe
+ 4MsujD0/SMmyU8F1Gcmb9XWpsHdwhrI3LLJBqI+wBV2wxNNPp1F0VM4Z8MpjU0zziBqIDwCHi
+ U5yfql21uAuZb68vlRhH1Wct+5DsW9Bg3DURMbpxnlYUH6DkmW2JwCF7OdSQVmP43lnozoU0V
+ NlawSNGxPrTyLgoNrDKCAENlV4fkH9MFNiI00BgHjRDio69JN0LemzrDjsnXZf5tzpagfNMk9
+ k26yOEE9JyLP1EDX//h5cHtIF95JeUXA/WA5GMcNK524G6B9aU35fr402gzrrnJJvkpWLJ3aV
+ hYJc34YiQaXcJbOiNMHdFTKmFxuR3BgxEfSIvzHVdVm9/fvXIkh1xI0wkrb
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D=
+2 color=3D#1122cc>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_=
+url?hl=3Dde&amp;q=3Dhttp://ebiquity.umbc.edu/get/a/publication/683.pdf&amp;=
+sa=3DX&amp;scisig=3DAAGBfm3k-vldLOuLS49W7TKPTY3ViRv-ZA&amp;oi=3Dscholaralrt=
+"><font size=3D3 color=3D#1122cc style=3D"text-decoration:underline"><b>Lin=
+ked Data </b>for Software Security Concepts and Vulnerability Descriptions<=
+/font></a></h3><div><font size=3D2 color=3D#009933>AP Joshi - 2013</font></=
+div><div><font size=3D2 color=3D#222222>Page 1. <b>Linked</b> <b>Data</b> f=
+or Software Security Concepts and Vulnerability Descriptions<br>
+by Arnav Prabodh Joshi Thesis <b>...</b> Page 2. ABSTRACT Title of Thesis: =
+<b>Linked</b> <b>Data</b> for<br>
+Software Security Concepts and Vulnerability Descriptions Arnav <b>...</b>=
+=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&a=
+mp;q=3Dhttp://www.sciencedirect.com/science/article/pii/S0926580513001118&a=
+mp;sa=3DX&amp;scisig=3DAAGBfm175INIRVjKPJc5vgE2RhgKUR0X-A&amp;oi=3Dscholara=
+lrt"><font size=3D3 color=3D#1122cc style=3D"text-decoration:underline">Arc=
+hitecture of an open knowledge base for sustainable buildings based on <b>L=
+inked Data </b>technologies</font></a></h3><div><font size=3D2 color=3D#009=
+933>M K=C3=B6nig, J Dirnbek, V Stankovski - Automation in Construction, 201=
+3</font></div><div><font size=3D2 color=3D#222222>Abstract Currently, the i=
+nformation related to building sustainability=E2=80=93such as information o=
+n <br>the various approaches, products and services, experiences and opinio=
+ns of professionals=E2=80=93<br>are not readily shared among the various st=
+akeholders. The reasons for such a situation <b> ...</b></font></div><br><h=
+3 style=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em"><=
+a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://ieeex=
+plore.ieee.org/xpls/abs_all.jsp%3Farnumber%3D6573074&amp;sa=3DX&amp;scisig=
+=3DAAGBfm2gx960zJhVD7X_V-xdOxkakGoAaw&amp;oi=3Dscholaralrt"><font size=3D3 =
+color=3D#1122cc style=3D"text-decoration:underline">Integrating heterogeneo=
+us IT/network management models using <b>linked data</b></font></a></h3><di=
+v><font size=3D2 color=3D#009933>K Ogaki, M Miyazawa, M Hayashi, S Kadono -=
+ &hellip; Management (IM 2013), 2013 IFIP/IEEE &hellip;, 2013</font></div><=
+div><font size=3D2 color=3D#222222>Abstract=E2=80=94Today&#39;s ICT system =
+necessarily involves multiple system domains complying with <br>different m=
+anagement models. Integration of domain-specific management models is <br>r=
+equired to achieve, for example, agile fault localization in a huge ICT sys=
+tem, but this has <b> ...</b></font></div><br><h3 style=3D"font-weight:norm=
+al;margin:0;font-size:medium;max-width:44.5em"><a href=3D"http://scholar.go=
+ogle.de/scholar_url?hl=3Dde&amp;q=3Dhttp://ieeexplore.ieee.org/iel7/7361/44=
+27201/06521335.pdf%3Farnumber%3D6521335&amp;sa=3DX&amp;scisig=3DAAGBfm0hAjt=
+g1TgJrSQQPT4P3MA5gXJ5Tw&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122c=
+c style=3D"text-decoration:underline">Performance Evaluation of South Esk H=
+ydrological Sensor Web: Using Machine Learning and Semantic <b>Linked Data =
+</b>Approach</font></a></h3><div><font size=3D2 color=3D#009933>R Dutta, A =
+Morshed - 2013</font></div><div><font size=3D2 color=3D#222222>=EF=80=A0 Ab=
+stract=E2=80=94Technological progress has lead the sensor network domain to=
+ an era where <br>environmental and agricultural domain applications are co=
+mpletely dependent on <br>hydrological sensor networks. Data from the senso=
+r networks are being used for <b> ...</b></font></div><br><h3 style=3D"font=
+-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"http:=
+//scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://www.scientific.net/A=
+MR.718-720.2359&amp;sa=3DX&amp;scisig=3DAAGBfm01B79JPpMDnTd7NmGpWsKpaOsr5w&=
+amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D"text-decorati=
+on:underline">Generating Linked Course Data</font></a></h3><div><font size=
+=3D2 color=3D#009933>ZH Cai - Advanced Materials Research, 2013</font></div=
+><div><font size=3D2 color=3D#222222><b>...</b> Most existing methords gene=
+rate RDF triple by combining the template with query results from<br>
+a relational database. In the Linked Course Data Generating framework, the =
+raw course data<br>
+is turned into RDF triple, then is turned into <b>linked</b> <b>data</b>, f=
+inally is turned into ontology. <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://inkdroid.org/talk=
+s/LinkingThingsOnTheWeb.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm1Fmx77VSDZNfXaSTa=
+GHnOfZvKerQ&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D"t=
+ext-decoration:underline">Linking Things on the Web: A Pragmatic Examinatio=
+n of <b>Linked Data </b>for Libraries, Museums and Archives.</font></a></h3=
+><div><font size=3D2 color=3D#009933>E Summers, D Salo</font></div><div><fo=
+nt size=3D2 color=3D#222222>Abstract The Web publishing paradigm of <b>Link=
+ed Data </b>has been gaining traction in the <br>cultural heritage sector: =
+libraries, archives and museums. At first glance, the principles of <br><b>=
+Linked Data </b>seem simple enough. However experienced Web developers, des=
+igners and <b> ...</b></font></div><br><h3 style=3D"font-weight:normal;marg=
+in:0;font-size:medium;max-width:44.5em"><font size=3D2 color=3D#1122cc>[PDF=
+]</font> <a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dht=
+tp://www.statistics.gov.hk/wsc/CPS020-P7-S.pdf&amp;sa=3DX&amp;scisig=3DAAGB=
+fm2kpkc01w-AFt_zmsfzvO3m48XylQ&amp;oi=3Dscholaralrt"><font size=3D3 color=
+=3D#1122cc style=3D"text-decoration:underline">Maximum Likelihood Logistic =
+Regression with Auxiliary Information for Probabilistically <b>Linked Data<=
+/b></font></a></h3><div><font size=3D2 color=3D#009933>G Kim, R Chambers</f=
+ont></div><div><font size=3D2 color=3D#222222>Despite the huge potential be=
+nefits, any analysis of probabilistically <b>linked data </b>cannot avoid <=
+br>the problem of linkage errors. These errors occur when probability-based=
+ methods are used <br>to link or match records from two or more distinct da=
+ta sets corresponding to the same <b> ...</b></font></div><br><h3 style=3D"=
+font-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=
+=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"http://scholar.google.de/schol=
+ar_url?hl=3Dde&amp;q=3Dhttp://ebiquity.umbc.edu/get/a/publication/681.pdf&a=
+mp;sa=3DX&amp;scisig=3DAAGBfm0T52t5xxo6NuFX5aZroF8OzlFM2Q&amp;oi=3Dscholara=
+lrt"><font size=3D3 color=3D#1122cc style=3D"text-decoration:underline">Sem=
+antic Message Passing for Generating <b>Linked Data </b>from Tables=E2=8B=
+=86</font></a></h3><div><font size=3D2 color=3D#009933>V Mulwad, T Finin, A=
+ Joshi - Proceedings of the 12th International Semantic Web  &hellip;</font=
+></div><div><font size=3D2 color=3D#222222>Abstract. We describe work on au=
+tomatically inferring the intended meaning of tables and <br>representing i=
+t as RDF <b>linked data</b>, making it available for improving search, inte=
+roperability <br>and integration. We present implementation details of a jo=
+int inference module that uses <b> ...</b></font></div><br><h3 style=3D"fon=
+t-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D2 =
+color=3D#1122cc>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_ur=
+l?hl=3Dde&amp;q=3Dhttp://confbank.um.ac.ir/modules/conf_display/conferences=
+/icee2013/1927_3.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm376fbXIwO_MONlCwcEGgtt0D=
+llLg&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D"text-dec=
+oration:underline">Finding Association Rules in <b>Linked Data</b>, a Centr=
+alization Approach</font></a></h3><div><font size=3D2 color=3D#009933>R Ram=
+ezani, M Saraee, MA Nematbakhsh</font></div><div><font size=3D2 color=3D#22=
+2222>Abstract-<b>Linked Data </b>is used in the Web to create typed links b=
+etween data from different <br>sources. Connecting diffused data by using t=
+hese links provides new data which could be <br>employed in different appli=
+cations. Association Rules Mining (ARM) is a data mining <b> ...</b></font>=
+</div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;max-wid=
+th:44.5em"><font size=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"http://sc=
+holar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://ebiquity.umbc.edu/get/a/=
+publication/682.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm1SmfEwvkLikCgS5mESMF6R0ep=
+9Ww&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D"text-deco=
+ration:underline">Extracting cybersecurity related <b>linked data </b>from =
+text}</font></a></h3><div><font size=3D2 color=3D#009933>A Joshi, R Lal, T =
+Finin, A Joshi, A Joshi, R Lal, T Finin&hellip; - Proceedings of the 7th IE=
+EE  &hellip;</font></div><div><font size=3D2 color=3D#222222>Abstract=E2=80=
+=94The Web is typically our first source of information about new software =
+<br>vulnerabilities, exploits and cyber-attacks. Information is found in se=
+mi-structured <br>vulnerability databases as well as in text from security =
+bulletins, news reports, <b> ...</b></font></div><br><p><hr noshade size=3D=
+1><font size=3D2 color=3D#222222>Dieser Google Scholar-Alert wird Ihnen von=
+ Google zur Verf=C3=BCgung gestellt.<br><br><a href=3D"http://scholar.googl=
+e.de/scholar_alerts?view_op=3Dcancel_alert_options&amp;email_for_op=3Derict=
+essenow%40web.de&amp;alert_id=3DAIfevv3NkPcJ&amp;hl=3Dde"><font color=3D#11=
+22cc>Alert stornieren</font></a><br></font></div></body></html>

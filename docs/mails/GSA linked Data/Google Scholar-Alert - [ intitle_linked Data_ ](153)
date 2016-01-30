@@ -1,0 +1,200 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.79.82.193 with SMTP id g184csp2089438ivb;
+        Mon, 25 May 2015 20:56:48 -0700 (PDT)
+X-Received: by 10.50.44.99 with SMTP id d3mr3784108igm.10.1432612603030;
+        Mon, 25 May 2015 20:56:43 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3-O1jVRUKDBUDx296vCv6zCED-89CzA6J19916z.x97zC3xEzDDz89HHzw.yz@scholar-alerts.bounces.google.com designates 209.85.220.74 as permitted sender) smtp.mail=3-O1jVRUKDBUDx296vCv6zCED-89CzA6J19916z.x97zC3xEzDDz89HHzw.yz@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3-O1jVRUKDBUDx296vCv6zCED-89CzA6J19916z.x97zC3xEzDDz89HHzw.yz@scholar-alerts.bounces.google.com designates 209.85.220.74 as permitted sender) client-ip=209.85.220.74;
+Received: by 10.64.62.115 with POP3 id x19mf7916438ier.14;
+        Mon, 25 May 2015 20:56:42 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3-O1jVRUKDBUDx296vCv6zCED-89CzA6J19916z.x97zC3xEzDDz89HHzw.yz@scholar-alerts.bounces.google.com
+Received: from mail-pa0-f74.google.com ([209.85.220.74]) by mx-ha.web.de
+ (mxweb104) with ESMTPS (Nemesis) id 0MZjda-1YiAKK18gA-00LUQw for
+ <erictessenow@web.de>; Tue, 26 May 2015 05:52:26 +0200
+Received: by pablj1 with SMTP id lj1so7157285pab.1
+        for <erictessenow@web.de>; Mon, 25 May 2015 20:52:24 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=PELZzzX/p9TszHct8sfIYiPy/W/sFIaDDDNVU4bAszY=;
+        b=BIIOPHHLX1kSeaJli0kCCgoRrzjwM9lv4LrBpWBX7x/6KVN6+kNCnm63tXmOFf40Uk
+         VKuOGSsh9BYNp28adZoZwbZjj9ty1JaJMh+ODV/c/aGHpJ9P/wb8TycoR7MNvEYwwnab
+         H7QcDsTsnv1svYPzVAtVZCXLIPbPHVESrdQUaqm8VRZf51/KrtYxxyNk1OdRIYnPPzlS
+         1c7R0qNcvwuMe9UQ13gbZ+5VM36Y5Oblixnl1FMB4XLMqCOrwev8SjAk8FkiVsDopF7Z
+         FqEchfRMKiwQYOkv65dTfpDKxOAaG6yeNAf5dsCtKwBcvmdbIBGn99KGV6wZJI+8rLz1
+         dw6w==
+MIME-Version: 1.0
+X-Received: by 10.68.255.68 with SMTP id ao4mr31760876pbd.13.1432612344751;
+ Mon, 25 May 2015 20:52:24 -0700 (PDT)
+Message-ID: <047d7b672192e8e6a40516f40d4c@google.com>
+Date: Tue, 26 May 2015 03:52:24 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:ETYlR9eO6hs=:ekk95Q9/yOw3G+M1PVH2CaP6t5
+ 7/KUM5SziRgOG9Gboeaar2OYKWqfYBGHmpq040ciQnK2Yv4JZUtc4lp0bFNlSTzyPDhALXAP5
+ iubiPrYu26GH/LEkIETxl7cnpN6jAxq8lPd3+WMvTKk5PZMbENpp91MWjYLCUW6vFnmjeO27M
+ M4kBTdNAORnRsO5ayq0iZ48+dHtddtobUtddYLftjI7/H5j1orQb3NrvIl8olSOO2IyqIFxva
+ IcpQUFP76ru4s6CXJJsZC607T6PPPXCZBmu1VJ+8QHQBTFdym5R/VVSo3kNf/hz9OZBoABCTY
+ +DZqJHTvuRhID1L0f0xnQYjHa1YE/zx7FoTruSCpcSk4qL/ZIGXK4lhAxrpViuumitC8uBOpO
+ DNYyzCNm000UdmIpRLFtzg5WRbJEbfAA3zK5Z4PmSBpMmtJiSDQqiaZ4pNjzPnQqiNU/O6Xmb
+ Nj29GD61vMQtPsujQzP0G1niUfTmL2HxV18eIG9sQDPGHpqf83zAjNsGpKAtGXvtMIU/inglT
+ XO8H2iG5YpsWQoZ3QJe8bIfExs7wCu5uO7EKgj2U4uvzJRn6dluPNA+GCBat+526Y7G33XIpd
+ xYTlpDqwYDg3gwR1OzvyeuhpGubKwC2STonQajxjsNz40XRXJNZ1OXo2UdwOT57qs56fhNZvu
+ u2mKV2T9jMZY9Rmby0i6bu9q96K/x1EJI4kuFxMrOh8mof/DnshC9X0KYgqnqLub2Ho560XvM
+ EFCUKAZbuDiUCyX94aRUFHQX8F2UsgGmH0uDIE9n/U87yrDnrzlWmMEcLS/47cnEla3XbT1cX
+ RfGkUOcD6rWCfc339U4YJTxxD1jJ80It1QlgXTi7IwpzOiiLbEzDONT7+GzAWDdl27lxwQsob
+ kJ6ivCVAnj4pO4h7+u1LyplbqsdLGIrcP2h1dtR6PaZ4R09q4pvufvEwbWH3IW7EbF4HSRJcy
+ GGDSp7A2EaRwhEZa4QTS1KpObgLTHPqyv8ocKUJ4iR/PGgQLi3POWKTtRVFJOXXoix+uK6WqY
+ +heFkXqCARWarEbE1T3xaXwRuyfYa+0XwOtg59L67RmXVfvTz5qRIxsWsAxhvW5RsKwqPLETR
+ G3yNVhbpVsdiNgTDNCk5HhRfpje6QOrrme7ZYvARE/5VlhyVmZkovvEcRpKRUFYpUjvDqDv+q
+ jsJHsmcn265RJDj0vqkfv0wPlwWziQ9j1Di8PCMMlKQ7pajX/W3FGo7X9urmw1SUTqgPFWyYS
+ Q9FlLNbNXGC+d5T3bnqTDQyB3SgvLzOJjFQZH2dLZxsbBhbf/ZppqTj0mMW8rYJEJ5bi0Sv/T
+ 4r8Q
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D=
+2 color=3D#1a0dab>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_=
+url?url=3Dhttp://online.vraweb.org/cgi/viewcontent.cgi%3Farticle%3D1056%26c=
+ontext%3Dvrab&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm0B8bzgcRkkgT2rYVGfW=
+CP2h0d_fA&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0da=
+b style=3D"text-decoration:underline">Using the Getty Vocabularies as Linke=
+d Open Data in a Cataloging Tool for an Academic Teaching Collection: Case =
+Study at the University of Denver</font></a></h3><div><font size=3D2 color=
+=3D#006621>H Seneff, ST Yeh, F Reyes - 2015</font></div><div><font size=3D2=
+ color=3D#222222><b>...</b> machine-readable and logical connections can be=
+ made between =E2=80=9Cthings.=E2=80=9D Sir Tim Berners-Lee<br>
+(who is considered the inventor of the Internet and is now Director of the =
+World Wide Web<br>
+Consortium) envisions the developing Semantic Web as a =E2=80=9Cweb of <b>l=
+inked</b> <b>data</b>=E2=80=9D rather than <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttp://ceur-ws.org/Vol-1365/paper1=
+0.pdf&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm0Vc6-UG7c6FnS2ArTgYciFRA1jT=
+w&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=
+=3D"text-decoration:underline">A <b>Linked Data</b>-Based Decision Tree Cla=
+ssifier to Review Movies</font></a></h3><div><font size=3D2 color=3D#006621=
+>S Aldarra, E Munoz - 4th International Workshop on Knowledge Discovery  &h=
+ellip;, 2015</font></div><div><font size=3D2 color=3D#222222>Abstract. In t=
+his paper, we describe our contribution to the 2015 <b>Linked Data </b>Mini=
+ng <br>Challenge. The proposed task is concerned with the prediction of rev=
+iew of movies as <br>=E2=80=9Cgood=E2=80=9D or =E2=80=9Cbad=E2=80=9D, as do=
+es Metacritic website based on critics&#39; reviews. First we describe the =
+<b> ...</b></font></div><br><h3 style=3D"font-weight:normal;margin:0;font-s=
+ize:medium;max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a=
+ href=3D"http://scholar.google.de/scholar_url?url=3Dhttps://www.asis.org/Bu=
+lletin/Apr-15/AprMay15_Corcho_EtAl.pdf&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3D=
+AAGBfm09JBVFeDB0iH3m3AhED0slX_Uvjw&amp;nossl=3D1&amp;oi=3Dscholaralrt"><fon=
+t size=3D3 color=3D#1a0dab style=3D"text-decoration:underline">Ontology eng=
+ineering in the era of <b>linked data</b></font></a></h3><div><font size=3D=
+2 color=3D#006621>O Corcho, M Poveda=E2=80=90Villal=C3=B3n, A G=C3=B3mez=E2=
+=80=90P=C3=A9rez - Bulletin of the American Society for  &hellip;, 2015</fo=
+nt></div><div><font size=3D2 color=3D#222222>In computer science, the term =
+ontology refers to a =E2=80=9Cformal, explicit specification of a shared <b=
+r>conceptualization=E2=80=9D[1]. Conceptualization refers to an abstract mo=
+del that allows describing <br>something relevant in the world, for which w=
+e normally use concepts, properties and <b> ...</b></font></div><br><h3 sty=
+le=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a hre=
+f=3D"http://scholar.google.de/scholar_url?url=3Dhttp://onlinelibrary.wiley.=
+com/doi/10.1002/bult.2015.1720410406/full&amp;hl=3Dde&amp;sa=3DX&amp;scisig=
+=3DAAGBfm38bAQComKql3IR6JnqKrcVpPQ2iQ&amp;nossl=3D1&amp;oi=3Dscholaralrt"><=
+font size=3D3 color=3D#1a0dab style=3D"text-decoration:underline"><b>Linked=
+ data </b>and the charm of weak semantics: Introduction: The strengths of w=
+eak semantics</font></a></h3><div><font size=3D2 color=3D#006621>T Baker, S=
+A Sutton - Bulletin of the American Society for Information Science &hellip=
+;, 2015</font></div><div><font size=3D2 color=3D#222222>Wide Web technology=
+. One of its roots reached back to the 1955 meme of artificial <br>intellig=
+ence, with its notion =E2=80=9Cthat every aspect of learning or any other f=
+eature of intelligence <br>can in principle be so precisely described that =
+a machine can be made to simulate it.=E2=80=9D[1, p. <b> ...</b></font></di=
+v><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;max-width:4=
+4.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"http://schola=
+r.google.de/scholar_url?url=3Dhttps://www.asis.org/Bulletin/Apr-15/AprMay15=
+_Isaac_Baker.pdf&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm0JdOFdsiPsP5rhNm=
+9brTMk51QAUg&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a=
+0dab style=3D"text-decoration:underline"><b>Linked data </b>practice at dif=
+ferent levels of semantic precision: The perspective of libraries, archives=
+ and museums</font></a></h3><div><font size=3D2 color=3D#006621>A Isaac, T =
+Baker - Bulletin of the American Society for Information Science &hellip;, =
+2015</font></div><div><font size=3D2 color=3D#222222><b>Linked data </b>for=
+ libraries, museums and archives (LAM) draws on and integrates a broad <br>=
+variety of structured schemas and vocabularies, some of which have develope=
+d over a <br>period of decades. In the <b>linked data </b>environment, all =
+such semantic artifacts are <b> ...</b></font></div><br><h3 style=3D"font-w=
+eight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"http://=
+scholar.google.de/scholar_url?url=3Dhttp://www.tandfonline.com/doi/abs/10.1=
+080/0361526X.2015.1021217&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm0wmtwPh=
+RqSW-OkfWg-L2C5p7mBhA&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 co=
+lor=3D#1a0dab style=3D"text-decoration:underline">The Power of Sharing <b>L=
+inked Data</b>: Giving the Web What It Wants</font></a></h3><div><font size=
+=3D2 color=3D#006621>R Wallis, D Walters - The Serials Librarian, 2015</fon=
+t></div><div><font size=3D2 color=3D#222222>Richard Wallis (OCLC) presented=
+ at the NASIG 2014 Conference in Fort Worth, Texas, <br>describing how <b>l=
+inked data </b>can make the discoverability of libraries on the web <br>ins=
+tantaneous and ubiquitous. A technology evangelist, Richard explained how w=
+e can <b> ...</b></font></div><br><h3 style=3D"font-weight:normal;margin:0;=
+font-size:medium;max-width:44.5em"><a href=3D"http://scholar.google.de/scho=
+lar_url?url=3Dhttp://link.springer.com/chapter/10.1007/978-3-319-18818-8_38=
+&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm1lYUbeNjVzmVyfYpLzncYefmbBVw&amp=
+;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"te=
+xt-decoration:underline">Desperately Searching for Travel Offers? Formulate=
+ Better Queries with Some Help from <b>Linked Data</b></font></a></h3><div>=
+<font size=3D2 color=3D#006621>C Lu, M Stankovic, P Laublet - The Semantic =
+Web. Latest Advances and New  &hellip;, 2015</font></div><div><font size=3D=
+2 color=3D#222222>Abstract Various studies have reported on inefficiencies =
+of existing travel search engines, <br>and user frustration generated throu=
+gh hours of searching and browsing, often with no <br>satisfactory results.=
+ Not only do the users fail to find the right offer in the myriad of websit=
+es<b> ...</b></font></div><br><h3 style=3D"font-weight:normal;margin:0;font=
+-size:medium;max-width:44.5em"><a href=3D"http://scholar.google.de/scholar_=
+url?url=3Dhttp://link.springer.com/chapter/10.1007/978-3-319-18818-8_37&amp=
+;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm0YfYiUAwVFE7OVMmAqrw8VTC8yrw&amp;nos=
+sl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-d=
+ecoration:underline">Crowdmapping Digital Social Innovation with <b>Linked =
+Data</b></font></a></h3><div><font size=3D2 color=3D#006621>H Halpin, F Bri=
+a - The Semantic Web. Latest Advances and New  &hellip;, 2015</font></div><=
+div><font size=3D2 color=3D#222222>Abstract The European Commission recentl=
+y became interested in mapping digital social <br>innovation in Europe. In =
+order to understand this rapidly developing if little known area, a <br>vis=
+ual and interactive survey was made in order to crowd-source a map of digit=
+al social <b> ...</b></font></div><br><h3 style=3D"font-weight:normal;margi=
+n:0;font-size:medium;max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]=
+</font> <a href=3D"http://scholar.google.de/scholar_url?url=3Dhttps://www.a=
+sis.org/Bulletin/Apr-15/AprMay15_Miller_Ogbuji.pdf&amp;hl=3Dde&amp;sa=3DX&a=
+mp;scisig=3DAAGBfm003CbkFjvC23RJRKJBV1gMFTqtuQ&amp;nossl=3D1&amp;oi=3Dschol=
+aralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:underline">=
+<b>Linked data </b>design for the visible library</font></a></h3><div><font=
+ size=3D2 color=3D#006621>E Miller, U Ogbuji - Bulletin of the American Soc=
+iety for Information Science &hellip;, 2015</font></div><div><font size=3D2=
+ color=3D#222222>Eric Miller is president and founder of Zepheira and found=
+ing sponsor of the Libhub <br>Initiative. Known for his leadership in the d=
+evelopment and deployment of Semantic Web <br>technologies both at Zepheira=
+ and previously at the World Wide Web Consortium (W3C), <b> ...</b></font><=
+/div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;max-widt=
+h:44.5em"><a href=3D"http://scholar.google.de/scholar_url?url=3Dhttp://link=
+.springer.com/chapter/10.1007/978-3-662-47157-9_11&amp;hl=3Dde&amp;sa=3DX&a=
+mp;scisig=3DAAGBfm0wAnp-36yxVI2_CByoLafywSKbMg&amp;nossl=3D1&amp;oi=3Dschol=
+aralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:underline">=
+<b>Linked Data </b>for Transaction Based Enterprise Interoperability</font>=
+</a></h3><div><font size=3D2 color=3D#006621>E Folmer, D Krukkert - Enterpr=
+ise Interoperability, 2015</font></div><div><font size=3D2 color=3D#222222>=
+Abstract Interoperability is of major importance in B2B environments. Start=
+ing with EDI in the <br>&#39;80s, currently interoperability relies heavily=
+ on XML-based standards. Although having great <br>impact, still issues rem=
+ain to be solved for improving B2B interoperability. These issues <b> ...</=
+b></font></div><br><p><hr noshade size=3D1><font size=3D2 color=3D#222222>D=
+ieser Google Scholar-Alert wird Ihnen von Google zur Verf=C3=BCgung gestell=
+t.<br><br><a href=3D"http://scholar.google.de/scholar_alerts?view_op=3Dcanc=
+el_alert_options&amp;email_for_op=3Derictessenow%40web.de&amp;alert_id=3DAI=
+fevv3NkPcJ&amp;hl=3Dde"><font color=3D#1a0dab>Alert stornieren</font></a><b=
+r></font></div></body></html>

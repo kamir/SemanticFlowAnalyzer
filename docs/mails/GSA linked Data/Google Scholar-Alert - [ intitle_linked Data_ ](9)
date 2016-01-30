@@ -1,0 +1,197 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.64.243.69 with SMTP id ww5csp57201iec;
+        Fri, 28 Mar 2014 18:15:22 -0700 (PDT)
+X-Received: by 10.50.6.75 with SMTP id y11mr27214igy.6.1396055720104;
+        Fri, 28 Mar 2014 18:15:20 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 31B02UxUKDIc3nszwl2lwp243-yz2p0w9rzzrwp.nzxp2tn4p33pyz77pm.op@scholar-alerts.bounces.google.com designates 209.85.220.73 as permitted sender) smtp.mail=31B02UxUKDIc3nszwl2lwp243-yz2p0w9rzzrwp.nzxp2tn4p33pyz77pm.op@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 31B02UxUKDIc3nszwl2lwp243-yz2p0w9rzzrwp.nzxp2tn4p33pyz77pm.op@scholar-alerts.bounces.google.com designates 209.85.220.73 as permitted sender) client-ip=209.85.220.73;
+Received: by 10.50.16.163 with POP3 id h3mf535300igd.13;
+        Fri, 28 Mar 2014 18:15:18 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 31B02UxUKDIc3nszwl2lwp243-yz2p0w9rzzrwp.nzxp2tn4p33pyz77pm.op@scholar-alerts.bounces.google.com
+Received: from mail-pa0-f73.google.com ([209.85.220.73]) by mx-ha.web.de
+ (mxweb109) with ESMTPS (Nemesis) id 0LxaTP-1X9RXS2iYV-017CHj for
+ <erictessenow@web.de>; Sat, 29 Mar 2014 02:11:50 +0100
+Received: by mail-pa0-f73.google.com with SMTP id kq14so749515pab.4
+        for <erictessenow@web.de>; Fri, 28 Mar 2014 18:11:48 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=ATYHLHqH8Oswfh70ovxRKm5g6oPl6mCGKyDqMt1AL4w=;
+        b=GmfgV6UuuFZQ9O8AuCogQLbNWp01eEBUDcyt/OXF4a0q1NVSdV4cmLCgy5R+KHRM/k
+         AQQphB6X7uYy6RXJVDcyS3s36I5bWyl3x80KXOOyLrqJmYN/o2scYKvRROFXVOQk/amt
+         vwU5BgsUuUE1QCC5hJ4UCRHujkhevw9QwAgiiCcfkb8G5PS0C/DtCiJzGUFT6N4v5vX0
+         YTIoJHxeiBfOS2aXWzWoEfMuOwh/hkaeefe318DWxWgDK8emOJ4JOrxMLozoGWpM7zHu
+         wk5bO1a+t32EfmQ3h3Sn+xQQWfv77J1qFO3zEpKsptKwWC7ZIOqGQWQeK3ShsAd6C+fc
+         faCQ==
+MIME-Version: 1.0
+X-Received: by 10.66.102.8 with SMTP id fk8mr4540439pab.24.1396055508178; Fri,
+ 28 Mar 2014 18:11:48 -0700 (PDT)
+Message-ID: <047d7bd8f86ea6d8e304f5b4808e@google.com>
+Date: Sat, 29 Mar 2014 01:11:48 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:hctJKYoiKSo=:lfo4jXV8SiIlbek80jcHC73qnM
+ e0d180Ztii9QgJl3IGmArHkgKBNBCbnFJMWAtk8/FswFdlHa7hfksGEcVroIwIrovQ8zTcqQh
+ OoFb/5KOhk9IfEfTFTLSy8DN2JvbqEvvYIaSOrLqZiYpPIgKuT0n1od4NvKHGhc0xq1Dy/HFp
+ t2osp9zyMfztWva19t9/Intaits4p8xTrElHyPmZP2zrXBza54XqbmNzYGyHA3byo89GvsC+v
+ JOcYgexmboYnlJDOKKHootIjTj4zPrwIqwZRp5hKAysOrLDWnIF2tf8OlIx2w4jXWRBsNBpn7
+ l471Vx0CbVhVmcS/aAe/N7T0m02pLtSZngYGs/l9qkU9KoxYBvM2h9u+ULIVgz7pO+62U4IEi
+ g4e/gS/ivM3vAtzPwqec5VmqSlv+97XIfZXV3Y3y68Czx1kZKRJ7RqSmWztxgqBgIOEq2Jr+A
+ N67R92JGScm82/GasFpO/occBDBetsPfdV1KaghdHCmOAszPdQ70Ctrln6UqnYjkJzasNp3od
+ Iud/jxzd/KUMf+K4Fak/nNTF12Epm7+Dpo0MX4/7JYVIKHCS0S3CdylwHbwluSdVNqouOPWyt
+ RF7tFtpS7OHfYBTTlQUtgVDVWsFFF0wpDyPYx6P2MeZNCe2G7g2veEXZf4kdqtoRv9HCRhobs
+ ji8MLdZ1N6lVhJgzgr4RsG8l/RcZiIqcW4/0k0uhTIpi021B7fUCkyLeQv1oIn+2Utu5deIrG
+ ywCVeaW46NONsmF7Fnjaw7nQ3SZBCw2A2kQLT+o/vYiE/FfqpDF0WnLwGb0QZYZ0wMsCpOoEh
+ sgGijLhVOfna4lNBVIIP38Zxpv2UZX2Kzpc+hosZSWklrSbgN9a8rEmD5RPClzaSk+umqhvI2
+ FaIacI3SOOxz8uVq0yY25gfdcA5Gc/cKKfUTm6WQ47NEkQCAN1EupGyrgqBMu79mVH0nDiamn
+ +5ak5hmFXp53zdGMcCDzp362ILQUUZU2+r2ayUp67k8a6qx7jIMIAeWDpqMHjGcABceFW3CHo
+ bU7QbAMH+2exyrXNmytqxmGIDvHWs43YE4mFA89GYtZIpxAGuFc+aP7e2B30CBiOAiFr3RHXz
+ z7VSjuQWNbIFLkovBr/Lj9N11PTzqWd50Ru7L7oG5pjmkgty+aNDfxlwKyjVimJfiejySlqmf
+ pnvhppwigexHnV+9BRk5F6kVpkf4ALH3xH68J05pVX39Jjc3pwcPvXxv1bC95xx/tAyfT0EuF
+ p8JcUoOxA4w788Q3TZFuPh+8M5q0oEfaWR5PMw8SuZP3BhjpJYW7V02QYTA3oaWX7AzqjmzDC
+ UxXHyEmEBpSteNNFRuswRpkZY137u6Cema0npKRnTZ4uUoTTrPwlFhrBhBxjdd8+nmwzGiSQp
+ YOb8z6B6OaHMIyZwA==
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D=
+2 color=3D#1122cc>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_=
+url?hl=3Dde&amp;q=3Dhttp://www.biomedcentral.com/content/pdf/1471-2431-14-8=
+0.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm1MfhzPWfACJog6xlJnHYDItNU0bA&amp;oi=3Ds=
+cholaralrt"><font size=3D3 color=3D#1122cc style=3D"text-decoration:underli=
+ne">Morbidity due to acute lower respiratory infection in children with bir=
+th defects: a total population-based <b>linked data </b>study</font></a></h=
+3><div><font size=3D2 color=3D#009933>KA Jama-Alol, HC Moore, P Jacoby, C B=
+ower&hellip; - BMC pediatrics, 2014</font></div><div><font size=3D2 color=
+=3D#222222>Background Acute lower respiratory infections (ALRIs) are leadin=
+g causes of hospitalisation <br>in children. Birth defects occur in 5% of l=
+ive births in Western Australia (WA). The association <br>between birth def=
+ects and ALRI hospitalisation is unknown. Methods We conducted a <b> ...</b=
+></font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium=
+;max-width:44.5em"><a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&=
+amp;q=3Dhttp://ieeexplore.ieee.org/xpls/abs_all.jsp%3Farnumber%3D6777473&am=
+p;sa=3DX&amp;scisig=3DAAGBfm0_haby8CKMghKl2iXtWxOySj9bJA&amp;oi=3Dscholaral=
+rt"><font size=3D3 color=3D#1122cc style=3D"text-decoration:underline">Let&=
+#39;s&quot; Downscale&quot; <b>Linked Data</b></font></a></h3><div><font si=
+ze=3D2 color=3D#009933>C Gueret, V de Boer, S Schlobach - Internet Computin=
+g, IEEE, 2014</font></div><div><font size=3D2 color=3D#222222>The Internet =
+has revolutionized the world and, with it, the way many of us do business, =
+<br>collect information, and communicate. <b>Linked data </b>is expected to=
+ advance information <br>exchange to a new level by connecting machinereada=
+ble information to facilitate data <b> ...</b></font></div><br><h3 style=3D=
+"font-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=
+=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"http://scholar.google.de/schol=
+ar_url?hl=3Dde&amp;q=3Dhttp://events.linkeddata.org/ldow2014/papers/ldow201=
+4_paper_13.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm21WZWQkoTNSKWSiCLPg__jONCx8g&a=
+mp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D"text-decoratio=
+n:underline">Application of the <b>Linked Data </b>Visualization Model on R=
+eal World Data from the Czech LOD Cloud</font></a></h3><div><font size=3D2 =
+color=3D#009933>J Kl=C3=ADmek, J Helmich, M Necask=C3=BD - 2014</font></div=
+><div><font size=3D2 color=3D#222222>ABSTRACT In the recent years the Linke=
+d Open Data phenomenon has gained a <br>substantial traction. This has lead=
+ to a vast amount of data being available on the Web in <br>what is known a=
+s the LOD cloud. While the potential of this <b>linked data </b>space is hu=
+ge, it <b> ...</b></font></div><br><h3 style=3D"font-weight:normal;margin:0=
+;font-size:medium;max-width:44.5em"><font size=3D2 color=3D#1122cc>[PDF]</f=
+ont> <a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp:/=
+/events.linkeddata.org/ldow2014/papers/ldow2014_paper_08.pdf&amp;sa=3DX&amp=
+;scisig=3DAAGBfm0Clgz6Zt9F9M77iWZ4jdh9GzuXCg&amp;oi=3Dscholaralrt"><font si=
+ze=3D3 color=3D#1122cc style=3D"text-decoration:underline">Will <b>Linked D=
+ata </b>Benefit from Inverse Link Traversal?</font></a></h3><div><font size=
+=3D2 color=3D#009933>S Scheglmann, A Scherp - 2014</font></div><div><font s=
+ize=3D2 color=3D#222222>ABSTRACT Query execution using link-traversal is a =
+promising approach for retrieving and <br>accessing data on the web. Howeve=
+r, this approach finds its limitation when it comes to <br>query patterns s=
+uch as? s rdf: type ex: Employee, where one does not know the subject <b> .=
+..</b></font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:m=
+edium;max-width:44.5em"><font size=3D2 color=3D#1122cc>[PDF]</font> <a href=
+=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://events.link=
+eddata.org/ldow2014/papers/ldow2014_paper_07.pdf&amp;sa=3DX&amp;scisig=3DAA=
+GBfm2dsMF2UxY3DuYL-5tTPDE3CCpoOQ&amp;oi=3Dscholaralrt"><font size=3D3 color=
+=3D#1122cc style=3D"text-decoration:underline">Programmable Analytics for L=
+inked Open Data</font></a></h3><div><font size=3D2 color=3D#009933>B Hu, E =
+Mendes, E Viel</font></div><div><font size=3D2 color=3D#222222><b>...</b> O=
+n the contrary, it is observed that, in many occa- sions, after the initial=
+ spark of interest and test<br>
+applications, data use at many <b>linked</b> <b>data</b> hosting sites decl=
+ined signifi- cantly [3]. Some critics<br>
+believed that the massive amounts of 1http://stats.lod2.eu. Accessed: Janua=
+ry 2014. <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://downloads.hindawi=
+.com/journals/ijdsn/aip/813875.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm03Z_D50rQL=
+leRxYtcuWBbK1klBDg&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc sty=
+le=3D"text-decoration:underline">Semantic Information Integration with <b>L=
+inked Data </b>Mashups Approaches</font></a></h3><div><font size=3D2 color=
+=3D#009933>HH Hoang, TNP Cung, DK Truong, D Hwang, JJ Jung</font></div><div=
+><font size=3D2 color=3D#222222>Abstract. The introduction of Semantic Web =
+and <b>Linked Data </b>helps facilitate sharing of data <br>on the Internet=
+ more easily. Subsequently, the Resource Description Framework (RDF) is <br=
+>the standard in publishing structured data resources on the Internet and u=
+sed in <b> ...</b></font></div><br><h3 style=3D"font-weight:normal;margin:0=
+;font-size:medium;max-width:44.5em"><font size=3D2 color=3D#1122cc>[PDF]</f=
+ont> <a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp:/=
+/www.sheridanprinting.com/14-www-comp2ch4rv3-19/companion/p243.pdf&amp;sa=
+=3DX&amp;scisig=3DAAGBfm3GtEP15-lnByBBdsnnN2B91UivqQ&amp;oi=3Dscholaralrt">=
+<font size=3D3 color=3D#1122cc style=3D"text-decoration:underline">Adaptive=
+ Presentation of <b>Linked Data </b>on Mobile</font></a></h3><div><font siz=
+e=3D2 color=3D#009933>L Costabello, F Gandon</font></div><div><font size=3D=
+2 color=3D#222222>ABSTRACT We present PRISSMA, a context-aware presentation=
+ layer for <b>Linked Data</b>. <br>PRISSMA extends the Fresnel vocabulary w=
+ith the notion of mobile context. Besides, it <br>includes an algorithm tha=
+t determines whether the sensed context is compatible with <b> ...</b></fon=
+t></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;max-w=
+idth:44.5em"><font size=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"http://=
+scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://www.sheridanprinting.c=
+om/14-www-comp2ch4rv3-19/companion/p99.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm3q=
+j5gfdEjzUNCH5EuyOwDHXKIFZA&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#11=
+22cc style=3D"text-decoration:underline">Collaborative Adaptive Case Manage=
+ment with <b>Linked Data</b></font></a></h3><div><font size=3D2 color=3D#00=
+9933>S Heil, S Wild, M Gaedke</font></div><div><font size=3D2 color=3D#2222=
+22>ABSTRACT An increasing share of today&#39;s work is knowledge work. Adap=
+tive Case <br>Management (ACM) assists knowledge workers in handling this c=
+ollaborative, emergent and <br>unpredictable type of work. Finding suitable=
+ workers for specific functions still relies on <b> ...</b></font></div><br=
+><h3 style=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em=
+"><font size=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"http://scholar.goo=
+gle.de/scholar_url?hl=3Dde&amp;q=3Dhttp://events.linkeddata.org/ldow2014/pa=
+pers/ldow2014_paper_06.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm2-NHHrWE8s4DQEdY7_=
+GzcW24FOJg&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D"te=
+xt-decoration:underline"><b>Linked Data </b>Query Wizard: A Novel Interface=
+ for Accessing SPARQL Endpoints</font></a></h3><div><font size=3D2 color=3D=
+#009933>P Hoefler, M Granitzer, E Veas, C Seifert</font></div><div><font si=
+ze=3D2 color=3D#222222>ABSTRACT In an interconnected world, <b>Linked Data =
+</b>is more important than ever before. <br>However, it is still quite diff=
+icult to access this new wealth of semantic data directly without <br>havin=
+g in-depth knowledge about SPARQL and related semantic technologies. Also, =
+most <b> ...</b></font></div><br><h3 style=3D"font-weight:normal;margin:0;f=
+ont-size:medium;max-width:44.5em"><font size=3D2 color=3D#1122cc>[PDF]</fon=
+t> <a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://e=
+vents.linkeddata.org/ldow2014/papers/ldow2014_paper_12.pdf&amp;sa=3DX&amp;s=
+cisig=3DAAGBfm2uCURUoLM1Un7TA17PD72tST02AA&amp;oi=3Dscholaralrt"><font size=
+=3D3 color=3D#1122cc style=3D"text-decoration:underline">Social Web Meets S=
+ensor Web: From User-Generated Content to Linked Crowdsourced Observation D=
+ata</font></a></h3><div><font size=3D2 color=3D#009933>DP Deng, GS Mai, TR =
+Chuang, R Lemmens, KT Shao</font></div><div><font size=3D2 color=3D#222222>=
+<b>...</b> For a copy of the license, please visit &lt;http://creativecommo=
+ns.org/licenses/by/4.0/&gt;. <b>Linked</b> <b>Data</b><br>
+on the Web (LDOW2014), April 8, 2014. <b>...</b> Keywords Citizen Science, =
+Crowdsourcing, Facebook,<br>
+GeoSPARQL, <b>Linked</b> <b>Data</b>, Sensor Network, User-Generated Conten=
+t (UGC). <b>...</b>=20
+</font></div><br><p><hr noshade size=3D1><font size=3D2 color=3D#222222>Die=
+ser Google Scholar-Alert wird Ihnen von Google zur Verf=C3=BCgung gestellt.=
+<br><br><a href=3D"http://scholar.google.de/scholar_alerts?view_op=3Dcancel=
+_alert_options&amp;email_for_op=3Derictessenow%40web.de&amp;alert_id=3DAIfe=
+vv3NkPcJ&amp;hl=3Dde"><font color=3D#1122cc>Alert stornieren</font></a><br>=
+</font></div></body></html>

@@ -1,0 +1,85 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.55.19.134 with SMTP id 6csp253788qkt;
+        Wed, 25 Nov 2015 20:32:55 -0800 (PST)
+X-Received: by 10.55.207.139 with SMTP id v11mr43915714qkl.53.1448512369296;
+        Wed, 25 Nov 2015 20:32:49 -0800 (PST)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3aXtWVhUKDHIiSXebQhQbUhji-dehUfboWeeWbU.SecUhYSjUiiUdemmUR.TU@scholar-alerts.bounces.google.com designates 209.85.220.74 as permitted sender) smtp.mailfrom=3aXtWVhUKDHIiSXebQhQbUhji-dehUfboWeeWbU.SecUhYSjUiiUdemmUR.TU@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3aXtWVhUKDHIiSXebQhQbUhji-dehUfboWeeWbU.SecUhYSjUiiUdemmUR.TU@scholar-alerts.bounces.google.com designates 209.85.220.74 as permitted sender) client-ip=209.85.220.74;
+Received: by 10.55.99.202 with POP3 id x193mf9383674qkb.0;
+        Wed, 25 Nov 2015 20:32:49 -0800 (PST)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: <3aXtWVhUKDHIiSXebQhQbUhji-dehUfboWeeWbU.SecUhYSjUiiUdemmUR.TU@scholar-alerts.bounces.google.com>
+Received: from mail-pa0-f74.google.com ([209.85.220.74]) by mx-ha.web.de
+ (mxweb108) with ESMTPS (Nemesis) id 0MQ4LP-1Zx64m0eh9-005ItJ for
+ <erictessenow@web.de>; Thu, 26 Nov 2015 04:24:27 +0100
+Received: by pagj16 with SMTP id j16so10937046pag.1
+        for <erictessenow@web.de>; Wed, 25 Nov 2015 19:24:25 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=b1JBUB8ywkDN1hzyOo0+YBvmJ9jY5jDx1ZX4NRVrHqw=;
+        b=go1YrdBY51XMjsOvhKeO9b0UuYsgToPIHYF5ChJXs5nJA4SkcRuxY6WxBxdIGCQROv
+         gzTR8qQqRJzSU32m4HJ+ImaSWLYDCj9gjhLaSLVgGgYVk0rQJ4oY3vDlBaZVL0uWCPdh
+         0ZvVJRu8+S85pAWkmMC82YXU3hdubgRkifZwPpF1gh142+T377bMcIPukvpf5XJoPe8i
+         fghZDWGxBE/lGdlHQO1Efk4i3cQQm54jM7u6OLpKU72cKW0cy1ePXJDnEYkxqc9mFrZp
+         WPB8hn4QeuQhApTLMzN8JrOzkflx5fdLTZOGKWE4oBFrYxhPKPu+1UeTdRj3g9wiVy95
+         RHiQ==
+MIME-Version: 1.0
+X-Received: by 10.66.160.197 with SMTP id xm5mr38718261pab.3.1448508265733;
+ Wed, 25 Nov 2015 19:24:25 -0800 (PST)
+Message-ID: <e89a8f503884a21d750525691cfc@google.com>
+Date: Thu, 26 Nov 2015 03:24:25 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:V8+FOvkJlCI=:jWs1DZstu2Uvrfy7jA5KIbN6/X
+ jihqp6YD7zmEr/rkJOS0kN48UBKRWQ8NS2gEGU8P5LENA81QSYuFh5xB9mms7AiWJZXqjYXx7
+ httODAqQUVEqIoeSunjgy9AqOPKHjhsNLEqnUIpgoNPsjAa3RSJ/x1RQvoecPRpYn4EqXFdXU
+ 9D7RU0ogOAByaiawpnzM1WvQ2nZMYc0xqyAXwUt+8wqN7CRwRiXg43nS8bpQyV7gkp45cZ2FW
+ ILihRrIEO16LIQDKG2qrR1Tl4GC2FVPLToFZBrS0d8X6eEWpL9876d9T0ojBHyur+Qa2JwD9i
+ tr0gFQv7X+JaVn4aW32abP2EZ5YK1dlOhmyRyG5r6Ukmj4vjVjQpYjJNTmkQGHIpOdQrrlFiW
+ eKxTNfBN315Nfn7VR4eDSHbf/N16iRQknSk/umyX4QF+llCQS6KUgiIIUmfVwiv47xz4L0Qg6
+ fgcXFLBGI0DfsOwmjy0/ygJk+7QxXN5hcLSpCKHiuet8kCv7wxuX0FSv+mb9bhk4POrUcio12
+ AuOOK7+qM859aTWuGybB0T5HWR10ksZkFu/oDYrnEVmUEaBAbjatO0UiMnxDE3H07Ru/mfqQi
+ r1uCO8HRBv4GpDw4V44QL0k/XFkYXWoe2lpL/iJPyAL5+t3iA/jJp7Z1Rt7wNS1mYxWNf7KsI
+ o9x3yPImSp14mRsQksCz4h1tkkW9NJQgjVgzgdFsxQX+Ib2XLTPSxfA4VIaJ1QA1SqtM/LIaM
+ MsiSEP18iApNI4N+1YDjudHuUMBwLcuIh4RgN0h8H5zL8iSO8p57G8qAHW6ta6jy/UvaTDv8b
+ ZTUWRqg49aYNQ+6JIdnwqSeudIOTAwf2ZVqxB/RsKij2vH3pHRxzAYEvVkYZWDdwtoj0lwu9q
+ sC7fk+xh4eLrFEzsVe7J4lCUHq+xQzdGmRZNI0dxzlvt2irnlPx4cWEPcsdbjIv2lU6EjXkSl
+ ToRQQcggsT64+mIZ+oFLnCYRHybMHtJ/bHpPZHbnVFeTTJpxNNVl0mMmHrufHcMciW1khlldB
+ zIUqtVGqWpjl6Vq5UX072IPA7P2jcVyWSN+HFY0q2tIvAQc8CrewrRQNsRpDLohVhSrdi8+TI
+ ftTpdzIFTKU4jzIzBq+v5MxxQrMt+mTQAKr0/grMwxyoXO3RaopbgHuRP1W7PcqAXLbPCk0To
+ 8MK6QTL3jYv0n05G1uWgnYPVeT2Z7d/plZOHiC3kl7H60SRvC2PDp/+yIesYKzKxfh2+cTB+r
+ 8HTXIXh+E2JkFG3IDLGUcWAMqasz5nFYR8xTWi9zmroC7/KWYVseBQn8HJdHisxuLt9pxkXtn
+ uo6nlAniOV5JZGcUMCH87hR/eCCi9D1PTH+fzFAAIrW7aWk8SNR0iBVD31nTFiJeXe0EyVjOF
+ lQcjMFkHjtmMuW4peU2aFRCO6sQ1ZxGB0tySwvIfbfFnX7svcA0lO247u8MD3mVQxfWD+sn8+
+ ey3gGRQXoY6wVW1UoA1SbXEw+lqH1VKAocSpD9kfHIn+qzxrVpg9dFS6Et6REwjoxKbqi/XKO
+ iiTMc3U4LGyVXvTu5Y8k=
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttp://jis.sagepub.com/content/ear=
+ly/2015/11/18/0165551515616311.abstract&amp;hl=3Dde&amp;sa=3DX&amp;scisig=
+=3DAAGBfm3H33KOuU7aOTaXfGh4ZztsgJ_fGA&amp;nossl=3D1&amp;oi=3Dscholaralrt"><=
+font size=3D3 color=3D#1a0dab style=3D"text-decoration:underline">A semanti=
+c-based approach for querying <b>linked data </b>using natural language</fo=
+nt></a></h3><div><font size=3D2 color=3D#006621>MA Paredes-Valverde, R Vale=
+ncia-Garc=C3=ADa&hellip; - Journal of Information  &hellip;, 2015</font></d=
+iv><div><font size=3D2 color=3D#222222>Abstract The semantic Web aims to pr=
+ovide to Web information with a well-defined meaning <br>and make it unders=
+tandable not only by humans but also by computers, thus allowing the <br>au=
+tomation, integration and reuse of high-quality information across differen=
+t applications. <b> ...</b></font></div><br><p><hr noshade size=3D1><font s=
+ize=3D2 color=3D#222222>Dieser Google Scholar-Alert wird Ihnen von Google z=
+ur Verf=C3=BCgung gestellt.<br><br><a href=3D"http://scholar.google.de/scho=
+lar_alerts?view_op=3Dcancel_alert_options&amp;email_for_op=3Derictessenow%4=
+0web.de&amp;alert_id=3DAIfevv3NkPcJ&amp;hl=3Dde"><font color=3D#1a0dab>Aler=
+t stornieren</font></a><br></font></div></body></html>

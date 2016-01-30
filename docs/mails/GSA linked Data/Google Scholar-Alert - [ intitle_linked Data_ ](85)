@@ -1,0 +1,120 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.64.70.37 with SMTP id j5csp82221ieu;
+        Fri, 24 Jan 2014 16:32:48 -0800 (PST)
+X-Received: by 10.50.73.136 with SMTP id l8mr7306906igv.7.1390609965628;
+        Fri, 24 Jan 2014 16:32:45 -0800 (PST)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3kgDjUhUKDLstdipmbsbmfsut-opsfqmzhpphmf.dpnfsjdufttfopxxfc.ef@scholar-alerts.bounces.google.com designates 209.85.128.201 as permitted sender) smtp.mail=3kgDjUhUKDLstdipmbsbmfsut-opsfqmzhpphmf.dpnfsjdufttfopxxfc.ef@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3kgDjUhUKDLstdipmbsbmfsut-opsfqmzhpphmf.dpnfsjdufttfopxxfc.ef@scholar-alerts.bounces.google.com designates 209.85.128.201 as permitted sender) client-ip=209.85.128.201;
+Received: by 10.64.148.37 with POP3 id tp5mf390967ieb.33;
+        Fri, 24 Jan 2014 16:32:44 -0800 (PST)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3kgDjUhUKDLstdipmbsbmfsut-opsfqmzhpphmf.dpnfsjdufttfopxxfc.ef@scholar-alerts.bounces.google.com
+Received: from mail-ve0-f201.google.com ([209.85.128.201]) by mx-ha.web.de
+ (mxweb103) with ESMTPS (Nemesis) id 0LgZzN-1VUGvu3uar-00nwsx for
+ <erictessenow@web.de>; Sat, 25 Jan 2014 01:08:52 +0100
+Received: by mail-ve0-f201.google.com with SMTP id jx11so415770veb.0
+        for <erictessenow@web.de>; Fri, 24 Jan 2014 16:08:50 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=dfDNu++uySU5Oli8jPnR2vmeXz20kDDhkeBC4dc8obg=;
+        b=MiJ4/WmmXIingJXBuiKA853991BU7fRLrVwtF1HW/6A86pm7PwvT3NHtZnaNkUT3Si
+         qj/VPwvs9iw0LMm4YSQNEAQ5ETHUB1TZRdwduszh+7nh0xdv/R0EwCYkfTCAtA5SoMLv
+         hXl7bsi1NowJDjlA9H794huIwz1WvI5vrepO6xgR5nNlJ1C7zhejVq/QhNxdBs241LYK
+         fsVOEvBkF4+pzQ/z/GNHdh17zuxZxUwsSuiaq7fte0gqxd69LacxDJctrke+ghm+nnZA
+         zXyRo5KClHAlYeAegv69ypde3X3vjktoq7qDJPcsA7ZUPlTYvjuMIRPI2r0MYuZxbHOT
+         8quQ==
+MIME-Version: 1.0
+X-Received: by 10.58.238.199 with SMTP id vm7mr6027772vec.17.1390608530875;
+ Fri, 24 Jan 2014 16:08:50 -0800 (PST)
+Message-ID: <047d7bea343e81253704f0c0477f@google.com>
+Date: Sat, 25 Jan 2014 00:08:50 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:+pk5/avLZzA=:VT3cBS5jsf6rCDj2Y3NO6lgZ/m
+ Hc8nk+YJpFF/rC6qIk9DQ6xLCCFYzW2tqDe4IKrAQ7+cRkOIECkMpJeaGLvNVLi4/BzoCRZxk
+ OGrLlbT94iPuHhfMd1WRu7Z7HJpcZWgjHMH1OuvdXEMzNXSvFPm8Z5gs7N+HIoSMMOYQ1HBFk
+ I00XZJs4he1LC94QS09MCXYdJF95bZ2tmiWQQ5a4sfAteIIfTJTNkB7rjrc0sKMJ5uJvIYcMn
+ CfwOyfYDAJZrHx/EFUNli4Up2zUZhU6r1VQ3DFQsbjPaNWBQb8Ed8hj5AdwNW3Eof+HM+4tYV
+ +BOmCmegG8iRojr+yC0pxWFQF+UOh1b172hgaIRVmqBhPcTMTcQOBug0O7un/AnJB89Jm6Osr
+ 7ThpVzNWr4NgBvj20t1uxmDd3PAs2m2aVDDAklUN7ZUttkOo/nsJKpIk9SY/S5sE0TaeLpC94
+ nKGSM5OaAkI4P+ruBx9ZUyp1kKt2dueMCcR9V79232etTU0KgPMiGIjJ7L/BOJjB4K5QeUDae
+ EUo/OGiDaKEd9gnOY9DO+PkvvmnhtFetXf2G3BQgZCvxRWxRi5f47R4RT4P6czWNvS+V0N8Ja
+ UGeBmQRwGofmnoiWKdYsY7AJmPv7fjpJAmuMGPgBFY/zfppnGjLHmzOA72j2g8VjAK2HhS1Sw
+ 5Sjiq60QtSIaESxnjzCLx5P7/YG2V2rJW3TRgaw1/2S1I6m+/qSt9vgckaeGydvetnSFeOti1
+ q18VmWVW0jjGLl1UFZqgM+jA2pI/j2+8jTzyCmx2orKPMkn4MWSvd4Fllny7wdyhP7ZKkv/+f
+ foC2Jngs2BeXqU87qul5yPzixzjb+J8oBJoqMg/Wl/A2TGSxqYse8DwqTSim1PTN2FJJJiAL3
+ nv90UBjVZUb2aAW/oSbo6ivol+KchA9bmwnS9IHo5kLLZ1macwLOChpBOpupbJv99pt0aDoAn
+ 91ptkUc/SokZQprZaS5AM7oKQhlDIQCzI6RW07mh+cv9VaW53OmoL/l00o88UyPcsJtCppjry
+ E9A9Oqr+IeiNbTi1w98All5KM2QfjeTlRi39dIHYOV2SpRSLMxZaYDQWgrCQZc+/KuhB0c6P1
+ XivKGh5Pf2S1GQeryLeE+NAhQ8Rt9/Rx68+SZcZHCtPvDqcgbfWCEHBEsKTvNzW59wHHinIxc
+ 8O9UQW8Uw4BmZeo6R4czE9oJTsAXE+E89PK0Z2Oqy9VNs8AHQyETe/AYF2uaIidMIxm/54i7v
+ qa+vTvIAZ5R3Goo7yzTCVM/Uq7S+8X1PyzOKW36qnzvl/pKu8T+89bXjPqvDhCO8YM0hoj9c+
+ Z0WLTyMk7C2PKIoNIuDLW8gZYN5i2qDRks7u2sfrMTtEydmPuAhss9yu0n/JmLrinB6HFtiUi
+ hvNjKGWzQ+uaeDZ0Q==
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D=
+2 color=3D#1122cc>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_=
+url?hl=3Dde&amp;q=3Dhttp://eprints.soton.ac.uk/361437/1/ERCIM-69_p29-30.pdf=
+&amp;sa=3DX&amp;scisig=3DAAGBfm2mVGusEovoq2sy9xgO7tc8qBoQjw&amp;oi=3Dschola=
+ralrt"><font size=3D3 color=3D#1122cc style=3D"text-decoration:underline">T=
+he Web Science Observatory-The Challenges of Analytics over Distributed <b>=
+Linked Data </b>Infrastructures</font></a></h3><div><font size=3D2 color=3D=
+#009933>W Hall, T Tiropanis, R Tinati, X Wang, M Luczak-R=C3=B6sch&hellip; =
+- ERCIM News, 2014</font></div><div><font size=3D2 color=3D#222222>Data cub=
+es, no longer a dictatorship In order to perform data warehouse analysis, o=
+ne must <br>first establish the dimensions and measures according to which =
+to analyze the facts. Data <br>cubes are built as a result of aggregating t=
+he measures along the dimensions. For <b> ...</b></font></div><br><h3 style=
+=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font si=
+ze=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"http://scholar.google.de/sch=
+olar_url?hl=3Dde&amp;q=3Dhttps://www.politesi.polimi.it/bitstream/10589/861=
+41/1/tesi%2520definitiva.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm3Bqv08CR_ChnJYft=
+xblCsqAruIoQ&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D"=
+text-decoration:underline">WikiFinder: un Game with a Purpose per lo studio=
+ della popolarit=C3=A0 di <b>Linked Data</b></font></a></h3><div><font size=
+=3D2 color=3D#009933>R Gualandris - 2013</font></div><div><font size=3D2 co=
+lor=3D#222222>Al giorno d&#39;oggi, nonostante si pensi che la tecnologia e=
+ il progresso nel campo informatico <br>abbiano compiuto passi da gigante, =
+esistono ancora delle attivit=C3=A0 che, per quanto risultino <br>banali pe=
+r le capacit=C3=A0 umane, sono invece molto complesse da elaborare per norm=
+ali <b> ...</b></font></div><br><h3 style=3D"font-weight:normal;margin:0;fo=
+nt-size:medium;max-width:44.5em"><font size=3D2 color=3D#1122cc>[PDF]</font=
+> <a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://ww=
+w.ijcsit.com/docs/Volume%25205/vol5issue01/ijcsit2014050144.pdf&amp;sa=3DX&=
+amp;scisig=3DAAGBfm0JT_bL0xDrHzJrrBpPsteGpT5WBA&amp;oi=3Dscholaralrt"><font=
+ size=3D3 color=3D#1122cc style=3D"text-decoration:underline">Interoperabil=
+ity between Clouds: an Exploratory Study on Virtual Organizations and <b>Li=
+nked Data</b></font></a></h3><div><font size=3D2 color=3D#009933>LG Cretu</=
+font></div><div><font size=3D2 color=3D#222222>Abstract=E2=80=94Inter-opera=
+bility between services provided by different clouds has become one <br>imp=
+ortant research topic now that the new information silos have moved to the =
+clouds. Since <br>the end user has virtually no tool at hand to address int=
+eroperability issues between <b> ...</b></font></div><br><h3 style=3D"font-=
+weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D2 co=
+lor=3D#1122cc>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_url?=
+hl=3Dde&amp;q=3Dhttp://sideresearchgroup.com.br/pdf/senseRDF.pdf&amp;sa=3DX=
+&amp;scisig=3DAAGBfm0DBtYcPos7DzDoBP4jgC27SKLdgw&amp;oi=3Dscholaralrt"><fon=
+t size=3D3 color=3D#1122cc style=3D"text-decoration:underline">SenseRDF: To=
+wards a <b>Linked Data </b>Conversion Tool</font></a></h3><div><font size=
+=3D2 color=3D#009933>A Silva, N Fran=C3=A7a, B Paulino, D Souza, W Travasso=
+s</font></div><div><font size=3D2 color=3D#222222>Web, the project <b>Linke=
+d Data </b>aims to define a set of best practices for publishing and <br>co=
+nnecting structured data on the Web with the purpose of creating a Web of D=
+ata. To this <br>end, at first, existing data should be converted to a stan=
+dard model in such a way that they <b> ...</b></font></div><br><p><hr nosha=
+de size=3D1><font size=3D2 color=3D#222222>Dieser Google Scholar-Alert wird=
+ Ihnen von Google zur Verf=C3=BCgung gestellt.<br><br><a href=3D"http://sch=
+olar.google.de/scholar_alerts?view_op=3Dcancel_alert_options&amp;email_for_=
+op=3Derictessenow%40web.de&amp;alert_id=3DAIfevv3NkPcJ&amp;hl=3Dde"><font c=
+olor=3D#1122cc>Alert stornieren</font></a><br></font></div></body></html>

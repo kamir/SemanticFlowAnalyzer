@@ -1,0 +1,138 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.64.31.33 with SMTP id x1csp30730ieh;
+        Mon, 30 Jun 2014 07:47:58 -0700 (PDT)
+X-Received: by 10.50.43.202 with SMTP id y10mr32793188igl.10.1404139676780;
+        Mon, 30 Jun 2014 07:47:56 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3G3ixUxUKDHQkUZgdSjSdWjlk-fgjWhdqYggYdW.UgeWjaUlWkkWfgooWT.VW@scholar-alerts.bounces.google.com designates 209.85.220.201 as permitted sender) smtp.mail=3G3ixUxUKDHQkUZgdSjSdWjlk-fgjWhdqYggYdW.UgeWjaUlWkkWfgooWT.VW@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3G3ixUxUKDHQkUZgdSjSdWjlk-fgjWhdqYggYdW.UgeWjaUlWkkWfgooWT.VW@scholar-alerts.bounces.google.com designates 209.85.220.201 as permitted sender) client-ip=209.85.220.201;
+Received: by 10.64.62.148 with POP3 id y20mf2860471ier.6;
+        Mon, 30 Jun 2014 07:47:56 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3G3ixUxUKDHQkUZgdSjSdWjlk-fgjWhdqYggYdW.UgeWjaUlWkkWfgooWT.VW@scholar-alerts.bounces.google.com
+Received: from mail-vc0-f201.google.com ([209.85.220.201]) by mx-ha.web.de
+ (mxweb006) with ESMTPS (Nemesis) id 0MEona-1Wr7O249Pe-00G0SK for
+ <erictessenow@web.de>; Mon, 30 Jun 2014 16:45:49 +0200
+Received: by mail-vc0-f201.google.com with SMTP id ij19so768844vcb.4
+        for <erictessenow@web.de>; Mon, 30 Jun 2014 07:45:47 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=jyIKJ4Fj4Y69/jJIKWdI6tmFGVM4ixgZH8ZckuM9sG0=;
+        b=AeioWePFbPuj8tIAdkYpXX+L98wx3siZI/JyzU/uIysaRaaXTEy3mQxtuQlLkRGbEl
+         anblTezIzcNn1u6tJ+JSCeJ3nvIAYoJGgnjeJCZPxgVxGAsy5iHFwbAi0ees0KctSCDp
+         ZtkN7u1F28X9rYL5kqmKwy9njYS72Z/bvStPvp2n2ky+DxxL5n4aBZ69z6WmyBn02k6G
+         DuYAFHNanmNN/ikhmotQESVorBxrk3dXPyGcC06WHkuJZ2GNUQi15c6qyl4mwLBZWnKn
+         diYRD06M9xQEkfMBnYyyJPFu52owiGGEJkVxwO277CG/3Jj6rAvY8S2H6A3cvLniYPEL
+         /mHA==
+MIME-Version: 1.0
+X-Received: by 10.236.142.20 with SMTP id h20mr642561yhj.12.1404139547817;
+ Mon, 30 Jun 2014 07:45:47 -0700 (PDT)
+Message-ID: <20cf303a3331f676f204fd0eb6ad@google.com>
+Date: Mon, 30 Jun 2014 14:45:47 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:et81XzZQJ/E=:eYsrBSAILIa1eO5bKWxLBwroew
+ tMHmlohUdxycvua8gQ/eIUqNIg/IVVskz9WRk9PyJMW/kUZXUPjT/QiVosXvtT9WpgfXLZyDa
+ czR6vtfr0ON5pyk+ypgFZC03h1M/N/JxgKhxQZG6nHeaZLKH6KbvUAbxubdxJjZ/ArzHWbIdH
+ PKorCYVCdQXZHW1LTS0vPh1BvWi4Kb7hGCTn9xfYXdY/7j5fUyG7ypMwWtpTNwHtydtTuV5uc
+ u1LhApzKhgyvsCW8nVllj0y1B8UH77meoCvP/ObfO8hK/7COAYlN0Q9SM2NLfpB0+sNOw61lC
+ 8F26nkSYHtIUq+o2jyo7rv/qRlQ4Tt3Wu13Lw7P4ctVqe2+Y6KLIFsaX3AoYAVVQ6P67uwLJO
+ KO46Uvo6vfhydZypBrnTb6nZV7rv7aIG8oEm0eSdWtkXvTgFAXmIGS9RVXv1C8BNQNK9n/0Mp
+ /L4VdcIZuMLXhhsbHFcRBwx/o2sOgh+URss/uLrS7fF5s6Hg8PoF5Z4V3D/sSPtPVr3d1uFhZ
+ fqUdrDOL+lIw2gE2Ej6VDFKp0jVL0XaqG9wAF2tYmVTWrkeJMwDpXGiaoOaCfnVtlyQZChfMV
+ QotV0vjK07UB2G99HMkrcs7V/66U9/zlyb800LgIn8fhXccZlyzye0H7CjWmlXuKnWShDctmN
+ SeENe9b9mM+tOvfshpWXDK8xAI0LmJIVE9NTV9X1tQpTQpGZFKM73elwltSRegx58vtYfevcw
+ e+suzK6tRQJw04PtxRtNUCivBVBrAO+jGy2ACwTZx8ENg6MFpC/5+VKpIvq0o+KX5zlYdELwz
+ U8+egzZca7lQymYRvVXlfwkgS9eL15tBvngYtraQz9hlX86D6BppTKKhLTjL+549mSSv/0MkI
+ tZFqQYaNQeFDf9An8tn7S3n6rjoqNZ2UnbLABWuhLGr7A4MH/To9yekL1bMZ/4AlutmyFvf/c
+ ZFJv7HQ38PC4pQPceXU5HPAXOTLMRKpn0ZNDlGcNvpDOtAmdZzwum/7oAG+95FPESbNAYVLyd
+ 0SSntIjO9ivSFjRpTG9xsyIBROFEGCYMEkOJDnod4WA7M7nN295QYLS1HiS+7PuiDDEhdlx6n
+ ecqamBLyxVscPlQEsS8htU9Rogz0gT3K3P860X1837J/oSsUbMI7c31lCwZilEB1fs/h4GeTf
+ QpbPKvUiqGxl3OGsxLQYYT85VfHGsZgvfW4X/VxW+eIvi11Qkc2+GJqN65kV7Y/Vm/SCwiDWt
+ 6hXCEbrU6+KiPYar1NAdgvpSHoXLJksJFkXezclRYhrVZZJFVlCNvBJyyiKQfm0XYCXpTND8l
+ i2ishZ/yaX1GkShDplIAV3pAjbI9aKssZVhq0/VOoKtKbW5eTinTzxsdmw6c07YvAb7wH1kvw
+ LAmI4QvLo00KFz2e7A9w7D5pM8FPR8N2vD67pBpP0EHH97zV0KnWcseithyO6GhSlJ6PUi18I
+ sXCTBXtOXXpnhiVZaYyUQJqJBLUW8KZBp9GEznnTmYH2mvjS2E
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://ieeexplore.ieee.o=
+rg/xpls/abs_all.jsp%3Farnumber%3D6842456&amp;sa=3DX&amp;scisig=3DAAGBfm2sq-=
+5VPMqrfbkFZad2pIaEGRqwFw&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122=
+cc style=3D"text-decoration:underline">Romanian2SPARQL: A Grammatical Frame=
+work approach for querying <b>Linked Data </b>in Romanian</font></a></h3><d=
+iv><font size=3D2 color=3D#009933>A Marginean, A Groza, RR Slavescu, IA Let=
+ia - Development and Application Systems &hellip;, 2014</font></div><div><f=
+ont size=3D2 color=3D#222222>Abstract=E2=80=94SPARQL queries have become th=
+e current state of the art for querying linked <br>open data repositories. =
+Given the difficulties to create such queries by non-expert users, <br>inte=
+rfaces that accept questions in natural language and convert them to SPARQL=
+ are one <b> ...</b></font></div><br><h3 style=3D"font-weight:normal;margin=
+:0;font-size:medium;max-width:44.5em"><font size=3D2 color=3D#1122cc>[PDF]<=
+/font> <a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp=
+://www.biomedcentral.com/content/pdf/1471-2393-14-214.pdf&amp;sa=3DX&amp;sc=
+isig=3DAAGBfm1X_79m8PlkzcCiKfJ3G8_T01fa3w&amp;oi=3Dscholaralrt"><font size=
+=3D3 color=3D#1122cc style=3D"text-decoration:underline">Pregnancy, prison =
+and perinatal outcomes in New South Wales, Australia: a retrospective cohor=
+t study using linked health data</font></a></h3><div><font size=3D2 color=
+=3D#009933>JR Walker, L Hilder, MH Levy, EA Sullivan - BMC Pregnancy and Ch=
+ildbirth, 2014</font></div><div><font size=3D2 color=3D#222222>Page 1. This=
+ Provisional PDF corresponds to the article as it appeared upon<br>
+acceptance. Fully formatted PDF and full text (HTML) versions will be made =
+available<br>
+soon. Pregnancy, prison and perinatal outcomes in New South <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://users.ics.forth.g=
+r/~fafalios/files/pubs/fafalios_2014_ieee_icsc.pdf&amp;sa=3DX&amp;scisig=3D=
+AAGBfm1MSDJC5UIbJLoVgWLnLuIl3_7YaQ&amp;oi=3Dscholaralrt"><font size=3D3 col=
+or=3D#1122cc style=3D"text-decoration:underline">Post-Analysis of Keyword-b=
+ased Search Results using Entity Mining, <b>Linked Data </b>and Link Analys=
+is at Query Time</font></a></h3><div><font size=3D2 color=3D#009933>P Fafal=
+ios, Y Tzitzikas</font></div><div><font size=3D2 color=3D#222222>Abstract=
+=E2=80=94The integration of the classical Web (of documents) with the emerg=
+ing Web of <br>Data is a challenging vision. In this paper we focus on an i=
+ntegration approach during <br>searching which aims at enriching the respon=
+ses of non-semantic search systems (eg <b> ...</b></font></div><br><h3 styl=
+e=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font s=
+ize=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"http://scholar.google.de/sc=
+holar_url?hl=3Dde&amp;q=3Dhttp://cilc2014.di.unipmn.it/cilc2014papers/cilc2=
+014_submission_27.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm2OLzwcOH1BSidyFQnUnbOr7=
+rKmjQ&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D"text-de=
+coration:underline">Finding Commonalities in Linked Open Data</font></a></h=
+3><div><font size=3D2 color=3D#009933>S Colucci, S Giannini, FM Donini, E D=
+i</font></div><div><font size=3D2 color=3D#222222><b>...</b> pp. 236=E2=80=
+=93242. IEEE (2013) 7. Shadbolt, N., Hall, W., Berners-Lee, T.: The Semanti=
+c Web Revisited.<br>
+Intelligent Systems, IEEE 21(3), 96=E2=80=93101 (2006) 8. Zhang, X., Zhao, =
+C., Wang, P., Zhou, F.: Mining<br>
+link patterns in <b>Linked</b> <b>Data</b>. In: Web-Age Information Managem=
+ent, pp. 83=E2=80=9394. <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://www.cprm.gov.br/p=
+ublique/media/diss_patricia_azevedo.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm16kj8=
+7-Gicub-JxxYLtiWf0Kd9Cg&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122c=
+c style=3D"text-decoration:underline">UMA PROPOSTA PARA VISUALIZA=C3=87=C3=
+=83O DE <b>LINKED DATA </b>SOBRE ENCHENTES NA BACIA DO RIO DOCE</font></a><=
+/h3><div><font size=3D2 color=3D#009933>B Horizonte</font></div><div><font =
+size=3D2 color=3D#222222>RESUMO Dentre as necessidades da popula=C3=A7=C3=
+=A3o acerca das enchentes na Bacia do Rio <br>Doce est=C3=A1 a transpar=C3=
+=AAncia das informa=C3=A7=C3=B5es de interesse p=C3=BAblico ea preocupa=C3=
+=A7=C3=A3o na <br>capacidade de percep=C3=A7=C3=A3o e compreens=C3=A3o dess=
+as informa=C3=A7=C3=B5es. A disponibiliza=C3=A7=C3=A3o de <b> ...</b></font=
+></div><br><p><hr noshade size=3D1><font size=3D2 color=3D#222222>Dieser Go=
+ogle Scholar-Alert wird Ihnen von Google zur Verf=C3=BCgung gestellt.<br><b=
+r><a href=3D"http://scholar.google.de/scholar_alerts?view_op=3Dcancel_alert=
+_options&amp;email_for_op=3Derictessenow%40web.de&amp;alert_id=3DAIfevv3NkP=
+cJ&amp;hl=3Dde"><font color=3D#1122cc>Alert stornieren</font></a><br></font=
+></div></body></html>

@@ -1,0 +1,565 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.64.168.106 with SMTP id zv10csp212639ieb;
+        Wed, 5 Mar 2014 16:43:43 -0800 (PST)
+X-Received: by 10.50.43.194 with SMTP id y2mr12348574igl.33.1394066622402;
+        Wed, 05 Mar 2014 16:43:42 -0800 (PST)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of do_not_reply@itunes.com designates 17.151.1.98 as permitted sender) smtp.mail=do_not_reply@itunes.com;
+       dkim=pass header.i=@itunes.com
+Received-SPF: pass (google.com: domain of do_not_reply@itunes.com designates 17.151.1.98 as permitted sender) client-ip=17.151.1.98;
+Received: by 10.64.224.178 with POP3 id rd18mf472040iec.9;
+        Wed, 05 Mar 2014 16:43:42 -0800 (PST)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: do_not_reply@itunes.com
+Received: from nwk-txn-msbadger1001.apple.com ([17.151.1.98]) by mx-ha.web.de
+ (mxweb108) with ESMTP (Nemesis) id 0LeNWr-1WzhrG0xS9-00q8gI for
+ <erictessenow@web.de>; Thu, 06 Mar 2014 01:24:24 +0100
+DKIM-Signature: v=1; a=rsa-sha1; d=itunes.com; s=itunes2048; c=relaxed/relaxed;
+	q=dns/txt; i=@itunes.com; t=1394065462;
+	h=From:Subject:Date:To:MIME-Version:Content-Type;
+	bh=KIsbbbL+G14L0kYDpQlUf5br01w=;
+	b=SH2SQ0qEdXfm9P6QBUHZHlKvX0HXIsYN36SPDWfe44Q2z8Mj7n5O5dWPz7FKGDwA
+	qJwKhXTY4rW9wLaw0JNf3bdo+D89diomBNcyxWRfc0m09m2IAU5jv8jZysea85UV
+	Oa+E5ZR/rVJ2E8CjcMceXSjz2RisXz5cGAbmLSAR3GPGvX7RocDX93zgD00LPyqP
+	WucT0+LJ838tZL3e7xAqi/h0e+SuriNol5kN1iRTfUcjizIxunKoD/z/TAZiA36l
+	0PGS6F5biklBImdjw8jBN1rKavFwYT9KM5ZZKNrrUnLCf4rEWwIRYozat7D5JYeb
+	FCTHmBO+VhgvwaDOxMwF8A==;
+Date: Thu, 6 Mar 2014 00:24:22 +0000 (GMT)
+From: iTunes Store <do_not_reply@itunes.com>
+To: erictessenow@web.de
+Message-ID: <256806080.99000001394065462428.JavaMail.email@email.apple.com>
+Subject: Ihr Beleg Nr. 202071561516
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_5004528_1799960646.1394065462428"
+X-EmailType-Id: 10631
+X-Sent-To: erictessenow@web.de,2,k%2BmjWPCFEH1m5ry2zndhApTuWzZ%2FsWXmBYlTsHG5QWYxZxBDADlHJ0LpCMgLzUQ87KPZ%2BIMfvM2p4TVdiASwiC%2BXVNfE3kwP%2BVSPPtc08RHY01pzDabpa3wf4QDBXLji%2B9qNqH8IxijhObwls2%2FxwWFjqD1GtT%2BHJQuiJBo7TrRj5Z2ZRyAdzFJRvMdgqsgMpK6dSg3i15Dr285tDoaCNGvW%2BtXKSO6mtRxxnSbqFj5go3Gi1irxgMNcd4ShcnDAwBILujIh97SjNhFptgZ8LTOvEApDe8KAYVRntulyXH%2B0wGJL53XK2eP9u%2FwCIzPgMzFw3emlAt0DYXH%2F8DCrnKq3X7ykI8Y%2Fzjkxd94fd60%3D
+X-Attach-Flag: N
+X-TXN_ID: 1D9E21C8-B7E5-49CD-A859-DF14F2B4BBED
+X-Business-Group: iTunes
+X-DKIM_SIGN_REQUIRED: YES
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:Ockba7iNLqU=:EaFwFg6Tzj55YeWbj3PqrfaRiJ
+ C1cAZunqrglDvfrPKTo1Psqjo5YezIT6jqF6KPVWe0FXxs5cOqoSYfAWDDZg11J+tf0M/LyMo
+ HW8hK/oQfgT/ureWVRCrbQXIE+4exWnRsDB29egxRUyWb9ulB2CsexYYv9OHtsEMhUzv8Y0hh
+ RAsnCEs2lfdD8uej9TWvyvEqvWX2nx9cCTuZu8qZEseNImiq1modLZXd5s7oVg/YhrX4BFlqY
+ r3vTO79/oW0hmp45jekpZRT5y+z2DCzsO7Es6XYwARS/A2xzsrHvsSl+uvzIUhHjPaPPJfycy
+ h2VO3PiZthZMpUa3euDr74anIXsbv4XUU3J7GJTVQF9FbeLwG+KaSTeTYse22lla+qZ27Sgz5
+ F+QzA/usA9phiKFa+Q4srqvnD5eU0tYjhrOgAaGeChV9Voi/hJ6XbOFxR1ADmQIQf4c6Ez2o/
+ cmOEPc8j4zw2//i3WBdzcDj0e2kmMRD/3ZlA3BjQAFJG7fmDW1qxNyCERw29Rgbsl8E3ShZiE
+ xvQ0O+QZHOmNtH1aDPiaANlzTEs9IA6ZW/m+e1s3bScHb8BRpaxIBNdzaM6iPU40BRlqJN8r3
+ Wf5t/ivBKFl31BwAkRACRCNPWiOlMEp2bs7PmITAvzAm9/dSlhPXDpE8Wzw0AueSCsz1YFt9y
+ n2x9zBiHIligeapWSOJJGIagtCzl9ipFSXMZebK/Je4HrNMne0Vx5zhVCbF8Gtp17IxMshsb1
+ zr04SEADQjpkp8IeUtgqa4pGl8upDJJQvDu5UiNqEEbxmsyI4VGnfLWbTJLK1ZladDbCX0tCd
+ S4kHFMoqixCroxd407PQ+anzvLJHdWuzU1mVtjZ4XlDpb7woYlh7Z7AZ+mkpklNhPY8xuY+IN
+ TaKQK5DSX+BhIuD2ifvdo3q4T287yJxvXkuLzVq2RdfQB6d8oIepv47LJaoNRkhxEd7osxslr
+ MGor9g1iY2/wqln/OSmRsOV8Ck4wVo9Xpvu1l3+KZl/I3HJjG4rB69ERTzZcG36koqiXk4XoW
+ Mn9aW1C1FEBFZu30ANP+axJ4CFZ1Umz61ApHEWldEtnB/KcjEfYXaSjqdCN3zSTsC9IxQrwuN
+ nzCQBS8CoDkTVSAmrovg8wVZTFc4olwHOVWry1VaXpPedasol1IkBhlYZLwFcly23Dh1I43Vo
+ TD/LTHzEtfd6rn600+ENBkZHREzO3V5MEWW8i0U99WOh9t1wtTl7R8Rh7wrhWbPZP39uDXgQO
+ qx6IspOsllZsNzbfgFqxuE3s9VlqRXtIlIXwSqLeYGSDUiW4GWxyiPzgsLWc0YSNMa+OhUSkl
+ WNSi1/WGMXIBDo7IZtiwk5ybeS/IRcIRL+cP1wZuuSdP4BvK0nZ1ApDbQVDYIDNQLLrrxI5jq
+ I+0HxMkWgUXYGZevYywZp21RePB2FHAwnaV7gY=
+
+------=_Part_5004528_1799960646.1394065462428
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: QUOTED-PRINTABLE
+Content-Disposition: inline
+
+Apple Beleg
+-----------------------------------------------------------
+
+Rechnung an:
+erictessenow@web.de
+Eric Tessenow
+
+Am Sportplatz
+10
+98617 Rh=C3=B6nblick=20
+DEU
+
+
+
+                 Bestellnummer: MJ40MT81YG    =20
+
+                    Belegdatum: 05.03.14
+             Bestellung gesamt: 4,99=C2=A0=E2=82=AC   =20
+                   Rechnung an: Visa .... 8914
+
+
+
+
+
+
+Artikel                                        Interpret                  A=
+rt      Preis pro St=C3=BCck
+---------------------------------------------------------------------------=
+--------------------
+Der Butler                                     Lee Daniels                L=
+eihfilm          4,99=C2=A0=E2=82=AC
+
+
+---------------------------------------------------------------------------=
+--------------------
+
+                                                               Kreditkarte,=
+ gesamt:          4,99=C2=A0=E2=82=AC
+---------------------------------------------------------------------------=
+--------------------
+                                                                 Bestellung=
+ gesamt:          4,99=C2=A0=E2=82=AC
+
+
+
+
+
+Bitte bewahren Sie eine Kopie f=C3=BCr Ihre Unterlagen auf.
+Die Bedingungen und Konditionen, die an diese Bestellung gekn=C3=BCpft sind=
+, finden Sie weiter unten.
+Dies ist keine Mehrwertsteuerbenachrichtigung.
+
+iTunes S.=C3=A0 r.l.
+
+Sie finden die Verkaufsbedingungen und Verkaufsrichtlinien, indem Sie Ihr i=
+Tunes-Programm starten und auf diesen Link klicken: http://www.apple.com/de=
+/support/itunes/legal/policies.html
+
+
+
+
+
+Antworten auf h=C3=A4ufige Fragen zum iTunes Store finden Sie hier:=20
+http://www.apple.com/de/support/itunes/store/
+
+
+
+Apple-ID =E2=80=93 =C3=9Cbersicht: https://buy.itunes.apple.com/WebObjects/=
+MZFinance.woa/wa/accountSummary
+Einkaufsstatistik: https://phobos.apple.com/WebObjects/MZFinance.woa/wa/pur=
+chaseHistory
+
+Apple respektiert Ihre Privatsph=C3=A4re.
+Informationen zur Verwendung Ihrer pers=C3=B6nlichen Daten erhalten Sie hie=
+r:
+https://www.apple.com/de/privacy/
+
+Copyright =C2=A9 2014 iTunes S.=C3=A0 r.l. Alle Rechte vorbehalten
+https://www.apple.com/de/legal/
+
+------=_Part_5004528_1799960646.1394065462428
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: QUOTED-PRINTABLE
+Content-Disposition: inline
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><HTML>
+
+ <HEAD>
+  <META HTTP-EQUIV=3D"content-type" CONTENT=3D"text/html;charset=3DISO-8859=
+-1">
+  <TITLE></TITLE>
+  =20
+  <STYLE TYPE=3D"text/css">
+A {
+    text-decoration: none;
+}
+
+A:link {
+    color:           #3366cc;
+    text-decoration: none;
+}
+
+A:visited {
+    color:           #663399;
+    text-decoration: none;
+}
+
+A:active {
+    color:           #cccccc;
+    text-decoration: none;
+}
+
+A:Hover  {
+    text-decoration: underline;
+}
+
+BODY, TD, CENTER, P {
+    font-family: Geneva, Verdana, Arial, Helvetica;
+    font-size:   10px;
+    color:       #333333;
+}
+
+.body {
+    font-family: Geneva, Verdana, Arial, Helvetica;
+    font-size:   10px;
+    color:       #333333;
+}
+
+.content {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:   11px;
+    font-weight: normal;
+    color:       #000000;
+}
+
+.title {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size:   10px;
+    font-weight: normal;
+    color:       #000000;
+}
+
+.disclaimer {
+    font-family: Geneva, Verdana, Arial, Helvetica;
+    font-size:   9px;
+    color:       #696969;
+}
+
+.headline {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size:   14px;
+    font-weight: bold;
+    color:       #000000;
+}
+
+.message {
+    font-family: Geneva, Verdana, Arial, Helvetica;
+    font-size:   9px;
+}
+
+.preference {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size:   12px;
+    font-weight: bold;
+    color:       #000000;
+}
+
+.reminder {
+    font-family: "Times New Roman", Times, serif;
+    font-size:   28px;
+    color:       #000000;
+}
+ </STYLE>
+=20
+=20
+ </HEAD>
+
+ <BODY media-query-fix=3D"fix" BGCOLOR=3D"#ffffff" LINK=3D"#3366cc" VLINK=
+=3D"#3366cc" ALINK=3D"#3366cc" LEFTMARGIN=3D"0" MARGINHEIGHT=3D"0" MARGINWI=
+DTH=3D"0" TOPMARGIN=3D"0">
+=20
+   =20
+   =20
+       =20
+ =20
+ =20
+  <BR/>
+  <BR/>
+  <TABLE BORDER=3D"0" CELLSPACING=3D"0" CELLPADDING=3D"0" ALIGN=3D"center">
+   <TR>
+    <TD ALIGN=3D"left" VALIGN=3D"top">
+     <TABLE BORDER=3D"0" CELLSPACING=3D"0" CELLPADDING=3D"0">
+      <TR>
+       <TD ALIGN=3D"left" VALIGN=3D"top"><img width=3D"150" height=3D"44" b=
+order=3D"0" src=3D"http://r.mzstatic.com/email/images_shared/header_invoice=
+receipt_l.gif" /></TD>
+       <TD ALIGN=3D"right" VALIGN=3D"top">
+       =20
+       =20
+         =20
+           =20
+           =20
+              <img width=3D"180" height=3D"40" border=3D"0" src=3D"http://r=
+.mzstatic.com/de_de/email/images_shared/header_receipt_r.gif" />
+           =20
+         =20
+         =20
+       =20
+       </TD>
+      </TR>
+      <TR>
+       <TD COLSPAN=3D"2"><img width=3D"500" height=3D"1" border=3D"0" src=
+=3D"http://r.mzstatic.com/email/images_shared/spacer_999999.gif" /></TD>
+      </TR>
+     </TABLE>
+     <BR/>
+     <BR/>
+     <TABLE BORDER=3D"0" CELLSPACING=3D"0" CELLPADDING=3D"0">
+       <TR>
+        <TD COLSPAN=3D"2" ALIGN=3D"left" VALIGN=3D"top" WIDTH=3D"318"><FONT=
+ CLASS=3D"body" SIZE=3D"2" COLOR=3D"#000000" FACE=3D"Geneva,Verdana,Arial,H=
+elvetica"/><B>Rechnung an:</B><BR/>
+        </TD>
+       </TR>
+       <TR>
+        <TD ALIGN=3D"left" VALIGN=3D"top" WIDTH=3D"318"><FONT CLASS=3D"body=
+" SIZE=3D"2" COLOR=3D"#000000" FACE=3D"Geneva,Verdana,Arial,Helvetica">
+          erictessenow@web.de<BR/>
+         =20
+         =20
+         =20
+            Eric=C2=A0Tessenow
+           =20
+            <BR/>
+         =20
+         =20
+            Am Sportplatz<BR/>
+            10<BR/>
+           =20
+         =20
+            98617 Rh=C3=B6nblick <BR/>
+         =20
+          DEU
+         =20
+         =20
+        </FONT></TD>
+        <TD ALIGN=3D"left" VALIGN=3D"top"><FONT CLASS=3D"body" SIZE=3D"2" C=
+OLOR=3D"#000000" FACE=3D"Geneva,Verdana,Arial,Helvetica"><B>Bestellnummer:<=
+/B> MJ40MT81YG<BR/>
+         =20
+          <B>Belegdatum:</B>
+          05.03.14<BR/>
+          <B>Bestellung gesamt:</B> 4,99=C2=A0=E2=82=AC<BR/>
+          <B>Rechnung an:</B> Visa=C2=A0....=C2=A08914<BR/>
+        </FONT></TD>
+       </TR>
+      </TABLE>
+     <BR/>
+     <BR/>
+     <BR/>
+      <TABLE BORDER=3D"0" CELLSPACING=3D"0" CELLPADDING=3D"0">
+       <TR>
+        <TD ALIGN=3D"left" VALIGN=3D"top">
+         <TABLE CELLSPACING=3D"0" BORDER=3D"0" CELLPADDING=3D"0" WIDTH=3D"7=
+00">
+          <TR>
+            <TD COLSPAN=3D"4"><img width=3D"100%" height=3D"1" border=3D"0"=
+ src=3D"http://r.mzstatic.com/email/images_shared/spacer_999999.gif" /></TD=
+>
+          </TR>
+         =20
+          <TR HEIGHT=3D"30">
+          =20
+           <TD ALIGN=3D"left" VALIGN=3D"middle" WIDTH=3D"260" HEIGHT=3D"30"=
+><FONT CLASS=3D"body" SIZE=3D"2" COLOR=3D"#000000" FACE=3D"Geneva,Verdana,A=
+rial,Helvetica"><B>Artikel</B></FONT></TD>
+           <TD ALIGN=3D"left" VALIGN=3D"middle" WIDTH=3D"150" HEIGHT=3D"30"=
+><FONT CLASS=3D"body" SIZE=3D"2" COLOR=3D"#000000" FACE=3D"Geneva,Verdana,A=
+rial,Helvetica"><B>Interpret</B></FONT></TD>
+           <TD ALIGN=3D"left" VALIGN=3D"middle" WIDTH=3D"50" HEIGHT=3D"30">=
+<FONT CLASS=3D"body" SIZE=3D"2" COLOR=3D"#000000" FACE=3D"Geneva,Verdana,Ar=
+ial,Helvetica"><B>Art</B></FONT></TD>
+           <TD ALIGN=3D"right" VALIGN=3D"middle" WIDTH=3D"65" HEIGHT=3D"30"=
+><FONT CLASS=3D"body" SIZE=3D"2" COLOR=3D"#000000" FACE=3D"Geneva,Verdana,A=
+rial,Helvetica"><B>Preis pro St=C3=BCck</B></FONT></TD>
+          </TR>
+          <TR>
+           <TD COLSPAN=3D"4"><img width=3D"100%" height=3D"1" border=3D"0" =
+src=3D"http://r.mzstatic.com/email/images_shared/spacer_999999.gif" /></TD>
+          </TR>
+          <TR HEIGHT=3D"15">
+             <TD COLSPAN=3D"4"></TD>
+          </TR>
+         =20
+         =20
+          =20
+         =20
+          <TR HEIGHT=3D"20">
+           =20
+           <TD ALIGN=3D"left" VALIGN=3D"top" WIDTH=3D"260" HEIGHT=3D"20">
+            <FONT CLASS=3D"body" SIZE=3D"2" COLOR=3D"#000000" FACE=3D"Genev=
+a,Verdana,Arial,Helvetica">
+            =20
+                Der Butler
+               =20
+                <BR/>
+                 =20
+                  <img width=3D"20" height=3D"1" border=3D"0" src=3D"http:/=
+/r.mzstatic.com/email/images_shared/spacer.gif" />
+                    <a onfocus=3D"this.blur();" href=3D"https://userpub.itu=
+nes.apple.com/WebObjects/MZUserPublishing.woa/wa/addUserReview?cc=3Dde&id=
+=3D786236919&o=3Di&type=3DVideo">Eine Rezension schreiben</a>
+                 =20
+                 =20
+                 =20
+                  <img width=3D"20" height=3D"1" border=3D"0" src=3D"http:/=
+/r.mzstatic.com/email/images_shared/spacer.gif" />
+                    <a onfocus=3D"this.blur();" href=3D"https://buy.itunes.=
+apple.com/WebObjects/MZFinance.woa/wa/reportAProblem?a=3D786236919&cc=3Dde&=
+d=3D1751487947&o=3Di&p=3D110001323571082&pli=3D110002677576601&s=3D1">Ein P=
+roblem melden</a>
+                 =20
+                 =20
+                 =20
+               =20
+           =20
+            </FONT>
+           </TD>
+           <TD ALIGN=3D"left" VALIGN=3D"top" WIDTH=3D"150" HEIGHT=3D"20">
+            <FONT CLASS=3D"body" SIZE=3D"2" COLOR=3D"#000000" FACE=3D"Genev=
+a,Verdana,Arial,Helvetica">=20
+            =20
+              Lee Daniels=20
+            =20
+            </FONT>
+           </TD>
+           <TD ALIGN=3D"left" VALIGN=3D"top" WIDTH=3D"50" HEIGHT=3D"20">
+            <FONT CLASS=3D"body" SIZE=3D"2" COLOR=3D"#000000" FACE=3D"Genev=
+a,Verdana,Arial,Helvetica">=20
+            =20
+              Leihfilm (HD)=20
+            =20
+            </FONT>
+           </TD>
+           =20
+              <TD ALIGN=3D"right" VALIGN=3D"top" WIDTH=3D"65" HEIGHT=3D"20"=
+><FONT CLASS=3D"body" SIZE=3D"2" COLOR=3D"#000000" FACE=3D"Geneva,Verdana,A=
+rial,Helvetica">4,99=C2=A0=E2=82=AC</FONT></TD>
+           =20
+           =20
+          </TR>
+          =20
+         =20
+         =20
+          =20
+                              =20
+         =20
+           <TR HEIGHT=3D"10">
+           <TD COLSPAN=3D"4"></TD>
+          </TR>
+         =20
+         =20
+         =20
+          <TR>
+              <TD COLSPAN=3D"4"><img width=3D"100%" height=3D"1" border=3D"=
+0" src=3D"http://r.mzstatic.com/email/images_shared/spacer_999999.gif" /></=
+TD>
+          </TR>
+         =20
+          <TR HEIGHT=3D"15">
+            <TD HEIGHT=3D"15" COLSPAN=3D"4"></TD>=20
+          </TR>
+          <TR HEIGHT=3D"20">
+            <TD HEIGHT=3D"20" ALIGN=3D"right" VALIGN=3D"top" COLSPAN=3D"3">=
+<FONT CLASS=3D"body" SIZE=3D"2" COLOR=3D"#000000" FACE=3D"Geneva,Verdana,Ar=
+ial,Helvetica">Bestellung gesamt:</FONT></TD>
+            <TD ALIGN=3D"right" VALIGN=3D"top" WIDTH=3D"65" HEIGHT=3D"20"><=
+FONT CLASS=3D"body" SIZE=3D"2" COLOR=3D"#000000" FACE=3D"Geneva,Verdana,Ari=
+al,Helvetica">4,99=C2=A0=E2=82=AC</FONT></TD>
+          </TR>
+          <TR HEIGHT=3D"5">
+            <TD HEIGHT=3D"5" COLSPAN=3D"4"></TD>=20
+          </TR>
+          <TR>
+              <TD COLSPAN=3D"4"><img width=3D"100%" height=3D"1" border=3D"=
+0" src=3D"http://r.mzstatic.com/email/images_shared/spacer_999999.gif" /></=
+TD>
+          </TR>
+         =20
+         </TABLE>=20
+         <BR/>
+         <BR/>
+         <TABLE WIDTH=3D"480" BORDER=3D"0" CELLSPACING=3D"0" CELLPADDING=3D=
+"0">
+=09=09 =20
+          <TR>
+           <TD><FONT CLASS=3D"message" SIZE=3D"2" COLOR=3D"#000000" FACE=3D=
+"Geneva,Verdana,Arial,Helvetica"><B>Bitte bewahren Sie eine Kopie f=C3=BCr =
+Ihre Unterlagen auf.</B><BR/>
+             Die Bedingungen und Konditionen, die an diese Bestellung gekn=
+=C3=BCpft sind, finden Sie weiter unten.<BR/>
+             <BR/>
+             <B>iTunes S.=C3=A0 r.l.</B><BR/>
+            =20
+             Sie finden die Verkaufsbedingungen und Verkaufsrichtlinien, in=
+dem Sie Ihr iTunes-Programm starten und auf diesen Link klicken: <a onfocus=
+=3D"this.blur();" href=3D"http://www.apple.com/de/support/itunes/legal/poli=
+cies.html">Verkaufsbedingungen</a><BR/>
+            =20
+             <BR/>
+            =20
+               <B> </B><BR/>
+                <BR/>
+               <BR/>
+            =20
+             Antworten auf h=C3=A4ufige Fragen zum iTunes Store finden Sie =
+hier:  <a onfocus=3D"this.blur();" href=3D"http://www.apple.com/de/support/=
+itunes/store/">http://www.apple.com/de/support/itunes/store/</a>
+            =20
+            =20
+            =20
+             </FONT>
+           </TD>
+          </TR>
+         </TABLE>
+        </TD>
+       =20
+       =20
+        <TD NOWRAP=3D"NOWRAP" WIDTH=3D"20">
+          <img width=3D"20" height=3D"1" border=3D"0" src=3D"http://r.mzsta=
+tic.com/email/images_shared/spacer.gif" />
+        </TD>
+        <TD ALIGN=3D"left" VALIGN=3D"top">
+       =20
+        =20
+       =20
+        </TD>
+       =20
+       </TR>
+      </TABLE>
+    </TD>
+   </TR>
+  </TABLE>
+  <BR/>
+  <BR/>
+  <BR/>
+  <TABLE ALIGN=3D"center">
+   <TR>
+     <TD ALIGN=3D"CENTER"><FONT CLASS=3D"message" SIZE=3D"2" COLOR=3D"#0000=
+00" FACE=3D"Geneva,Verdana,Arial,Helvetica">
+       =20
+          <a onfocus=3D"this.blur();" href=3D"https://buy.itunes.apple.com/=
+WebObjects/MZFinance.woa/wa/accountSummary">Apple-ID =E2=80=93 =C3=9Cbersic=
+ht</a>=C2=A0&#8226;=C2=A0
+       =20
+        <a onfocus=3D"this.blur();" href=3D"https://phobos.apple.com/WebObj=
+ects/MZFinance.woa/wa/purchaseHistory">Einkaufsstatistik</a><BR/><BR/>
+     </FONT></TD>
+   </TR>
+   <TR>
+     <TD ALIGN=3D"center" WIDTH=3D"invoiceTableWidth"><FONT CLASS=3D"messag=
+e" SIZE=3D"2" COLOR=3D"#333333" FACE=3D"Geneva,Verdana,Arial,Helvetica">App=
+le respektiert Ihre Privatsph=C3=A4re.<BR/>
+       Informationen zur Verwendung Ihrer pers=C3=B6nlichen Daten erhalten =
+Sie hier: <a href=3D"https://www.apple.com/de/privacy/">https://www.apple.c=
+om/de/privacy/</a><BR/>
+       <BR/>
+     </FONT></TD>
+   </TR>
+   <TR>
+     <TD ALIGN=3D"center" WIDTH=3D"invoiceTableWidth"><FONT CLASS=3D"discla=
+imer" SIZE=3D"1" COLOR=3D"#999999" FACE=3D"Geneva,Verdana,Arial,Helvetica">
+       Dies ist keine Mehrwertsteuerbenachrichtigung.
+       Copyright =C2=A9 2014 iTunes S.=C3=A0 r.l.
+       <a href=3D"https://www.apple.com/de/legal/">Alle Rechte vorbehalten<=
+/a>
+      =20
+     </FONT></TD>
+   </TR>
+  </TABLE>
+  <BR/>
+ =20
+=20
+
+   =20
+=20
+ </BODY>
+
+<img src=3D'http://outsideapple.apple.com/img/APPLE_EMAIL_LINK/spacer4.gif?=
+v=3D2&a=3Dk%2BmjWPCFEH1m5ry2zndhApTuWzZ%2FsWXmBYlTsHG5QWYxZxBDADlHJ0LpCMgLz=
+UQ87KPZ%2BIMfvM2p4TVdiASwiC%2BXVNfE3kwP%2BVSPPtc08RHY01pzDabpa3wf4QDBXLji%2=
+B9qNqH8IxijhObwls2%2FxwWFjqD1GtT%2BHJQuiJBo7TrRj5Z2ZRyAdzFJRvMdgqsgMpK6dSg3=
+i15Dr285tDoaCNGvW%2BtXKSO6mtRxxnSbqFj5go3Gi1irxgMNcd4ShcnDAwBILujIh97SjNhFp=
+tgZ8LTOvEApDe8KAYVRntulyXH%2B0wGJL53XK2eP9u%2FwCIzPgMzFw3emlAt0DYXH%2F8DCrn=
+Kq3X7ykI8Y%2Fzjkxd94fd60%3D'/>
+</html>
+------=_Part_5004528_1799960646.1394065462428--

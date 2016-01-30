@@ -1,0 +1,94 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.64.225.20 with SMTP id rg20csp11263iec;
+        Fri, 9 May 2014 22:53:50 -0700 (PDT)
+X-Received: by 10.50.30.170 with SMTP id t10mr17705766igh.7.1399701224549;
+        Fri, 09 May 2014 22:53:44 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3ArVtUxUKDMM1lqxuj0jun021-wx0nyu7pxxpun.lxvn0rl2n11nwx55nk.mn@scholar-alerts.bounces.google.com designates 209.85.220.74 as permitted sender) smtp.mail=3ArVtUxUKDMM1lqxuj0jun021-wx0nyu7pxxpun.lxvn0rl2n11nwx55nk.mn@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3ArVtUxUKDMM1lqxuj0jun021-wx0nyu7pxxpun.lxvn0rl2n11nwx55nk.mn@scholar-alerts.bounces.google.com designates 209.85.220.74 as permitted sender) client-ip=209.85.220.74;
+Received: by 10.64.171.65 with POP3 id as1mf1635270iec.5;
+        Fri, 09 May 2014 22:53:44 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3ArVtUxUKDMM1lqxuj0jun021-wx0nyu7pxxpun.lxvn0rl2n11nwx55nk.mn@scholar-alerts.bounces.google.com
+Received: from mail-pa0-f74.google.com ([209.85.220.74]) by mx-ha.web.de
+ (mxweb009) with ESMTPS (Nemesis) id 0MPK6q-1WnNI40bQm-004Uso for
+ <erictessenow@web.de>; Sat, 10 May 2014 07:11:32 +0200
+Received: by mail-pa0-f74.google.com with SMTP id rd3so806576pab.3
+        for <erictessenow@web.de>; Fri, 09 May 2014 22:11:30 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=SkvelYgm51kE0+k8mHNZDNWbrEo64j/Zdw9Eq6ZIvDY=;
+        b=pNRXehPHhjm3O2bQ5oyZQb1sS+GS4DTeNocovQ7mVyXfdop+4OarBoTmAJcwCdxj1N
+         cKceKCMExnBIbGl1ZQIXaB3ydO1frseYo/qc2qkeSmijGevhb60bEh2wN6+7KM/OurtB
+         7yZS6J6jkNPgWaz4B3zcKSmK8PUIMjvFQs731PNAaBP5tw/tnmE5a94/0rlj1Gms+yOk
+         fqQWasZIXKd4JbwD7LF0MYxVetKrkto9gLm0ToS9iQ9up7i64IOzCq3sZArSrZCnOfO2
+         QiuEP77N50UDC8PzmK7p4QrNT4VtLIuHlckp+m6MF7ZvMWFEvO5fIdlUX/+Xdj1M7Heu
+         V8Zw==
+MIME-Version: 1.0
+X-Received: by 10.67.30.197 with SMTP id kg5mr4946466pad.36.1399698690605;
+ Fri, 09 May 2014 22:11:30 -0700 (PDT)
+Message-ID: <001a11340a383f032c04f904bfdb@google.com>
+Date: Sat, 10 May 2014 05:11:30 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:qaZy4dGaw28=:jxaKglxbvxps7mESY+GbdJ50h/
+ +cGucOCfbFMow9bZVxlAtWmw7RLR6S4mwox0dkg62yP3Vg8QDZzWMqrCvNVXHZlErJ/a5/E5m
+ jaQ3QlCrn9W13x7Bauoua+bPOfBhzYf536zb23VDGLmMsZEsOmKiqOzftXHDN/aD7B+AyZND5
+ jkvsJnTiyTW+pRtb3arUSoJv8I5RU0yB3XFDLWo/OOb7o7JDOsJx4PCnTKrMcZrsYzVLuKaod
+ s6dTyhZfVNpAkyXUJTr2XOZVimj2gID5GFvPk2dWncMnsgPoHowxpzcdhRXPHrNgDuMVNSUwp
+ hTYNUx7AYvwYPnOrGAnWo6Ubc2VjdhIeSclTH0hLoDxo0L8UONMWB7uzWWrKoxw3oEaZWNjBq
+ YjX1oUkMTSARt/3h+59jxCL89U5Q+eIgEyFxBQzI+dCvwpGRtuT7+07+17wQiLibGUUTCT081
+ nOhMav1o4ful+66vQ+ApySPlhXueie0MF29RfiG06m4xKb7sDHoquRUAxFruml6ejR5upT6yL
+ iphSU6TlGQhdGnjb9s5LoCxFDrny1XHxiiRTFmC70CpVT/1IlSXjVptw490wx6YshzAXk+3U2
+ h31CF6IiBHUgFxZ72N3xIPqtPdgTKFm9Ht950hQVHFf9H32sLo5fl5qG7Rg4nkmbtgxCIxgC2
+ Gl3DYp9qrTzeLo1rRNmGA1nH5LEZoJliDWM+DV0SDTjxJv027d+OeS4VJWg5O2Ko1vZlHmk75
+ xuc2KeYb3m6h/k6A4QTR5Pezswo+MQv/6k3WTSXnxGh3e0OZfkTqQDvRRkLtizvc/Fzh/qCrX
+ cgvfREy34wi3bLSUb7cjUxP82fajoO9LKWjpMxXH59d4UGxtKLpy1X+4ajLppHRJ1gZRf6g6d
+ qLavJbw7E03sZFnDxY3g/IRI61Et/SFUxmvAnA3gvb1lRQmB6Jk0JclhJ3YNzz1Ab7xdKL5zz
+ eWqi842uDSkpeCQuhH8sRGBnMscqOrdOTz9czFlAISnRwNPxs57nrGK0B1CjxO6P9O4hlwx/3
+ KbZfD0woovfb1Zhpx+AXaerBVzfn2JqvZw58g8XDftTCWrXzFZlLlndCsoh72BV8mkq5rg05d
+ id1CB5Io8uPVLbAApGuw/otbn05w1XkQqIfuArrlLbbvgZ4BQTpiRZ1IsDO/3saY4hIHLvbhv
+ XGEQTEZ6QgK+cx6AZLVJ4+9bNRB6NFJJUQCjZp/IyZHQ==
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D=
+2 color=3D#1122cc>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_=
+url?hl=3Dde&amp;q=3Dhttp://ewi.mmlab.be/publications/CRIS2014.pdf&amp;sa=3D=
+X&amp;scisig=3DAAGBfm1d44Vn8_RLxpyZU2p5tx41ax4b_A&amp;oi=3Dscholaralrt"><fo=
+nt size=3D3 color=3D#1122cc style=3D"text-decoration:underline">Visualizing=
+ the information of a Linked Open Data enabled Research Information System<=
+/font></a></h3><div><font size=3D2 color=3D#009933>A Dimou, L De Vocht, G V=
+an Grootel, L Van Campe&hellip; - 2014</font></div><div><font size=3D2 colo=
+r=3D#222222><b>...</b> 3.2. Publishing Research Information as <b>Linked</b=
+> <b>Data</b> The data were initially on three databases. <b>...</b><br>
+It is a complete stack of in-house technologies which are used to reach an =
+end-to-end solution<br>
+for creating visualizations on top of research data published as <b>Linked<=
+/b> <b>Data</b>. <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dftp://ceur-ws.org/pub/pu=
+blications/CEUR-WS/Vol-1151.zip&amp;sa=3DX&amp;scisig=3DAAGBfm0CKc1iC3bAh9e=
+2TXvgbWC2KLuekw&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=
+=3D"text-decoration:underline">LODOP=E2=80=93Multi-Query Optimization for <=
+b>Linked Data </b>Profiling Queries</font></a></h3><div><font size=3D2 colo=
+r=3D#009933>B Forchhammer, A Jentzsch, F Naumann</font></div><div><font siz=
+e=3D2 color=3D#222222>Abstract. The Web of Data contains a large number of =
+different, openlyavailable datasets. In <br>order to effectively integrate =
+them into existing applications, meta information on statistical <br>and st=
+ructural properties is needed. Examples include information about cardinali=
+ties, <b> ...</b></font></div><br><p><hr noshade size=3D1><font size=3D2 co=
+lor=3D#222222>Dieser Google Scholar-Alert wird Ihnen von Google zur Verf=C3=
+=BCgung gestellt.<br><br><a href=3D"http://scholar.google.de/scholar_alerts=
+?view_op=3Dcancel_alert_options&amp;email_for_op=3Derictessenow%40web.de&am=
+p;alert_id=3DAIfevv3NkPcJ&amp;hl=3Dde"><font color=3D#1122cc>Alert stornier=
+en</font></a><br></font></div></body></html>

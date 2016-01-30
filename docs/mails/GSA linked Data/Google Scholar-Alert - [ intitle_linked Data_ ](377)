@@ -1,0 +1,97 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.64.26.170 with SMTP id m10csp159581ieg;
+        Mon, 6 Jan 2014 15:26:32 -0800 (PST)
+X-Received: by 10.50.220.169 with SMTP id px9mr22386021igc.0.1389050791283;
+        Mon, 06 Jan 2014 15:26:31 -0800 (PST)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3kDnLUhUKDMs9ty52r8r2v8A9-458v62Fx55x2v.t53v8ztAv99v45DDvs.uv@scholar-alerts.bounces.google.com designates 209.85.223.202 as permitted sender) smtp.mail=3kDnLUhUKDMs9ty52r8r2v8A9-458v62Fx55x2v.t53v8ztAv99v45DDvs.uv@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3kDnLUhUKDMs9ty52r8r2v8A9-458v62Fx55x2v.t53v8ztAv99v45DDvs.uv@scholar-alerts.bounces.google.com designates 209.85.223.202 as permitted sender) client-ip=209.85.223.202;
+Received: by 10.50.7.236 with POP3 id m12mf1837968iga.7;
+        Mon, 06 Jan 2014 15:26:30 -0800 (PST)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3kDnLUhUKDMs9ty52r8r2v8A9-458v62Fx55x2v.t53v8ztAv99v45DDvs.uv@scholar-alerts.bounces.google.com
+Received: from mail-ie0-f202.google.com ([209.85.223.202]) by mx-ha.web.de
+ (mxweb108) with ESMTPS (Nemesis) id 0MaYib-1VgIXI2VFx-00K8xx for
+ <erictessenow@web.de>; Tue, 07 Jan 2014 00:17:37 +0100
+Received: by mail-ie0-f202.google.com with SMTP id lx4so4449719iec.3
+        for <erictessenow@web.de>; Mon, 06 Jan 2014 15:17:36 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=JIQma0hlL1kp3dX1YG/AXY2Q5SxrTYKOA9PJFKjKUQ8=;
+        b=L9uBFMzug+q7Cx+PJNK/Q/wTsdsEOFnG5UcC4CTF4Z5y8vM1IGvfKHdr1PRp5gQC/Y
+         viyP7ZunCZG78OEpeZPEd2zP6k7+cSlta1JtfM6mqRh5tB42o2pg0NI2C2XVYJ5HfrOv
+         BLwp/MZ48r4G0e1EgrJ/o5mYorsCz81cm0b6dQe3BJ5zLONUHQAf8GY9KhkJ84DUwnIA
+         voGKugnQCdDrQdTRi9HsviJ4eAqzgrlpK7RvH2H8hGT96gYXE/YNn0x+XHk/I0xCL8U9
+         zgaGsGOA94ihQHN1TqlZrJTQcEEth2seXk8A9NQeOZYsACxC0FmVEyZnxyoRS9cZd+pR
+         K8YA==
+MIME-Version: 1.0
+X-Received: by 10.50.112.10 with SMTP id im10mr2729569igb.2.1389050256356;
+ Mon, 06 Jan 2014 15:17:36 -0800 (PST)
+Message-ID: <047d7b1637ad1af5b104ef5577d4@google.com>
+Date: Mon, 06 Jan 2014 23:17:36 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:tA54eJudo3Y=:d2TRh4AZ7wvaDabqz2ExAPRem4
+ TuqJQ3oSNQkddnXqUu5ESnYX+cRQs1NP7KVC9XKe/au01qNBRtGkmM45W1ydQowPlTumjviWL
+ 4Z5OvIMns7kGs7wqUgGPx+OQqHOX0EeVKHCsy5XdWJH0xJqg5q+lN2tNLCNrwqeZKmeNoc0vD
+ 2dvw6O9opdwRiwuVWFdvICIGmiwoAL6uzubkOIFl7993NpqyjfYGhUS63QjmodIO1JIRZLnh6
+ EvSf76K4slEOIbl2wcz9ve3NLqb2AImrod/8wVvyjQmyOKBa7rNQY4tpreS7gh8V/TANUjngu
+ 7u10NHZjgzShMP+zOLNXL0/VWs/5IcegOb7q2xhhlgFf9jeZEt4w6TIU5wbx6N2D1gXyevSau
+ Wty5o4Lcmy+r1Xmxdhvrr7EJOj48vQATGeO7w826cOvE4k4tvhiRtzzFvrNcwOZkavwsPKWwU
+ wYEmJ67L4Xp+OKuWxB0jnyVuLPTC5gCZmSWzVtMDicsnnXD+32qaWbUQNqnCSkXxNqPOfNSk1
+ 6m0rfjL3kb3bkmdhMzbxx7UU3BtZtjlUjplNPoTAUeD10ELr73+/xw4I4dJk7Kk8xC5grRHjI
+ v/TIGVj/k8vKOGimEStqKlPuCpaO4wDVY3FMsdTbnIszWrDl4plxVLY04cPelVuGh1rNwrjMf
+ dX3rXxVnGoHiSVKA7kFJcKJybSxeqqZTEzUnmeUJK/K0fCJ22jg14gxLbhJzImQnnAN8ka06a
+ qgByCkqRhLyw/SdakSQMntQE0wUGvMA1tcP5z2NyjHhs7f4TOu0qZTmT/EMafGppiZraJBf3S
+ QsbfyUwyEutrFngy8bygb1FGiauStkJxI7erUPBTiQZanZa53UnneQwtYfVnzABdRViHYagfB
+ HI8bpcKWUpkig0lo3rfHGjmniU565Pqi37pMkbZkUUKRvRSNh0hbD93JqlQucArEkTKaA3nCP
+ nDVqDCWHAKvYUfDxLOgbd8XuyNSFLsgFr/beccCBcdfuE7VT5nxY5G7XcgNF8M2NVzELNz9VO
+ L+u6NpwpPKtCjRcD7ffpD3bHOL/pqh7cAL43uA7t2g3SbkxUyLIY4HGb0fs3gSThn42LIeDDo
+ 7973G66iA1Yb4hTv1nrG7Cyhkl81CjeIw1+tvUJK7oSG7yO+LLOHU6lpKQgqVimQqUUAwfj/M
+ hzAETuGhx6IWa6k9Alohzo51aLEEIAcZlmbYRQHP8/7A==
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://ieeexplore.ieee.o=
+rg/xpls/abs_all.jsp%3Farnumber%3D6699065&amp;sa=3DX&amp;scisig=3DAAGBfm0SmN=
+z_Qh4_Le4tf-SYoa73IFx7nw&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122=
+cc style=3D"text-decoration:underline">Transitioning <b>Linked Data </b>acc=
+ountable systems to the real world with identity, credential, and access ma=
+nagement (ICAM) architectures</font></a></h3><div><font size=3D2 color=3D#0=
+09933>I Jacobi, D Miao, KK Waterman, L Kagal - &hellip;  for Homeland Secur=
+ity (HST), 2013 IEEE  &hellip;, 2013</font></div><div><font size=3D2 color=
+=3D#222222>Abstract=E2=80=94We have previously demonstrated a working proto=
+type of an accountable system, <br>a system that can reason with real infor=
+mation handling laws and policies over the sort of <br>data transactions ex=
+pected in the Information Sharing Environment, determine compliance <b> ...=
+</b></font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:med=
+ium;max-width:44.5em"><font size=3D2 color=3D#1122cc>[PDF]</font> <a href=
+=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://eprints.rcl=
+is.org/20981/1/Patrick%2520Danowski,%2520Doron%2520Goldfarb,%2520Verena%252=
+0Schaffner,%2520Wolfram%2520Seidler_Linked%2520(Open)%2520Data_Bibliographi=
+sche%2520Daten%2520im%2520Semantic%2520Web.pdf&amp;sa=3DX&amp;scisig=3DAAGB=
+fm24YLoajweWRDvkb0H8tj8cY1t2qg&amp;oi=3Dscholaralrt"><font size=3D3 color=
+=3D#1122cc style=3D"text-decoration:underline">Linked (Open) Data-Bibliogra=
+phische Daten im Semantic Web. Bericht der AG <b>Linked Data </b>an die Ver=
+bundvollversammlung (16. Mai 2013)</font></a></h3><div><font size=3D2 color=
+=3D#009933>P Danowski, D Goldfarb, V Schaffner, W Seidler - Mitteilungen de=
+r Vereinigung  &hellip;, 2013</font></div><div><font size=3D2 color=3D#2222=
+22>Linked (Open) Data-bibliographic data on the Semantic Web. Report of the=
+ Working Group <br>on <b>Linked Data </b>to the plenary assembly of the Aus=
+trian Library Network (translation of the <br>title). <b>Linked Data </b>st=
+ands for a certain approach to publishing data on the Web. The <b> ...</b><=
+/font></div><br><p><hr noshade size=3D1><font size=3D2 color=3D#222222>Dies=
+er Google Scholar-Alert wird Ihnen von Google zur Verf=C3=BCgung gestellt.<=
+br><br><a href=3D"http://scholar.google.de/scholar_alerts?view_op=3Dcancel_=
+alert_options&amp;email_for_op=3Derictessenow%40web.de&amp;alert_id=3DAIfev=
+v3NkPcJ&amp;hl=3Dde"><font color=3D#1122cc>Alert stornieren</font></a><br><=
+/font></div></body></html>

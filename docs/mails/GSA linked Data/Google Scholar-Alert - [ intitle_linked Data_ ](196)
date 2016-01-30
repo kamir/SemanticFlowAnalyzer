@@ -1,0 +1,94 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.64.44.105 with SMTP id d9csp72440iem;
+        Fri, 2 Aug 2013 00:21:45 -0700 (PDT)
+X-Received: by 10.182.81.41 with SMTP id w9mr4238400obx.18.1375428093125;
+        Fri, 02 Aug 2013 00:21:33 -0700 (PDT)
+DomainKey-Status: good
+Received-SPF: pass (google.com: domain of 38u_2URUKDEMxhmtqfwfqjwyx-stwjuq3lttlqj.htrjwnhyjxxjst11jg.ij@scholar-alerts.bounces.google.com designates 209.85.216.73 as permitted sender) client-ip=209.85.216.73;
+Received: by 10.76.26.50 with POP3 id i18mf3963062oag.18;
+        Fri, 02 Aug 2013 00:21:31 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 38u_2URUKDEMxhmtqfwfqjwyx-stwjuq3lttlqj.htrjwnhyjxxjst11jg.ij@scholar-alerts.bounces.google.com
+Received:  from mail-qa0-f73.google.com ([209.85.216.73]) by mx-ha.web.de
+ (mxweb005) with ESMTPS (Nemesis) id 0MKXsl-1V2YRY0jYN-001vgY for
+ <erictessenow@web.de>; Tue, 30 Jul 2013 00:42:59 +0200
+Received: by mail-qa0-f73.google.com with SMTP id f14so331198qak.4
+        for <erictessenow@web.de>; Mon, 29 Jul 2013 15:42:58 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=ulQ1DZb/uo82xyLcDNDr0tjAKp5F/piKRoJqHD2aBZw=;
+        b=LjZxUK+O4q4ezcm3RHXJxg/CbSTC1+2A+WPBXPGnks69qtqUtkmOoF8zJd5BpPzr1y
+         NX+T7Da13RZ0rHYOOiA9oVz6D1y+L27BKl0m+GqCZvR6JKWw5/kRMxal+Jx4efuxPww2
+         Ykxfbd1S2972OC9aJxSnH8jfK1FrjdmUCgFOt1ylgAnsEwMvGuFiNd4EheJTaWQ7EIVR
+         rpOv1W/kQdO9gsY7wdzH7OZCSPYGvuNJdfUX1C/cxfEF0Oarb3Q54tvxlmHfxRiyOYBC
+         rIrEiIIaIxoUAzUeXTtwOcZR37xCijwzot4fOb5AI+lR/4cGv6HnoLauFcunjV3QWZ3o
+         dIoQ==
+MIME-Version: 1.0
+X-Received: by 10.224.54.73 with SMTP id p9mr79070756qag.1.1375137778104; Mon,
+ 29 Jul 2013 15:42:58 -0700 (PDT)
+Message-ID: <001a1132f652c7f81204e2ae36db@google.com>
+Date: Mon, 29 Jul 2013 22:42:58 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:D6H2V3C6lGE=:gL11Nkx82COcu7DjwsZX4rcDgx
+ ikrsaEyHn+ZE/IMED1W1thAEHZklBGCQcLxqWGNzcpEqGyzNvViKgJN5TFosE0iqwTnxUf1UP
+ E18yXEACBydr9Te+2uSpQL4mI58oc0/D9aaAc0GFrTAX4ujt8zhzwr06mbO/na7bV/rvzzu/J
+ ZJ9JtfMCDJn1USd8zf5LB5qYpFK6uGutiygZekL4na1lcjCnrAkt3RmjCk/wRNla+tYXCcP2R
+ GFFyg84sEZuI/YryhGAHXmyubwhenZ/TrgKrCL7wtc4k0QwqU3+uQjYY2JiZnTMo+CPtXoOK1
+ oG2SD9WhJPMbE84dEjFnsRSXX8GdjSBYQFe8cI39HmLA7e7MUD5iMrvurPbIKSoPU7WjYMffR
+ 4quQpKXysU9jqanKGLYv5h2pSaowcXI5dFcqUKrLJE0U//6KtnT2y+crzcEztRqbNqXRqTaeJ
+ 12pbEQAT66a7L9R4Wol675zr4BPf2f8iaGi5C3LT/UiLmKRbasrHAXRWQA2HA0aqWFPFMK9pi
+ V7EqLO6Mg2SYvXpjVYhNG1ls0MLao51J42MLVTKibA/MOV16DiWqE58rhKkufuYb2u98SOMOz
+ oionyP57UvivW+OBSBvJXDCKCcvkqZeqH+fka/MhelUZHMaZpbrWGicOkhBPMkSQiBTZ2ANP/
+ dIn1XqnGPA+mDdqCpHkC0YemDdMUm6bT06Uhe/GWGXSUnYmJrJYGikTa/wNTmrJVXXqvAssKh
+ fNgRk0F/NvabgpcnvS3rakQ26y76TVJ9q8lLc9Q1kJro94iCEkHG+DN0xlOsUWb06I65yqqqY
+ 6WtAc1oHM/ukU5yepN4v3mV9G1xWg52WbbGNQmWxA494pGocNGY1Mvd4+d7/l5E8uh13F+8pe
+ WlutFJC3uEStfDlxdq3b6QfmlsvX/IKTsHMK35dqE+tWkNJ61+hFv5dM2a6DVKJSB6S+XjW54
+ 2g+Hn1BrkuYRjdqXmJh5mhBrjw1E/PuLgdLof2pPR7HUjccN3qDt6gP0SHzml7GjD6entnupx
+ O3S6MoY5YX+DqUuowE31qdMRQPoSBSd4WGKEsPt+doF7nWpP2l1VuzSvwhj6xk5WDe93Fd3uC
+ oZvZz2nVIjidjRdXDukjSP1fRiPZf5FIKzF6KM7JNrwn4b8hANeKy0znBZaSf6g5kvcBqLtF7
+ N0dlFdbHIBfdJ0NqOKVThBkiIFsSWqVmtWXmkxgqxTpKt6kg2MqEBRKrl1nAYOV6K6mc7hC/3
+ bzqzvFSww0q4Kv9NOdYs4EdQ/0olI9QsTc4FW/SkwQ4Sg1b7JDFDnjD07y8+1IBkWj1LKtTEV
+ 9zmI80LP6stPxqbnQX+xbqJrpIaVByXv63IwkSy97dQvQ8c0SXopFTfmYfJ4e+UoQNA1Po+tO
+ FcthRVO5v5u8x/pqjApruXqxp2ZFVR/RK+kUy6F9jX92a7CXycVxDTXG0le
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://dl.acm.org/citati=
+on.cfm%3Fid%3D2479845&amp;sa=3DX&amp;scisig=3DAAGBfm3qNjXqhLWBgZQc86bYtsiL-=
+NgeXQ&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D"text-de=
+coration:underline">Unsupervised wrapper induction using <b>linked data</b>=
+</font></a></h3><div><font size=3D2 color=3D#009933>AL Gentile, Z Zhang, I =
+Augenstein, F Ciravegna - Proceedings of the seventh  &hellip;, 2013</font>=
+</div><div><font size=3D2 color=3D#222222>Abstract This work explores the u=
+sage of <b>Linked Data </b>for Web scale Information Extraction <br>and sho=
+ws encouraging results on the task of Wrapper Induction. We propose a simpl=
+e <br>knowledge based method which is (i) highly flexible with respect to d=
+ifferent domains and <b> ...</b></font></div><br><h3 style=3D"font-weight:n=
+ormal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"http://scholar=
+.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://dl.acm.org/citation.cfm%3Fid%=
+3D2484219&amp;sa=3DX&amp;scisig=3DAAGBfm3-d6zLn5ESab6MUG0u9kWqO3FWIg&amp;oi=
+=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D"text-decoration:und=
+erline">A geolinguistic web application based on linked open data</font></a=
+></h3><div><font size=3D2 color=3D#009933>E Di Buccio, GM Di Nunzio, G Silv=
+ello - Proceedings of the 36th international ACM  &hellip;, 2013</font></di=
+v><div><font size=3D2 color=3D#222222><b>...</b> ACM has opted to expose th=
+e complete List rather than only correct and linked references. 1.<br>
+C. Chiarcos. Interoperability of corpora and annotations. In <b>Linked</b> =
+<b>Data</b> in Linguistics, pages<br>
+161--179. Springer Berlin Heidelberg, 2012. 2. E. Di Buccio, GM Di Nunzio, =
+and G. Silvello. <b>...</b>=20
+</font></div><br><p><hr noshade size=3D1><font size=3D2 color=3D#222222>Die=
+ser Google Scholar-Alert wird Ihnen von Google zur Verf=C3=BCgung gestellt.=
+<br><br><a href=3D"http://scholar.google.de/scholar_alerts?view_op=3Dcancel=
+_alert_options&amp;email_for_op=3Derictessenow%40web.de&amp;alert_id=3DAIfe=
+vv3NkPcJ&amp;hl=3Dde"><font color=3D#1122cc>Alert stornieren</font></a><br>=
+</font></div></body></html>

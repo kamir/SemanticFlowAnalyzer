@@ -1,0 +1,110 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.64.26.170 with SMTP id m10csp691571ieg;
+        Mon, 30 Dec 2013 13:50:00 -0800 (PST)
+X-Received: by 10.51.17.101 with SMTP id gd5mr58057759igd.25.1388440197106;
+        Mon, 30 Dec 2013 13:49:57 -0800 (PST)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3xenBUhUKDDwqafmjYpYjcprq-lmpcnjwemmejc.amkcpgarcqqclmuucZ.bc@scholar-alerts.bounces.google.com designates 209.85.212.74 as permitted sender) smtp.mail=3xenBUhUKDDwqafmjYpYjcprq-lmpcnjwemmejc.amkcpgarcqqclmuucZ.bc@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3xenBUhUKDDwqafmjYpYjcprq-lmpcnjwemmejc.amkcpgarcqqclmuucZ.bc@scholar-alerts.bounces.google.com designates 209.85.212.74 as permitted sender) client-ip=209.85.212.74;
+Received: by 10.50.108.139 with POP3 id hk11mf8325418igb.0;
+        Mon, 30 Dec 2013 13:49:55 -0800 (PST)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3xenBUhUKDDwqafmjYpYjcprq-lmpcnjwemmejc.amkcpgarcqqclmuucZ.bc@scholar-alerts.bounces.google.com
+Received: from mail-vb0-f74.google.com ([209.85.212.74]) by mx-ha.web.de
+ (mxweb007) with ESMTPS (Nemesis) id 0MaZfF-1Vi00U0EXJ-00KBYO for
+ <erictessenow@web.de>; Mon, 30 Dec 2013 22:46:47 +0100
+Received: by mail-vb0-f74.google.com with SMTP id w5so771677vbf.5
+        for <erictessenow@web.de>; Mon, 30 Dec 2013 13:46:46 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=/+txysP47tFcA1MCHAwy+V3Qt5XHVsOed3o6J9snoHI=;
+        b=mx2Blb9nPoJK4WwEAY8KW3UCoTiJHjGmzG4iL4SYbIsNB9QHJxuLLopSOtYXX2Ew2e
+         4X4rb4uk5WXgpm85ubRrGRN4DmeRcWVy5KVvikvF6yYDyFl3XiJnkMeKRG4gguvaO58i
+         07W/ZRNMtYRW+bXvQgFxJ2+/AhEb/WpX2asZM6o1AA0VikxikdC/xAnzODIXESN+s/6C
+         7c5R4k34EgdpfCaQ/m6CgksfV0kkXcPm0HW1JHdHe0bWfCXErFN3U5SAJG6Xyiif8xhM
+         B0UCsKPFAqf35X1ltZBiyqkt3A75U+99YCA/yVmuBAR0iEpjdYxUqCcrT0hYorYMzMqO
+         aoog==
+MIME-Version: 1.0
+X-Received: by 10.58.204.2 with SMTP id ku2mr4296611vec.39.1388440005974; Mon,
+ 30 Dec 2013 13:46:45 -0800 (PST)
+Message-ID: <047d7beb9e10591b2a04eec761ed@google.com>
+Date: Mon, 30 Dec 2013 21:46:45 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:YTuTBS4/DGQ=:8jNz4VGCDn6H9WaEEVLpmzztEz
+ AcGVCMF/XfeLMNxCsDd/6Iok1t7E4tDyMj+g8D9GtS1DGThYa5ZL13gItx0ZLLiM30DP30fW1
+ fuh76tSKTG0HCtvOV19BuvcggqdjAZRFz+obV8L2uM4TPQbfifI2nRRLN3CxtYBnMPExgspG1
+ pxBOUSBlXUqs83KBVUhGM5i61O7PhdSfm/u32rpBvtYw7O5vmq9MgP/UHqNhSUWe7RfGshY/X
+ 4j18bTzgjR35YBVTz9JkfXTFejcRsvZdp4IR+2KMhwVPI5gd568Z/fWELtI81q4Y+xDnwRtZF
+ EpOTSeRv9BRBfmQsWcDtbkDcLQYfWg2m3aAwSmmzN26eOxWfqQDjnAEPPQvz28+sEAFCaf6qH
+ UX8TmlqzMqIG9rEFCt+J/nV35tTU6f79Mcr4c8TBw2jUWsKPEocsiCS7C5vZqINBUQ1HJWzzA
+ E1c/qO7Yyof73nMePojQPSS0iwjW8oBm7wSGIYxKeu7JHJoHDDNf22kir8jHph3N62qU0IDJQ
+ m6w39lb6FTVZWZbBa2tVxFkjG9lfkR5LxiTqQWWPnyc73UkgnJJNm5q3/IzZIovtO7yeFHvZE
+ SAtvAmH/5eATTJRtyXUH8iNKetm1R/bnf/mFYHyoxxoqrFQZ54FPsYdIypLfdoyGgdX3iX0dP
+ rO2kGBjPfVC5zBrZyj+CS2vKLPdrFnEyN2xjHS1rFehmZL9NDuv0sn/ARRhPDhmDjbs5t5x13
+ NgANqbm3hQE4oW3Gk7oBE9jt00n3PjhIwZ95sYntH3lJc7W9NBHqbq0vsnCQV6R/d7AQSvm44
+ 2xANNH/jOJcxp+13qrDtcNMrg8fmOIsdn3YLB3ErbXiSYIeiPEcUMiArKAkNLGWryPrUuq85R
+ rVo8XZbxnqbrHBa+gRO5OaD1lOIKCU5ZOqd5T8rbUONcFbkBFPAli/2HSiNY1FiSuCgDR8gXB
+ h1wc+RIysIX4ik96k6ZdRqQ4YIB2IBP/9AOB6eWOIJCrL4UNnmL1tU1RICsbR+GL0E+19z2Sd
+ yJ4PMBA4NZTq+wGwHEwx6hD66zlWUKZhMXFGX0i5yEG2Tvrt0N+/cPeagDMOykfmbJPhmoWvb
+ o5hmoO1WeRVCQsO9RD30kNHtbDHDFwuAILtTT1kbXQFMGoA38THoY0n6wPnERDuISP+4tKVod
+ molPs4VHVwTtD+uzR8atruGDUiSqoQrp/T2v2E5hPwC+pnuaTerr30Q1YNNjKwDewRh+x/S4R
+ ymlkSl1sGdT0aQnQCcBX9pgtL0XLq24g84vH+es4APNALyDWYhqylZuF7KEQeuh0JvOmxgIjT
+ aJQUw4IwEkvd0FIEyBVqY0fh7Qxox5x+CLprFRCIQuAouz08xxoJCo8LMy/3mCrlNBR3TzLMz
+ EC5wbav53RRjwuGpA==
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://www.ztxb.net.cn/j=
+tlsc/ch/reader/view_abstract.aspx%3Ffile_no%3D20130206&amp;sa=3DX&amp;scisi=
+g=3DAAGBfm0WmIm81mTpZLM58TNOxB1Z5wjZKw&amp;oi=3Dscholaralrt"><font size=3D3=
+ color=3D#1122cc style=3D"text-decoration:underline">A Research on Publishi=
+ng Workflow and Key Issues of <b>Linked Data</b>: Experience with Publishin=
+g Scientific Literature and Scientific Data as <b>Linked Data</b></font></a=
+></h3><div><font size=3D2 color=3D#009933>=E6=B2=88=E5=BF=97=E5=AE=8F=EF=BC=
+=8C =E5=88=98=E7=AD=B1=E6=95=8F=EF=BC=8C =E5=BC=A0=E6=99=93=E6=9E=97=EF=BC=
+=8C =E9=BB=8E=E5=BB=BA=E8=BE=89</font></div><div><font size=3D2 color=3D#22=
+2222>=E4=B8=AD=E6=96=87=E6=91=98=E8=A6=81: =E6=9C=AC=E6=96=87=E7=BB=93=E5=
+=90=88=E4=B8=AD=E5=9B=BD=E7=A7=91=E5=AD=A6=E5=BC=95=E6=96=87=E6=95=B0=E6=8D=
+=AE=E5=BA=93=E5=92=8C=E4=B8=AD=E5=9B=BD=E7=94=9F=E6=80=81=E7=B3=BB=E7=BB=9F=
+=E7=A0=94=E7=A9=B6=E7=BD=91=E7=BB=9C=E9=80=9A=E9=87=8F=E6=95=B0=E6=8D=AE=E7=
+=9A=84=E5=85=B3=E8=81=94=E6=95=B0=E6=8D=AE=E5=8F=91=E5=B8=83, <br>=E4=BB=A5=
+=E5=85=B3=E8=81=94=E6=95=B0=E6=8D=AE=E7=9A=84=E5=8F=91=E5=B8=83=E6=8A=80=E6=
+=9C=AF=E6=A1=86=E6=9E=B6=E4=B8=BA=E7=A0=94=E7=A9=B6=E5=AF=B9=E8=B1=A1, =E9=
+=87=87=E5=8F=96=E5=AE=9E=E4=BE=8B=E9=98=90=E9=87=8A=E7=9A=84=E6=96=B9=E6=B3=
+=95, =E6=8F=90=E5=87=BA=E4=BA=86=E5=85=B3=E8=81=94=E6=95=B0=E6=8D=AE=E5=8F=
+=91=E5=B8=83=E8=BF=87=E7=A8=8B=E4=B8=AD=E5=8F=AF<br>=E5=8F=82=E8=80=83=E7=
+=9A=84=E6=A0=87=E5=87=86=E5=8C=96=E6=B5=81=E7=A8=8B, =E5=B9=B6=E8=AF=A6=E7=
+=BB=86=E5=88=86=E6=9E=90=E4=BA=86=E5=85=B6=E4=B8=AD=E7=9A=84=E5=85=B3=E9=94=
+=AE=E9=97=AE=E9=A2=98. =E7=A0=94=E7=A9=B6=E8=A1=A8=E6=98=8E, =E5=85=B3=E8=
+=81=94=E6=95=B0=E6=8D=AE=E5=8F=91=E5=B8=83=E6=B5=81=E7=A8=8B=E5=8F=AF=E4=BB=
+=A5=E5=88=86=E8=A7=A3=E6=88=90<b> ...</b></font></div><br><h3 style=3D"font=
+-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D2 c=
+olor=3D#1122cc>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_url=
+?hl=3Dde&amp;q=3Dhttps://www1.nyc.gov/html/doh/downloads/pdf/episrv/LSED%25=
+20white%2520paper.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm2w2MtQd6sP_kw-CRyc_kEzw=
+XBiFA&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D"text-de=
+coration:underline">Creation of a linked inter-agency data warehouse: the L=
+ongitudinal Study of Early Development</font></a></h3><div><font size=3D2 c=
+olor=3D#009933>M Pfeiffer, M Slopen, A Curry, K McVeigh</font></div><div><f=
+ont size=3D2 color=3D#222222><b>...</b> September 2012 Materials and Method=
+s Our primary goal was to create a data<br>
+warehouse containing <b>linked</b> <b>data</b> from 5 sources: (a) the <b>.=
+..</b> based on the purpose of the<br>
+<b>linked</b> <b>data</b> and the tolerance for both false matches and fals=
+e non- <b>...</b>=20
+</font></div><br><p><hr noshade size=3D1><font size=3D2 color=3D#222222>Die=
+ser Google Scholar-Alert wird Ihnen von Google zur Verf=C3=BCgung gestellt.=
+<br><br><a href=3D"http://scholar.google.de/scholar_alerts?view_op=3Dcancel=
+_alert_options&amp;email_for_op=3Derictessenow%40web.de&amp;alert_id=3DAIfe=
+vv3NkPcJ&amp;hl=3Dde"><font color=3D#1122cc>Alert stornieren</font></a><br>=
+</font></div></body></html>

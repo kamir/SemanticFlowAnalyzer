@@ -1,0 +1,107 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.64.243.69 with SMTP id ww5csp10525iec;
+        Thu, 3 Apr 2014 23:54:31 -0700 (PDT)
+X-Received: by 10.42.44.4 with SMTP id z4mr10417855ice.34.1396594469527;
+        Thu, 03 Apr 2014 23:54:29 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3vlQ-UxUKDAEtdipmbsbmfsut-opsfqmzhpphmf.dpnfsjdufttfopxxfc.ef@scholar-alerts.bounces.google.com designates 209.85.128.201 as permitted sender) smtp.mail=3vlQ-UxUKDAEtdipmbsbmfsut-opsfqmzhpphmf.dpnfsjdufttfopxxfc.ef@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3vlQ-UxUKDAEtdipmbsbmfsut-opsfqmzhpphmf.dpnfsjdufttfopxxfc.ef@scholar-alerts.bounces.google.com designates 209.85.128.201 as permitted sender) client-ip=209.85.128.201;
+Received: by 10.64.225.172 with POP3 id rl12mf1618174iec.12;
+        Thu, 03 Apr 2014 23:54:28 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3vlQ-UxUKDAEtdipmbsbmfsut-opsfqmzhpphmf.dpnfsjdufttfopxxfc.ef@scholar-alerts.bounces.google.com
+Received: from mail-ve0-f201.google.com ([209.85.128.201]) by mx-ha.web.de
+ (mxweb008) with ESMTPS (Nemesis) id 0LjISN-1X1jRA0vdv-00daNV for
+ <erictessenow@web.de>; Fri, 04 Apr 2014 08:44:15 +0200
+Received: by mail-ve0-f201.google.com with SMTP id jy13so233953veb.0
+        for <erictessenow@web.de>; Thu, 03 Apr 2014 23:44:14 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=CUZgCK46TwR0cncphdKEyvhT4iOzNTanH8jsUhMQtd4=;
+        b=nTGRS/oDgGJunz+UcEARfkdeNn5kzRSfjjfHE+skZaI5/OLXnSzY5bXb3wb08SqD5b
+         jhiexmq+EMG599Bz3IjeARErOj9sYNfgLpQ9RCM2iFOC466Kt+wnU+VITlZxCnCcQaTO
+         hKfs4EYqN/sHvekh/V924W+7Wz58d1yzZyNgtmbG5oT/QZvAYMqvAsvJq+TLfzTQ1x4F
+         ACUXlcXl3TNPWS3FnZuF5DZNEqoDNjfl+HLWmamiCW2Cs1jrQtEKom67E0ekWfcZmc+o
+         dD8RxPdAGThLa6QGUqGsbQF/i+fm6upXp9t15w8IFvVdauGFBoRgH0qlhltJM/eSpfTN
+         qihQ==
+MIME-Version: 1.0
+X-Received: by 10.58.127.66 with SMTP id ne2mr2459277veb.27.1396593854106;
+ Thu, 03 Apr 2014 23:44:14 -0700 (PDT)
+Message-ID: <047d7b6729ac91cad404f631d8ed@google.com>
+Date: Fri, 04 Apr 2014 06:44:14 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:utSbZQHCJlw=:dKHNVF7pz1R/c00XahOEXp9BhX
+ 57NNAmk3qLxtLvurO7gl55pg1OIm37AI5tA+sgHElQM/0X73YyldmdNF0AhYrmowsmeBnrHSZ
+ 0eAySVoMch6Otpc/qsEun5XBU9cAglXQJ/WkJUEIpdT/KTg4K/kR5Y7Cz31bqD7YQZoeSAiLD
+ jYOxn0qp7VBx9B5LokObbStowXI8/mWMAECrgRCv68pJytP/DgXTUlqLP5yqX601KD5120VKD
+ 2DRQ7tql/B66llLuE0IlX+phIGJ04b4jjepp4YfZXUPp39xmNhfk3A8qHzrVTRnY+UHPmAuru
+ bw5p81KmO6Do9y2YPX4h48I77+gfs6/g1OZ7pjLV5JTuGCTnMHZ+vMyp8AyeudNbaZTMETn2d
+ VpL+NyOmTbjdr6O0byVqkWhtLCV9wtAlKjxwRxYZgeut7H9ZRcqfboXy0czN3D79dPkUp5Hav
+ Ci5rydU8v4fHZMxwhW2kgiP0a3z8jJx5Fv5uMNt0dZ3omBY4Itv76222igiZqZx+YsLhSFnXV
+ dC1HlZnzpmSACW00E+GwOAq52TuE9ISKzR75wO1d9fTWZsy+K+9A2alF5OJjTM1cU257urlp8
+ B7SQZmluhF8WbxDtpYA9QoDt082+ju9IiNvGbNldxg+M7hMUdKhTGVsi+BVocXWRVFlHJ2yMY
+ MwTE7LMxCzh0SsqktBMH/HXQHvLB3xlx9d+eb7pa/T0FDUTx1aVzxzWw+SSIWP5Is0pMpVZGq
+ J55lnk3JJRMNCUai8IGmXe1jzTyB4lJ42JbGmUHzHiGJDQITfHWhYcGpTzNkMaGU6g2CJnIJz
+ rncUvP6WagF+dMRwBt+G2Pmk5tVUKe1WA+xbNr4y8gkXIIw/ugGAspWPTVVovjv+R7VLs4pr4
+ aI2ecLUlQ7/dxbfJ4Z7rb+Bl56G4KaigOQef6WEqg2fhgiQ/ajc4Aq3W5VHQdoIbxRllEealb
+ QW79lEc56N0AGTaiwHJcI2iAkrcvls3PXgXtBsc0r7wBG36jhiQebFn1eOFDgWlNuNvBkYlE8
+ lItoKuEzWAYfPF54bWg1sK2jv5yb6OfpDnScZ7mHWZGNWLLbcSVPpJDM2K5tGWlFig6zv8c8E
+ UqyJFx7MpXA0MNLA/2lUFCsAOXrtW7fkIO6OMdFyJIhT+j63w5R0HUPpeffKscKbTE6mTEjxs
+ /OIVZrZCzzg11frTnrt+WX7ZwITtwATJ3B9AkZ8CEyFOrCG3MGDFWV1IVS+Df+KLKRDe1nqUg
+ S0z4/AJZRl39dO6DiWVTZ6K5aECnbeq9vBBF0WFLmZAoidMxmQCDGHP/pyV+E7oAZ10Y7BSTw
+ DhIaguj5nJd8kO9SRDWCi4Zxv7Qf3yluLDKcZTw+VvRUG0i28/xgNbQEPkjt4sSMAV/U9DJ1b
+ wUaqpnZIiSdJBboZA==
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://adsabs.harvard.ed=
+u/abs/2014ascl.soft02002B&amp;sa=3DX&amp;scisig=3DAAGBfm3jQMm89OBEZuom_hmYs=
+ilLuX4HOQ&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D"tex=
+t-decoration:underline">Glue: <b>Linked data </b>visualizations across mult=
+iple files</font></a></h3><div><font size=3D2 color=3D#009933>C Beaumont, T=
+ Robitaille, M Borkin - Astrophysics Source Code Library, 2014</font></div>=
+<div><font size=3D2 color=3D#222222>Abstract Glue, written in Python, links=
+ visualizations of scientific datasets across many files, <br>allowing for =
+interactive, linked statistical graphics of multiple files. It supports man=
+y file <br>formats including common image formats (jpg, tiff, png), ASCII t=
+ables, astronomical image <b> ...</b></font></div><br><h3 style=3D"font-wei=
+ght:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D2 color=
+=3D#1122cc>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_url?hl=
+=3Dde&amp;q=3Dhttp://homepage.lnu.se/staff/daweaa/events/E4MAS/2014/12.pdf&=
+amp;sa=3DX&amp;scisig=3DAAGBfm1_uhdmkOvnmwPyaL9t13ONmM2hLQ&amp;oi=3Dscholar=
+alrt"><font size=3D3 color=3D#1122cc style=3D"text-decoration:underline">Wh=
+ere Are All the Semantic Web Agents: Establishing Links Between Agent and <=
+b>Linked Data </b>Web through Environment Abstraction</font></a></h3><div><=
+font size=3D2 color=3D#009933>O Dikenelli</font></div><div><font size=3D2 c=
+olor=3D#222222>Abstract. Semantic Web Agents have been considered as main s=
+oftware artifacts to <br>consume the semantic data since the Semantic Web c=
+oncept was raised first time in the well <br>known The Semantic Web article=
+ in 2001. More then a decade passed and there is no <b> ...</b></font></div=
+><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;max-width:44=
+.5em"><font size=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"http://scholar=
+.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://amslaurea.unibo.it/6722/1/bag=
+nacani_andrea_tesi.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm2eGJsmQDcsaPeXoE2HQ-Bk=
+1G4PAA&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D"text-d=
+ecoration:underline"><b>Linked Data </b>e bibliometriche: un indice di mult=
+idisciplinarieta nel Semantic Publishing</font></a></h3><div><font size=3D2=
+ color=3D#009933>C mo Prof, F Vitali, M Costa, A Bagnacani</font></div><div=
+><font size=3D2 color=3D#222222>Nel presente lavoro si introduce un nuovo i=
+ndice per la valutazione dei prodotti della ricerca: <br>l&#39;indice di mu=
+ltidisciplinarieta. Questa nuova metrica puo essere un interessante paramet=
+ro <br>di valutazione: il panorama degli studi multidisciplinarie vasto ed =
+eterogeneo, ed all&#39;<b> ...</b></font></div><br><p><hr noshade size=3D1>=
+<font size=3D2 color=3D#222222>Dieser Google Scholar-Alert wird Ihnen von G=
+oogle zur Verf=C3=BCgung gestellt.<br><br><a href=3D"http://scholar.google.=
+de/scholar_alerts?view_op=3Dcancel_alert_options&amp;email_for_op=3Derictes=
+senow%40web.de&amp;alert_id=3DAIfevv3NkPcJ&amp;hl=3Dde"><font color=3D#1122=
+cc>Alert stornieren</font></a><br></font></div></body></html>

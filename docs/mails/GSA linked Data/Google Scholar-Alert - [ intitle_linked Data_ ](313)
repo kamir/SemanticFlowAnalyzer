@@ -1,0 +1,94 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.140.237.205 with SMTP id i196csp331341qhc;
+        Fri, 17 Apr 2015 20:46:22 -0700 (PDT)
+X-Received: by 10.229.122.138 with SMTP id l10mr7432934qcr.26.1429328780148;
+        Fri, 17 Apr 2015 20:46:20 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3gc0xVRUKDJIEy3A7wDw70DFE-9AD0B7K2AA270.yA80D4yF0EE09AII0x.z0@scholar-alerts.bounces.google.com designates 209.85.213.201 as permitted sender) smtp.mail=3gc0xVRUKDJIEy3A7wDw70DFE-9AD0B7K2AA270.yA80D4yF0EE09AII0x.z0@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3gc0xVRUKDJIEy3A7wDw70DFE-9AD0B7K2AA270.yA80D4yF0EE09AII0x.z0@scholar-alerts.bounces.google.com designates 209.85.213.201 as permitted sender) client-ip=209.85.213.201;
+Received: by 10.140.91.194 with POP3 id z60mf838304qgd.30;
+        Fri, 17 Apr 2015 20:46:20 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3gc0xVRUKDJIEy3A7wDw70DFE-9AD0B7K2AA270.yA80D4yF0EE09AII0x.z0@scholar-alerts.bounces.google.com
+Received: from mail-ig0-f201.google.com ([209.85.213.201]) by mx-ha.web.de
+ (mxweb008) with ESMTPS (Nemesis) id 0LlmMK-1ZIN0d0VbE-00ZSdg for
+ <erictessenow@web.de>; Sat, 18 Apr 2015 05:20:35 +0200
+Received: by igdh15 with SMTP id h15so2015189igd.0
+        for <erictessenow@web.de>; Fri, 17 Apr 2015 20:20:34 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=zW9gnm5CA9eG7HHZ5oc6AFBT1SkfOE3/2yUAedXHDsw=;
+        b=nrPVLd8/pz67UMLNbCTdxaYpzAVg8PSCKOBsypGMz6fxJeCdCb9ZOwPdnv4dwWSnDX
+         000vP1NxJUjBrNl6aooGmodUeBy/sVEuEwE3uvmjTE2t66rMBFyoRKHZB2N0qtsi3QDJ
+         7SQFxWWN0AfwvC0ZCvYsqaRrI5KxbUolMpZYMBk+zhbKDO9dW2z0T52Bc++YKVEkrxw4
+         MZ2WBJ/gkCn1zwIuxt9gsLD/ODYlL4UxuHpe4d6xE4TWrpcA5Bw+rsnY74Sib2H9IP30
+         poEa2JPTAlnpG9S5RFA0K7Mlw1sdBa5U9Ld5wpji5t5l1rjehcwx8YpvvzlRIMqJS3vV
+         Lrsg==
+MIME-Version: 1.0
+X-Received: by 10.42.49.204 with SMTP id x12mr8494575icf.26.1429327233992;
+ Fri, 17 Apr 2015 20:20:33 -0700 (PDT)
+Message-ID: <90e6ba61546e0cc6570513f72e44@google.com>
+Date: Sat, 18 Apr 2015 03:20:33 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:ynqdynWKzz8=:oeUN88NuOxa/pLhJo8yaAoq8hV
+ lyT0SHV95ZmY0vhoZJyYIfLghkuq+T9PgYLN2mEiOqvvCl/Gm0BiQzIpJSHP8hBh2CNYv14PB
+ jWcacHd4WKZ469pi9j4X0gqi266v1cxA04aoXq174+GHcjnz7wYPe8hRpziGFM1Jmtvrpbypr
+ 8VN8MmaU5aqE7A3OiFjxCrgsf7ggKXlGvWkvmNsIjalZEKNCJligNSUZBH/LTFdU4gBYUxYS/
+ Cr+XbT3xPZNrlwmHttwjBuKAunbIuI5XgrHUs29f6v6WkfcC2MCzvhDRkfto3PHjRhyRzQl4z
+ pVZpuX6p3YrtxEVz4ZnvhDmedZm+SLdW+Vs5MXmRxyWkvBNINoi1x0pIOXJWkeDMXlGUDCadZ
+ E/izfpbpZRliYtnjmK+DKJAv/ZM+Zz+riBySvRboiqZVFz9tS3Esmlk0U4T6LE9P4MYMbciKP
+ wRXmaOVvbU3DlGpqasc21rk05Pi9DjYLL5qXVUhRXknSayGRQ3RW8r8F5CCeiSmI2KKMhavIp
+ 9spmlt7hwljtWPc+HfiNcXUeCIA6p4vGeYrhD40hQL3H9NcsPmgt4lEv+wdmQcX7FQhNGMmeF
+ hK/dEPNp503RVNImvCXKyUEZ6IqRdGqYFzloruyGb61GKDi1C6DFABIwZ7WQ5Ptrp+bKB1P4G
+ /9n/qhW8rnf+IDhgMCMtxpPcACpiwXzq5lR1Nrt21j+XtR2R9MDzzPpaiZQEFzc7FBsRQQNFv
+ 99YQ4CDxw3iyRw0TC1tS8gflEkcWgKhZPiRwC4dCuoHmZrhAmOuZH7FCgsN6vglWZeVdx/eqB
+ OYPMGT4VR4w6iRL6TFUXYt0hUDH4+9wrSwUZC1GznIWD3qsNi3nT6TdrNaWtAsbiFaIZTZ7UT
+ 3uV2xDh2T9eiaHKYeGoFGqLDnfLvG+DIZrCmYBc9/mV8jMHXeiWXiY+4sDzCnSP90lXO3bqXw
+ m+NXdqFhA6VyMBTCPfwCjiQoMNVyWsQn3dUnsLhL8Cl88UOAxq4qTKD79GbAQ1fsRFylZNWZk
+ WtZlEq0svjmceRQPNyRoioccm5jH7eqcYdhtcQdxZLMcDN0ZoB4kTOvQ4rtfzQ1pnygZljCD+
+ RTtEh62aJO0a+FH/20peDce40cC6H5J53U6su2zfazQu5RLJKvesx3AxISdhjwrjuZqETHvW4
+ KpcwWy5/yHiollr1xffIY07KVitW/LwxaCMriFXv7Z7yGF61m1rt5dUEN+Yarqa08wKgTBJSb
+ 7l2VGIF1pvHk5ZBW0ZJmQOpI5xphAjs1zzYLPpp+41SZzfpd46K3xIf6RKDjNHNvw61GWn7oN
+ G1FF
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttp://www.worldscientific.com/doi=
+/abs/10.1142/S021821301540014X&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm1j=
+us61pQ9Eqoum1qfdr9VBFeDoVg&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=
+=3D3 color=3D#1a0dab style=3D"text-decoration:underline">Building Domain On=
+tologies Out of Folksonomies and <b>Linked Data</b></font></a></h3><div><fo=
+nt size=3D2 color=3D#006621>A Garc=C3=ADa-Silva, LJ Garc=C3=ADa-Castro, A G=
+arc=C3=ADa, O Corcho - International Journal on  &hellip;, 2015</font></div=
+><div><font size=3D2 color=3D#222222>In this paper we propose an automatic =
+method for building domain ontologies where we <br>leverage the emerging vo=
+cabulary from social tagging systems, and the existing semantics <br>in the=
+ Linked Open Data cloud to enrich semantically the terms that shape the dom=
+ain <b> ...</b></font></div><br><h3 style=3D"font-weight:normal;margin:0;fo=
+nt-size:medium;max-width:44.5em"><a href=3D"http://scholar.google.de/schola=
+r_url?url=3Dhttp://dugi-doc.udg.edu:8080/handle/10256/10235&amp;hl=3Dde&amp=
+;sa=3DX&amp;scisig=3DAAGBfm3oXevjifqYo2nX42DPqgT4vdd42w&amp;nossl=3D1&amp;o=
+i=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:un=
+derline">Crowd-data, open-data, <b>linked</b>-<b>data </b>y c=C3=B3mo segui=
+r usando INSPIRE</font></a></h3><div><font size=3D2 color=3D#006621>M Arias=
+ de Reyna - 2015</font></div><div><font size=3D2 color=3D#222222>Resum Pres=
+entaci=C3=B3 sobre el format INSPIRE per la descripci=C3=B3 de les dades ge=
+ogr=C3=A0fiques i <br>espaials i com lligar-les amb els formats del movimen=
+t open data. Es refereix a dues <br>iniciatives concretes per fer possible =
+la unificaci=C3=B3 entre el format INPIRE i el d&#39;open data: <b> ...</b>=
+</font></div><br><p><hr noshade size=3D1><font size=3D2 color=3D#222222>Die=
+ser Google Scholar-Alert wird Ihnen von Google zur Verf=C3=BCgung gestellt.=
+<br><br><a href=3D"http://scholar.google.de/scholar_alerts?view_op=3Dcancel=
+_alert_options&amp;email_for_op=3Derictessenow%40web.de&amp;alert_id=3DAIfe=
+vv3NkPcJ&amp;hl=3Dde"><font color=3D#1a0dab>Alert stornieren</font></a><br>=
+</font></div></body></html>

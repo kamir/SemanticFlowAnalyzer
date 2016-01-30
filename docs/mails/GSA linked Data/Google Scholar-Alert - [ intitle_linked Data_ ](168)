@@ -1,0 +1,150 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.79.35.66 with SMTP id t63csp461257ivf;
+        Mon, 27 Apr 2015 17:13:04 -0700 (PDT)
+X-Received: by 10.50.50.148 with SMTP id c20mr3352242igo.0.1430179980964;
+        Mon, 27 Apr 2015 17:13:00 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3sc8-VRUKDPouejqnctcngtvu-pqtgrn0iqqing.eqogtkevguugpqyygd.fg@scholar-alerts.bounces.google.com designates 209.85.192.202 as permitted sender) smtp.mail=3sc8-VRUKDPouejqnctcngtvu-pqtgrn0iqqing.eqogtkevguugpqyygd.fg@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3sc8-VRUKDPouejqnctcngtvu-pqtgrn0iqqing.eqogtkevguugpqyygd.fg@scholar-alerts.bounces.google.com designates 209.85.192.202 as permitted sender) client-ip=209.85.192.202;
+Received: by 10.64.148.102 with POP3 id tr6mf7487840ieb.29;
+        Mon, 27 Apr 2015 17:13:00 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3sc8-VRUKDPouejqnctcngtvu-pqtgrn0iqqing.eqogtkevguugpqyygd.fg@scholar-alerts.bounces.google.com
+Received: from mail-pd0-f202.google.com ([209.85.192.202]) by mx-ha.web.de
+ (mxweb002) with ESMTPS (Nemesis) id 0MguK8-1Z02Ff0nMu-00M5OC for
+ <erictessenow@web.de>; Tue, 28 Apr 2015 02:09:23 +0200
+Received: by pdjg10 with SMTP id g10so9852182pdj.0
+        for <erictessenow@web.de>; Mon, 27 Apr 2015 17:09:21 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=smMWxI/t3x5TK//kPdGnDz5KBsbVw4d74DNiuE4ZvXw=;
+        b=Kxbaw8F55fJWTG0U+FFwMN2nQ23SdDD/SbQh29nMmHODXy2bnq3qFNDL3BrK0cKK4F
+         7VG7GqAIRFC1mTWhqIeAeaCkwTA0B5cBr1Rnjvk4NIsQKYhAAhzxC7xMBsMWarRzjVdc
+         5Gi4oZvNSVANDrCv9osvUYoLkEkbH3wLtX6sdPQO/Ig17o8wepAV7Xbe5sFvTNuh+LtI
+         ckjUfQNIU2FzlawZFnShGkaXpxgKODivW/05N/yYSgJqki3nillGNMhZw0fyMXlOFvjS
+         8TTlTUaJV4iIkTfxEWgV4dx3j88gVPSLu6LodD8snIFfVJCyk69e6sILNgX5s5JTKREx
+         dBYw==
+MIME-Version: 1.0
+X-Received: by 10.66.141.102 with SMTP id rn6mr9256174pab.43.1430179761699;
+ Mon, 27 Apr 2015 17:09:21 -0700 (PDT)
+Message-ID: <001a1133227aa939320514bdac4a@google.com>
+Date: Tue, 28 Apr 2015 00:09:21 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:CqbsSTXD5Ok=:xkNcsuzeclfMpSvwc1xmG6Gs2e
+ u7CtEbjX9tMiTgCsThOK+zgowhkjoNWs5nO+01LNRHr0dS1wGPh2x4hnyNqlofxausv79/ljL
+ 6lLMdmj7NIzcfy8W1tApQxlESxwJBAe6nPTGXsupiocKnpRzz2KEV129mHJlvhDdavfHdhqV7
+ TR6fK5ju94N4qCLMc1gCSApZSN5yNbEc8bh6NkwMT7Vjn8+L0kjOkwe7yL0VO4br8Zf98rNcr
+ uQ21dFFYTpEjK5YFO/4Knr3f9z9LXVYZoekCwAW8oZdLKBZbyNwfqrWV2YQeUmxb34N64V1cq
+ sDAMCE9g+3qL0oKeqGkt1eKKOzVUI2PLEfl75YEUUbqZbqQpQyjGLss8VIWPrNW6Mx8tt0bOt
+ zQ9E23t/cQmCSkO4NwdqAjuAQ+9uJJlRc3jnSyuHdz/2W1yqQI4CF0wOi4y8tDr4M/s9+MMsO
+ 6yDXjexA/H7gfGGNcjkXoGDGIpnT71TgZT9plfpPmsaqk5xR3Dboaa277Gf0j8XEizcmvSeyH
+ tDqyW6wH8BkVjH3NrqVFMhebdMXz6YP+rQ1VXNJtIXleaAqFefW/m5s2lfdpCA7I46uaGNasZ
+ KBO/TBkCbi8ytkZEQ7mw52xKQnUc3HwEzxKOAhpMhm1M6aOJvaQZQJYBd139YPCSZ622yY/eo
+ r40FFb+mlHhDnLFtXm6lvDT5eCyJ/KPuJ8PObYs8D+fyz9qhDyx4ckAHP2EN5C/eSDlQa/7ia
+ JUWmwdvOvSE4JDyGIui8TtgB4Lva+UT4ZSKnrLeqoZ8+3Xk8PKphRft/ceUmMplvXFn7bxqVy
+ BtW45YWDaeszgW6ZJKGthMmXwZBuMP9hGpXVVhUC2kziI3Q7L89n+eT9ZG9Cme3cya99GwPRQ
+ IiUJ21VIKPYFIzuWJimPfUIHfqsq1gwb6gTDYBiWr4OHhYEcz+pMiDwgEAvjUF/0iXj47Cw81
+ yVx0hE/emgbidvvJC4S5cbkD2q9UfJt817K8+EeEVKdrDPtetNz4jE1+RhRyb9vQGYqx2BpTj
+ HyNFGAu6frvUUE9GKvd2wcEaBbOXxbC5RfiJjM3rq4diXXX8oiqXkY/+aW+o/0vRbaRmlCyxJ
+ 0wZUYC4oFRHUD96FIrfz3BfvWWDTZZuM9Yicp5h5hAas87lT8jLmGMip7B/EBSQ4D1hA4UrPv
+ U1H+bx7NTKKXBcPfn11O2m3S17CSCDo6mFTNNHcLJm+zsnMcARnx13/D9UHmo7m7tS1ql733q
+ cJaftkrxu5T0G348p5cpFagbAmOF1vOJA1pqqqVkoKAfYzqyaAH2zrb+ARTM7jVcLl/cy2FlV
+ PASw
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar?cluster=3D16943942051747901254&amp;hl=3Dde&a=
+mp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoratio=
+n:underline">Introduction to VISUAL 2014-Workshop on Visualizations and Use=
+r Interfaces for Knowledge Engineering and <b>Linked Data </b>Analytics</fo=
+nt></a></h3><div><font size=3D2 color=3D#006621>S Mazumdar, C Pesquita, K X=
+u - &hellip;  and Knowledge Management: EKAW 2014 Satellite &hellip;, 2015<=
+/font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;m=
+ax-width:44.5em"><a href=3D"http://scholar.google.de/scholar_url?url=3Dhttp=
+://oro.open.ac.uk/42564/&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm1aIq00wG=
+AfzCfe1zkXSjHRaVkXgQ&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 col=
+or=3D#1a0dab style=3D"text-decoration:underline">Using <b>Linked Data </b>t=
+raversal to label academic communities</font></a></h3><div><font size=3D2 c=
+olor=3D#006621>I Tiddi, M d&#39;Aquin, E Motta - 2015</font></div><div><fon=
+t size=3D2 color=3D#222222>In this paper we exploit knowledge from <b>Linke=
+d Data </b>to ease the process of analysing <br>scholarly data. In the last=
+ years, many techniques have been presented with the aim of <br>analysing s=
+uch data and revealing new, unrevealed knowledge, generally presented in <b=
+> ...</b></font></div><br><h3 style=3D"font-weight:normal;margin:0;font-siz=
+e:medium;max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a h=
+ref=3D"http://scholar.google.de/scholar_url?url=3Dhttp://eprints.soton.ac.u=
+k/375915/1/PID3644001.pdf&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm3NqSOe6=
+-J23Jn7i_I969qFELpcvQ&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 co=
+lor=3D#1a0dab style=3D"text-decoration:underline">TWINE: Supporting assessm=
+ent of trustworthiness of Web information using <b>linked data</b></font></=
+a></h3><div><font size=3D2 color=3D#006621>J Pattanaphanchai, K O&#39;Hara,=
+ W Hall - 2015</font></div><div><font size=3D2 color=3D#222222>Trustworthin=
+ess of information is an important factor to be considered when users consu=
+me <br>data on the Web environment, because it affects the decision of the =
+users whether or not to <br>utilize the information they find. In the worst=
+ case, by consuming untrustworthy information, <b> ...</b></font></div><br>=
+<h3 style=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em"=
+><a href=3D"http://scholar.google.de/scholar_url?url=3Dhttp://www.emeraldin=
+sight.com/doi/pdfplus/10.1108/EL-10-2014-0175&amp;hl=3Dde&amp;sa=3DX&amp;sc=
+isig=3DAAGBfm0PBOD62Vy21rWmYdc7N2pv6XQ3Lg&amp;nossl=3D1&amp;oi=3Dscholaralr=
+t"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:underline"><b>Li=
+nked data </b>for libraries, Archives and Museums: how to clean, link and p=
+ublish your metadata</font></a></h3><div><font size=3D2 color=3D#006621>M D=
+u Preez, PJ Calvert - The Electronic Library, 2015</font></div><div><font s=
+ize=3D2 color=3D#222222>Fast growing collections and the increasing number =
+of digital collections that are being <br>made available challenge librarie=
+s and other information services to ensure their collections <br>are discov=
+ered, accessed and disseminated. This process of making sources available <=
+b> ...</b></font></div><br><h3 style=3D"font-weight:normal;margin:0;font-si=
+ze:medium;max-width:44.5em"><a href=3D"http://scholar.google.de/scholar?clu=
+ster=3D16856564451624371208&amp;hl=3Dde&amp;oi=3Dscholaralrt"><font size=3D=
+3 color=3D#1a0dab style=3D"text-decoration:underline">Language Resources an=
+d <b>Linked Data</b>: A Practical Perspective</font></a></h3><div><font siz=
+e=3D2 color=3D#006621>T Flati, C Baron, M Dojchinovski - &hellip; and Knowl=
+edge Management: EKAW 2014 Satellite &hellip;, 2015</font></div><br><h3 sty=
+le=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a hre=
+f=3D"http://scholar.google.de/scholar?cluster=3D4647820325518377654&amp;hl=
+=3Dde&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-de=
+coration:underline"><b>Linked Data </b>and Linked APIs: Similarities, Diffe=
+rences, and Challenges</font></a></h3><div><font size=3D2 color=3D#006621>J=
+ Gabarro - The Semantic Web: ESWC 2012 Satellite Events:  &hellip;, 2015</f=
+ont></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;max=
+-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"http:=
+//scholar.google.de/scholar_url?url=3Dhttp://www.aifb.kit.edu/images/e/e4/P=
+aper_92_final.pdf&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm3y1efimHAAd2Wph=
+f19K4-lQtLUfQ&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1=
+a0dab style=3D"text-decoration:underline">SUMMA: A Common API for <b>Linked=
+ Data </b>Entity Summaries</font></a></h3><div><font size=3D2 color=3D#0066=
+21>A Thalhammer, S Stadtm=C3=BCller</font></div><div><font size=3D2 color=
+=3D#222222>Abstract. <b>Linked Data </b>knowledge sources such as DBpedia, =
+Freebase, and Wikidata <br>currently offer large amounts of factual data. A=
+s the amount of information that can be <br>grasped by users is limited, da=
+ta summaries are needed. If a summary relates to a specific <b> ...</b></fo=
+nt></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;max-=
+width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"http:/=
+/scholar.google.de/scholar_url?url=3Dhttp://events.linkeddata.org/ldow2015/=
+papers/ldow2015_paper_06.pdf&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm2cT4=
+eoajvzFOFcYEiOwBYljiwP5g&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3=
+ color=3D#1a0dab style=3D"text-decoration:underline">Keyword-Based Navigati=
+on and Search over the <b>Linked Data </b>Web</font></a></h3><div><font siz=
+e=3D2 color=3D#006621>L Matteis, A Hogan, R Navigli</font></div><div><font =
+size=3D2 color=3D#222222>ABSTRACT Keyword search approaches over RDF graphs=
+ have proven intuitive for users. <br>However, these approaches rely on loc=
+al copies of RDF graphs. In this paper, we present an <br>algorithm that us=
+es RDF keyword search methodologies to find information in the live <b> ...=
+</b></font></div><br><p><hr noshade size=3D1><font size=3D2 color=3D#222222=
+>Dieser Google Scholar-Alert wird Ihnen von Google zur Verf=C3=BCgung geste=
+llt.<br><br><a href=3D"http://scholar.google.de/scholar_alerts?view_op=3Dca=
+ncel_alert_options&amp;email_for_op=3Derictessenow%40web.de&amp;alert_id=3D=
+AIfevv3NkPcJ&amp;hl=3Dde"><font color=3D#1a0dab>Alert stornieren</font></a>=
+<br></font></div></body></html>

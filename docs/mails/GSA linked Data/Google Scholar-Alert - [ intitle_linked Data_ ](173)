@@ -1,0 +1,149 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.64.243.168 with SMTP id wz8csp7612iec;
+        Mon, 19 May 2014 22:42:48 -0700 (PDT)
+X-Received: by 10.50.78.66 with SMTP id z2mr1746525igw.27.1400564564639;
+        Mon, 19 May 2014 22:42:44 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3Qet6UxUKDKQWGLSPEVEPIVXW-RSVITPcKSSKPI.GSQIVMGXIWWIRSaaIF.HI@scholar-alerts.bounces.google.com designates 209.85.216.202 as permitted sender) smtp.mail=3Qet6UxUKDKQWGLSPEVEPIVXW-RSVITPcKSSKPI.GSQIVMGXIWWIRSaaIF.HI@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3Qet6UxUKDKQWGLSPEVEPIVXW-RSVITPcKSSKPI.GSQIVMGXIWWIRSaaIF.HI@scholar-alerts.bounces.google.com designates 209.85.216.202 as permitted sender) client-ip=209.85.216.202;
+Received: by 10.50.13.146 with POP3 id h18mf1630638igc.10;
+        Mon, 19 May 2014 22:42:44 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3Qet6UxUKDKQWGLSPEVEPIVXW-RSVITPcKSSKPI.GSQIVMGXIWWIRSaaIF.HI@scholar-alerts.bounces.google.com
+Received: from mail-qc0-f202.google.com ([209.85.216.202]) by mx-ha.web.de
+ (mxweb007) with ESMTPS (Nemesis) id 0MRX7g-1WJunb06YK-00SgTF for
+ <erictessenow@web.de>; Tue, 20 May 2014 07:42:27 +0200
+Received: by mail-qc0-f202.google.com with SMTP id x3so1128392qcv.3
+        for <erictessenow@web.de>; Mon, 19 May 2014 22:42:26 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=AKCEWc++RrDSi9RegQoXHmvhdWu3JiGFlvo48oAWFPY=;
+        b=KmkAOHLTxYM6jI2FbY6n2pXb9cTWHoQF4oyNpDsyumo6xXutG8OYe6LGCV184XQnjP
+         MnTtg17Uh3EZIWexOHrRUK9tsZPMh3l5kQ1vJF13phEdYuplDyftJf5gZxGb/xLOTrGH
+         fkI9DkgmUF8K3xs2G4u1sE2pl8ZPhjQu6+4Fegmz2Y4lH+qDL2oF1ZAM4OwhUYqQgcz4
+         tdhvE1nfQUZfSKO5MpBxtuCjh5nS9BOXeamlVSKaNcYauVuqJykc001qOJ/onjfus5ad
+         7bncK4gcLOnevxtkxt/D96+v5pcm0K6WiK+wz557LGy/2fRKwcuP6Q0Fr4eoU1TfrsOR
+         F7KA==
+MIME-Version: 1.0
+X-Received: by 10.224.22.131 with SMTP id n3mr17951682qab.2.1400564545969;
+ Mon, 19 May 2014 22:42:25 -0700 (PDT)
+Message-ID: <047d7bdc8c443f5c4d04f9ce58ef@google.com>
+Date: Tue, 20 May 2014 05:42:25 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:b4Pr5XpVD2M=:BRrTLUOX8JtqAKwwgl4f/YOgGT
+ eoZHrEO/NzvRC/O7kqEmEZaDGG8vRGspwtKJDQyZjUiTAKHd1w8ht7lUutIcZUV747HJ5z2YL
+ fL5IOQuHF1xMVN/Zu2JzlyavTYYXblwqdczMoM8p8CeQQTUNIxFaS+qYGggp9nEwiWga0GnbC
+ zmc+LZLqqxTAzSuxF33NQhleHLGE/GGDssnzDtyakX5wCzQUOSMQ3r6pEuUiqirFtOXB9PQnf
+ WmqA9awD5o3CtWyCoMv/pRfcKfF6mdVFvPE/bvKOtLt2gXqXdMwSkBAfrDTVHfWCC09y2QwpG
+ VMcFw5Dc0fk2qKOZ9umSzF7MmwioYgve1ZNi8TlPwaqe+QyLMFC5vzwBVYmmoOP/vZwzSB45H
+ 3ZcSYhPa5ExDdvTmsC3ILPAoi4y4LUIgQ+4FsaFS3el7q8GgN61ozLee5l7s9rR29tbxAKt28
+ 391jG53KJrRoEvLGDNOnSuFgu1ffCs2zvsIJSQlqsbSO3W5E8EtNjyUpbqiOBvqjsVuldBlHc
+ u/pE/9TkUexxGfJhQrw/rfXYekbXRkc1PLOWRff9g2CxaxV0iFa/G9FWOgErO1XcQDW4a5fBo
+ L9lGsziadG5Cu6A4R8O+WA6o3OwF9V8E7NPDoZekEyegqg7UasU7n9X7nwq1lb3w7FQHDS9pu
+ 5/tF0Z1Y/K+BNioAWFl+sI92pQXZOUVE+8BCNJV8IkkY4iJZRGzYKQjpfQgCleFGdG6ffutEb
+ naJsb3Xi4AHXYDuTqtc7f6ZFsUOAMw1yBIpEgTPKDyYZKa265WF5s+2s4Znrdj6maDA1jOIUR
+ SV7hVeuJLdCxizEGKQKF93nqvUVL+iFHtCfTcjXTcvf/N7xTFVmrnmzKD8wUy4Yb16i1b6UGD
+ Apu5jR/101OXe85Ckvud/xfIxG8oNFu2Sh0CmKfWJ3xoAE3Eiqh3H/2nWWIgSJt1NXynk9Tlc
+ 9zR9RzuZif7bf4gQJcJsaXjqeY3HWDtjFBIYDo8/mkqqAFHPxSZxhZzTJQuY48ok3lQqTD9ux
+ NCL0F4XKHcwRb3H2BE6cDdBErkShGRXLotufDhLctzYgJGlL3Kf5kmbcQwO6vUfwMLfc8taFC
+ kBa0AZXD26bUv60mltVQIvmKd3C5shUZ2aP4hQf7uEPwqSQDqSD9i1HWfPG5quRj2YhINuY85
+ jSZY+ERsXSeNbuux37OtQOzGSXwP0gbxuK2yVNcLguNaJ8ImkT3KG9px/2bRZ3mI/FIfdoDB5
+ 9azNhd+8jSDQfmSx1SJg5Sz1pC7bJePNKe+rTgOKupia968NlSJYtzLYWHCGzdIjrBM7ByYnn
+ dNABt/R1Gf2AMifek54OLAmpw5oARDxe74XWb3J82/rAP54G04QeXgKR0MzMZ4bGB1+h
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://ieeexplore.ieee.o=
+rg/xpls/abs_all.jsp%3Farnumber%3D6815177&amp;sa=3DX&amp;scisig=3DAAGBfm0U73=
+0GXUHA9b28Viq-L6qtweyEJg&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122=
+cc style=3D"text-decoration:underline">A lightweight <b>linked data </b>imp=
+lementation for modeling the Web of Things</font></a></h3><div><font size=
+=3D2 color=3D#009933>S Turchi, F Paganelli, L Bianchi, D Giuli - Pervasive =
+Computing and Communications  &hellip;, 2014</font></div><div><font size=3D=
+2 color=3D#222222>Abstract=E2=80=94In recent years, common-use devices&#39;=
+ equipment has seen a leap transition in <br>terms of shipped technology, i=
+ntroducing the so called =E2=80=9Csmart things=E2=80=9D to the consumer <br=
+>market. To take full advantage of opportunities arising from connectivity,=
+ smart things <b> ...</b></font></div><br><h3 style=3D"font-weight:normal;m=
+argin:0;font-size:medium;max-width:44.5em"><font size=3D2 color=3D#1122cc>[=
+PDF]</font> <a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=
+=3Dhttp://dspacecris.eurocris.org/jspui/bitstream/123456789/229/1/53_Nogale=
+s_Sicilia_J%25C3%25B6rg_CRIS2014_Rome.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm2gi=
+Qc6azJmB5XmnR_5jZvAY1GnUg&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#112=
+2cc style=3D"text-decoration:underline">Combining VIVO and Google Scholar d=
+ata as sources for CERIF <b>Linked Data</b>: A case in the agricultural dom=
+ain</font></a></h3><div><font size=3D2 color=3D#009933>A Nogales, MA Sicili=
+a, B J=C3=B6rg - 2014</font></div><div><font size=3D2 color=3D#222222>The n=
+eeds of global science have fostered open access to the results and context=
+ual <br>information of research organizations at an international scale. Th=
+is requires the use of <br>standards or shared data models to exchange info=
+rmation preserving its semantics when <b> ...</b></font></div><br><h3 style=
+=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font si=
+ze=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"http://scholar.google.de/sch=
+olar_url?hl=3Dde&amp;q=3Dhttp://hal.archives-ouvertes.fr/docs/00/99/08/76/P=
+DF/monnet_dbnary.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm26VNJvTiXPdineGHu43bFX-D=
+owBQ&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D"text-dec=
+oration:underline">Dbnary: Wiktionary as <b>Linked Data </b>for 12 Language=
+ Editions with Enhanced Translation Relations</font></a></h3><div><font siz=
+e=3D2 color=3D#009933>G S=C3=A9rasset, A Tchechmedjiev - 3rd Workshop on <b=
+>Linked Data </b>in Linguistics:  &hellip;, 2014</font></div><div><font siz=
+e=3D2 color=3D#222222>The GETALP (Study group for speech and language trans=
+lation/processing) team of the LIG <br>(Laboratoire d&#39;Informatique de G=
+renoble) is in need for multilingual lexical resources that <br>should incl=
+ude language correspondences (translations) and word sense definitions. In =
+<b> ...</b></font></div><br><h3 style=3D"font-weight:normal;margin:0;font-s=
+ize:medium;max-width:44.5em"><font size=3D2 color=3D#1122cc>[PDF]</font> <a=
+ href=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://ra.cps=
+.unizar.es:8080/PUBLICATIONS/attachedFiles/document/LREC2014_translations_V=
+11.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm3ePg1rvybNYPoNk6q4W3yr38AdEA&amp;oi=3D=
+scholaralrt"><font size=3D3 color=3D#1122cc style=3D"text-decoration:underl=
+ine">Enabling Language Resources to Expose Translations as <b>Linked Data <=
+/b>on the Web</font></a></h3><div><font size=3D2 color=3D#009933>J Gracia, =
+E Montiel-Ponsoda, D Vila-Suero&hellip;</font></div><div><font size=3D2 col=
+or=3D#222222>Abstract Language resources, such as multilingual lexica and m=
+ultilingual electronic <br>dictionaries, contain collections of lexical ent=
+ries in several languages. Having access to the <br>corresponding explicit =
+or implicit translation relations between such entries might be of <b> ...<=
+/b></font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medi=
+um;max-width:44.5em"><font size=3D2 color=3D#1122cc>[PDF]</font> <a href=3D=
+"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://korrekt.org/pa=
+pers/Wikidata-RDF-export-2014.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm0_6wvrI_QeJ=
+aX519-V2w-5gPmnyg&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc styl=
+e=3D"text-decoration:underline">Introducing Wikidata to the <b>Linked Data =
+</b>Web</font></a></h3><div><font size=3D2 color=3D#009933>F Erxleben, M G=
+=C3=BCnther, M Kr=C3=B6tzsch, J Mendez&hellip;</font></div><div><font size=
+=3D2 color=3D#222222>Abstract. Wikidata is the central data management plat=
+form of Wikipedia. By the efforts of <br>thousands of volunteers, the proje=
+ct has produced a large, open knowledge base with many <br>interesting appl=
+ications. The data is highly interlinked and connected to many other <b> ..=
+.</b></font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:me=
+dium;max-width:44.5em"><font size=3D2 color=3D#1122cc>[PDF]</font> <a href=
+=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://programm.co=
+rp.at/cdrom2014/papers2014/CORP2014_141.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm0=
+Qjmnb5eKvZzxbOES2QvXp_-evkg&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1=
+122cc style=3D"text-decoration:underline">Linked Open Data for Environmenta=
+l Protection in Smart Regions=E2=80=93the New Challenge for the Use of Envi=
+ronmental Data and Information</font></a></h3><div><font size=3D2 color=3D#=
+009933>K Charvat, S Barvika, M Alberts</font></div><div><font size=3D2 colo=
+r=3D#222222><b>...</b> 369 The research focus of the SOD project will addre=
+ss how to use existing<br>
+geographic information (GI) data within the Resource Description Framework =
+(RDF)<br>
+and how existing GI data can be accessed as part of <b>linked</b> <b>data</=
+b>. <b>...</b>=20
+</font></div><br><p><hr noshade size=3D1><font size=3D2 color=3D#222222>Die=
+ser Google Scholar-Alert wird Ihnen von Google zur Verf=C3=BCgung gestellt.=
+<br><br><a href=3D"http://scholar.google.de/scholar_alerts?view_op=3Dcancel=
+_alert_options&amp;email_for_op=3Derictessenow%40web.de&amp;alert_id=3DAIfe=
+vv3NkPcJ&amp;hl=3Dde"><font color=3D#1122cc>Alert stornieren</font></a><br>=
+</font></div></body></html>

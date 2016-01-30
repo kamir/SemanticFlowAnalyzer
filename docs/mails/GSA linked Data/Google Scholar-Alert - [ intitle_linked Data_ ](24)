@@ -1,0 +1,96 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.64.26.69 with SMTP id j5csp162942ieg;
+        Thu, 29 May 2014 01:34:47 -0700 (PDT)
+X-Received: by 10.42.147.5 with SMTP id l5mr1223395icv.89.1401352485185;
+        Thu, 29 May 2014 01:34:45 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3DeiGUxUKDJoM6BIF4L4F8LNM-HIL8JFSAIIAF8.6IG8LC6N8MM8HIQQ85.78@scholar-alerts.bounces.google.com designates 209.85.220.201 as permitted sender) smtp.mail=3DeiGUxUKDJoM6BIF4L4F8LNM-HIL8JFSAIIAF8.6IG8LC6N8MM8HIQQ85.78@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3DeiGUxUKDJoM6BIF4L4F8LNM-HIL8JFSAIIAF8.6IG8LC6N8MM8HIQQ85.78@scholar-alerts.bounces.google.com designates 209.85.220.201 as permitted sender) client-ip=209.85.220.201;
+Received: by 10.50.13.146 with POP3 id h18mf46660igc.15;
+        Thu, 29 May 2014 01:34:45 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3DeiGUxUKDJoM6BIF4L4F8LNM-HIL8JFSAIIAF8.6IG8LC6N8MM8HIQQ85.78@scholar-alerts.bounces.google.com
+Received: from mail-vc0-f201.google.com ([209.85.220.201]) by mx-ha.web.de
+ (mxweb106) with ESMTPS (Nemesis) id 0LwbGl-1Wm7hB2woB-018KeX for
+ <erictessenow@web.de>; Thu, 29 May 2014 09:55:58 +0200
+Received: by mail-vc0-f201.google.com with SMTP id ij19so2135359vcb.4
+        for <erictessenow@web.de>; Thu, 29 May 2014 00:55:57 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=GHA9h68jcwmQxk33aRVgPi4emc0nK2E2t4ZWfd7mLgM=;
+        b=lpiePFc25sorWYsLyA7GmaEoCCdsoSfsUoEhpGNUXF/h5z0Y2z/p+cC0vzwTBKagWk
+         duOeJtGVYy3hkC0KG2FpkPw06/AgNGlbkRJn7J8aaIZYxIReGGXfHOJqU0zoUVW9HOml
+         Ci/K65lqZBI+QW4ubuASk9JbAOifpu+6p3GJToDxJjpONKQT2LbTEN2KuEIaEot3sR47
+         KaLJptUSBSdHjyaOrzmVMpj+lnNtsVsGZlyBDd8Um4JPqClbhg7R/Z0onYDXJ5IWKP/h
+         MLefhAN4K2RZtoMRhuP2Bui9e8aUzcjVUEkvGbPRdYv/Ln5IaxJw5lkMIdnIJe3GulZK
+         nM+Q==
+MIME-Version: 1.0
+X-Received: by 10.236.39.175 with SMTP id d35mr2049568yhb.12.1401350157603;
+ Thu, 29 May 2014 00:55:57 -0700 (PDT)
+Message-ID: <001a1138165859924a04fa8542a5@google.com>
+Date: Thu, 29 May 2014 07:55:57 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:7gg9GR/tcOg=:OdybSzZmVRAi6ytTEOLi9lGn2V
+ VJ6ziovy+vHVmhMSgRjPBT+ZSr3zgQhPl0moclYqxYsprf0b+IUJWjIsFvehasfX3V5nyvgSX
+ 9ZwftqhW3MWB7Wa9mETwqR/Fl4RFuT7/Pr0M/eRx09FZMimXX7fBzq23uERQMtTOLBW/NdPCs
+ /SELZ8r5iac+Ih9wx1PH6QIu2OJBHU96SLMiV7doOW4FkZbJkVCM/e6szkY5M2aRA1jIChUcJ
+ uTlGuItp2MrKHXakPZj2FonRXcX/lyyD6XIRISb+B10A5rURmmyuMpK1gZhJJUkMo6D5azkPQ
+ 4NX6IDhKRoIrIWv6Q0Xy+cJh4tTCx9E8G+bR5tgMLfOOm6I57fGPIaQZB4tbtGV6EKhL1yci9
+ /AXAgnI9psYOdoxFkmQifAwBqzVEfbnWzWCG5We9AqCQH/gAkgpkHgCE/Y22rZsjqnD30g2tC
+ KomQm/lqQU+isAybuvUMHx4S5EDUO8mAA7O6jOdBTlVEejzRTGIRiV5w3Hyy05IfL0/YaHti+
+ tICPvrn8LTDhlT1ATnQ2/1y7ys0BBlc5/6f07q5ZP9izQ7Qospnq63bKrKfUavs+v3hRww6J5
+ vWEOsuZV00tetkRTLfXesaTHWjbiBKl3vkr+lBf2iiH4xR6MKFKKCqaj2IvysOn5GEU/BG/xJ
+ C7h/ZdgYO8+n3LY+B3HWle053ybQHWGmb2AVD7vlzB0vCc/WiJeMu7l7Iw+0Xm6A3bjXW9LUN
+ uquOR7QiyRKS0RqM2wFCbCRiJYIZ9DLDh2zhzdh9J4JEkQPqYSkXqzsg1+mO6uMZRYwtlxPwI
+ Jk++D1oSH5pLGnM8L9GQJxm8olMMkLzuwa9SiVIxn1W7Z5Fb9ArjlcjQSNLdWem/T8UaTLCrk
+ zJdXtTEKsnM4MO2Jic1Gi+ej8tgDCXcCRik28BuHkqP/jhBMaar19+R6eM5dzSZq5pVtKnFC9
+ p7JZz5E6kmQcVX6JshXF91ET0tFluhUxQ2VM93eXi6iKCdOjWc+ra6C8Q2FUWzZ+6Dl9f6toK
+ H2mprX9IsEfIRX4SHHsQfdKyVF7H6UOw+4hjgMDSyUA9LDCOITNBNmMYtp0W4eh6CSUggoL9w
+ rt8d+Vhq6+AlmU15rwhnMHjAAjDRbihaUUoRdO7tefD0Hqru3IiB251YPnaG+rAQVY+2QjtUD
+ x3hAdPxhlBYIKsGotaQRYiRj5mog7hdy7EtPOqnUANNhsUIirYvsCcGhm8dupIYG1Fr2A3Jsk
+ N06N9F78nPY9ncMfgMNl9hZo2rKqACuDDTfefuTdiPa6cRPAoDvrr2yeossENWmr0SFp/uvn2
+ wRNtYPM5dlNJ/ti/haqRsGEoH8T0NFINr+iEpF7W6eZj7QYornvYYi+mrv2Pl+XVaGNj
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://link.springer.com=
+/article/10.1007/s13740-014-0041-9&amp;sa=3DX&amp;scisig=3DAAGBfm3azyn9hKkx=
+enTt64CK8OQs9VKCfg&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc sty=
+le=3D"text-decoration:underline">Ontology Integration for <b>Linked Data</b=
+></font></a></h3><div><font size=3D2 color=3D#009933>L Zhao, R Ichise - Jou=
+rnal on Data Semantics, 2014</font></div><div><font size=3D2 color=3D#22222=
+2>Abstract The Linked Open Data cloud contains tremendous amounts of interl=
+inked instances <br>with abundant knowledge for retrieval. However, because=
+ the ontologies are large and <br>heterogeneous, it is time-consuming to le=
+arn all the ontologies manually and it is difficult <b> ...</b></font></div=
+><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;max-width:44=
+.5em"><font size=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"http://scholar=
+.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://je-lks.org/ojs/index.php/Je-L=
+KS_EN/article/download/914/880&amp;sa=3DX&amp;scisig=3DAAGBfm0mFZICjm-v93QY=
+krysfVAi9TUH1w&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=
+=3D"text-decoration:underline">Open Data from Earth Observation: from Big D=
+ata to Linked Open Data, through INSPIRE</font></a></h3><div><font size=3D2=
+ color=3D#009933>M Zotti, C La Mantia - Journal of e-Learning and Knowledge=
+ Society, 2014</font></div><div><font size=3D2 color=3D#222222><b>...</b> T=
+hese processes are hastened by the advent of an increasing machine-to-machi=
+ne<br>
+communication. The automation of the data analysis requires standardized an=
+d <b>linked</b><br>
+<b>data</b> so that machines, without human intervention, can process them.=
+ <b>...</b>=20
+</font></div><br><p><hr noshade size=3D1><font size=3D2 color=3D#222222>Die=
+ser Google Scholar-Alert wird Ihnen von Google zur Verf=C3=BCgung gestellt.=
+<br><br><a href=3D"http://scholar.google.de/scholar_alerts?view_op=3Dcancel=
+_alert_options&amp;email_for_op=3Derictessenow%40web.de&amp;alert_id=3DAIfe=
+vv3NkPcJ&amp;hl=3Dde"><font color=3D#1122cc>Alert stornieren</font></a><br>=
+</font></div></body></html>

@@ -1,0 +1,104 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.140.227.210 with SMTP id x201csp658075qhb;
+        Sat, 24 Jan 2015 18:36:41 -0800 (PST)
+X-Received: by 10.140.38.139 with SMTP id t11mr28138026qgt.83.1422153399994;
+        Sat, 24 Jan 2015 18:36:39 -0800 (PST)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3yUvEVBUKDB4M6BIF4L4F8LNM-HIL8JFSAIIAF8.6IG8LC6N8MM8HIQQ85.78@scholar-alerts.bounces.google.com designates 209.85.192.201 as permitted sender) smtp.mail=3yUvEVBUKDB4M6BIF4L4F8LNM-HIL8JFSAIIAF8.6IG8LC6N8MM8HIQQ85.78@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3yUvEVBUKDB4M6BIF4L4F8LNM-HIL8JFSAIIAF8.6IG8LC6N8MM8HIQQ85.78@scholar-alerts.bounces.google.com designates 209.85.192.201 as permitted sender) client-ip=209.85.192.201;
+Received: by 10.140.87.116 with POP3 id q107mf2547836qgd.28;
+        Sat, 24 Jan 2015 18:36:39 -0800 (PST)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3yUvEVBUKDB4M6BIF4L4F8LNM-HIL8JFSAIIAF8.6IG8LC6N8MM8HIQQ85.78@scholar-alerts.bounces.google.com
+Received: from mail-pd0-f201.google.com ([209.85.192.201]) by mx-ha.web.de
+ (mxweb005) with ESMTPS (Nemesis) id 0MNa9q-1YMM0e42kE-007Fag for
+ <erictessenow@web.de>; Sun, 25 Jan 2015 02:50:03 +0100
+Received: by mail-pd0-f201.google.com with SMTP id fp1so596327pdb.0
+        for <erictessenow@web.de>; Sat, 24 Jan 2015 17:50:01 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=Laf071dm7nfXILBelZCYyDUUJO5HY+XiAb206yer1oQ=;
+        b=bGeFBrS/2TzSpnon19QqaEISzP3fMr0FZmZbGePuhueW9UnuBCCHCDzGRJ2Ce9JtRg
+         jkobNA7e25pEWkzEOtj4E9OsOorqNZvSZg/TvasZfpQrUy0Hb+1OZaaRUT8UE6F0DH7Y
+         GqF3jEPXkdrJepAQDZVCrBeSHY3199JufzWnlT49FqvpHgxOHPEJI3j8KFe0APx5Xk6J
+         DEORqfdiCeK6Gl4x6b+QubO1j4YN+hgLKbUJDzJfTfx8NugERwoHWvScQQJk9jMHAjXR
+         p8fU1x1mO3N6GmWJnLVw+k/wwEKOx357uP3ADOEa4EtBYeUHKkxXn1eBmHptEn7fxE1e
+         zmZA==
+MIME-Version: 1.0
+X-Received: by 10.68.69.45 with SMTP id b13mr11575460pbu.5.1422150601451; Sat,
+ 24 Jan 2015 17:50:01 -0800 (PST)
+Message-ID: <001a1138197e6aa843050d703d88@google.com>
+Date: Sun, 25 Jan 2015 01:50:01 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:gl2Yrg/pOeM=:I1my+cq4AK5STAP9NZMW2UvBwU
+ ug2BsFE5ykLecv3BXtss6AFsSIEtei9CdPSDc6md5DwFRQzTlpUwi0KPHivAzGnzGQWbHkS4m
+ nriAHF/mN1NtXBQQKME/chFgPNFr2gZwjV2Iju05jGnX+nwAKXwmjJkVW2MD75Y4qGnlz1UBV
+ aECIz+fHUvHAiEP9oFuAKUjxCTqVl1scylUO1rBscUuGVlPQqxC517zMXm/lGFz/D8zgFRRw+
+ AgL84Q4DCWqXBpuqSnb2V8LSVdDE8LsXPmyL4lIKXDnxTwmJoJf4Vk8Ef0BTU6mAlHHUKok0s
+ U2oovs6rrjuVG0lTmhq1vQAMpbtSwVZpoGwo6UeEEEntPktSZcpusy5Nb9zE6n0anC3oXOKL+
+ cForV5jCCowDJ4XXjBlpA+EZQ/QU3snaAH4yvsBLs2q6Um3nl/NwRp37Ca4ET20WJp2pv5+wo
+ /Ihkz1UGGIQQW+H0BDZI+yL6Uw4cK4vj6NlJWNPlT4kDe5Tbb5zdxv8bbtCvuEsBC/i/s5X41
+ MPVc3QWvmuE6dcIxYfqLPDFwRr1gkr6q2NePOoAgUmFkcE9QVck4oLv7Hc/Tb87KZD5HoU/xw
+ WJlQCbVO9VNtGfrBMF7HOCivuJ/Gc0LyDxeQQd0pEhtjT+rPRmdVHNnRCuAJ7dzxIBfUnTQSK
+ izGmYjZC5ftdEFgHhKtveXV0e4OfHH4abTPQESzLq0a9uo3JqxKbX3/7SkInXV+pFOLNa9xGJ
+ ipGwQTisZBa9OBlHwezP9arHokoYLTNBUxdDKyeBu7QqDg348pEtd3jIAz6bAFKEnY4NAh0gc
+ h0BhDVyEkOygFCGVwc+VJDYw2fHt7dL/IzVeixc55difAHgY/l8t7P69w7P5yeTlb/d0dnO0O
+ 6Eb/49xA1Dqiw04n3Vlc6y3Ht/cSKT+/qgp80sU57FVqLW/xcTLAT0cBb33Y4/umgBjGJYQDL
+ hFSGQITgRrqrDXpP/V2T3CSDCiv0MiSo3CKTmYdmkEoCIWI20QxmVYG3UpPIV5O+IrXyHKB0p
+ Yv1+NJqqgD4+IYLoyutz4R/jPm05meMyXLnBLHPQNLNgFUipcrcf4pjKiQn5p+looXQ4DhdgL
+ 4y03UzFomFHgTt8g0gZJbdmM526r85OR2Ykcm9cIk0sjGzhtYEP1EzPQrkPUbe7sXHDLc7Jug
+ sR9l+l5pOfqFmKRUzYDIad/FD41P82oGQj93VwdR2dA0oOOdFuD34SiGw3hg3bGlmp7uiL6FE
+ n+IvaDvQWtA7yQVDFTC51RYrR8RJbB2qmKqdXubbezDB4tARqhP3t2eB2oV5929Lug4RLWFYJ
+ E1Fp
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttp://www.ztxb.net.cn/jtlsc/ch/re=
+ader/view_abstract.aspx%3Ffile_no%3D20120106&amp;hl=3Dde&amp;sa=3DX&amp;sci=
+sig=3DAAGBfm0-iakEkefuMohy4CWkqt6y3SXnYw&amp;nossl=3D1&amp;oi=3Dscholaralrt=
+"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:underline">The Op=
+en Application Licenses of <b>Linked Data</b></font></a></h3><div><font siz=
+e=3D2 color=3D#006621>=E5=BC=A0=E6=98=A5=E6=99=AF</font></div><div><font si=
+ze=3D2 color=3D#222222>=E4=B8=AD=E6=96=87=E6=91=98=E8=A6=81: =E5=85=B3=E8=
+=81=94=E6=95=B0=E6=8D=AE=E7=9A=84=E5=BA=94=E7=94=A8=E6=AD=A3=E8=BF=85=E9=80=
+=9F=E5=8F=91=E5=B1=95=E5=B9=B6=E6=B6=89=E5=8F=8A=E5=88=B0=E5=95=86=E4=B8=9A=
+, =E5=AA=92=E4=BD=93, =E5=87=BA=E7=89=88, =E6=94=BF=E5=BA=9C=E7=AD=89=E9=A2=
+=86=E5=9F=9F. =E5=9C=A8=E5=85=B3=E8=81=94=E6=95=B0=E6=8D=AE=E5=8F=91=E5=B8=
+=83, <br>=E6=B6=88=E8=B4=B9=E5=92=8C=E5=86=8D=E5=88=9B=E9=80=A0=E7=9A=84=E8=
+=BF=87=E7=A8=8B=E4=B8=AD, =E5=BF=85=E7=84=B6=E6=B6=89=E5=8F=8A=E5=8F=82=E4=
+=B8=8E=E8=80=85=E7=9A=84=E5=88=A9=E7=9B=8A=E9=97=AE=E9=A2=98, =E9=9C=80=E6=
+=98=8E=E7=A1=AE=E4=B8=8D=E5=90=8C=E7=B1=BB=E5=9E=8B=E5=92=8C=E5=BD=92=E5=B1=
+=9E=E7=9A=84=E6=95=B0=E6=8D=AE (=E6=88=96=E6=95=B0=E6=8D=AE=E9=9B=86) <br>=
+=E7=9A=84=E6=89=80=E6=9C=89=E6=9D=83, =E5=8F=91=E5=B8=83=E6=9D=83, =E4=BD=
+=BF=E7=94=A8=E6=9D=83, =E6=94=B6=E7=9B=8A=E6=9D=83=E7=AD=89. =E5=85=B3=E8=
+=81=94=E6=95=B0=E6=8D=AE=E7=9A=84=E5=8F=91=E5=B1=95=E8=BF=AB=E5=88=87=E9=9C=
+=80=E8=A6=81=E7=9B=B8=E5=85=B3=E7=9A=84=E8=AE=B8=E5=8F=AF=E5=8D=8F=E8=AE=AE=
+. =E7=9B=AE=E5=89=8D=E5=85=B3=E8=81=94=E6=95=B0=E6=8D=AE<b> ...</b></font><=
+/div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;max-widt=
+h:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"http://sch=
+olar.google.de/scholar_url?url=3Dhttp://www.semantic-web-journal.net/system=
+/files/swj973.pdf&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm0m1aB83JN5R50je=
+bgbhyEDM3VK2g&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1=
+a0dab style=3D"text-decoration:underline">The Open University <b>Linked Dat=
+a</b>-data. open. ac. uk</font></a></h3><div><font size=3D2 color=3D#006621=
+>E Daga, M d&#39;Aquin, A Adamou, S Brown</font></div><div><font size=3D2 c=
+olor=3D#222222>Abstract. The article reports on the evolution of data. open=
+. ac. uk, the Linked Open Data <br>platform of the Open University, from a =
+research experiment to a data hub for the open <br>content of the Universit=
+y. Entirely based on Semantic Web technologies (RDF and the <b> ...</b></fo=
+nt></div><br><p><hr noshade size=3D1><font size=3D2 color=3D#222222>Dieser =
+Google Scholar-Alert wird Ihnen von Google zur Verf=C3=BCgung gestellt.<br>=
+<br><a href=3D"http://scholar.google.de/scholar_alerts?view_op=3Dcancel_ale=
+rt_options&amp;email_for_op=3Derictessenow%40web.de&amp;alert_id=3DAIfevv3N=
+kPcJ&amp;hl=3Dde"><font color=3D#1a0dab>Alert stornieren</font></a><br></fo=
+nt></div></body></html>

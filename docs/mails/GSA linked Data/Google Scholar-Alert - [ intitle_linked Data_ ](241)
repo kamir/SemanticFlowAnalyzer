@@ -1,0 +1,169 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.43.46.71 with SMTP id un7csp49228icb;
+        Sat, 15 Feb 2014 17:03:38 -0800 (PST)
+X-Received: by 10.42.176.195 with SMTP id bf3mr4232405icb.25.1392512613333;
+        Sat, 15 Feb 2014 17:03:33 -0800 (PST)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3cQwAUxUKDCgWGLSPEVEPIVXW-RSVITPcKSSKPI.GSQIVMGXIWWIRSaaIF.HI@scholar-alerts.bounces.google.com designates 209.85.223.202 as permitted sender) smtp.mail=3cQwAUxUKDCgWGLSPEVEPIVXW-RSVITPcKSSKPI.GSQIVMGXIWWIRSaaIF.HI@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3cQwAUxUKDCgWGLSPEVEPIVXW-RSVITPcKSSKPI.GSQIVMGXIWWIRSaaIF.HI@scholar-alerts.bounces.google.com designates 209.85.223.202 as permitted sender) client-ip=209.85.223.202;
+Received: by 10.50.151.138 with POP3 id uq10mf354315igb.13;
+        Sat, 15 Feb 2014 17:03:32 -0800 (PST)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3cQwAUxUKDCgWGLSPEVEPIVXW-RSVITPcKSSKPI.GSQIVMGXIWWIRSaaIF.HI@scholar-alerts.bounces.google.com
+Received: from mail-ie0-f202.google.com ([209.85.223.202]) by mx-ha.web.de
+ (mxweb008) with ESMTPS (Nemesis) id 0MPDqi-1WJFr826CW-004VNJ for
+ <erictessenow@web.de>; Sun, 16 Feb 2014 01:55:14 +0100
+Received: by mail-ie0-f202.google.com with SMTP id lx4so1674180iec.5
+        for <erictessenow@web.de>; Sat, 15 Feb 2014 16:55:13 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=H5u3P/PAV7EBannrwCbGHPY7t4xPLaLOCDv4kL/cxMg=;
+        b=ECgna4S4DfRwCYXG28y5Q6+hdBW6m0OKa4wmwRNpo15LZm1JGL8c7MOpdhd/R4gN4i
+         NLy2NaCa7gwMzMWN2KjQ7/Iaar08BZauhXnvZJhGfPDzdMtvhUXkb4i10CoAwl1AFeiP
+         BTx8w9k1DSjK1lqCYz7iemSD/RVTe3wlP3dCi7L5Wr53bs9OKNbt4UMwhIuFCBCxjB5l
+         3hL6Z+N3ZQCX8RSqqA1TJLhDajiubw6nadKtT5F2FOuSZGyX+sk7yKWHjxPiPwxUPuFc
+         y1eKQcJ84yqLNL7Mbk56jsYW3ntb0k905vixftiS8u9/sOtlZq3gKWdYcBRN8SdnuzTc
+         kAAg==
+MIME-Version: 1.0
+X-Received: by 10.43.161.202 with SMTP id mh10mr5860574icc.23.1392512113325;
+ Sat, 15 Feb 2014 16:55:13 -0800 (PST)
+Message-ID: <001a11c1ff94dc367404f27b7d5f@google.com>
+Date: Sun, 16 Feb 2014 00:55:13 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:M7Hwz3EBAhY=:gDhbdluAuedDu3g2K3siBbWH0/
+ z/8DxPNSMTXILCUdhTyalSjqt8MnMV7KcoUjDYDIrJzOOvhVuC3GtV+v0h6s9r8Gx6G5sN6PS
+ 28yYCCAgy2zcT8bMQGhQ6rGtcsbbqSII/z/PaV5EztQASRtqJ4i6/Q+kU5PSJf1nk39cIdjSx
+ ZsjcV9OFftMcWD28DftJOhqmTPMyScL666CyVg0s2Ql063pj9qytwl91/PI7sZLEAQWgiseVc
+ 6xJjTMXcxPAdNGi0sPJZllWx8rEsAJhu3MWC2iCEWkJs4gXhJjEQaZ2gMp5QIbf4tuRjlYnTo
+ R8B21rwBtqiZGL73JQ9l2gr/5zqLONysNVPoL2ZSYccq4JdIS1sD2OOkQLZcYLn4gsKH4KtDt
+ 9Mm67E3HFCjgvRdMkz+yNBStSDzzngwsRLu/BYZ1JBq/cecWVoDBa0FmeszI3d9SyYh8qMS5X
+ QCseve2hwyTxdWkXiN+yi1XNNhv4AEHJ+uHKMN3qQ3m7sCQaHxG6Jb5P97UJBKi6UAMM+4v+O
+ TBcIMF3tmqr205xwL/G2gM5tJMqhTZmjyGEYc+1AGs8GTvzG3vRxRvUNElCd9J9vYnz57AEk6
+ nw/uEoPEufqF8NcnFpdkR/e60Ow+j6VJQRIAo47VAu4VaWqaqxT2tp2sDThWflhAnoaChAH4H
+ 0P87Xwll0Fi1aQ1VFZBJH6byWSVUGbBeXB5y1mPt3pHBnd4HNQrwtkDk0Md+cU2q7V+tiCjfa
+ c1QrOHwKPum6+BmcjFBhtvyZco2PDRXMUqP/jb8iZ/ulHSNAryi39TBjbhmTzRl2xSs7LK+YX
+ W6w3B7fO9Cwi7P4eoYLDGthx1+2T0l6sC293wACXbrFRNWOF6jPs1i8BXdylUMi7BnxyEA4UQ
+ mABxf8j0y7WUnny6xxpewwNyw6YV5ukwC2fax9RnJwFNEbBlr0PPLFxvR2Ac0ke+dw2PJgnp6
+ Pxoe/hue3AhJJ35T6v9foLiEonsky5j5iO4mhKJVuDe9j3X/iW9iShtS5n6pi0o5Ptf7yYemk
+ 3FEpzw6RN0Ppjhq39TbXSFx2Cr6X2a8okCql04kd0Se3nIhBR5D6TNVQrxyeX/xpPRKvimTHP
+ 0napLzX5RiDzZCfq+BrWv7nqOOxqmh4TJfglzOHOZk4hhcmZKKOctyMdbrA8FFYc63NkDJ6iR
+ T5XzEO3HC6SEMdeUaYl4JECqc3IihYDaQWhDQqjQVQ7vGVeiDUQBTCKIM7nXYX4aYobTrQSRL
+ SjkB3p7xfEQrsLGcS+vh+VmVs8UhSITDZ2D/1RAfpAsNGea1x7uaifMeChpVYZnRthQfA06lN
+ Gq/qU57CCOcBgWmVuM7uoKcz3yfE8FeYXXyY44e1l2qDb2E3s3lCBN40el+9drO9+K9ti6Wb8
+ jsCLhUdBie4GaKyog==
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D=
+2 color=3D#1122cc>[HTML]</font> <a href=3D"http://scholar.google.de/scholar=
+_url?hl=3Dde&amp;q=3Dhttp://bmjopen.bmj.com/content/4/2/e003875.full&amp;sa=
+=3DX&amp;scisig=3DAAGBfm0sYPlCeyj7I5cNR06Ll-kjmd9zrA&amp;oi=3Dscholaralrt">=
+<font size=3D3 color=3D#1122cc style=3D"text-decoration:underline">Linked h=
+ealth data for pharmacovigilance in children: perceived legal and ethical i=
+ssues for stakeholders and data guardians</font></a></h3><div><font size=3D=
+2 color=3D#009933>YM Hopf, CB Bond, JJ Francis, J Haughney, PJ Helms - BMJ =
+Open, 2014</font></div><div><font size=3D2 color=3D#222222><b>...</b> Acces=
+s to healthcare data should be approved by the data owners. The definition =
+of data<br>
+ownership and associated legal responsibilities for linked healthcare data =
+were seen as<br>
+important factors to ensure accountability for the use of <b>linked</b> <b>=
+data</b>. <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&a=
+mp;q=3Dhttp://dl.acm.org/citation.cfm%3Fid%3D2539195&amp;sa=3DX&amp;scisig=
+=3DAAGBfm1lc-31wHWw54yiBq5hF0X08Zc4OQ&amp;oi=3Dscholaralrt"><font size=3D3 =
+color=3D#1122cc style=3D"text-decoration:underline">Linked Open Data for He=
+althcare Professionals</font></a></h3><div><font size=3D2 color=3D#009933>J=
+ Koz=C3=A1k, M Ne=C4=8Dask=C3=BD, J D=C4=9Bdek, J Kl=C3=ADmek, J Pokorn=C3=
+=BD - Proceedings of International  &hellip;, 2013</font></div><div><font s=
+ize=3D2 color=3D#222222><b>...</b> We show that they can be relatively easi=
+ly integrated using the <b>Linked</b> <b>Data</b> principles and,<br>
+in case of unstructured data, NLP methods. <b>...</b> General Terms Design,=
+ Experimentation Keywords<br>
+Semantic Web, <b>Linked</b> <b>Data</b>, e-health, drugs, semantic inte- gr=
+ation <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&a=
+mp;q=3Dhttp://dl.acm.org/citation.cfm%3Fid%3D2539240&amp;sa=3DX&amp;scisig=
+=3DAAGBfm0T7qKRf0j1UJOyN5pe092WyOC2Jw&amp;oi=3Dscholaralrt"><font size=3D3 =
+color=3D#1122cc style=3D"text-decoration:underline">SPARQL Endpoint Metrics=
+ for Quality-Aware <b>Linked Data </b>Consumption</font></a></h3><div><font=
+ size=3D2 color=3D#009933>J Lorey - &hellip;  of International Conference o=
+n Information Integration  &hellip;, 2013</font></div><div><font size=3D2 c=
+olor=3D#222222>Abstract In recent years, dozens of publicly accessible <b>L=
+inked Data </b>repositories containing <br>vast amounts of knowledge presen=
+ted in the Resource Description Framework (RDF) format <br>have been set up=
+ worldwide. By utilizing the SPARQL query language, users can <b> ...</b></=
+font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;ma=
+x-width:44.5em"><a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp=
+;q=3Dhttp://link.springer.com/article/10.1007/s10619-014-7143-0&amp;sa=3DX&=
+amp;scisig=3DAAGBfm19HMylwhrNz9hIc5lhKxy5UTMnVA&amp;oi=3Dscholaralrt"><font=
+ size=3D3 color=3D#1122cc style=3D"text-decoration:underline">Analysis of s=
+chema structures in the Linked Open Data graph based on unique subject URIs=
+, pay-level domains, and vocabulary usage</font></a></h3><div><font size=3D=
+2 color=3D#009933>T Gottron, M Knauf, A Scherp - Distributed and Parallel D=
+atabases, 2014</font></div><div><font size=3D2 color=3D#222222><b>...</b> k=
+inds of domains. However, <b>Linked</b> <b>Data</b> does exhibit schema inf=
+ormation in a twofold<br>
+way: by explicitly attaching RDF types to the entities and implicitly by us=
+ing<br>
+domain-specific properties to describe the entities. In this paper <b>...</=
+b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://ceur-ws.org/Vol-1=
+124/linkedup_veni2013_01.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm1W-cjJ2kuJUgK-_Q=
+R4Vc9eXFv-NA&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D"=
+text-decoration:underline">DataConf and its Linked Open Data ecosystem: pro=
+duce, link and consume scientific conference metadata</font></a></h3><div><=
+font size=3D2 color=3D#009933>L M=C3=A9dini, F Le Peutrec, F Bacle, BD de l=
+a Pastelli=C3=A8re</font></div><div><font size=3D2 color=3D#222222><b>...</=
+b> It uses <b>Linked</b> <b>Data</b> and Web APIs to enrich the conference =
+dataset with resources (authors&#39;<br>
+other publications, organizations homep- ages) from different other endpoin=
+ts. It also performs<br>
+client-side reasoning to retrieve and recommend publications. <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://ceur-ws.org/Vol-1=
+124/linkedup_veni2013_introduction.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm0tvTHX=
+O122mLOVgpTprzA6CcTy0Q&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc=
+ style=3D"text-decoration:underline">LinkedUp Veni Competition: Linked and =
+Open Data for Education</font></a></h3><div><font size=3D2 color=3D#009933>=
+M d&#39;Aquin, S Dietze, H Drachsler, M Guy, E Herder</font></div><div><fon=
+t size=3D2 color=3D#222222><b>...</b> Marieke Guy Open Knowledge Foundation=
+ United Kingdom marieke.guy@okfn.org Eelco<br>
+Herder L3S Research Center Germany herder@L3S.de ABSTRACT <b>Linked</b> <b>=
+Data</b> is a set<br>
+of well-defined principles for sharing of large datasets on the Web. <b>...=
+</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://www.nik.no/2013/2=
+-2-npd-nik2013.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm21bQCsJCTK7im3qF0uuQn5B-Ho=
+WA&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D"text-decor=
+ation:underline">Benefits of Publishing the Norwegian Petroleum Directorate=
+&#39;s FactPages as Linked Open Data Martin G. Skj=C3=A6veland</font></a></=
+h3><div><font size=3D2 color=3D#009933>EH Lian</font></div><div><font size=
+=3D2 color=3D#222222><b>...</b> <b>Linked</b> <b>Data</b> is a term coined =
+in 2006 by Tim Berners-Lee [1] in an attempt to stimulate data<br>
+publishers to use web standards when making data available, and by doing so=
+ ultimately create<br>
+a web of data in the same manner as regular web pages are linked, using exi=
+sting web <b>...</b>=20
+</font></div><br><p><hr noshade size=3D1><font size=3D2 color=3D#222222>Die=
+ser Google Scholar-Alert wird Ihnen von Google zur Verf=C3=BCgung gestellt.=
+<br><br><a href=3D"http://scholar.google.de/scholar_alerts?view_op=3Dcancel=
+_alert_options&amp;email_for_op=3Derictessenow%40web.de&amp;alert_id=3DAIfe=
+vv3NkPcJ&amp;hl=3Dde"><font color=3D#1122cc>Alert stornieren</font></a><br>=
+</font></div></body></html>

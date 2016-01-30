@@ -1,0 +1,502 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.64.243.69 with SMTP id ww5csp401894iec;
+        Thu, 3 Apr 2014 10:34:18 -0700 (PDT)
+X-Received: by 10.42.156.2 with SMTP id x2mr2033664icw.82.1396546457290;
+        Thu, 03 Apr 2014 10:34:17 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of bounce-6463_HTML-146838422-8219009-1059199-1883@bounce.alerts.economist.com designates 68.232.205.169 as permitted sender) smtp.mail=bounce-6463_HTML-146838422-8219009-1059199-1883@bounce.alerts.economist.com;
+       dkim=pass header.i=publications@newsletters.economist.com
+Received-SPF: pass (google.com: domain of bounce-6463_HTML-146838422-8219009-1059199-1883@bounce.alerts.economist.com designates 68.232.205.169 as permitted sender) client-ip=68.232.205.169;
+Received: by 10.64.148.37 with POP3 id tp5mf1357359ieb.4;
+        Thu, 03 Apr 2014 10:34:17 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: bounce-6463_HTML-146838422-8219009-1059199-1883@bounce.alerts.economist.com
+Received: from mta1.alerts.economist.com ([68.232.205.169]) by mx-ha.web.de
+ (mxweb109) with ESMTP (Nemesis) id 0MSGWt-1WcieM2VKd-00TQca for
+ <erictessenow@web.de>; Thu, 03 Apr 2014 18:37:34 +0200
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=200608; d=newsletters.economist.com;
+ h=From:To:Subject:Date:List-Unsubscribe:MIME-Version:Reply-To:Message-ID:Content-Type; i=publications@newsletters.economist.com;
+ bh=oqAKKHR4guhCzuYrUZWj4eGLrFw=;
+ b=B9WbM5hbSm/mDBDwV/dAqB/Nsgtl6TE14uGGGnCuMhpf6xBYXps7q9fGUkHzWpPGsxpJlokgPqMj
+   0WPtLM1lCxv0BVoWNKUqeeLbVknyD+114S5rDbtI3zGnVnZcsTrUKi3EYGPjE7G1+0S0D7xH46vq
+   ussMgiEHKzn949L+5II=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=200608; d=newsletters.economist.com;
+ b=jTmMR6U4xQYKdEVZCfxP8IaJNxiMPw9zqC3HP50lwKelWthQto0kjdAhBNGRRoH/q9WPrZWh/2+E
+   AL0A/dfxZNzVZsiZZzwHZIGpritlk1Ent7BI+EpBIQftpuDDsLoSOVQsiXtR7Vp9/I5Kk3Hx2FkS
+   EMNYFj+scO2qTarwzgs=;
+Received: by mta1.alerts.economist.com id h7m74q163hsg for <erictessenow@web.de>; Thu, 3 Apr 2014 10:37:31 -0600 (envelope-from <bounce-6463_HTML-146838422-8219009-1059199-1883@bounce.alerts.economist.com>)
+From: "The Economist" <publications@newsletters.economist.com>
+To: <erictessenow@web.de>
+Subject: From the desk of John Micklethwait, Editor - Thursday, 3rd April 2014
+Date: Thu, 03 Apr 2014 10:37:30 -0600
+List-Unsubscribe: <mailto:leave-fd18127473676b2531492c-fe291574736c0775711672-fe921c72746d047d7c-fe8d1570706d05747c-ff2b15787d67@leave.alerts.economist.com>
+MIME-Version: 1.0
+Reply-To: "The Economist" <reply-fe921c72746d047d7c-6463_HTML-146838422-1059199-1883@alerts.economist.com>
+x-job: 1059199_8219009
+Message-ID: <c0f56f26-fbf4-4b49-8d7e-7a87cd37ac63@xtnvmta1159.xt.local>
+Content-Type: multipart/alternative;
+	boundary="IW2TS456W8z7=_?:"
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: unknown:2;V01:K0:+WVgxx7vIxk=:k10UaFFR4wdWbIZtL9tMz+WoVL
+ 5z8dWowtWiPTJo2ACtrcgzpQKTcNq8IBFljaoEcUe+TsQ9Z9lsfO4LxLprcVz+CT94fgNWYLt
+ eg2XkV7lTm7sxTHXHzVG8AXHzatvHx3FGeyU3BSRP4WEaE0Bf/ggzxGED7E3icAPQwMtuaPkc
+ fEB8+XPX8gsB+mhtvZVREPDP6pZ04zzW8vL9jbXvkdnB4R0fYtRxADvGeHNAeBTO60uSs6V7N
+ fae8AQxYet+lxT8SOhMoVhc01MCnLUv/KyBrpDutDdV5q9/HpWCTo6F/TnvftA0qNaQDPnT4X
+ l0ekrh+YoqgCLManXp2KsKfoub+cn4Xo4VGqWpnsQfx4a0c4RNLxarRBB3+0NjD0AJYdoU3az
+ uCAKDRwOA/4wLsmAGMer0w4jekcRjI+wsM3X1ulEzvKcfotbzhE6ebjTU0wagZHLX4/JoEesp
+ t7l8JDnPA4SFiDcfYBd0R92sosiGX0th2+MupUWmq+qkDWUYMiBW49MVxecCU9mx5P8B6Wd3P
+ noIXwMezFPjQZo95hNMjU2uMWiunKLdP7HhwMCyClxlXRgDNzc54VLgZqKIBg9ba/QvxQgLGf
+ GnyYzyzFsc+/IG49RbyWbitDzy+bzw9+S5GCSi7DySFAOFlXwjUtVb0gvdBXfKlrb3uHeLSOp
+ 6yPtEvHfmnU1IvZvZxHWiKXbpUO1NhWAfXb4Sa82Nh9l9PRckP3TSr060ACgmTWfsNjZCttl3
+ CG8DJ2u2ASaqkWEuE8owlHOdAHKBJz+z0YORRedV+red6wwkorEucR2LYTL3tDRP7YBwS+Gxr
+ eQsHju5bvoBFlkeeVNpvfbTy/OYBLPqcxMltQ36bfKXmP4/fQmAs7LP1J25hwIig4Z22aAA1z
+ caEXX0OOmUJIUtWcVM/OPThbXcNNuyMNJfZkoVxTwHXWgZJZy+8wcyGCIPukb6hyqqhDn2i+M
+ lXaEhx+N7izQOX7IvNrHbzoDsgpgjEeS7PXNgQUXjchoRctjqt9om0OAW/QGDLVW8n+H38Ydy
+ /5bNe6JIQTpvGRU4Zhd3OZHFpbWK6bnvnHD83Wdn4e6xg0pYj+w3geVzAnXRZYlTmApQ8xsqf
+ jRX+uR5JVKKLfeZRmONxVEovfXnRJu1TRmA0KxDYUSTCwzki9WTy3RhhgSHd/P/i1mnOFAd5y
+ OQfaxnnWF9H2u1woK+9zm+lZEsCut1DnOJkPWKFECBfOU13cRx22Z22vMLTv1SJDvM1U1kdrk
+ BmPuqoeo/VFxTqU8hKcQ9KgFNk7RHuk8/2tlD18yFo6OyDznA8oySOtc=
+
+This is a multi-part message in MIME format.
+
+--IW2TS456W8z7=_?:
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+ 
+Thursday, April 3rd 2014
+
+Next week as many as 815m Indians will start going to the polls--the
+largest collective democratic act in history. The winner looks likely
+to be Narendra Modi. For many Indian modernisers, he is the clean
+broom to reform their country. In our cover leader we explain why a
+Hindu nationalist who is still associated with sectarian hatred is
+the wrong man for India
+
+Can anyone stop Narendra Modi?
+SEE ARTICLE >>
+http://click.alerts.economist.com/?qs=1cb6225eb001371615c4544b30525985ad5f87504a962dc1679149fa893fb01967ee0da2e387cc4c
+
+John Micklethwait, Editor-in-Chief
+
+================================================================================
+
+EUROPEAN ENERGY SECURITY: CONSCIOUS UNCOUPLING
+Reducing Europe's dependence on Russian gas is possible--but it will
+take time, money and sustained political will
+SEE ARTICLE >>
+http://click.alerts.economist.com/?qs=1cb6225eb0013716f3baad8c4a6cf47cc4aefe580c941eb03f900723607861fbc30bc66abfc9f0a4
+
+HIGHER EDUCATION: IS COLLEGE WORTH IT? 
+Too many degrees are a waste of money. The return on higher education
+would be much better if college were cheaper
+SEE ARTICLE >>
+http://click.alerts.economist.com/?qs=1cb6225eb0013716844b8d3fb91ed7af1c5d9a200269d1194b30ff519db5c90b8d3d50a997a1f23b
+
+POLITICS: WINDING DOWN
+Over a year before the general election, Parliament is already
+clocking off
+SEE ARTICLE >>
+http://click.alerts.economist.com/?qs=1cb6225eb001371644000d088d39dbc6a96890ac3f3ffb7849de7dc253c76e7491e015b8b376784e
+  
+================================================================================
+
+POLITICS THIS WEEK
+Recep Tayyip Erdogan, Turkey's prime minister, defied scandal and
+charges of authoritarianism to celebrate a resounding victory in
+local elections. His party's tally was not far from the 50% he
+would need in August to become the country's first directly elected
+president
+SEE ARTICLE >>
+http://click.alerts.economist.com/?qs=1cb6225eb001371651da5b843feaf01169baab60081551e8a69bcc64e2769c8cd7916b7b69853a9e
+
+MORE FROM: POLITICS THIS WEEK >> 
+http://click.alerts.economist.com/?qs=1cb6225eb00137166fea5af37058fd42ea0b3ed92d922349d35a49e87a71066dda4cff89474a4ec2
+
+================================================================================
+
+BUSINESS THIS WEEK
+Microsoft announced the first big changes in strategy since Satya
+Nadella became chief executive. It at last unveiled apps for its
+Office software that will work on Apple's iPad, and it decided to
+give away its Windows software for smartphones and small tablets,
+which should boost the development of apps on Microsoft phones. Bill
+Gates's philosophy was that software should always be paid for
+SEE ARTICLE >>
+http://click.alerts.economist.com/?qs=1cb6225eb0013716c0faefc0cb0facd74aada36b4a84ff5b81d4c8588fbf8dbf473d945bccc47ff4
+
+MORE FROM: BUSINESS THIS WEEK >> 
+http://click.alerts.economist.com/?qs=1cb6225eb001371620df30f40290c80f4544f612a369a76c221310d1f386bf41851545e71e967b2f
+
+================================================================================
+
+Go to Economist.com 
+
+Copyright (c) The Economist Newspaper Limited 2014. All rights reserved.
+
+Advertising info: http://click.alerts.economist.com/?qs=a4b7cef57789a63c5aa20510d74749fda60b30c45332817e56d836c4c59c77c17222a35daae8ad58 
+Privacy Policy: http://click.alerts.economist.com/?qs=a4b7cef57789a63cfb2bd8f4ecd087c6493f092b0a8c9432dc2df010139f3f1bf065ebe9316bdf6d 
+Terms & Conditions: http://click.alerts.economist.com/?qs=a4b7cef57789a63c8ced03e2be4d173fb772218800ebd94d29fdbcdbe6d4348f83314efb09c7e90c 
+Help: http://click.alerts.economist.com/?qs=a4b7cef57789a63c036b212d09f58edfb4d2d348a164eafd84551245c59e8607ed4934725a9590ad 
+To unsubscribe please click here: 
+http://click.alerts.economist.com/?qs=a4b7cef57789a63c64786318f57318cc5d889040c29a1e1d6409b39f6641a71a0a07ffe6b720ab1b
+
+Registered in England and Wales. No.236383, VAT no: GB 340 436 876
+Registered office: 25 St James's Street, London, SW1A 1HG
+
+================================================================================
+Customer service
+
+This e-mail has been sent to: erictessenow@web.de
+
+Questions? Comments? Please contact us. http://click.alerts.economist.com/?qs=a4b7cef57789a63c41a9ec4a6184a17eac65ca2cd54df324e6656e7f23a8cc21f8eefac35db8cf5d 
+Replies to this e-mail will not reach us. 
+
+--IW2TS456W8z7=_?:
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+<html><body bgcolor="#ffffff" text="#000000">
+<center>
+<table cellspacing="0" width="728" cellpadding="0" border="0" bgcolor="#ffffff" style="border-collapse:collapse;" align="center">
+	<tr>
+		<td>
+            <table cellspacing="0" cellpadding="0" border="0" width="728" style="border-collapse:collapse;" align="center">
+                <tr>
+                    <td height="90"><table  width="100%" bgcolor="" border="0" bordercolor="" cellpadding="0" cellspacing="0"><tr><td style="font-family:Arial; font-size:13px">
+<a href="http://ad.doubleclick.net/N5605/jump/teg.oqmk/kl2t;pos=ldr_top;sect=kl2t;sz=728x90,468x60;tile=1;dcove=r;ord=8219009146838422?" target="_blank"><img src="http://ad.doubleclick.net/N5605/ad/teg.oqmk/kl2t;pos=ldr_top;sect=kl2t;sz=728x90,468x60;tile=1;dcove=r;ord=8219009146838422?" border="0" alt="Click Here!" align="absMiddle" hspace="0" vspace="0"></a></td></tr></table></td>
+                </tr>
+            </table>
+            <table cellspacing="0" cellpadding="0" border="0" width="728" style="border-collapse:collapse;" align="center">
+                <tr>
+                    <td align="right" height="20" style=" padding-right:23px;">
+                            <a href="http://click.alerts.economist.com/?qs=1cb6225eb0013716215a27dd4d45ef91b26f6b6bb6bc7bba36429e498a4b3d155c52cfda7b1b774d" style="color:#4a4a4a; font-family:Arial, sans-serif; font-size:12px; text-decoration:none;">View in browser</a> | <a href="http://click.alerts.economist.com/?qs=1cb6225eb001371628f896d8dd87b3686713c8bfc356bc43ee7a5f10d5065795121caec198fb1a21" style="color:#4a4a4a; font-family:Arial, sans-serif; font-size:12px; text-decoration:none;">E-mail a friend</a>
+                    </td>
+                </tr>
+            </table>
+        	<!-- START Newsletter header-->
+			<table cellspacing="0" cellpadding="0" border="0" width="728" height="100" style="border-collapse:collapse; margin-bottom:5px; margin-top:7px;" align="center" bgcolor="#e3e3e3">
+                <tr>
+                    <td width="200" height="100" style="font-family:Georgia, 'Times New Roman', Times, serif; font-size:14px; color:#FFF;"><img src="http://image.alerts.economist.com/lib/fe8d1570706d05747c/m/1/masthead-economist.jpg" width="200" height="100" alt="The Economist" style="display: block;"></td>
+                    <td width="528" height="100">
+                    	<table cellspacing="0" width="528" cellpadding="0" border="0" style="border-collapse:collapse;">
+                            <tr>
+                                <td width="528" height="47" valign="bottom" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; font-weight:bold; color:#9f9f9f;"><table cellpadding="0" cellspacing="0" border="0" bordercolor="" width="100%" bgcolor=""><tr><td><table  width="100%" bgcolor="" border="0" bordercolor="" cellpadding="0" cellspacing="0"><tr><td style="font-family:Arial; font-size:13px"><font style="font-family:Arial, Helvetica, sans-serif; font-size:12px; font-weight:bold; color:#9f9f9f;">Thursday, April 3rd 2014</font></td></tr></table></td></tr></table></td>
+							</tr>                                
+                            <tr>
+                                <td width="528" height="53" style="font-family:Georgia, 'Times New Roman', Times, serif; font-size:14px; color:#4a4a4a; background-color:#dddddd;"><img src="http://image.alerts.economist.com/lib/fe8d1570706d05747c/m/1/editors-pick-new.jpg" width="528" height="53" border="0" alt="Editor's picks" style="display: block;"></td>
+							</tr>
+						</table>
+                    </td>
+                </tr>
+            </table>
+            <!-- END Newsletter header-->
+
+			<!-- START Editor's note-->
+			<table cellspacing="0" cellpadding="0" border="0" width="728" style="border-collapse:collapse; margin-top:7px;">
+                <tr>
+                    <td width="25"></td>
+                    <td width="163" align="center" valign="middle" bgcolor="#4a4a4a"><img src="http://media.economist.com/sites/default/files/cf_images/images-magazine/2014/04/05/CN/20140405_CNA117.jpg" style="border-color: #000000; padding-top:10px; padding-bottom:10px; width: 117px; height: 154px;" align="center" height="154" width="117"></td>
+                    <td width="492" bgcolor="#4a4a4a" valign="top" style="padding-top:12px; padding-bottom:12px; font-family:Arial, Helvetica, sans-serif; font-size:14px; color:#ffffff;">
+                   		<table cellpadding="0" cellspacing="0" border="0" bordercolor="" width="100%" bgcolor=""><tr><td><table  width="100%" bgcolor="" border="0" bordercolor="" cellpadding="0" cellspacing="0"><tr><td style="font-family:Arial; font-size:13px"><font style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #ffffff;">
+Next week as many as 815m Indians will start going to the polls&#8212;the largest collective democratic act in history. The winner looks likely to be Narendra Modi. For many Indian modernisers, he is the clean broom to reform their country. In our <a href="http://click.alerts.economist.com/?qs=1cb6225eb0013716b14771b4dacc47dcf560f61f02927bb093ca2753119822f487cb2f57608b681e" target="_blank"><font color="#FFFFFF">cover leader</font></a> we explain why a Hindu nationalist who is still associated with sectarian hatred is the wrong man for India
+<br>
+<br>
+<b>John Micklethwait, Editor-in-Chief</b>
+</font></td></tr></table></td></tr></table>
+                    </td>
+                    <td width="23" bgcolor="#4a4a4a">
+                    </td>		
+                    <td width="25"></td>
+                </tr>
+            </table>
+			<!-- END Editor's note-->
+
+        	<!-- START Newsletter content-->
+			<table cellspacing="0" cellpadding="0" border="0" width="728" style="border-collapse:collapse; margin-top:22px;">
+                <tr>
+                    <td width="25"></td>
+                    <td width="355" valign="top">
+                    	<table cellspacing="0" cellpadding="0" width="355" style="border-collapse:collapse;">
+                            <tr>
+                                <td style="border-collapse:collapse; border-bottom:1px solid #f0f0f0; margin-bottom:10px;"><table cellpadding="0" cellspacing="0" border="0" bordercolor="" width="100%" bgcolor=""><tr><td><table  width="100%" bgcolor="" border="0" bordercolor="" cellpadding="0" cellspacing="0"><tr><td style="font-family:Arial; font-size:13px"><table cellspacing="0" cellpadding="0" border="0" width="355">
+	<tbody>
+		<tr>
+			<td style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #e31206; margin-bottom: 20px;"><font style="font-family: Arial, Helvetica, sans-serif; font-size: 15px; color: #e31206; font-weight: bold;">European energy security</font>                            
+			</td>
+		</tr>
+		<tr>
+			<td height="30" valign="middle" style="font-family: Georgia, 'Times New Roman', Times, serif; font-size: 24px; color: #4a4a4a;"><font style="font-family: Georgia, 'Times New Roman', Times, serif; font-size: 24px; color: #4a4a4a;"><a href="http://click.alerts.economist.com/?qs=1cb6225eb00137161a0b650f1e559ce3aef9db934da0717bd852a5d3caf08392b66c4e84f86bd61b"  style="color: #000000;">Conscious uncoupling</a></font></td>
+		</tr>
+		<tr>
+			<td style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #4a4a4a; margin-bottom: 20px;">
+			<table style="border-collapse: collapse;" border="0" cellpadding="0" cellspacing="0">
+				<tbody>
+					<tr>
+						<td style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #4a4a4a; margin-bottom: 20px;">: 
+						<table style="border-collapse: collapse;" border="0" cellpadding="0" cellspacing="0">
+							<tbody>
+								<tr>
+									<td><img src="http://cdn.static-economist.com/sites/default/files/imagecache/original-size/20140405_EBM952.png" style="margin-right: 10px; margin-bottom: 20px;" align="left" height="63" width="133"></td>
+									<td><font style="font-family: Arial, Helvetica, sans-serif; font-size: 15px; color: #4a4a4a;">Reducing Europe's dependence on Russian gas is possible&#8212;but it will take time, money and sustained political will<br>
+									<a href="http://click.alerts.economist.com/?qs=1cb6225eb00137161a0b650f1e559ce3aef9db934da0717bd852a5d3caf08392b66c4e84f86bd61b" style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; color: #4a4a4a; text-decoration: none; line-height: 30px; margin-bottom: 20px;">READ MORE <font style="font-size: 20px;">&raquo;</font></a></font></td>
+								</tr>
+							</tbody>
+						</table>
+						<br>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table></td></tr></table></td></tr></table></td>
+							</tr>
+                            <tr>
+                                <td style="border-collapse:collapse; border-bottom:1px solid #f0f0f0; margin-bottom:10px; margin-top:10px;"><table cellpadding="0" cellspacing="0" border="0" bordercolor="" width="100%" bgcolor=""><tr><td><table  width="100%" bgcolor="" border="0" bordercolor="" cellpadding="0" cellspacing="0"><tr><td style="font-family:Arial; font-size:13px"><table cellspacing="0" cellpadding="0" border="0" width="355">
+	<tbody>
+		<tr>
+			<td style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #e31206; margin-bottom: 20px;"><font style="font-family: Arial, Helvetica, sans-serif; font-size: 15px; color: #e31206; font-weight: bold;">Higher education</font>                            
+			</td>
+		</tr>
+		<tr>
+			<td height="30" valign="middle" style="font-family: Georgia, 'Times New Roman', Times, serif; font-size: 24px; color: #4a4a4a;"><font style="font-family: Georgia, 'Times New Roman', Times, serif; font-size: 24px; color: #4a4a4a;"><a href="http://click.alerts.economist.com/?qs=1cb6225eb00137161f1bc81e044765ea1f6f381302950fe7288b8b834ca7174142450541fdc9a173"  style="color: #000000;">Is college worth it?</a></font></td>
+		</tr>
+		<tr>
+			<td><font style="font-family: Arial, Helvetica, sans-serif; font-size: 15px; color: #4a4a4a;">Too many degrees are a waste of money. The return on higher education would be much better if college were cheaper<br>
+			<a href="http://click.alerts.economist.com/?qs=1cb6225eb00137161f1bc81e044765ea1f6f381302950fe7288b8b834ca7174142450541fdc9a173" style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; color: #4a4a4a; text-decoration: none; line-height: 30px; margin-bottom: 20px;">READ MORE <font style="font-size: 20px;">&raquo;</font></a>
+			</font>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<br></td></tr></table></td></tr></table></td>
+							</tr>
+                            <tr>
+                                <td style="border-collapse:collapse; margin-bottom:30px; margin-top:10px;"><table cellpadding="0" cellspacing="0" border="0" bordercolor="" width="100%" bgcolor=""><tr><td><table  width="100%" bgcolor="" border="0" bordercolor="" cellpadding="0" cellspacing="0"><tr><td style="font-family:Arial; font-size:13px"><table cellspacing="0" cellpadding="0" border="0" width="355">
+	<tbody>
+		<tr>
+			<td style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #e31206; margin-bottom: 20px;"><font style="font-family: Arial, Helvetica, sans-serif; font-size: 15px; color: #e31206; font-weight: bold;">Politics</font>                            
+			</td>
+		</tr>
+		<tr>
+			<td height="30" valign="middle" style="font-family: Georgia, 'Times New Roman', Times, serif; font-size: 24px; color: #4a4a4a;"><font style="font-family: Georgia, 'Times New Roman', Times, serif; font-size: 24px; color: #4a4a4a;"><a href="http://click.alerts.economist.com/?qs=1cb6225eb0013716e87b8ceae70581fa4c54af31091430e73a0ff930f7e89a1088b71073c4a9d96a"  style="color: #000000;">Winding down</a></font></td>
+		</tr>
+		<tr>
+			<td style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #4a4a4a; margin-bottom: 20px;">
+			<table style="border-collapse: collapse;" border="0" cellpadding="0" cellspacing="0">
+				<tbody>
+					<tr>
+						<td style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #4a4a4a; margin-bottom: 20px;">: 
+						<table style="border-collapse: collapse;" border="0" cellpadding="0" cellspacing="0">
+							<tbody>
+								<tr>
+									<td><img src="http://cdn.static-economist.com/sites/default/files/imagecache/full-width/images/print-edition/20140405_BRP001_0.jpg" style="margin-right: 10px; margin-bottom: 20px;" align="left" height="75" width="133"></td>
+									<td><font style="font-family: Arial, Helvetica, sans-serif; font-size: 15px; color: #4a4a4a;">Over a year before the general election, Parliament is already clocking off<br>
+									<a href="http://click.alerts.economist.com/?qs=1cb6225eb0013716e87b8ceae70581fa4c54af31091430e73a0ff930f7e89a1088b71073c4a9d96a" style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; color: #4a4a4a; text-decoration: none; line-height: 30px; margin-bottom: 20px;">READ MORE <font style="font-size: 20px;">&raquo;</font></a>
+									</font>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<br>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table></td></tr></table></td></tr></table></td>
+							</tr>
+						</table>
+						<!-- START Politics this week-->
+                        <table cellspacing="0" cellpadding="0" width="355" style="border-top:3px solid #4a4a4a; border-collapse:collapse; margin-bottom:3px; margin-top:30px;" bgcolor="#f0f0f0">
+                            <tr>
+                                <td height="30" valign="middle" style="padding-left:8px; font-family:Georgia, 'Times New Roman', Times, serif; font-size:16px; color:#4a4a4a;"><font style="font-family:Georgia, 'Times New Roman', Times, serif; font-size:16px; color:#4a4a4a;">Politics this week</font></td>
+							</tr>
+						</table>
+                        <table cellspacing="0" cellpadding="0" border="0" width="355" style="border-collapse:collapse; margin-top:15px; margin-bottom:30px;">
+                            <tr>
+                                <td style="font-family:Arial, Helvetica, sans-serif; font-size:14px; color:#4a4a4a;">                        			<table cellpadding="0" cellspacing="0" border="0" bordercolor="" width="100%" bgcolor=""><tr><td><table  width="100%" bgcolor="" border="0" bordercolor="" cellpadding="0" cellspacing="0"><tr><td style="font-family:Arial; font-size:13px"><font style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #4a4a4a;">Recep Tayyip Erdogan, Turkey's prime minister, defied scandal and charges of authoritarianism to celebrate a resounding victory in local elections. His party's tally was not far from the 50% he would need in August to become the country's first directly elected president<br>
+<a href="http://click.alerts.economist.com/?qs=1cb6225eb001371615450726c17794ed11ac51d273c63bb5db1cd2fb7ae51f36cfb218ae87db3675" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: bold; color: #4a4a4a; text-decoration: none; line-height: 30px;">SEE ARTICLE &raquo;</a></font>
+<br>
+<a href="http://click.alerts.economist.com/?qs=1cb6225eb0013716bd9bff8fc4383de348f85d7b21239bf023ae9f198c99a79595ca2adc0728c1ae" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: bold; color: #4a4a4a; text-decoration: none; line-height: 30px;">MORE FROM: <font color="#000000">POLITICS THIS WEEK</font> <font style="font-size: 20px;">&raquo;</font></a></td></tr></table></td></tr></table>
+                                </td>
+                            </tr>
+                        </table>
+                        <!-- END Politics this week-->
+                        
+ 						<!-- START The Economist Radio -->
+                        <table cellspacing="0" cellpadding="0" border="0" width="355" height="155" style="border-collapse:collapse; margin-bottom:30px;" bgcolor="#f0f0f0">
+                            <tr>
+                            	<td align="center" valign="middle">
+                                	<table cellspacing="0" cellpadding="0" border="0" width="355" style="border-collapse:collapse;">
+    <tr>
+    	<td width="27"></td>
+        <td align="center" valign="middle" width="300"><table  width="100%" bgcolor="" border="0" bordercolor="" cellpadding="0" cellspacing="0"><tr><td style="font-family:Arial; font-size:13px">
+<a href="http://ad.doubleclick.net/N5605/jump/teg.oqmk/kl2t;sect=kl2t;sz=300x100;tile=3;dcove=r;ord=8219009146838422?" target="_blank"><img src="http://ad.doubleclick.net/N5605/ad/teg.oqmk/kl2t;sect=kl2t;sz=300x100;tile=3;dcove=r;ord=8219009146838422?" border="0" alt="Click Here!" align="absMiddle" hspace="0" vspace="0"></a></td></tr></table></td>
+        <td width="28"></td>
+    </tr>
+</table>
+                                </td>
+                            </tr>
+                        </table>
+                        <!-- END The Economist Radio -->                        
+                        
+						<!-- START Business this week-->
+                        <table cellspacing="0" cellpadding="0" width="355" style="border-top:3px solid #4a4a4a; border-collapse:collapse; margin-bottom:3px;" bgcolor="#f0f0f0">
+                            <tr>
+                                <td height="30" valign="middle" style="padding-left:8px; font-family:Georgia, 'Times New Roman', Times, serif; font-size:16px; color:#4a4a4a;"><table cellpadding="0" cellspacing="0" border="0" bordercolor="" width="100%" bgcolor=""><tr><td><table  width="100%" bgcolor="" border="0" bordercolor="" cellpadding="0" cellspacing="0"><tr><td style="font-family:Arial; font-size:13px"><font style="font-family:Georgia, 'Times New Roman', Times, serif; font-size:16px; color:#4a4a4a;">Business this week</font></td></tr></table></td></tr></table></td>
+							</tr>
+						</table>
+                        <table cellspacing="0" cellpadding="0" border="0" width="355" style="border-collapse:collapse; margin-top:15px; margin-bottom:20px;">
+                            <tr>
+                                <td style="font-family:Arial, Helvetica, sans-serif; font-size:14px; color:#4a4a4a;">
+                                	<table cellpadding="0" cellspacing="0" border="0" bordercolor="" width="100%" bgcolor=""><tr><td><table  width="100%" bgcolor="" border="0" bordercolor="" cellpadding="0" cellspacing="0"><tr><td style="font-family:Arial; font-size:13px"><font style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #4a4a4a;">Microsoft announced the first big changes in strategy since Satya Nadella became chief executive. It at last unveiled apps for its Office software that will work on Apple's iPad, and it decided to give away its Windows software for smartphones and small tablets, which should boost the development of apps on Microsoft phones. Bill Gates's philosophy was that software should always be paid for<br>
+<a href="http://click.alerts.economist.com/?qs=1cb6225eb0013716f75eff44554f60d7abd6c2c271aa94640fc7b34eaf7366c94486c1e87a62b189" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: bold; color: #4a4a4a; text-decoration: none; line-height: 30px;">SEE ARTICLE &raquo;</a></font>
+<br>
+<a href="http://click.alerts.economist.com/?qs=1cb6225eb0013716569f971f130ff5f7837a7b5e3395f8e7991261fc2c6367bdd69628fdb12c38f7" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: bold; color: #4a4a4a; text-decoration: none; line-height: 30px;">MORE FROM: <font color="#000000">BUSINESS THIS WEEK</font> <font style="font-size: 20px;">&raquo;</font></a></td></tr></table></td></tr></table>
+                                </td>
+                            </tr>
+                        </table>
+                        <!-- END Business this week-->
+                    </td>
+                    <td width="23"></td>
+                    <td width="300" valign="top">
+ 						<!-- START Subscription module -->
+							<table cellpadding="0" cellspacing="0" border="0" bordercolor="" width="100%" bgcolor=""><tr><td><table  width="100%" bgcolor="" border="0" bordercolor="" cellpadding="0" cellspacing="0"><tr><td style="font-family:Arial; font-size:13px"><table style="border-top:3px solid #4a4a4a; border-collapse:collapse; margin-bottom:3px;" bgcolor="#f0f0f0" cellpadding="0" cellspacing="0" width="300">
+	<tbody>
+		<tr>
+			<td style="padding-left:8px; font-family:Georgia, 'Times New Roman', Times, serif; font-size:16px; color:#4a4a4a;" height="30" valign="middle"><font style="font-family:Georgia, 'Times New Roman', Times, serif; font-size:16px; color:#4a4a4a;">Subscribe</font></td>
+		</tr>
+	</tbody>
+</table>
+<table style="border-collapse:collapse; margin-bottom:20px;" bgcolor="#f0f0f0" border="0" cellpadding="0" cellspacing="0" width="300">
+	<tbody>
+		<tr>
+			<td style="padding-left:8px; padding-top:10px; font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#4a4a4a;"><font style="font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#4a4a4a;">Subscribers can enjoy each week's full issue of <i>The Economist</i> in print, at Economist.com or via <i>The Economist</i> apps. <br>
+			<a href="http://click.alerts.economist.com/?qs=a4b7cef57789a63ccb336faf9f3874097c1c322a1fdb860e2ed6c12ee7bc4fe0e8a76f56cb2810ed" style="font-family:Arial, Helvetica, sans-serif; font-size:14px; color:#4a4a4a; font-weight:bold; text-decoration:none; line-height:30px;">Subscription offers <font style="font-size:20px;">&raquo;</font></a>
+			</font>
+			</td>
+			<td style="padding-top:10px;" align="center" valign="top" width="90"><img src="http://image.alerts.economist.com/lib/fe8d1570706d05747c/m/1/registered-reader.png" height="85" width="85">
+			</td>
+		</tr>
+	</tbody>
+</table></td></tr></table></td></tr></table>
+                        <!-- END Subscription module -->
+
+ 						<!-- START Share module -->
+						<table cellspacing="0" cellpadding="0" width="300" style="border-top:3px solid #4a4a4a; border-collapse:collapse; margin-bottom:3px;" bgcolor="#f0f0f0">
+                            <tr>
+                                <td height="30" valign="middle" style="padding-left:8px; font-family:Georgia, 'Times New Roman', Times, serif; font-size:16px; color:#4a4a4a;"><font style="font-family:Georgia, 'Times New Roman', Times, serif; font-size:16px; color:#4a4a4a;">Follow <i>The Economist</i></font></td>
+							</tr>
+
+						</table>
+                        <table cellspacing="0" cellpadding="0" border="0" width="300" style="border-collapse:collapse; margin-bottom:20px;" bgcolor="#f0f0f0">
+                            <tr>
+                                <td style="padding-left:8px; font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#4a4a4a;" valign="middle" height="62">
+				<table cellpadding="0" cellspacing="0" border="0" bordercolor="" width="100%" bgcolor=""><tr><td><table  width="100%" bgcolor="" border="0" bordercolor="" cellpadding="0" cellspacing="0"><tr><td style="font-family:Arial; font-size:13px"><a href="http://click.alerts.economist.com/?qs=1cb6225eb001371686b6434c773ad87578f5ec6f0411646217d0209fa13fe8b04c5af1de37ae1b19"><img src="http://image.alerts.economist.com/lib/fe8d1570706d05747c/m/1/facebook.jpg" width="25" height="25" alt="facebook" style="padding-right:4px;" border="0"></a>
+<a href="http://click.alerts.economist.com/?qs=1cb6225eb0013716cd935dc37b84f29d39f23a36234ca7cc6f7afedf072f2c078c7f7d946512ecd7"><img src="http://image.alerts.economist.com/lib/fe8d1570706d05747c/m/1/twitter.jpg" width="25" height="25" alt="twitter" style="padding-right:4px;" border="0"></a>
+<a href="http://click.alerts.economist.com/?qs=1cb6225eb0013716d14694fc4fd7e29cfc069b9d162027a0e4fee82366e3b9e6f293024ec53117e5"><img src="http://image.alerts.economist.com/lib/fe8d1570706d05747c/m/1/linkedin.jpg" width="25" height="25" alt="linkedin" style="padding-right:4px;" border="0"></a>
+<a href="http://click.alerts.economist.com/?qs=1cb6225eb0013716bd53f7fdf75e58ab4f23c8832cf795e6fcadd2a8e768783f25d4d6a41d37d70b"><img src="http://image.alerts.economist.com/lib/fe8d1570706d05747c/m/1/googleplus.jpg" width="25" height="25" alt="google+" style="padding-right:4px;" border="0"></a>
+<a href="http://click.alerts.economist.com/?qs=1cb6225eb0013716d66e42d4a263561b5910317559cede846b3817f07f083bea58aef6df32294b3e"><img src="http://image.alerts.economist.com/lib/fe8d1570706d05747c/m/1/tumblr.jpg" width="25" height="25" alt="tumblr" style="padding-right:4px;" border="0"></a>
+<a href="http://click.alerts.economist.com/?qs=1cb6225eb001371692578f3bb8166f374cf3fe44548f2abd2b44c212fea446d59e1c80377ea5717c"><img src="http://image.alerts.economist.com/lib/fe8d1570706d05747c/m/1/pintrest.jpg" width="25" height="25" alt="pintrest" style="padding-right:4px;" border="0"></a>
+<a href="http://click.alerts.economist.com/?qs=1cb6225eb00137169151051945829907e9090442ed1b022a9c8956dfdeba1f24e1bfb75837c764b2"><img src="http://image.alerts.economist.com/lib/fe8d1570706d05747c/m/1/youtube.jpg" width="25" height="25" alt="youtube" style="padding-right:4px;" border="0"></a>
+<a href="http://click.alerts.economist.com/?qs=1cb6225eb001371691f0120620befa2624d71df93d6a426dd485ce59c3b855dd87a9cf071d2cac88"><img src="http://image.alerts.economist.com/lib/fe8d1570706d05747c/m/1/rssfeed.jpg" width="25" height="25" alt="rss" style="padding-right:4px;" border="0"></a>
+<a href="http://click.alerts.economist.com/?qs=1cb6225eb0013716bfe92a482d41ceeae8f566eb57e8cbb3f1b9a32d144715f4b585f635ab7a1428"><img src="http://image.alerts.economist.com/lib/fe8d1570706d05747c/m/1/email.jpg" width="25" height="25" alt="email" border="0"></a></td></tr></table></td></tr></table>
+				</td>
+                            </tr>
+                        </table>
+                        <!-- END Share module -->
+
+ 						<!-- START MPU unit 300 x 250 -->
+                        <table cellspacing="0" cellpadding="0" border="0" width="300" height="250" style="border-collapse:collapse; margin-top:30px; margin-bottom:30px;">
+                            <tr>
+                                <td width="300" height="250">
+                                	<table  width="100%" bgcolor="" border="0" bordercolor="" cellpadding="0" cellspacing="0"><tr><td style="font-family:Arial; font-size:13px">
+<a href="http://ad.doubleclick.net/N5605/jump/teg.oqmk/kl2t;pos=mpu_top;sect=kl2t;sz=300x250;tile=2;dcove=r;ord=8219009146838422?" target="_blank"><img src="http://ad.doubleclick.net/N5605/ad/teg.oqmk/kl2t;pos=mpu_top;sect=kl2t;sz=300x250;tile=2;dcove=r;ord=8219009146838422?" border="0" alt="Click Here!" align="absMiddle" hspace="0" vspace="0"></a></td></tr></table>
+                                </td>
+                            </tr>
+                        </table>
+                        <!-- END MPU unit 300 x 250 -->
+                        
+                        <!-- START The Economist debates -->
+                        <table cellspacing="0" cellpadding="0" width="300" style="border-top:3px solid #4a4a4a; border-collapse:collapse; margin-bottom:3px;" bgcolor="#f0f0f0">
+                            <tr>
+                                <td height="30" valign="middle" style="padding-left:8px; font-family:Georgia, 'Times New Roman', Times, serif; font-size:16px; color:#4a4a4a;"><font style="font-family:Georgia, 'Times New Roman', Times, serif; font-size:16px; color:#4a4a4a;"></font></td>
+							</tr>
+						</table>
+                        
+                        <!-- END The Economist debates -->
+                        
+                        <!-- START Sponsor Area -->
+                        <table cellspacing="0" cellpadding="0" border="0" width="300" style="border-collapse:collapse; margin-top:10px; margin-bottom:10px;">
+                            <tr>
+                                <td>
+                                	
+                                </td>
+                            </tr>
+                        </table>
+							
+                        <!-- END End Sponsor Area -->
+                    </td>
+                    <td width="25"></td>
+                </tr>
+            </table>
+            <table cellspacing="0" cellpadding="0" border="0" width="728" style="border-collapse:collapse;" align="center">
+                <tr>
+                    <td height="66"></td>
+                </tr>
+            </table>          
+            <!-- END Newsletter content-->
+			<table cellspacing="0" cellpadding="0" border="0" width="728" style="border-collapse:collapse; margin-top:22px;">
+                <tr>
+                    <td width="23" bgcolor="#f0f0f0"></td>
+                    <td height="62" bgcolor="#f0f0f0" style="font-family:Georgia, 'Times New Roman', Times, serif; font-size:18px; color:#4a4a4a;" valign="middle"><img src="http://image.alerts.economist.com/lib/fe8d1570706d05747c/m/1/economist-footer.jpg" width="76" height="38" align="absmiddle"> <a href="http://click.alerts.economist.com/?qs=1cb6225eb0013716fac12c3285b12836a91e03a9dfb2f84d8b76c2346b819795a52bc1e2f5565fe6" style="font-family:Georgia, 'Times New Roman', Times, serif; font-size:18px; color:#4a4a4a; text-decoration:none;">Go to Economist.com</a></td>
+                </tr>
+                <tr>
+                    <td width="23" bgcolor="#f0f0f0"></td>
+                    <td bgcolor="#f0f0f0" style="font-family: Arial, Helvetica, sans-serif; font-size:10px; color:#4a4a4a;"><table cellpadding="0" cellspacing="0" border="0" bordercolor="" width="100%" bgcolor=""><tr><td><table  width="100%" bgcolor="" border="0" bordercolor="" cellpadding="0" cellspacing="0"><tr><td style="font-family:Arial; font-size:13px"><font style="font-family: Arial, Helvetica, sans-serif; font-size:10px; color:#4a4a4a;">
+This e-mail has been sent to: <b>erictessenow@web.de</b><br>
+If you'd like to update your details please <a href="http://click.alerts.economist.com/?qs=1cb6225eb00137167aca37981b2f6e3eec402b9ba2555da7b8514f8f8359299bfb5dcb64290f4431" target="_blank" style="color:#000000;"><b>click here</b></a> (you may need to log in).<br>
+Questions? Comments? Please <a href="http://click.alerts.economist.com/?qs=1cb6225eb00137161d824a4432468c2560473dbd182a579e14d5343143f81fabee1e5129547bbc43" target="_blank" style="color:#000000;"><b>contact us</b></a>. Replies to this e-mail will not reach us.<br>
+If you no longer wish to receive this newsletter, <a href="http://click.alerts.economist.com/?qs=1cb6225eb0013716c2db3c8c294d0b69e968f67c6a46515c546a0b08e855a6297e2dd89c59e8b25b" style="font-family: Arial, Helvetica, sans-serif; font-size:10px; color:#000;"><b>unsubscribe here</b></a>.<br>
+<br>
+Copyright &copy; The Economist Newspaper Limited 2014. All rights reserved.<br>
+<a href="http://click.alerts.economist.com/?qs=1cb6225eb00137163423359f7e85ef0be095189bda00b38da7744f2064bf46fe54e1900edaf8e5df" style="font-family: Arial, Helvetica, sans-serif; font-size:10px; color:#4a4a4a; text-decoration:none;">Advertising info</a> | 
+<a href="http://click.alerts.economist.com/?qs=1cb6225eb0013716168859e24d116dbcafd4645efec268b6095ca1d02d663a44ba1ae0e68dbb30a7" style="font-family: Arial, Helvetica, sans-serif; font-size:10px; color:#4a4a4a; text-decoration:none;">Privacy Policy</a> | 
+<a href="http://click.alerts.economist.com/?qs=1cb6225eb00137163618450a188c2b6faa8ca1ac3cab352e9cb69abd4e39456976ed907bd1a737f4" style="font-family: Arial, Helvetica, sans-serif; font-size:10px; color:#4a4a4a; text-decoration:none;">Terms & Conditions</a> | 
+<a href="http://click.alerts.economist.com/?qs=1cb6225eb0013716a14e5b8473a4342bd217bfd32b9582989d686247fc7315dfb58325891d02002c" style="font-family: Arial, Helvetica, sans-serif; font-size:10px; color:#4a4a4a; text-decoration:none;">Help</a>
+<br>
+<br>
+Registered in England and Wales. No.236383, VAT no: GB 340 436 876<br>
+Registered office: 25 St James's Street, London, SW1A 1HG<br>
+<br>
+</font></td></tr></table></td></tr></table>
+</td>
+                </tr>
+            </table>
+			<table cellspacing="0" cellpadding="0" border="0" width="728" style="border-collapse:collapse; margin-top:22px;">
+				 <tr>
+                    <td width="25"></td>
+                    <td style="font-family: Arial, Helvetica, sans-serif; font-size:10px; color:#000000;">
+						
+					</td>
+                    <td width="25"></td>
+                </tr>
+			</table>
+		</td>
+	</tr>
+</table>
+</center>
+<img src="http://click.alerts.economist.com/open.aspx?ffcb10-fe921c72746d047d7c-fde41578706d01787c1c7777-fe8d1570706d05747c-ff2c12747367-fe291574736c0775711672-ff2b15787d67&d=40028" width="1" height="1">
+<br>
+<br>
+</body></html>
+
+--IW2TS456W8z7=_?:--
+

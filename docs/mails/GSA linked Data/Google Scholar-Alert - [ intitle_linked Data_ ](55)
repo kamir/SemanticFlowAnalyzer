@@ -1,0 +1,119 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.140.140.136 with SMTP id 130csp16249qhm;
+        Sat, 29 Nov 2014 03:49:59 -0800 (PST)
+X-Received: by 10.140.108.182 with SMTP id j51mr70104925qgf.27.1417261796171;
+        Sat, 29 Nov 2014 03:49:56 -0800 (PST)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 34aN5VBUKDLgqafmjYpYjcprq-lmpcnjwemmejc.amkcpgarcqqclmuucZ.bc@scholar-alerts.bounces.google.com designates 209.85.192.201 as permitted sender) smtp.mail=34aN5VBUKDLgqafmjYpYjcprq-lmpcnjwemmejc.amkcpgarcqqclmuucZ.bc@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 34aN5VBUKDLgqafmjYpYjcprq-lmpcnjwemmejc.amkcpgarcqqclmuucZ.bc@scholar-alerts.bounces.google.com designates 209.85.192.201 as permitted sender) client-ip=209.85.192.201;
+Received: by 10.224.111.135 with POP3 id s7mf2754471qap.11;
+        Sat, 29 Nov 2014 03:49:56 -0800 (PST)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 34aN5VBUKDLgqafmjYpYjcprq-lmpcnjwemmejc.amkcpgarcqqclmuucZ.bc@scholar-alerts.bounces.google.com
+Received: from mail-pd0-f201.google.com ([209.85.192.201]) by mx-ha.web.de
+ (mxweb006) with ESMTPS (Nemesis) id 0Lhgy9-1YGEhm07u5-00mqqf for
+ <erictessenow@web.de>; Sat, 29 Nov 2014 11:45:55 +0100
+Received: by mail-pd0-f201.google.com with SMTP id ft15so972431pdb.2
+        for <erictessenow@web.de>; Sat, 29 Nov 2014 02:45:53 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=jXob6wiLApVExS6LlE1d/c8uFKSfqIMCSMahCSFXbzI=;
+        b=E2WeIlFHPnx9ZgMHDAJNpOCX4vU7Wb4QcjDNUxamdNrixPYv8r32ABxtK8Z3hflD55
+         R+Fr62G7twJiRlHt7rN3cVSuExJVHUCOufhOXMVDK8Z0wdJMN9hz0gX5VM+SG4p4GAji
+         Ea3YsRYgpyGSPx+06QyAD9enMruHco82tKkStpY0dIyYIF69PUPmU1iKvyOH34U9J/cV
+         FkU17c4m1yrxQIMG/7y0pKQggtHwaYLK5kXW4BnUBnDbIqFxlz4klofd9aQ8JtV84DLl
+         LweYp6T0EkbVtTpQIs31jTwAEkWrmWaue/rz2NbimTVXqNUkcRNPAyW6fIWuPbxz+x1G
+         XEWw==
+MIME-Version: 1.0
+X-Received: by 10.67.4.39 with SMTP id cb7mr27055880pad.47.1417257953496; Sat,
+ 29 Nov 2014 02:45:53 -0800 (PST)
+Message-ID: <001a113810a0df8d1f0508fd141a@google.com>
+Date: Sat, 29 Nov 2014 10:45:53 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:evVA3U9gMag=:DcN9Aan8MIySKnUpHIzRfpbgmo
+ C2dAAvS29lgLBdDuFXtX5VRv3ttMyGY3ch3IQp093zBc2lgVBBx4/BJKQYUpKkRcyeiU3Ps3+
+ h1O3xKencbtkEFmIQEX2V9fV3R3BtuTbDhDgoTTzKK+xUbtTZap9RRtUdOonqbU68RsfTY75Y
+ 4M35yp9jnTlr2nx5D+/bZOfFEUjvlYMwy98bHdBeG0+kHyh4qVWevwdZM/av8C1fHQ32+BCi9
+ ZqFwZbond3qMwM67raGTVDKQzvn4/KaS2DK8f0p3mtFOOtKQryMXmAa7MCLIi3+g84U+Kkp/6
+ Q9iNndcmD31kZxI+U8SYGfeHk0cMkpkK2fpEQZtmCRJETBDwBQc2GyRcUa/lBHqVWDn93CP3C
+ hBRgx8+TLM0/XUbSvpaC6LMm/XXiZ0dPySHyEfBep189VRQY67szl7lYuUoi1DzGlA4AfHER/
+ ZMh7gfPsqhwR1TSTyufHcjcXkjvP8veydH5noOzMmkF/3qu1pazsbwkfOpBDjc/DVF+XbmOS5
+ 1QIn07hlMkCfn1P4FhLLSrfM64nbRxtukgIlXimo+/tdzS2E0jpqWAjSv+gDNUxD+mtsxRjw9
+ Aa+3+cst9cSBIv9FBdUVsONG8QaW4o3q8Agb7eeLBA/609Bwn3pjQ8WneuAMqD0W2Aj4zEAL5
+ CauvLHBqcn2Ae4sx19o67TyhkOzmIThnO01EBQvjzoRhUs4MNFrOyC9YcK4NoYAdlTqjNvHHH
+ 7dJZgzoaVmJJ210kiRwB6rQvBcOqidTsIqOSYpv0HO3qCme2T6PUf2apGHQ8Wziud/WHrmkHi
+ JACo2NDc8g4sUiiqaoeN9L0X/wpITyUlGPPXP0ahaRL0CicACvDZOcSU5xCYfST9Lg05mkOZj
+ PJKBElnEZEj7LOdKI6KLkv8ieVFSPHdLaS6wxs2Bbt1gNwHAjc9/x1KhUKJDq0X0ejHDnHiD6
+ vbCKfruUxpCmsPgnyvtUNjIzYz7U/U+17BA/Rz7Non4UMDVrj3Jfo1Fp+9ySmY3mnNMreRdvg
+ cOcgbnJ3PWCntSAwjUqt1Eb9HZc3gyvv4hxDetfHZ8IbbpRoFa7ShbdjOUQsN8PY/OKUCsmSg
+ MHO8589XqFoq4I5522rSsRAwYUjn4DHrRJJtVwffLG4OFroWFyz0iQo2yGXizcmGp4CL6tIQ7
+ XTR0fouCaFd3U051FndUOVsTkbwe0w8LFA9iU8RqcEpIQLP3IF8CFJ04dDIIFDmcUBeHq3UHH
+ T51LUjYy9lSR9cM+YKbc66F5wl7Y5I3GI6g2clLh1LhJNjxRu4O9MFgzbBjWWwBw+8+IEFWY+
+ 3Xy5g3tEfsT2RkgKQqHrKK/rKLuxvp+2zdGnjBekkVV0N6Xe9Y15dMkbZGeoALWz6L7VBT61B
+ OysdqZLuWTIxqrTcIERlqFRK/nWwOhLSGVnWASoZ2WZ980uaxcnupRf//vSEHOrGE95gqRM8l
+ c5I2LspQ6ojWGp5w33BuDXNIItmHslIQy3W4yDIueG3hiGhj/c
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D=
+2 color=3D#1a0dab>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_=
+url?hl=3Dde&amp;q=3Dhttp://arxiv.org/pdf/1411.6763&amp;sa=3DX&amp;scisig=3D=
+AAGBfm0QnwQxmPEoxIrdkFcFtFNeaZPNpA&amp;oi=3Dscholaralrt"><font size=3D3 col=
+or=3D#1a0dab style=3D"text-decoration:underline">Processing SPARQL Queries =
+Over <b>Linked Data</b>--A Distributed Graph-based Approach</font></a></h3>=
+<div><font size=3D2 color=3D#006621>P Peng, L Zou, MT =C3=96zsu, L Chen, D =
+Zhao - arXiv preprint arXiv:1411.6763, 2014</font></div><div><font size=3D2=
+ color=3D#222222>Abstract: We propose techniques for processing SPARQL quer=
+ies over <b>linked data</b>. We <br>follow a graph-based approach where ans=
+wering a query Q is equivalent to finding its <br>matches over a distribute=
+d RDF data graph G. We adopt a&quot; partial evaluation and <b> ...</b></fo=
+nt></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;max-=
+width:44.5em"><a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=
+=3Dhttp://doc.rero.ch/record/232948&amp;sa=3DX&amp;scisig=3DAAGBfm24MUejF_c=
+GqkJVhBqmVN5dKsVicw&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab st=
+yle=3D"text-decoration:underline">Linked open data literacy for librarians<=
+/font></a></h3><div><font size=3D2 color=3D#006621>J H=C3=BCgi, R Schneider=
+ - 2014</font></div><div><font size=3D2 color=3D#222222><b>Linked</b> <b>Da=
+ta</b> has become an important issue, not only for the process of building =
+the<br>
+web of data, but also for the mutual knowledge transfer between libraries a=
+nd the<br>
+web of data. Based on a study concerning Linked Open Data <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&a=
+mp;q=3Dhttp://202.4.137.215/qikan/epaper/zhaiyao.asp%3Fbsid%3D17102&amp;sa=
+=3DX&amp;scisig=3DAAGBfm0-c-OZKXvB7A8CQcaqUXzKEIiRhg&amp;oi=3Dscholaralrt">=
+<font size=3D3 color=3D#1a0dab style=3D"text-decoration:underline"><b>Linke=
+d data</b>-based semantic integration for digital museum</font></a></h3><di=
+v><font size=3D2 color=3D#006621>JK YI, YB ZHOU, J WAN</font></div><div><fo=
+nt size=3D2 color=3D#222222>Abstract With the rapid development of <b>linke=
+d data </b>in digital museums, research on <br>interlinking between <b>link=
+ed data</b>-based datasets has become a focus of attention. In the light <b=
+r>of the existing problems with current methods, herein we propose a semant=
+ic integration <b> ...</b></font></div><br><h3 style=3D"font-weight:normal;=
+margin:0;font-size:medium;max-width:44.5em"><font size=3D2 color=3D#1a0dab>=
+[PDF]</font> <a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=
+=3Dhttp://www.semantic-web-journal.net/system/files/swj930.pdf&amp;sa=3DX&a=
+mp;scisig=3DAAGBfm3OtC4obDyCu8cLGi-luJCtx_66xg&amp;oi=3Dscholaralrt"><font =
+size=3D3 color=3D#1a0dab style=3D"text-decoration:underline">Producing <b>L=
+inked Data </b>for Smart Cities: the case of Catania</font></a></h3><div><f=
+ont size=3D2 color=3D#006621>S Consoli, M Mongiov=C3=AC, DR Recupero, S Per=
+oni&hellip;</font></div><div><font size=3D2 color=3D#222222>Abstract Semant=
+ic Web technologies and in particular Linked Open Data provide a means <br>=
+for sharing knowledge about cities as physical, social, and technical syste=
+ms, so enabling <br>the development of smart city applications. This paper =
+presents the case of Catania with <b> ...</b></font></div><br><p><hr noshad=
+e size=3D1><font size=3D2 color=3D#222222>Dieser Google Scholar-Alert wird =
+Ihnen von Google zur Verf=C3=BCgung gestellt.<br><br><a href=3D"http://scho=
+lar.google.de/scholar_alerts?view_op=3Dcancel_alert_options&amp;email_for_o=
+p=3Derictessenow%40web.de&amp;alert_id=3DAIfevv3NkPcJ&amp;hl=3Dde"><font co=
+lor=3D#1a0dab>Alert stornieren</font></a><br></font></div></body></html>

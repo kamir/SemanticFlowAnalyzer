@@ -1,0 +1,126 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.64.31.33 with SMTP id x1csp247720ieh;
+        Wed, 18 Jun 2014 19:42:02 -0700 (PDT)
+X-Received: by 10.42.15.70 with SMTP id k6mr2337791ica.53.1403145719594;
+        Wed, 18 Jun 2014 19:41:59 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 38U2iUxUKDLgqafmjYpYjcprq-lmpcnjwemmejc.amkcpgarcqqclmuucZ.bc@scholar-alerts.bounces.google.com designates 209.85.192.202 as permitted sender) smtp.mail=38U2iUxUKDLgqafmjYpYjcprq-lmpcnjwemmejc.amkcpgarcqqclmuucZ.bc@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 38U2iUxUKDLgqafmjYpYjcprq-lmpcnjwemmejc.amkcpgarcqqclmuucZ.bc@scholar-alerts.bounces.google.com designates 209.85.192.202 as permitted sender) client-ip=209.85.192.202;
+Received: by 10.50.108.242 with POP3 id hn18mf604169igb.13;
+        Wed, 18 Jun 2014 19:41:59 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 38U2iUxUKDLgqafmjYpYjcprq-lmpcnjwemmejc.amkcpgarcqqclmuucZ.bc@scholar-alerts.bounces.google.com
+Received: from mail-pd0-f202.google.com ([209.85.192.202]) by mx-ha.web.de
+ (mxweb109) with ESMTPS (Nemesis) id 0McT88-1XEz9G2iEy-00HgKu for
+ <erictessenow@web.de>; Thu, 19 Jun 2014 04:41:54 +0200
+Received: by mail-pd0-f202.google.com with SMTP id r10so206653pdi.3
+        for <erictessenow@web.de>; Wed, 18 Jun 2014 19:41:53 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=9HpyjhZBTlW9VBJLZaiIk9UaDXA87EaLZ2T9CxW/kTE=;
+        b=T1sFQvrP9Cn7MhsiiDLkvVsDnSKKGjT5IpkyZYyrW8INefAhmBoZh3IW/vij8tYjMM
+         cyl390iWnB5iaWim/M9RB9u7j6wp6zdPi7KmDGBIncjmc7P0b0m/o69EQ5ay6xm/Ry/c
+         Zh6b1rPTMK46MBYX17vKhbC1WzEQ0hk2cviw+AF+X/NiecG89Mpkhs4ovb+TBqiZWM4T
+         znt6RrPPo6SkFa/mNW5+2in4ulDwC/pzeN4rUB0PgD4Tag2dkgQA0C9Yg8Dn/aJxPjkH
+         4Zcsd7bQmQCqqw3v4e32jD7/t+1aZOHx9ii3vmd80f1revYEwXLJ0P/Y895Cf5vp9kUs
+         OWFw==
+MIME-Version: 1.0
+X-Received: by 10.66.65.202 with SMTP id z10mr1096830pas.45.1403145713135;
+ Wed, 18 Jun 2014 19:41:53 -0700 (PDT)
+Message-ID: <001a11363b7eccb0bd04fc2751f3@google.com>
+Date: Thu, 19 Jun 2014 02:41:53 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:WoVXX51pxsw=:jlffFMf2zmLeWqz+4cNQlpt6KF
+ lVKT/eLRW6PmAy7YWrVeTi9FSc2+mHo4rMz49NH5o32qc3oCK2cpHfkDgDgEKYmwNCkLVivuX
+ 374QkR126PAtmdUFZWRNnZ5C/JE5xp+B8MGCuKswTyiIqoIr9IyHtKCsVlVFtQhPPqtWUpaIs
+ uudLVeYVYHOemThpXqacyVdKMaI1gTgG4SazvtzoegYmPzoiKD0Ad6bNMJY7PzzPdwMN7I4of
+ iO/87d/B0Tfc+0d1K5A8JR9Kve/MxjNzaQk6HqsgJDXrr7IHO//3yICTZV7TfbRJrEMfFusIv
+ VqLorH9pwVfKPoar1vZ2Gt1oxNUKmjnWJVlmoHy5IvHWetKnSR3QUwDC2PajDPPE0BWfGlys6
+ d28Uw/9RRFbjuqPlxgwkYX2hy7KC+gSqG9hzRRG/ePMpF/HbDfr1yOQLUO5WZ0RBx1WKybPzj
+ drnyNN/MT1nmfrFf7yyLyhKMmLc3oA7e+Se6xMiSdeg8c8TqFx5igmPJ+FgaVVMHejMiFRuAN
+ Cdmg4JX5P/wDN5jD0NdbcdySC6sL01NZtB3/MAWnHi6HqW1OSoHNxObNcR+RBUc1xDF7kSaZy
+ rA49VelTzuWwN5urSn+fwPYOCVP//claLPEW9mE4RGdgNreZxHaDnprGxVjJrsI/ftK1tDUbA
+ 1+AV5d2L5EzvUS4VsSnDp7pYhFdfI8Gvtz0D12LasOMwdy6WSkSnqgp3OHFyO1Wkky7LrJ7Hm
+ P8Mm7B+5h3M6xhBY81QDCknZQv6Qy17k4GxUTwwkke8cMznUqq/6glLQ/IOG4qlPPPWWSvLND
+ kaIwjnk4DSRZ2fQU7qUGaVHiNPoa4RZzVlfolvuvHeqfWcRqVtx18GSxqK2yqKUjRQtlaXBhb
+ Ap89sMWhHKMpJGHqloEBcwGYOp29DPG+c8WmPQ4K0603C037+qzi07quB6sn6hwnP/4gdNKBV
+ A+29ZEDy1xej8upMSE8yoTW0ySaa29myO3z7iOuJ64iP4NQUZliig89gwfYvVLfBMwKwfFV2P
+ iaonsyKzAO0NDPsRHyy2XC63E21FItlySq56dywBUobsZR1nj62vdFjU9B2HFWMamnB7PGlem
+ Pz/I1v0oTXbuPWHQNmqDtQhUgerirO2SlACXUEXLJ1jYNK9e3fN0PY7FcgB1vvY/qnPUfCPeU
+ Q9gKNaC5kobjE7FQHqJkAp2m6yrZkTXU3WRtzIcz98yY5Mvj2QCENa0HldwzfBdp0lPg8mQYM
+ 81bmj8QaVF5mwzsuDlUwvpVNsqotPrWhWl1U8sF2KUTwKaFTMwjwhVUIdCJCmCwSj0yZiNu7N
+ xR2I+DWztDQTNXB4VEMTwIGM+cNCH79N9lJ9VpPDkljhV0iepehc8ZFgE1Z6uT9V/2IahZ7yQ
+ II/8jsYRykf8yUZ/LnbGfLWj8jqJZdNtjl8DkihFRGBqfu3fwmacjva5AOkJA48mvUqSnxCbX
+ 8OGp6pGAN0hV0tpU0QR/j8psKibmXq7BvfXhHnEIjUcBYgYuWRnDpxbSVSfOpNh1VTLhEuVA=
+ =
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://www.tandfonline.c=
+om/doi/full/10.1080/07317131.2014.908595&amp;sa=3DX&amp;scisig=3DAAGBfm3VLY=
+aaGwCprTseNr0jUrMlR63hEw&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122=
+cc style=3D"text-decoration:underline">Technical Services Report: Catalogin=
+g in RDA and <b>Linked Data </b>environments. A Report of the ALCTS Catalog=
+ing &amp; Metadata Management Section, Cataloging and  &hellip;</font></a><=
+/h3><div><font size=3D2 color=3D#009933>A Guimaraes - Technical Services Qu=
+arterly, 2014</font></div><div><font size=3D2 color=3D#222222>Peter Spyers-=
+Duran, University of Central Florida Libraries, presented &#39;&#39;RDA Tra=
+nscribing <br>TOC.&#39;&#39;In his presentation Spyers-Duran discussed a ca=
+taloging workflow that he developed <br>to enrich records in OCLC Connexion=
+ by copying and pasting tables of contents (TOC) <b> ...</b></font></div><b=
+r><h3 style=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5e=
+m"><font size=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"http://scholar.go=
+ogle.de/scholar_url?hl=3Dde&amp;q=3Dhttp://www.hpclab.ceid.upatras.gr/viogr=
+afika/kotsomit/pubs/rr14.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm2f7gWjyOWh5BPxOc=
+nMDR90LQ_v2Q&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D"=
+text-decoration:underline">Navigating among Educational Resources in the We=
+b of <b>Linked Data</b></font></a></h3><div><font size=3D2 color=3D#009933>=
+DA Koutsomitropoulos, GD Solomou, AK Kalou</font></div><div><font size=3D2 =
+color=3D#222222>Abstract. <b>Linked Data </b>seem to play a seminal role in=
+ the establishment of the Semantic Web <br>as the next-generation Web. This=
+ is even more important for digital object collections and <br>educational =
+institutions that aim not only to promote and disseminate their content but=
+ also <b> ...</b></font></div><br><h3 style=3D"font-weight:normal;margin:0;=
+font-size:medium;max-width:44.5em"><font size=3D2 color=3D#1122cc>[PDF]</fo=
+nt> <a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://=
+www.lrec-conf.org/proceedings/lrec2014/workshops/LREC2014-Workshop-CCURL201=
+4-Proceedings.pdf%23page%3D24&amp;sa=3DX&amp;scisig=3DAAGBfm18-m6OI1r65gHWO=
+CjWyHZt5NQdxg&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D=
+"text-decoration:underline">Towards a Unified Approach for Publishing Regio=
+nal and Historical Language Resources on the <b>Linked Data </b>Framework</=
+font></a></h3><div><font size=3D2 color=3D#009933>T Declerck, E Wand-Vogt, =
+K M=C3=B6rth, C Resch - &hellip;  2014: Collaboration and Computing for Und=
+er &hellip;</font></div><div><font size=3D2 color=3D#222222>Abstract We des=
+cribe actual work on porting dialectal dictionaries and historical lexical =
+<br>resources developed at the Austrian Academy of Sciences onto representa=
+tion languages <br>that are supporting their publication in the Linked (Ope=
+n) Data framework. We are aiming <b> ...</b></font></div><br><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D=
+2 color=3D#1122cc>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_=
+url?hl=3Dde&amp;q=3Dhttp://www.iemss.org/sites/iemss2014/papers/iemss2014_s=
+ubmission_271.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm1e7HxBk_aLS4J5jENBP0hoN5VBj=
+A&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D"text-decora=
+tion:underline">An Application of geographical and Statistical <b>Linked Da=
+ta </b>to Ecology: The Brazilian Cerrado Ontology Network and Qualitative R=
+easoning Models</font></a></h3><div><font size=3D2 color=3D#009933>A Souzaa=
+, O Corchob, P Sallesc, L Vilches-Bl=C3=A1zquezd</font></div><div><font siz=
+e=3D2 color=3D#222222>Abstract: This work aims to link data about wood plan=
+t communities obtained from scientific <br>studies about the Brazilian Cerr=
+ado biome, meteorological and environmental data, <br>geographical informat=
+ion (maps) and Qualitative Reasoning (QR) conceptual models. An <b> ...</b>=
+</font></div><br><p><hr noshade size=3D1><font size=3D2 color=3D#222222>Die=
+ser Google Scholar-Alert wird Ihnen von Google zur Verf=C3=BCgung gestellt.=
+<br><br><a href=3D"http://scholar.google.de/scholar_alerts?view_op=3Dcancel=
+_alert_options&amp;email_for_op=3Derictessenow%40web.de&amp;alert_id=3DAIfe=
+vv3NkPcJ&amp;hl=3Dde"><font color=3D#1122cc>Alert stornieren</font></a><br>=
+</font></div></body></html>

@@ -1,0 +1,125 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.140.140.136 with SMTP id 130csp78982qhm;
+        Sat, 22 Nov 2014 13:50:19 -0800 (PST)
+X-Received: by 10.229.86.132 with SMTP id s4mr2276300qcl.15.1416693016464;
+        Sat, 22 Nov 2014 13:50:16 -0800 (PST)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 30_twVBUKDDgmWbifUlUfYlnm-hilYjfsaiiafY.WigYlcWnYmmYhiqqYV.XY@scholar-alerts.bounces.google.com designates 209.85.220.74 as permitted sender) smtp.mail=30_twVBUKDDgmWbifUlUfYlnm-hilYjfsaiiafY.WigYlcWnYmmYhiqqYV.XY@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 30_twVBUKDDgmWbifUlUfYlnm-hilYjfsaiiafY.WigYlcWnYmmYhiqqYV.XY@scholar-alerts.bounces.google.com designates 209.85.220.74 as permitted sender) client-ip=209.85.220.74;
+Received: by 10.224.178.141 with POP3 id bm13mf2342337qab.15;
+        Sat, 22 Nov 2014 13:50:16 -0800 (PST)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 30_twVBUKDDgmWbifUlUfYlnm-hilYjfsaiiafY.WigYlcWnYmmYhiqqYV.XY@scholar-alerts.bounces.google.com
+Received: from mail-pa0-f74.google.com ([209.85.220.74]) by mx-ha.web.de
+ (mxweb102) with ESMTPS (Nemesis) id 0Lm26H-1YRcdY2QPR-00ZiNS for
+ <erictessenow@web.de>; Sat, 22 Nov 2014 22:10:45 +0100
+Received: by mail-pa0-f74.google.com with SMTP id kq14so1027960pab.5
+        for <erictessenow@web.de>; Sat, 22 Nov 2014 13:10:44 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=g3zGneT6L+2B50QEV4CvAaQ4LQLZUWLXf8m/h2R/aW0=;
+        b=I0R5/NgE+Wc1zfmkhBOrlgDpgolvZ8Xh/G2KXraj+DTgHL0ehG02eE2/W77+efpxlz
+         YofThhb/FUjlSVu2DwGJVEjOQfxOGwfM5809XtVJ7RcPtBoZI85JKrJ5Ia2d0Fms09fo
+         nNHQ4Wc3YVk4pQU5D8Q7Pc1y9W5WM4pmj0ua4ZXA9mdIueDhR4MHUrrx4OR5sjrJj6Fb
+         Flisix5p1rgD9mKeCRLGYPJ4BT3B9NOX34KINzjqj0znGFhrZ3/IL6w0SFXH/cOXM0tg
+         z3qKFRnE4E7pt2znNhmM6+5IqruKeJXaM7LXxWM4qjuzn0KtFcYfPQT9x9SXsxa/8J2K
+         1/6g==
+MIME-Version: 1.0
+X-Received: by 10.66.132.70 with SMTP id os6mr11490634pab.44.1416690643997;
+ Sat, 22 Nov 2014 13:10:43 -0800 (PST)
+Message-ID: <001a113327e49794b8050878fe08@google.com>
+Date: Sat, 22 Nov 2014 21:10:43 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:WQHR+M8X4hE=:O0XQMxMYBda/tq7NUsp5OL0qGG
+ WO8KusQB4wwBziueOII1Cq8t7l2B4yl0kZ6S9g5BALK9rGOXLDVHo2AsGxpNoKMyKgf/UivIR
+ /ONLXHGs4gBDfRDbxuIogtd1aWyQCVhN+y17RDdEgwfQvAgiB66piWnDfKSoYpttanhM1y+EU
+ 7jlKxzp5T/UiJeQeaREULF6qg+RdciBhVLUIx0dxA3/RUypidgAsjvTG39jByAoXp42MiZejD
+ 6cg5W4XKrB7KXoY9nNFzu5BQYEF3cDF0g55nBRhX5WlDezozeOWeltTaU6e9rnNb0oru7lpdT
+ xqB+Vim0bclmGk6iFQRkW5Vj0CdcRtBv+f2dgH/z1UWJou/w4Ywv1kwiiGJcP2YYXutgQNlg/
+ KEMtodt2eNwle9ta/dKkwCpxIHZfnZ+PWy2I9nI4+h2jB3+Tcq9W3BHocQJDG6BaPZ1hKVOlF
+ aCiuocPWefYRWNQBm+aDDzRweV9PGVjkVTYBp9nsdKvqYeuUJVnVNICiNjnBN1W6j9UehtYV4
+ 1ibaBbQ3hVCw8AhaIXUFl3u9STCtVtq3JKPDnsjznjkkimNaTPRuidJj1Z/rNONTKFQDvx5ik
+ YLdbcSZ5TDXXDZdyx0YnlhyK76ymBlqYT5d5L80cONpnFtPlmkJmTZGK3S6R2Kw6pktMVQL3k
+ NxzLTC6sD9uJksTQRm8523YlUUhhI92GL+suyFRe95VmPLZbpdoqW/swm8EafWGfBqA4kV5ar
+ DHU9AP6Z0ck5YRneFqsojWCuhnbnN4N0+o87KCB9l9YpTwLaTdIWtg3D2F83qn2SLPJa1ua1v
+ O7YQkDnxbu2v+ikdUj0qA7SneORRlCF1znleT18uK6ElGgxbF1y3M4dsyIpo/iPE69OQamYY4
+ Em+L8BUh2QrpmcFzJBQDZRBq03p6KQEMGJJOVOeRrbYngQBpzB0+P5kNRpCXAAwyz85ERwymS
+ h7gA6mzB9H9Yy5oMTYlIRx+vzRouibE13lqiLCUFerenjQWNzgjrW0BjmynFv+TyhsNGEVukq
+ rixlh8PNFQB+8xmPk2hX96vPOzgkELDXmH8V6NZMO2Jik6+sLczE4fofMSgJvpurq1prfbRr+
+ 5aIADnSD50VuoWSWQU3oPoNZ1MWaE+MCPx/lOiv3n1HmjSKaeSryZ4pcoW3o8Wz0gwYlfxMzt
+ v434HBkDcbXAjrY0fBxPsnEkoaEHRq7I4SwUseBAMHmtU4sR5ha5WQNLZXLEckRgAFWDz0shj
+ xbitca5We6L7JBa37A0QKlUA6tBylWzILRpG72fS/+16H+YcUP2hVv0N0VkNTWBibswiyEUqY
+ 59/S
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D=
+2 color=3D#1a0dab>[HTML]</font> <a href=3D"http://scholar.google.de/scholar=
+_url?hl=3Dde&amp;q=3Dhttp://www.thelancet.com/journals/lancet/article/PIIS0=
+140-6736(14)62145-0/abstract&amp;sa=3DX&amp;scisig=3DAAGBfm3rk-Gac_3CaYn1DX=
+TPEMjmQG2eJQ&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"=
+text-decoration:underline">Measurement of the incidence of poisonings, frac=
+tures, and burns in children and young people with linked primary and secon=
+dary care data: a population-based  &hellip;</font></a></h3><div><font size=
+=3D2 color=3D#006621>R Baker, E Orton, LJ Tata, D Kendrick - The Lancet, 20=
+14</font></div><div><font size=3D2 color=3D#222222><b>...</b> With the rece=
+nt availability of linked primary and secondary care data, we aimed to<br>
+develop methods to comprehensively identify injury types and mechanisms, an=
+d to<br>
+define incident injury events across <b>linked</b> <b>data</b> sources. Met=
+hods. <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://linkedjazz.org/wp=
+-content/uploads/2014/10/LJ-presentation-ARSC2014.pdf&amp;sa=3DX&amp;scisig=
+=3DAAGBfm2u5FdwY1qp4h_w0_Dneqd1OAjCqg&amp;oi=3Dscholaralrt"><font size=3D3 =
+color=3D#1a0dab style=3D"text-decoration:underline">Using Linked Open Data =
+to Map Relationships Among Musicians</font></a></h3><div><font size=3D2 col=
+or=3D#006621>B Levay</font></div><div><font size=3D2 color=3D#222222><b>...=
+</b> of information =E2=80=A2 User interprets how documents are related <b>=
+Linked</b> <b>Data</b> Page 5. =E2=80=A2 Databases<br>
+are interconnected <b>...</b> URIs point to data =E2=80=A6to a web of data =
+&lt;http://dbpedia.org/resource/<br>
+John_Coltrane&gt; <b>Linked</b> <b>Data</b> Page 6. http://en.wikipedia.org=
+/wiki/John_Coltrane Page 7. <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://semanticommunity.=
+info/%40api/deki/files/31526/P229_6096.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm1U=
+Ytdfe2JfNOkG1fTghirggVVGVw&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a=
+0dab style=3D"text-decoration:underline">Linked Open Data Mining for Democr=
+atization of Big Data</font></a></h3><div><font size=3D2 color=3D#006621>R =
+Espinosa, L Garriga, JJ Zubcoff, JN Maz=C3=B3n</font></div><div><font size=
+=3D2 color=3D#222222><b>...</b> Figure5. Generation of <b>Linked</b> <b>Dat=
+a</b> Knowledge. <b>...</b> REFERENCES [1] Rada Chirkova, Jun Yang:<br>
+Big and Useful: What&#39;s in the Data for Me?. PVLDB 6(12): 1390-1391 (201=
+3) [2] Christian Bizer,<br>
+Tom Heath, Tim Berners-Lee: <b>Linked</b> <b>Data</b> - The Story So Far. I=
+nt. J. Semantic Web Inf. <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://geog.ucsb.edu/~ja=
+no/thematicsignatures.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm02Hp3Ha4mfYO6U-cGXy=
+DyafDloQQ&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"tex=
+t-decoration:underline">Thematic Signatures for Cleansing and Enriching Pla=
+ce-Related <b>Linked Data</b></font></a></h3><div><font size=3D2 color=3D#0=
+06621>B Adamsa, K Janowiczb</font></div><div><font size=3D2 color=3D#222222=
+>There has been significant progress transforming semi-structured data abou=
+t places into <br>knowledge graphs that can be used in a wide variety of ge=
+ographic information systems <br>such as digital gazetteers or geographic i=
+nformation retrieval systems. For instance, in <b> ...</b></font></div><br>=
+<p><hr noshade size=3D1><font size=3D2 color=3D#222222>Dieser Google Schola=
+r-Alert wird Ihnen von Google zur Verf=C3=BCgung gestellt.<br><br><a href=
+=3D"http://scholar.google.de/scholar_alerts?view_op=3Dcancel_alert_options&=
+amp;email_for_op=3Derictessenow%40web.de&amp;alert_id=3DAIfevv3NkPcJ&amp;hl=
+=3Dde"><font color=3D#1a0dab>Alert stornieren</font></a><br></font></div></=
+body></html>

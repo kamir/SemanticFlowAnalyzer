@@ -1,0 +1,149 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.64.70.37 with SMTP id j5csp165722ieu;
+        Mon, 27 Jan 2014 23:27:56 -0800 (PST)
+X-Received: by 10.42.228.65 with SMTP id jd1mr2529icb.62.1390894071305;
+        Mon, 27 Jan 2014 23:27:51 -0800 (PST)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 33lnnUhUKDMs9ty52r8r2v8A9-458v62Fx55x2v.t53v8ztAv99v45DDvs.uv@scholar-alerts.bounces.google.com designates 209.85.216.202 as permitted sender) smtp.mail=33lnnUhUKDMs9ty52r8r2v8A9-458v62Fx55x2v.t53v8ztAv99v45DDvs.uv@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 33lnnUhUKDMs9ty52r8r2v8A9-458v62Fx55x2v.t53v8ztAv99v45DDvs.uv@scholar-alerts.bounces.google.com designates 209.85.216.202 as permitted sender) client-ip=209.85.216.202;
+Received: by 10.64.148.37 with POP3 id tp5mf2033477ieb.38;
+        Mon, 27 Jan 2014 23:27:50 -0800 (PST)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 33lnnUhUKDMs9ty52r8r2v8A9-458v62Fx55x2v.t53v8ztAv99v45DDvs.uv@scholar-alerts.bounces.google.com
+Received: from mail-qc0-f202.google.com ([209.85.216.202]) by mx-ha.web.de
+ (mxweb006) with ESMTPS (Nemesis) id 0MXafW-1VkLvd3C9m-00WZA6 for
+ <erictessenow@web.de>; Tue, 28 Jan 2014 08:18:56 +0100
+Received: by mail-qc0-f202.google.com with SMTP id m20so1256qcx.3
+        for <erictessenow@web.de>; Mon, 27 Jan 2014 23:18:54 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=UZdgTQ/SiaVmj4g6lZ0XKA1Ro2TDKT9hXoqAiafyJLA=;
+        b=MlBEUifCakkHF3dGlFY2jIBXRT7lRVpxfBaNs/2WjiqZmYhNqt1jcUltiWMXIhnY0l
+         I3NqHr+SKQD9pZ7otJAvmm3mp7gUJLFghc6iidOYN0Zo1WAMmpccCTbCy86ZbABG2vhO
+         XNSJ9kgxDMhh/FRrfXnT8YSc+hF/RgKfqfUeIvc1TwiAuFjlwCG/+w4Yp0/ii06tfLx2
+         QsbDPLs6e9KWkIzv33tb+zvW6Z9qQy11aRJ7mLUdA/2izPgt9z+qIu4UN6VXuL6uGqTK
+         UjMqrwqRDehF1ftQzpJOCKr2SkGoM6GEZWTRQLS+FnPtC0Irm+WQLKim2nr17I4Mj+pa
+         Tg5A==
+MIME-Version: 1.0
+X-Received: by 10.236.86.238 with SMTP id w74mr10349730yhe.23.1390893534721;
+ Mon, 27 Jan 2014 23:18:54 -0800 (PST)
+Message-ID: <20cf3010e80f0eb55004f102a3bc@google.com>
+Date: Tue, 28 Jan 2014 07:18:54 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:yZ7nxRlpTZ4=:4tFvH/jwO6XPHBNZ1dz7+DZM4W
+ 3HRYnphE/x1r1y/L7vSJCOclyEkKEdpSwjpqgF880d4EFOjLblVZhl4N8j8gZ1yA2SjH/OoD6
+ YqhLEtu5c+7KmOjqm8loEUpmM5mXIk5Wack9LljsSXtzRr8721nAdMn+2DYIkIEsb4JijW0jm
+ 39ykY0HaqXLEM5hhsAE2dDi1z0EacsqtdkkM8PSKmNRqlIPBlvZnRJ1ZcYhCHmXBGXPIZ6BfJ
+ kZ+1fO8/9YVmNVQqz/blfSj7tTdPjmZaiblobGVururiP45ZkWT/RLMbIiZq2kz0d0tP2TgIh
+ mpXGOLek99WjYFqnIh37eX1PngZvdGvOQpkNzHPzyOblUWj5ZSWQIKsk1Oe1Tb9wDEpMSgy3Q
+ 7jRZUbGakNm/VEUH+xlrlfmjzsXDLKTjodxH0t1XH87mFFz87hVjdQezyAxu7aQQNgYA/1usf
+ 8PrkMWemsRBcXRlEFNqKByByTHvyDQUo8hHM35zUi+D8tKQ7ubzwaa8D5mrYLoiGix6Ec9Enm
+ 5GZcdfmOxI5218RM5XnMj8OIgXbLEQd+xqSYRdJlZoelSHIWuCRpTeLfn2it3EaA6jP83ZWhS
+ XhAtFEfaQGavawLc4A7T4JalG6wP1TQbYMMsSIG/gXcuxxFuhuF2Pdm9XP0cz8Oq0BzIUvMV2
+ ZFtylPxeY0tDA5oPaVUIcadq8hPMDTV0JXsYLsHPcUsAm1GFx5Ds9omUEtpBJuQgboYxzlKkb
+ iKORRcT6F2uZEd2fknWy+509lKwwBjTwHt0Up3+c9T8uJbE8sIdneZ9ugXlf2iH/SWxesdUYQ
+ 622vmXQbNuAS+pUQXFnUvcvL7rcqbIrP9RwcpknFergmibjMK+I3rSL9RFhp5QqUZcTiUjjKf
+ erD6/S6RGkreYeqyv5YdQ84S54DCOB7ecEwip6eevZOrJzUMkQfG+0O/XqV9308AKx7ZjhLta
+ +GcM/WrFdwdFT/zrG9EP1KHgb4tRs+0YoHLKEqDB/JvQoNQylQnST6e5unD4eafKUJKyibHks
+ QkWYH/2SMwy8WSilgsDwdSPRRfsV/FtaDfWwcHycT2W4czwsIn2lq3TwlWmM1uwEChtfhw5WC
+ b+XBKeqo2wm1+br+7lC5oKhW/JpTd2s/ml+Z5UTbgDdZNjOAYWXzYXnsbJvE3Hht4H7YLTzYa
+ mK2iabX2sUpizlKtvfPrgilMqU9cEoeZlbE25ej9ZCDK63r1iqoBlJW4GHzi1neSZ1UGJ2IRx
+ rV2n+C4cse5Tmbs3IX2TwkcrxPdvy+kz4FHl+gtb5Pu7n5Ft0JQtan/jmzuUcNIxQpd4GrXiX
+ VF7osP/sQ5uqoyGlRVBkWlDWdU9Bl+PxxTmH9mBKcSKPCrx+R8E/mTKQWVDZDQnPcVoXaGMTJ
+ GupkJuJ0zCBgk2v8g==
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D=
+2 color=3D#1122cc>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_=
+url?hl=3Dde&amp;q=3Dhttp://www.fujitsu.com/downloads/MAG/vol50-1/paper01.pd=
+f&amp;sa=3DX&amp;scisig=3DAAGBfm1LeEcB-d1XmawpZevjpJv3Wq-pTg&amp;oi=3Dschol=
+aralrt"><font size=3D3 color=3D#1122cc style=3D"text-decoration:underline">=
+Information Integration and Utilization Technology using <b>Linked Data</b>=
+</font></a></h3><div><font size=3D2 color=3D#009933>N Igata, F Nishino, T K=
+ume, T Matsutsuka - FUJITSU Sci. Tech. J, 2014</font></div><div><font size=
+=3D2 color=3D#222222>Fujitsu Laboratories is conducting R&amp;D on technolo=
+gy to integrate and utilize data by using <br><b>Linked Data</b>, which is =
+a standard methodology for publishing data on the Web that is being <br>pro=
+moted by the World Wide Web Consortium (W3C). W3C is the main international=
+ <b> ...</b></font></div><br><h3 style=3D"font-weight:normal;margin:0;font-=
+size:medium;max-width:44.5em"><a href=3D"http://scholar.google.de/scholar_u=
+rl?hl=3Dde&amp;q=3Dhttp://ieeexplore.ieee.org/xpls/abs_all.jsp%3Farnumber%3=
+D6714659&amp;sa=3DX&amp;scisig=3DAAGBfm0rqJjHcWkAIRilntCKuQ7UjTCaww&amp;oi=
+=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D"text-decoration:und=
+erline">Towards Service Composition for Consuming <b>Linked Data</b>: A Fai=
+lure Perspective</font></a></h3><div><font size=3D2 color=3D#009933>BP Rose=
+ro, JAG Luna, GA Hernandez - Artificial Intelligence (MICAI), 2013 12th  &h=
+ellip;, 2013</font></div><div><font size=3D2 color=3D#222222>Data model due=
+ to the way that each one of the services that make up the composition is <=
+br>structured. For doing this, a service composer is required in order to e=
+valuate the input and <br>output data of various web-distributed services f=
+or linking them. These links can be <b> ...</b></font></div><br><h3 style=
+=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=
+=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://link.spring=
+er.com/chapter/10.1007/978-3-642-54347-0_10&amp;sa=3DX&amp;scisig=3DAAGBfm1=
+gCbFS23pleU3uo73bDEH1EbaRYw&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1=
+122cc style=3D"text-decoration:underline">Towards a Methodology for Publish=
+ing Library <b>Linked Data</b></font></a></h3><div><font size=3D2 color=3D#=
+009933>D Zengenene, V Casarosa, C Meghini - Bridging Between Cultural Herit=
+age  &hellip;, 2014</font></div><div><font size=3D2 color=3D#222222>Abstrac=
+t. It is argued that <b>linked data</b> are becoming increasingly necessary=
+ for libraries and related <br>
+institutions, such as galleries, museums and archives. Though libraries are=
+ potentially crucial <br>
+players in the <b>linked data</b> movement, very often there is lack of kno=
+wledge among <b> ...</b> </font></div><br><h3 style=3D"font-weight:normal;m=
+argin:0;font-size:medium;max-width:44.5em"><a href=3D"http://scholar.google=
+.de/scholar_url?hl=3Dde&amp;q=3Dhttp://www.sciencedirect.com/science/articl=
+e/pii/S157082681400002X&amp;sa=3DX&amp;scisig=3DAAGBfm1Onsp_an1xEeBLZe-ogw3=
+62haO8g&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D"text-=
+decoration:underline">On the design of a self-medication web application bu=
+ilt on linked open data</font></a></h3><div><font size=3D2 color=3D#009933>=
+O Cur=C3=A9 - Web Semantics: Science, Services and Agents on the  &hellip;,=
+ 2014</font></div><div><font size=3D2 color=3D#222222><b>...</b> [9]; AJG G=
+ray, P. Groth, A. Loizou, S. Askjaer, C. Brenninkmeijer, K. Burger, C. Chic=
+hester, CT<br>
+Evelo, C. Goble, L. Harland, S. Pettifer, M. Thompson, A. Waagmeester, AJ W=
+illiams; Applying<br>
+<b>linked</b> <b>data</b> approaches to pharmacology: architectural decisio=
+ns and implementation. <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&a=
+mp;q=3Dhttp://rose.geog.mcgill.ca/ski/system/files/fm/2014/lin.pdf&amp;sa=
+=3DX&amp;scisig=3DAAGBfm1XuTTinJEYNPgjSfwnut-cC0wQyw&amp;oi=3Dscholaralrt">=
+<font size=3D3 color=3D#1122cc style=3D"text-decoration:underline">A Propos=
+al to Create Linked Sensor Data with JSON-LD</font></a></h3><div><font size=
+=3D2 color=3D#009933>YJ Lin, S Liang</font></div><div><font size=3D2 color=
+=3D#222222><b>...</b> semantics. As a result, <b>Linked</b> <b>Data</b> was=
+ proposed to publish and connect structured<br>
+data on the Web. <b>Linked</b> <b>Data</b> enable individual entities which=
+ have self- described<br>
+feature in a particular format to be connected to related entities. <b>...<=
+/b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://sbbd2013.cin.ufpe=
+.br/Proceedings/artigos/pdfs/sbbd_shp_10.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm=
+1XjVfmUDdbMT7Zv_RDevUeUro_xA&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#=
+1122cc style=3D"text-decoration:underline">OpenSBBD: Usando <b>Linked Data =
+</b>para Publica=C3=A7=C3=A3o de Dados Abertos sobre o SBBD</font></a></h3>=
+<div><font size=3D2 color=3D#009933>MGR Batista, BF L=C3=B3scio</font></div=
+><div><font size=3D2 color=3D#222222>Resumo. A Web Sem=C3=A2ntica foi proje=
+tada para expandir a Web que conhecemos <br>atualmente, possibilitando que =
+a imensa quantidade de dados dispon=C3=ADveis na Web possa <br>ser compreen=
+dida n=C3=A3o s=C3=B3 por pessoas, mas tamb=C3=A9m por m=C3=A1quinas. Neste=
+ processo, a <b> ...</b></font></div><br><p><hr noshade size=3D1><font size=
+=3D2 color=3D#222222>Dieser Google Scholar-Alert wird Ihnen von Google zur =
+Verf=C3=BCgung gestellt.<br><br><a href=3D"http://scholar.google.de/scholar=
+_alerts?view_op=3Dcancel_alert_options&amp;email_for_op=3Derictessenow%40we=
+b.de&amp;alert_id=3DAIfevv3NkPcJ&amp;hl=3Dde"><font color=3D#1122cc>Alert s=
+tornieren</font></a><br></font></div></body></html>

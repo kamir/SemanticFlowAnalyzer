@@ -1,0 +1,108 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.64.243.69 with SMTP id ww5csp306357iec;
+        Wed, 30 Apr 2014 21:18:04 -0700 (PDT)
+X-Received: by 10.50.57.109 with SMTP id h13mr465103igq.3.1398917882136;
+        Wed, 30 Apr 2014 21:18:02 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3ysphUxUKDIc3nszwl2lwp243-yz2p0w9rzzrwp.nzxp2tn4p33pyz77pm.op@scholar-alerts.bounces.google.com designates 209.85.223.202 as permitted sender) smtp.mail=3ysphUxUKDIc3nszwl2lwp243-yz2p0w9rzzrwp.nzxp2tn4p33pyz77pm.op@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3ysphUxUKDIc3nszwl2lwp243-yz2p0w9rzzrwp.nzxp2tn4p33pyz77pm.op@scholar-alerts.bounces.google.com designates 209.85.223.202 as permitted sender) client-ip=209.85.223.202;
+Received: by 10.64.62.148 with POP3 id y20mf778326ier.4;
+        Wed, 30 Apr 2014 21:18:02 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3ysphUxUKDIc3nszwl2lwp243-yz2p0w9rzzrwp.nzxp2tn4p33pyz77pm.op@scholar-alerts.bounces.google.com
+Received: from mail-ie0-f202.google.com ([209.85.223.202]) by mx-ha.web.de
+ (mxweb001) with ESMTPS (Nemesis) id 0M2bp7-1WxwCn0uWb-00sQ65 for
+ <erictessenow@web.de>; Thu, 01 May 2014 06:17:16 +0200
+Received: by mail-ie0-f202.google.com with SMTP id lx4so584794iec.3
+        for <erictessenow@web.de>; Wed, 30 Apr 2014 21:17:15 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=0vwUH9uIOHGo5uOLv/GYbgwNrnmF+n/qbc5KstXUWs4=;
+        b=HHSYxxejn1QEmQXpcBjxSSxMvv01IPNBgZubAn9SySpt/HeMl4jA7SAx6M+2YKy9rv
+         DEw9wZabWRzNrJlNIyGs7mk2JsaSZozaM60ESNY89InBLVOYI+o3ECTfTOSVazARqD6L
+         6bIPoUDQNMYiMcwdyBySH4AJufnlPe5ghaV0gBii9cNi6mmKM7TLPyp6RsTjn2zBKpue
+         2b8jZ2c9EticfAotENi3XrX762PPFBVYPzXIvH2PEyCiZcycd0G2Os0/vp3f89d/fPZ2
+         xBp0K9lJY2W40yfHnXgIN/gUuUQQMzOCUXG57dnpwq2LdJ0Xi/L5CoGalm6Yjpl1bMPb
+         VBjA==
+MIME-Version: 1.0
+X-Received: by 10.43.18.133 with SMTP id qg5mr4062546icb.13.1398917834998;
+ Wed, 30 Apr 2014 21:17:14 -0700 (PDT)
+Message-ID: <bcaec5186602a0051f04f84ef080@google.com>
+Date: Thu, 01 May 2014 04:17:14 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:MtfGMacI6lg=:nYfwIgcZzAts19hLHmrGNjOeEA
+ CmH8m/+7kwEIESwmFwVd3zJMdV+orE5IOp4PSxOVUIN057TweMftJSFv0BTqdoUIW876jf1nF
+ xJryyY2GbyAmN1osF7DPPPAefgEfUvDIy38+o2B+kkGBUp09LtcaAn0XwksYaweYU47KqkOq+
+ Vqb9ThDX3XJmexDmOgugYNkvf4fcS7q3wC3z+OiQMdhgvOWyFeJpQ6umet/OXc7rL34bVErAv
+ RghvTcSNjAF7YIKv+e21apQ2Zs0YqmxtF0BSuwM0y3yU3UvM3HuB43sJHrADo8M2TePW7biwt
+ P+6v7bUpBTvYtutXMPLJDriBKRavkrcu+nj99yRaBmYPaWBGgUpHfIBu4HB3zNU6Y/jsuQFOP
+ nBYVQ8IYuXofgybVU6++w6LFiKB/V2vHRmBJfR76KkocJO3eA74eFIQqxkrGnwzqWF6AoDyWV
+ ZW/wqqEJFX2+AYO1RDhXdvRsj/xO5RQwKb9GbSDP1CWW7zQrHcM1Zo8RASS8GLsx1udlJVWGf
+ MupohwCtQGyqIPHC5l7vSUtm9f2Ah7uoT6uTWKkdnJs0yoQh5qvF89Tav8cgON+2Zb8l5pPXN
+ hUFO+4MhTHHje4r4AFAod0iprOqm3eku71IUpEBQiMANOdqgij0yetCAf7nkZbtYXQ0Jd9kQh
+ l5XbUC1U1OqUcwQgjRGNtQCYCSVZAefSqzHSg32eaK6h6Dx9dnAfrB1jufeGZMplQEPk+EFVD
+ NBnjVr8rlFfBH1pk8jbSa32978EEoFRQTcSq3zF9UoGZ4r1cUtACRIaXfialqzbckXOEDbf+S
+ sdtvBoCLdZfn/uy8rpbtxKKQIs0m0qAOpPqx+PeY9GVcLfkrZLPKMddSe+pbb0hzFuZwFadwt
+ 1DYKqy8AcIhQ3vbspNfO/f6e3k7QyTu9o8IQ7QpT1Sy2OQcZG3dA0ZBLkIa8kxPl2z8e4Gs5P
+ LIdQcjA71PTODaUNzY2M/a6dWbR0Pyan9dT9KNilCjH+tJuG1qyc54OdidzazM3jDpuiewFkQ
+ PlqKPe5Jh3S1aelI6cHKRsW5s3Ikbe5rSW4zEETO9oY30VwwuDzKVu7rJencZSPYNwuiiNbuD
+ QxAtmzbXZmMwd+Gd6L6BLDVEhdiAv9kdsXht9HXkWvwbcHCIxNmcZo1QdIoj5S38pXqsj+uhh
+ 2I/lpu075m/auLVkC4oCsxsrLsYewSxd/Ax3UNRy+fYUf12lQY2MY7M91FwWKgBOkLQdWEiGR
+ Vgj/cpNZ2cEU7dtqqFJYOUD/Qj++hxRLuEP/BS37ANbq/5c9jSRNBwf+alyNYZwBzZ5UADLuN
+ dF/O/FBd6H4awV7FZgtrOGUPCPExjTWi7RMCLd5T5sALCRvSVGM02ivPT87vVaHRaqtu
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://eprints.weblyzard=
+.com/77/&amp;sa=3DX&amp;scisig=3DAAGBfm0thAekD8Lt1SQivSD-SeWSg6oF_A&amp;oi=
+=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D"text-decoration:und=
+erline">Linked Enterprise Data for Fine Grained Named Entity Linking and We=
+b Intelligence</font></a></h3><div><font size=3D2 color=3D#009933>A Weichse=
+lbraun, D Streiff, A Scharl - 2014</font></div><div><font size=3D2 color=3D=
+#222222><b>...</b> For this purpose we introduce Recognyze, a named entity =
+linking component that uses<br>
+background knowledge obtained from <b>linked</b> <b>data</b> repositories. =
+This paper outlines<br>
+the underlying methods, provides insights into the migration <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&a=
+mp;q=3Dhttp://www.tandfonline.com/doi/abs/10.1080/01639374.2014.880981&amp;=
+sa=3DX&amp;scisig=3DAAGBfm2ZAiO4mu3BFBbSM5Bk7HLo4ZYihA&amp;oi=3Dscholaralrt=
+"><font size=3D3 color=3D#1122cc style=3D"text-decoration:underline">The Di=
+sruptive Qualities of <b>Linked Data </b>in the Library Environment: Analys=
+is and Recommendations</font></a></h3><div><font size=3D2 color=3D#009933>H=
+L Moulaison, AJ Million - Cataloging &amp; Classification Quarterly, 2014</=
+font></div><div><font size=3D2 color=3D#222222>Libraries are looking for a =
+better way to encode and share their data. Christensen&#39;s <br>disruptive=
+ technologies theory provides a framework for evaluating <b>linked data </b=
+>and thinking <br>about future uses of library technology. Because of its l=
+ack of use and technical <b> ...</b></font></div><br><h3 style=3D"font-weig=
+ht:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"http://sch=
+olar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://www.tandfonline.com/doi/f=
+ull/10.1080/01639374.2014.895470&amp;sa=3DX&amp;scisig=3DAAGBfm2OpEiR5fqufi=
+x2s2_eZdSgXtoaRg&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=
+=3D"text-decoration:underline">Global Interoperability and <b>Linked Data <=
+/b>in Libraries, Special Issue: edited by Mauro Guerrini. Proceedings by Gi=
+anfranco Crupi and Ginevra Peruginelli. JLIS. it: Italian  &hellip;</font><=
+/a></h3><div><font size=3D2 color=3D#009933>PE Schreur - Cataloging &amp; C=
+lassification Quarterly, 2014</font></div><div><font size=3D2 color=3D#2222=
+22>This special issue of JLIS. it presents papers delivered at the seminar =
+Global Interoperability <br>and <b>Linked Data </b>in Libraries held on Jun=
+e 18=E2=80=9319, 2012, and organized in cooperation with <br>the Linked Her=
+itage project. Three additional papers by Barbara Tillett, Mauro Guerrini <=
+b> ...</b></font></div><br><p><hr noshade size=3D1><font size=3D2 color=3D#=
+222222>Dieser Google Scholar-Alert wird Ihnen von Google zur Verf=C3=BCgung=
+ gestellt.<br><br><a href=3D"http://scholar.google.de/scholar_alerts?view_o=
+p=3Dcancel_alert_options&amp;email_for_op=3Derictessenow%40web.de&amp;alert=
+_id=3DAIfevv3NkPcJ&amp;hl=3Dde"><font color=3D#1122cc>Alert stornieren</fon=
+t></a><br></font></div></body></html>

@@ -1,0 +1,120 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.140.156.21 with SMTP id c21csp26480qhc;
+        Wed, 3 Sep 2014 22:49:05 -0700 (PDT)
+X-Received: by 10.140.84.231 with SMTP id l94mr3470194qgd.84.1409809742263;
+        Wed, 03 Sep 2014 22:49:02 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3AfkHVBUKDLgqafmjYpYjcprq-lmpcnjwemmejc.amkcpgarcqqclmuucZ.bc@scholar-alerts.bounces.google.com designates 209.85.220.74 as permitted sender) smtp.mail=3AfkHVBUKDLgqafmjYpYjcprq-lmpcnjwemmejc.amkcpgarcqqclmuucZ.bc@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3AfkHVBUKDLgqafmjYpYjcprq-lmpcnjwemmejc.amkcpgarcqqclmuucZ.bc@scholar-alerts.bounces.google.com designates 209.85.220.74 as permitted sender) client-ip=209.85.220.74;
+Received: by 10.140.108.53 with POP3 id i50mf910659qgf.25;
+        Wed, 03 Sep 2014 22:49:02 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3AfkHVBUKDLgqafmjYpYjcprq-lmpcnjwemmejc.amkcpgarcqqclmuucZ.bc@scholar-alerts.bounces.google.com
+Received: from mail-pa0-f74.google.com ([209.85.220.74]) by mx-ha.web.de
+ (mxweb101) with ESMTPS (Nemesis) id 0LzcwY-1YSbTz0MN8-014hnv for
+ <erictessenow@web.de>; Thu, 04 Sep 2014 07:30:45 +0200
+Received: by mail-pa0-f74.google.com with SMTP id lj1so2998873pab.3
+        for <erictessenow@web.de>; Wed, 03 Sep 2014 22:30:41 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=nr2hB5+szNvttsF4Nzav07KMwkT81PWrUqBgC4Ez/Vg=;
+        b=laSx+qFW+rDDbaQFMmT19ePgivAZi5TrtungiY9BSXWfTnOr1RhBCR4aeQy0j4KSTn
+         JK/KDzQB9nDd9wNEJ/dBT8/7TMxyVTuMILw4ozCKotiCyuAzbY6fEfWr910IrVX/hmaP
+         Ab8EPrO9jnWjeJA4Yb1st9LrWg5O1MRdeZKvmDQ9fXSZP3EYgOWM8o+dcgg3Lv/wLNzD
+         8qQoPIrsb2ZLMG1fokl26JbPMVevi6GiLT7Biw0gd5WrHTblf/1gG3rZmb9m682VzKEs
+         qSldVR5SetU2Mpv1wLDdzXdtT/fKo9QT5q37CsGwTl+BPhlo43YdlLRHSHYU3MJi1muB
+         XVSw==
+MIME-Version: 1.0
+X-Received: by 10.66.65.75 with SMTP id v11mr1230220pas.30.1409808641408; Wed,
+ 03 Sep 2014 22:30:41 -0700 (PDT)
+Message-ID: <001a11362ef045bd01050236a790@google.com>
+Date: Thu, 04 Sep 2014 05:30:41 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:GTnZjJIrXvk=:4Fflwd8aGmoVOTzETtRBPLbAZj
+ kts0lc6vMuP7mVg9br0DNQw1ULSpT5NpgZxPlHPTG7EKEJhHXYMWwnGnG22OuAs2QW/ISs+9z
+ Ye5eZ6FxpYyQpkbCRHHSyRFP49oqq2BpHSvIiY7V2k0YQDZHG71ylzDVt/XGoCW7Ag/wOeGOU
+ w+BkJ342JfIBzWWauZ33Y02UG/5o31JZy2Hl5ZFoemyLHq99cbGxLTAJbM6Id5bSPHr5IXE2w
+ EPOz6jmCOoOfbtvnv6DJoWWZwH1xbgNnVTyrIrCEfSf/03BPLukayU44t7PYDddrk9oDOiyDp
+ xpN7L1TxXfNDUsxIRoycExsEFFLetkBkxt4FHlAR26pv0hbqG4HrsyeHpnG4SdEQthhuN72Q0
+ UV6AOOLqitSeFqTRzguTIAfK75zYbH7EyScfV1AVKr/6vn/aEP96PoJtvKluGLmldxZ+vx4Nm
+ M16QG6fMzRkKlGOZnIAAnnbciWdNxFLef5FDc68LdhOngWB2Ref83Le+GKL3GB5bdUfqHtSQa
+ fWvisA3Ve2UuqoLngvQPce3BRb7kSTfDBGQLpwig34BUGxbTZ8b3V7shlgS0fCxaDmINOeN5L
+ 8T8TdXLE410IP8mO9Rdms0/1tqeO5RKrxQXEfONizVE3nfEJvbC3IEReShf2+DVUXgZWlYKSX
+ Ht0IYd4qP7rjc854aP5QmWaza/ssjE2Ixm65JDWoBxBlMVXOcG0rqjxHTkgznKxc9LcioFZBa
+ C4stiFIHh7mzGradAWHc6KenZR7S8Kk2rJBwYwiMxgWxJ8ULkyAkU1uFwRNW78cc9cCbcqtM+
+ bFzPpVx9Ez3jfEAx1UvAHr+G0oyTmMuHy+Ngxx9YTCwxoyvpsDNtHA3Y+HMUEoFZRM8CwZP+3
+ UaE1dI79q0hLivROMuYKkTCKni5lWrmUBYXSVM70HCBWXAREG4V7NSxQR3Zko/91tUbzuJ0r0
+ j6CKPNz+XfGzqb3IVlEfr8nBHB5yDZcx5QirUZz15CwKs0igfovKeIX8j3uWuHsQJ/8KsJFbV
+ j79pHWHniJ+PMf86tv8XilWwwwFRclzO/nu1bHyZC0nyuG6Z4Ft1/DQf63oiU6SV3CKWrM2qw
+ bi49yPuL24Iqlv5vs3vIiW1rtJGWhboUe+q805gHOHhfq1KKTjnPfDBAKH2ihYmeVp1+96Da3
+ lsbAH/W7UWXX2s0fkpGf943q/83LCL/dMExKjAQdjPOukoeymg/9oGqhTspVwQqDNin+3vcva
+ Xt4Kw3WWnl0TwORoXr6zOGHa1PO0hH6Sj2hFUxA9/1/yQJZp5TJ1auOLZNepwH0fdaJePo3XG
+ dZe1
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://dl.acm.org/citati=
+on.cfm%3Fid%3D2660521&amp;sa=3DX&amp;scisig=3DAAGBfm1q1qwPLehyOAJPonuEaCU9n=
+YnF7A&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-de=
+coration:underline">Towards question answering on statistical <b>linked dat=
+a</b></font></a></h3><div><font size=3D2 color=3D#006621>K H=C3=B6ffner, J =
+Lehmann - Proceedings of the 10th International Conference on  &hellip;, 20=
+14</font></div><div><font size=3D2 color=3D#222222>Abstract As an increasin=
+g amount of statistical data is published as <b>linked data</b>, intuitive =
+<br>ways of satisfying information needs and getting new insights out of th=
+e data become more <br>and more important. Question answering systems provi=
+de such an intuitive interface by <b> ...</b></font></div><br><h3 style=3D"=
+font-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"h=
+ttp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://dl.acm.org/citat=
+ion.cfm%3Fid%3D2660539&amp;sa=3DX&amp;scisig=3DAAGBfm1eDxpb7DmJPOkZEUdyJLye=
+2GkyxQ&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-d=
+ecoration:underline">LD viewer-<b>linked data </b>presentation framework</f=
+ont></a></h3><div><font size=3D2 color=3D#006621>D Lukovnikov, C Stadler, J=
+ Lehmann - &hellip;  of the 10th International Conference on  &hellip;, 201=
+4</font></div><div><font size=3D2 color=3D#222222>Abstract With the growing=
+ interest in publishing data according to the <b>Linked Data </b>principles=
+, <br>it becomes more important to provide intuitive tools for users to vie=
+w and interact with those <br>resources. The characteristics of <b>Linked D=
+ata </b>pose several challenges for user-friendly <b> ...</b></font></div><=
+br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5=
+em"><a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://=
+dl.acm.org/citation.cfm%3Fid%3D2660527&amp;sa=3DX&amp;scisig=3DAAGBfm2G6-pA=
+b5LmR__kzTwOtIKBwNiV2w&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab=
+ style=3D"text-decoration:underline">Quick-and-clean extraction of <b>linke=
+d data </b>entities from microblogs</font></a></h3><div><font size=3D2 colo=
+r=3D#006621>O Feyisetan, E Simperl, R Tinati, M Luczak-Roesch&hellip; - Pro=
+ceedings of the 10th  &hellip;, 2014</font></div><div><font size=3D2 color=
+=3D#222222>Abstract In this paper, we address the problem of finding Named =
+Entities in very large <br>micropost datasets. We propose methods to genera=
+te a sample of representative microposts <br>by discovering tweets that are=
+ likely to refer to new entities. Our approach is able to <b> ...</b></font=
+></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;max-wi=
+dth:44.5em"><a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=
+=3Dhttp://dl.acm.org/citation.cfm%3Fid%3D2660536&amp;sa=3DX&amp;scisig=3DAA=
+GBfm1hQUVFC6t65kgv5XRj7T7siySrJA&amp;oi=3Dscholaralrt"><font size=3D3 color=
+=3D#1a0dab style=3D"text-decoration:underline">Linked music data from globa=
+l music charts</font></a></h3><div><font size=3D2 color=3D#006621>M Jovanov=
+ik, M Petrov, B Najdenov, D Trajanov - Proceedings of the 10th  &hellip;, 2=
+014</font></div><div><font size=3D2 color=3D#222222><b>...</b> The technolo=
+gies of the Semantic Web have enabled the creation of the <b>Linked</b> <b>=
+Data</b><br>
+Cloud, as a concrete materialization of the idea to transform the Web from =
+a web<br>
+of documents into a web of data. The <b>Linked</b> <b>Data</b> concept <b>.=
+..</b>=20
+</font></div><br><p><hr noshade size=3D1><font size=3D2 color=3D#222222>Die=
+ser Google Scholar-Alert wird Ihnen von Google zur Verf=C3=BCgung gestellt.=
+<br><br><a href=3D"http://scholar.google.de/scholar_alerts?view_op=3Dcancel=
+_alert_options&amp;email_for_op=3Derictessenow%40web.de&amp;alert_id=3DAIfe=
+vv3NkPcJ&amp;hl=3Dde"><font color=3D#1a0dab>Alert stornieren</font></a><br>=
+</font></div></body></html>

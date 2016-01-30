@@ -1,0 +1,1322 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.55.157.10 with SMTP id g10csp587580qke;
+        Thu, 15 Oct 2015 06:19:43 -0700 (PDT)
+X-Received: by 10.140.92.143 with SMTP id b15mr11765187qge.85.1444914850651;
+        Thu, 15 Oct 2015 06:14:10 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of delivery@bounce.economist.com designates 192.64.236.11 as permitted sender) smtp.mailfrom=delivery@bounce.economist.com;
+       dkim=pass header.i=@pmta.sailthru.com;
+       dkim=temperror (no key for signature) header.i=@economist.com
+Received-SPF: pass (google.com: domain of delivery@bounce.economist.com designates 192.64.236.11 as permitted sender) client-ip=192.64.236.11;
+Received: by 10.140.25.178 with POP3 id 47mf12845840qgt.1;
+        Thu, 15 Oct 2015 06:14:10 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: <delivery@bounce.economist.com>
+Received: from mx-artspace-b.sailthru.com ([192.64.236.11]) by mx-ha.web.de
+ (mxweb107) with ESMTP (Nemesis) id 0MDzb1-1ZpYjB1LjD-00HMyN for
+ <erictessenow@web.de>; Thu, 08 Oct 2015 21:19:42 +0200
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; s=mt; d=pmta.sailthru.com;
+ h=Date:From:To:Message-ID:Subject:MIME-Version:Content-Type:List-Unsubscribe;
+ bh=+7azPR6N6Gx8sfSGvvyGCRT8XBo=;
+ b=EUHLSrMG4UfKBVTzTZFWXdM1h12B08Did2ixl6CL8gI39j/nAnQpznzFbqk1z2AxfyqCbYlycRqV
+   AS/R3Qj3J2vs48jKRiw3gLNdRrs0GDWDF+id1BKwOj13LMn60Bq56ZzSgaP8+Sn41J1QrkNqLm67
+   U/0DAERriReZPaBKyGQ=
+Received: from njmta-174.sailthru.com (173.228.155.174) by mx-artspace-b.sailthru.com id h2r0ss1qqbsu for <erictessenow@web.de>; Thu, 8 Oct 2015 15:19:30 -0400 (envelope-from <delivery@bounce.economist.com>)
+Received: from nj1-rawolive.flt (172.18.20.13) by njmta-174.sailthru.com id h2r0s41qqbs6 for <erictessenow@web.de>; Thu, 8 Oct 2015 15:19:21 -0400 (envelope-from <delivery@bounce.economist.com>)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple; t=1444331961;
+	s=sailthru.com; d=economist.com;
+	h=Date:From:To:Message-ID:Subject:MIME-Version:Content-Type:List-Unsubscribe;
+	bh=VAExQ5q2E43bBcJ/eSwSx1Gxv4iF3CZr7pOz0NpqTTU=;
+	b=hscvVzHUZdhb7LUkqAPKcauLxtAAScINcZSsUOI3U9tkQ8/grluohoT7bvVnpsrQ
+	bKNyDrTRZ4yqvYNb0zP7VKnP7e9++OiuxDhVqWOU5MCknMi/6auIvgOkY0faBdxYE2e
+	N5U8YQMPA3M8Ldlo06xTGQ/BF+njPBoNHHssA4SQ=
+Date: Thu, 8 Oct 2015 15:19:21 -0400 (EDT)
+From: The Economist <e-mail@economist.com>
+To: erictessenow@web.de
+Message-ID: <20151008151921.5296761.484115@sailthru.com>
+Subject: The case for eradicating diseases, Egypt's dead end, India's
+ environment and redesigning slaughterhouses
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_27290992_1580750147.1444331961084"
+Precedence: bulk
+X-TM-ID: 20151008151921.5296761.484115
+X-Info: Message sent by sailthru.com customer The Economist - PRODUCTION
+X-Info: We do not permit unsolicited commercial email
+X-Info: Please report abuse by forwarding complete headers to
+X-Info: abuse@sailthru.com
+X-Mailer: sailthru.com
+X-Unsubscribe-Web: http://link.economist.com/oc/5356c5a2899249e1ccb6653635j09.adjn/543bf327
+List-Unsubscribe: <http://link.economist.com/oc/5356c5a2899249e1ccb6653635j09.adjn/543bf327>, <mailto:unsubscribe_20151008151921.5296761.484115@mx.sailthru.com>
+X-rpcampaign: stgzj5296761
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: unknown:5;V01:K0:pS8Vht6AOZs=:ohaxDhg43ev/oD1JiaYRxWAJU2
+ oX0sHoQe45QZwjL8M0LawoiO43a5b7Y+xqT8fyaJ82AIo3gV+ZcdH8BZT5mweg6PzMEemuRIZ
+ cBKckT2EG9LUWFl6z/CdoXWKvIrsVinEBCg4ZRAizOFfzOzK3DsuO04jgRbd3uryADZtNsnNE
+ 2zZzemQ2f4Fga7YN8m78D/018lS5z9Gyl57znhJmi1ugWFiM2EfIQZXGwD9U0rT6gJ4kQsqXF
+ 7Dg1cRtf8blk/VdsOcAAPGb9T/UEzOEObSOrZ5qzJwH7C4sgmopFUvHSNdX+kZjkPfesa9Nvu
+ gfaAeqoAP0IPvvWeVdI1EyTPCdhMLLMM7bJMESX4wzGrePpAi/8iTiQbOCcGbfgGTeRBr4VUy
+ kiYE3Q4fH6sba3ZbzIHNMciny9RZ1dDiewjtBeSyS8kK1burp0qhJ5/x1wSvm1sOhAxL2GW0q
+ 2+P0uYyOttAWvbY6bD4ZH1N+4QZM8jmlGIx8KIhK8lGiRSQ9VTWx+TP+0Qg0uZMsj5+vxBDQ8
+ EJgZo8VfOp1RYunLj55cRP/gmr60aE/HN6NJrOqLAoikQvMJ8Iti6cWB1XLlitBYpXtIJ5kn8
+ KYrfz5O5Xw3uJKpQdZF/8GHiEkEhVyQW+yr2P9z/OX/0Rb1tX6d8ltq2ZVINZJzpkDhGdSZqv
+ ZhjxbhkxWTKHLSiL+7IZ4DrFs4rJdfsMF8gJ7YuIO757DfN+usRAsozyNg0BRxT1Coeug52rO
+ DKonysTrQ12lmywE6PVqxkfklTQNUfpW1+/E4eNzY++NMK8GRHmN4wN1/WrM5hMbZxG/GPYcd
+ 1gR2YwOImAtU5vqlpYrGXgJXzIjWnVfOlr37GfH170w1Sozx3pfhBYp2k2sFb8IszbheSR0AE
+ TW1rfLZbce5os++9AYhzqWUbXCzV0XdzDmPlEkCw4cKRJtyjCesUP4OgzOghtjVRWkOZDYMjO
+ BuLWOeV7Yh1VIaFYBqRCNG6/agdBafp/j9TBr9YyTYhFV4BwoeowFcYhC/djRkrxLJ56fYWh/
+ va+XOpSdLokl0mVZG6DYaVyFWCYwLYszvib/W5CF+vhXxVqOK4qapNlbx9v4T1RdJ/8XgQxu9
+ 4ijn1aZYM0XUh3MnuI7h3o7t7R6kC+bdNRW+4Wm2hyFobr6AJF5JuG+WxQW0tVYG7Sh9CFev/
+ suGhzyY+SRaAPBYBSSWkPFCXA5OvNvehI4cp268s0YKM0jdjaKhMRBa9pwzhSSb9L+RrZNUNp
+ NydfiAKy88odY7WyONsvB7D+YqevmSIsq3/8uX84VX6wB12rly12K/BgMb+/+Be6cSIDEbWYI
+ o3SrHKQdf4kkpkDgCFqw6EYXSVJGBn1KDsFmPimWT7G4jCnapn9VDSbaLq1rax7wFpfNZrVxG
+ yA7v8ySALVTQPg6mHuhakjagA9PFX+70PGh9KeotLGpVQi5xyh/fDByTZBl3GNxXPqKeNyP2A
+ 9f8zP+EHT9m8tbX4226YBTHG8H66Q6CZh8V31FzxQCCbX/ld2dgtAYTJF/W3/X8c/9ij0uZSW
+ 54w5QpqTfs3OfdRIc5UjTmoQ7GOgfeshOyBcO3y+sMEdPJSIcxxoksJaRXiXKNw==
+
+------=_Part_27290992_1580750147.1444331961084
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Thursday, October 8th 2015
+
+This week our cover makes the case for eradicating diseases. Thanks
+to progress in medicine and communications, the end of a range of
+infections such as malaria and measles is within reach. Millions of
+lives would be saved; hundreds of millions transformed
+
+Eradicating disease
+SEE ARTICLE >>
+http://link.economist.com/click/5296761.484115/aHR0cDovL3d3dy5lY29ub21pc3QuY29tL25ld3MvbGVhZGVycy8yMTY3MjIxMy12aXJhbC1hbmQtcGFyYXNpdGljLWRpc2Vhc2VzLWFyZS1ub3Qtb25seS13b3J0aC1raWxsaW5nLXRoZXktYXJlLWFsc28taW5jcmVhc2luZ2x5P2NpZDE9Y3VzdC9lZG5ldy9uL24vbi8yMDE1MTA4bi9vd25lZC9uL24vbndsL24vbi9uL2VtYWls/5356c5a2899249e1ccb66536C2bbb32cb
+
+Zanny Minton Beddoes, Editor-in-Chief
+
+==============================================================
+
+EGYPT'S DEAD END
+President Abdel-Fattah al-Sisi is leading his country astray. He is
+also unchallenged
+http://link.economist.com/click/5296761.484115/aHR0cDovL3d3dy5lY29ub21pc3QuY29tL25ld3MvbGVhZGVycy8yMTY3MjIxNy1wcmVzaWRlbnQtYWJkZWwtZmF0dGFoLWFsLXNpc2ktdGFraW5nLWVneXB0LWRvd24tZmFtaWxpYXItZGVhZC1lbmQtZHVkLXJldHVybi1kZW1vY3JhY3k_Y2lkMT1jdXN0L2VkbmV3L24vbi9uLzIwMTUxMDhuL293bmVkL24vbi9ud2wvbi9uL24vZW1haWw/5356c5a2899249e1ccb66536F75288884
+
+INDIA'S ENVIRONMENT
+India's prime minister wants his country's economy to grow as fast
+as China's has. Will that lead to Chinese levels of pollution?
+http://link.economist.com/click/5296761.484115/aHR0cDovL3d3dy5lY29ub21pc3QuY29tL25ld3MvYXNpYS8yMTY3MjM1OS1wcmltZS1taW5pc3Rlci13YW50cy1pbmRpYS1ncm93LWZhc3Qtb3Zlci1uZXh0LTIwLXllYXJzLWNoaW5hLWhhcy1vdmVyLXBhc3QtMjA_Y2lkMT1jdXN0L2VkbmV3L24vbi9uLzIwMTUxMDhuL293bmVkL24vbi9ud2wvbi9uL24vZW1haWw/5356c5a2899249e1ccb66536Dca0b252c
+
+KINDER, GENTLER SLAUGHTERHOUSES
+Temple Grandin's designs have revolutionised America's meat industry
+http://link.economist.com/click/5296761.484115/aHR0cDovL3d3dy5lY29ub21pc3QuY29tL25ld3MvdW5pdGVkLXN0YXRlcy8yMTY3MTE1MC1ob3ctdGVtcGxlLWdyYW5kaW5zLWRlc2lnbnMtaGF2ZS1yZWZvcm1lZC1tZWF0LWluZHVzdHJ5LWp1bmdsZS1uby1tb3JlP2NpZDE9Y3VzdC9lZG5ldy9uL24vbi8yMDE1MTA4bi9vd25lZC9uL24vbndsL24vbi9uL2VtYWls/5356c5a2899249e1ccb66536Fdd473724
+
+==============================================================
+
+POLITICS THIS WEEK
+Medecins Sans Frontieres (MSF) called for an independent commission
+to investigate strikes by American aircraft on a hospital in Kunduz
+in northern Afghanistan which killed12 MSF medical staff and ten
+patients, three of them children. The attack took place as Afghan
+forces were attempting to retake the city from Taliban fighters.
+Barack Obama apologised, but the American and Afghan governments
+offered conflicting accounts of what happened. It remains uncertain
+whether Afghan troops have regained full control of Kunduz, as their
+government claims
+SEE ARTICLE >>
+http://link.economist.com/click/5296761.484115/aHR0cDovL3d3dy5lY29ub21pc3QuY29tL25ld3MvdW5pdGVkLXN0YXRlcy8yMTY3MjM2NS1maWdodGluZy1rdW5kdXotaWxsdXN0cmF0ZXMtd2h5LWFtZXJpY2EtbXVzdC1yZW1haW4tYWZnaGFuaXN0YW4tdW5lbmRpbmctd2FyP2NpZDE9Y3VzdC9lZG5ldy9uL24vbi8yMDE1MTA4bi9vd25lZC9uL24vbndsL24vbi9uL2VtYWls/5356c5a2899249e1ccb66536C8392d3d4
+
+MORE FROM: POLITICS THIS WEEK >> 
+http://link.economist.com/click/5296761.484115/aHR0cDovL3d3dy5lY29ub21pc3QuY29tL25ld3Mvd29ybGQtd2Vlay8yMTY3MjM3NS1wb2xpdGljcy13ZWVrP2NpZDE9Y3VzdC9lZG5ldy9uL24vbi8yMDE1MTA4bi9vd25lZC9uL24vbndsL24vbi9uL2VtYWls/5356c5a2899249e1ccb66536Cead31de0
+
+==============================================================
+
+BUSINESS THIS WEEK
+After five years of negotiations a deal was at last struck on the
+Trans-Pacific Partnership, the biggest trade accord in years. TPP
+covers 12 countries in Asia and the Americas that account for 40%
+of the world's economy. The deal was largely welcomed by political
+leaders, but faces an uphill battle getting approved in some
+parliaments
+SEE ARTICLE >>
+http://link.economist.com/click/5296761.484115/aHR0cDovL3d3dy5lY29ub21pc3QuY29tL25ld3MvbGVhZGVycy8yMTY3MjIxNC1zZWFsaW5nLXBhY2lmaWMtdHJhZGUtZGVhbC13ZWxjb21lLXNwYXJlLWNoZWVycy1ldmVyeS1zaWx2ZXItbGluaW5nLWhhcz9jaWQxPWN1c3QvZWRuZXcvbi9uL24vMjAxNTEwOG4vb3duZWQvbi9uL253bC9uL24vbi9lbWFpbA/5356c5a2899249e1ccb66536C9d7217b8
+
+MORE FROM: BUSINESS THIS WEEK >> 
+http://link.economist.com/click/5296761.484115/aHR0cDovL3d3dy5lY29ub21pc3QuY29tL25ld3Mvd29ybGQtd2Vlay8yMTY3MjM3NC1idXNpbmVzcy13ZWVrP2NpZDE9Y3VzdC9lZG5ldy9uL24vbi8yMDE1MTA4bi9vd25lZC9uL24vbndsL24vbi9uL2VtYWls/5356c5a2899249e1ccb66536C27209de5
+
+==============================================================
+
+Go to Economist.com 
+
+Copyright (c) The Economist Newspaper Limited 2015. All rights reserved.
+
+Advertising info: http://link.economist.com/click/5296761.484115/aHR0cDovL3d3dy5lY29ub21pc3Rncm91cG1lZGlhLmNvbS8/5356c5a2899249e1ccb66536Ce5d03aef 
+Privacy Policy: http://link.economist.com/click/5296761.484115/aHR0cDovL3d3dy5lY29ub21pc3Rncm91cC5jb20vcmVzdWx0c19hbmRfZ292ZXJuYW5jZS9nb3Zlcm5hbmNlL3ByaXZhY3k/5356c5a2899249e1ccb66536B6c80edd2 
+Terms & Conditions: http://link.economist.com/click/5296761.484115/aHR0cDovL3d3dy5lY29ub21pc3QuY29tL2xlZ2FsL3Rlcm1zLW9mLXVzZQ/5356c5a2899249e1ccb66536C81610a21
+Help: http://link.economist.com/click/5296761.484115/aHR0cDovL3d3dy5lY29ub21pc3QuY29tL2hlbHAvaG9tZQ/5356c5a2899249e1ccb66536Cfb9bb6f7
+To unsubscribe please click here: http://link.economist.com/click/5296761.484115/aHR0cDovL3d3dy5lY29ub21pc3QuY29tL3Vuc3Vic2NyaWJlP2U9ZXJpY3Rlc3Nlbm93JTQwd2ViLmRlJmg9OGQ1NTBmNzI4NGY0ZWExZTNjNWZiZmVkOTE4NWY4ODImbT0yMTAxNjIwNQ/5356c5a2899249e1ccb66536C61c942bb
+
+Registered in England and Wales. No.236383, VAT no: GB 340 436 876
+Registered office: 25 St James's Street, London, SW1A 1HG
+
+==============================================================
+
+Customer service
+
+This e-mail has been sent to: erictessenow@web.de
+
+Questions? Comments? Please contact us. http://link.economist.com/click/5296761.484115/aHR0cDovL3d3dy5lY29ub21pc3QuY29tL2NvbnRhY3QtaW5mbw/5356c5a2899249e1ccb66536C1b673c7b 
+Replies to this e-mail will not reach us. 
+------=_Part_27290992_1580750147.1444331961084
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8" />
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1.=
+0"/>
+<meta name=3D"format-detection" content=3D"telephone=3Dno">
+<meta name=3D"viewport" content=3D"width=3Ddevice-width; initial-scale=3D1.=
+0; maximum-scale=3D1.0; user-scalable=3Dno;">
+<meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3D9; IE=3D8; IE=3D7; IE=
+=3DEDGE" />
+<title>The Economist</title>
+<style type=3D"text/css">
+* {
+margin-top: 0px;
+margin-bottom: 0px;
+padding: 0px;
+border: none;
+outline: none;
+list-style: none;
+-webkit-text-size-adjust: none;
+}
+body {
+margin: 0 !important;
+padding: 0 !important;
+width: 100% !important;
+-webkit-text-size-adjust: 100% !important;
+-ms-text-size-adjust: 100% !important;
+-webkit-font-smoothing: antialiased !important;
+}
+img {
+border: 0 !important;
+display: block !important;
+outline: none !important;
+}
+table {
+border-collapse: collapse;
+mso-table-lspace: 0px;
+mso-table-rspace: 0px;
+}
+td {
+border-collapse: collapse;
+mso-line-height-rule: exactly;
+}
+.ExternalClass {
+width: 100%;
+line-height: 100%;
+}
+.applelinks_fffffd a {
+color: #fffffd;
+text-decoration: none;
+}
+.undoreset table {
+margin: 0 auto;
+}
+a[href^=3Dtel] {
+color: #F00;
+text-decoration: none;
+}
+@media only screen and (max-width:480px) {
+table[class=3Dmain_table] {
+width: 100% !important;
+}
+td[class=3Dmin_width] {
+min-width: 320px !important;
+}
+table[class=3Dwrapper] {
+width: 100% !important;
+}
+td[class=3Dwrapper] {
+width: 100% !important;
+}
+table[class=3Dmobile_width] {
+width: 320px !important;
+}
+td[class=3Dmobile_width] {
+width: 320px !important;
+}
+table[class=3Dhide] {
+display: none !important;
+}
+td[class=3Dhide] {
+display: none !important;
+}
+span[class=3Dhide] {
+display: none !important;
+}
+table[class=3Dshow] {
+display: block !important;
+}
+td[class=3Dshow] {
+display: block !important;
+}
+td[class=3Dheight_10] {
+height: 10px !important;
+line-height: 10px !important;
+}
+td[class=3Dheight_15] {
+height: 15px !important;
+}
+td[class=3Dheight_18] {
+height: 18px !important;
+}
+td[class=3Dheight_20] {
+height: 20px !important;
+}
+td[class=3Dheight_auto] {
+height: auto !important; padding-bottom:20px !important;
+}
+td[class=3Dwidth_10] {
+width: 10px !important;
+}
+td[class=3Dwidth_84] {
+width: 84px !important;
+}
+td[class=3Dfont_32] {
+font-size: 32px !important;
+}
+td[class=3Dfont_16] {
+font-size: 16px !important;
+}
+td[class=3Dsubscribe] {width:128px !important;}
+td[class=3Dsubscribe] div a {
+width: 128px !important;
+height: 38px !important;
+line-height: 38px !important;
+font-size: 16px !important;
+}
+img[class=3Dfull_img] {
+width: 100% !important;
+height: auto !important;
+}
+td[class=3Dhero_text] {
+font-size: 16px !important;
+height: auto !important;
+}
+td[class=3Dhidden_text] {
+font-size: 16px !important;
+color: #333333 !important;
+padding-top: 20px !important;
+line-height: 20px !important;
+}
+td[class=3Dhidden_cta] {
+font-size: 15px !important;
+color: #4a4a4a !important;
+padding-top: 20px !important;
+line-height: 20px !important;
+}
+td[class=3Dhidden_cta] a {color:#4a4a4a !important;}
+td[class=3Dusers_banner_swap] img {
+content:url(http://email-media.s3.amazonaws.com/Economist/EditorsPicks/Regi=
+stered_mobileA.gif) !important; width:100% !important; height:auto !importa=
+nt;
+}
+td[class=3Dsubscribers_banner_swap] img {
+content:url(http://email-media.s3.amazonaws.com/Economist/EditorsPicks/Subs=
+cribers_mobile_B.gif) !important; width:100% !important; height:auto !impor=
+tant;
+}
+td[class=3Dmpu_deskmob] img {
+content:url(http://pubads.g.doubleclick.net/gampad/ad?iu=3D/5605/teg.oqmk/k=
+l2t&sz=3D300x250&t=3Dpos%3Dmpu_top&c=3D) !important; width:100% !important;=
+ height:auto !important;
+}
+td[class=3Dmpu_mob] img {
+content:url(http://pubads.g.doubleclick.net/gampad/ad?iu=3D/5605/teg.oqmk/k=
+l2t&sz=3D300x250&t=3Dpos%3Dmpu_bottom&c=3D) !important; width:100% !importa=
+nt; height:auto !important;
+}
+table[class=3Dtext_section] td {padding-left:10px !important; padding-right=
+:10px !important;}
+td[class=3Dfollow] {padding-left:10px !important; text-align:left !importan=
+t; padding-bottom:17px !important;}
+td[class=3Dsocial] {padding-left:10px !important;}
+td[class=3Dsocial_container] {height:97px !important;}
+}
+</style>
+</head>
+<body marginwidth=3D"0" marginheight=3D"0" style=3D"margin-top:0;margin-bot=
+tom:0;padding-top:0;padding-bottom:0;background-color:#f0f0f0;width:100% !i=
+mportant;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;-webkit-fo=
+nt-smoothing:antialiased;" offset=3D"0" topmargin=3D"0" leftmargin=3D"0" bg=
+color=3D"#f0f0f0">
+<a href=3D"http://link.economist.com/click/5296761.484115/aHR0cDovL3d3dy5lY=
+29ub21pc3QuY29t/5356c5a2899249e1ccb66536B85c07e62"><img src=3D"http://link.=
+economist.com/img/5356c5a2899249e1ccb6653635j09.adjn/ecdbf3a5.gif" alt=3D""=
+ border=3D"0" /></a>
+<!--preview-text starts-->
+<div style=3D"font-size:0px;color:#f0f0f0;line-height:1px;max-height:0px;ma=
+x-width:0px;">
+Hand-picked stories from this week's issue of The Economist.               =
+                        =20
+</div>
+<!--preview-text ends-->
+<!-- Background table start -->
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" alig=
+n=3D"center" class=3D"wrapper" bgcolor=3D"#f0f0f0">
+<tr>
+<td valign=3D"top" align=3D"center">
+<!--Preheader-->
+<table width=3D"768" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=
+=3D"center" class=3D"main_table">
+<tr><td height=3D"15" style=3D"line-height:15px; font-size:0px;"><img src=
+=3D"http://email-media.s3.amazonaws.com/spacer.gif" width=3D"1" height=3D"1=
+" alt=3D"" border=3D"0" style=3D"display:block;" /></td></tr>
+<tr><td style=3D"text-align:right; font-size:12px; color:#000001; font-fami=
+ly:Arial, sans-serif; padding-right:20px;"><a href=3D"http://link.economist=
+.com/view/5356c5a2899249e1ccb6653635j09.adjn/370d5e12" style=3D"color:#0000=
+01; text-decoration:none;">View in browser</a> | <a href=3D"http://link.eco=
+nomist.com/forward/5356c5a2899249e1ccb6653635j09.adjn/0b399a71" style=3D"co=
+lor:#000001; text-decoration:none;">E-mail a friend</a></td></tr>
+<tr><td height=3D"15" style=3D"line-height:15px; font-size:0px;"><img src=
+=3D"http://email-media.s3.amazonaws.com/spacer.gif" width=3D"1" height=3D"1=
+" alt=3D"" border=3D"0" style=3D"display:block;" /></td></tr>
+</table>
+<!--***** Masthead *****--> =20
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" alig=
+n=3D"center" bgcolor=3D"#999999">
+<tr>
+<td height=3D"15" style=3D"line-height:15px; font-size:0px;"><img src=3D"ht=
+tp://email-media.s3.amazonaws.com/spacer.gif" width=3D"1" height=3D"1" alt=
+=3D"" border=3D"0" style=3D"display:block;" /></td>
+</tr>
+<tr>
+<td valign=3D"top">
+<table width=3D"768" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=
+=3D"center" class=3D"main_table">
+<tr>
+<td valign=3D"top" style=3D"min-width:600px;" class=3D"min_width">
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" alig=
+n=3D"center">
+<tr>
+<td width=3D"20" class=3D"width_10">&nbsp;</td>
+<td width=3D"137" align=3D"left"><a href=3D"http://link.economist.com/click=
+/5296761.484115/aHR0cDovL3d3dy5lY29ub21pc3QuY29tLz9jaWQxPWN1c3QvZWRuZXcvbi9=
+uL24vMjAxNTEwOG4vb3duZWQvbi9uL253bC9uL24vbi9lbWFpbA/5356c5a2899249e1ccb6653=
+6B864e6c6d"><img src=3D"http://email-media.s3.amazonaws.com/Economist/Edito=
+rsPicks/logo_500x247.jpg" width=3D"137" height=3D"68" alt=3D"" border=3D"0"=
+ style=3D"display:block;" /></a></td>
+<td width=3D"400" class=3D"width_84">&nbsp;</td>
+<td width=3D"191" align=3D"right" class=3D"subscribe">
+<div><!--[if mso]>
+<v:rect xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:w=3D"urn:schemas-mi=
+crosoft-com:office:word" href=3D"https://subscriptions.economist.com/GLB/NL=
+/EP/?cid1=3Dcust/ednew/n/n/n/2015108n/owned/n/n/nwl/n/n/n/email" style=3D"h=
+eight:47px;v-text-anchor:middle;width:189px;" stroke=3D"f" fillcolor=3D"#ff=
+fffd">
+<w:anchorlock/>
+<center>
+<![endif]-->=20
+<a href=3D"http://link.economist.com/click/5296761.484115/aHR0cHM6Ly9zdWJzY=
+3JpcHRpb25zLmVjb25vbWlzdC5jb20vR0xCL05ML0VQLz9jaWQxPWN1c3QvZWRuZXcvbi9uL24v=
+MjAxNTEwOG4vb3duZWQvbi9uL253bC9uL24vbi9lbWFpbA/5356c5a2899249e1ccb66536B367=
+68e7e"
+style=3D"background-color:#fffffd;color:#e3120b;display:inline-block;font-f=
+amily:sans-serif;font-size:20px;line-height:47px;text-align:center;text-dec=
+oration:none;width:189px;-webkit-text-size-adjust:none;">SUBSCRIBE</a>=20
+<!--[if mso]>
+</center>
+</v:rect>
+<![endif]--></div>
+</td>
+<td width=3D"20" class=3D"width_10">&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td height=3D"12" style=3D"line-height:12px; font-size:0px;"><img src=3D"ht=
+tp://email-media.s3.amazonaws.com/spacer.gif" width=3D"1" height=3D"1" alt=
+=3D"" border=3D"0" style=3D"display:block;" /></td>
+</tr>
+</table>=20
+<!--***** End Masthead *****-->   =20
+<!--Start Title-->
+<table width=3D"768" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=
+=3D"center" class=3D"main_table">
+<tr>
+<td height=3D"10" style=3D"line-height:10px; font-size:0px; min-width:600px=
+;" class=3D"min_width"><img src=3D"http://email-media.s3.amazonaws.com/spac=
+er.gif" width=3D"1" height=3D"1" alt=3D"" border=3D"0" style=3D"display:blo=
+ck;" /></td>
+</tr>
+<tr>
+<td valign=3D"top">
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" alig=
+n=3D"center">
+<tr>
+<td width=3D"20" class=3D"width_10">&nbsp;</td>
+<td style=3D"font-family:Georgia,serif; font-size:46px; text-align:left; co=
+lor:#4a4a4a;" class=3D"font_32">Editor's Picks</td>
+<td>&nbsp;</td>
+<td style=3D"font-family:Georgia,serif; font-size:20px; text-align:right; c=
+olor:#4a4a4a;" class=3D"font_16">
+October 8th 2015</td>
+<td width=3D"20" class=3D"width_10">&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td height=3D"8" style=3D"line-height:8px; font-size:0px;"><img src=3D"http=
+://email-media.s3.amazonaws.com/spacer.gif" width=3D"1" height=3D"1" alt=3D=
+"" border=3D"0" style=3D"display:block;" /></td>
+</tr>
+</table>
+<!--End Title-->=20
+<!--Start Main Table-->           =20
+<table width=3D"768" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=
+=3D"center" class=3D"main_table">
+<tr>
+<td valign=3D"top" style=3D"min-width:600px;" class=3D"min_width">
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" alig=
+n=3D"center">
+<tr>
+<td width=3D"20" class=3D"width_10">&nbsp;</td>
+<td valign=3D"top">
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" alig=
+n=3D"center">
+<tr>
+<td valign=3D"top">
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" alig=
+n=3D"center" bgcolor=3D"#e0e0e0">
+<tr>
+<td height=3D"13" style=3D"line-height:13px; font-size:0px;" class=3D"heigh=
+t_10"><img src=3D"http://email-media.s3.amazonaws.com/spacer.gif" width=3D"=
+1" height=3D"1" alt=3D"" border=3D"0" style=3D"display:block;" /></td>
+</tr>
+<tr>
+<td valign=3D"top">
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" alig=
+n=3D"center">
+<tr>
+<td valign=3D"middle"><!--left col-->
+<table width=3D"248" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=
+=3D"left" class=3D"wrapper">
+<tr>
+<td width=3D"15" class=3D"width_10"><img src=3D"http://email-media.s3.amazo=
+naws.com/spacer.gif" width=3D"1" height=3D"1" alt=3D"" border=3D"0" style=
+=3D"display:block;" /></td>
+<td><a href=3D"http://link.economist.com/click/5296761.484115/aHR0cDovL3d3d=
+y5lY29ub21pc3QuY29tL3ByaW50ZWRpdGlvbi8yMDE1LTEwLTEwP2NpZDE9Y3VzdC9lZG5ldy9u=
+L24vbi8yMDE1MTA4bi9vd25lZC9uL24vbndsL24vbi9uL2VtYWls/5356c5a2899249e1ccb665=
+36Bcc722fb6"><img src=3D"http://cdn.static-economist.com/sites/default/file=
+s/cf_images/images-magazine/2015/10/10/CA/20151010_CAP400HiRes.jpg" width=
+=3D"233" height=3D"307" alt=3D"The Economist" border=3D"0" style=3D"display=
+:block;" class=3D"full_img" /></a></td>
+<td width=3D"0" class=3D"width_10"><img src=3D"http://email-media.s3.amazon=
+aws.com/spacer.gif" width=3D"1" height=3D"1" alt=3D"" border=3D"0" style=3D=
+"display:block;" /></td>
+</tr>
+</table>
+<!--right col-->
+<table width=3D"450" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=
+=3D"right" class=3D"wrapper">
+<tr>
+<td height=3D"20">&nbsp;</td>
+</tr>
+<tr>
+<td valign=3D"top">
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" alig=
+n=3D"center">
+<tr>
+<td width=3D"0" class=3D"width_10"><img src=3D"http://email-media.s3.amazon=
+aws.com/spacer.gif" width=3D"1" height=3D"1" alt=3D"" border=3D"0" style=3D=
+"display:block;" /></td>
+<td valign=3D"middle">
+<table  width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" ali=
+gn=3D"center">
+<tr>
+<td style=3D"font-family:Arial,sans-serif; font-size:18px; line-height:22px=
+; color:#4a4a4a; text-align:left;" class=3D"hero_text"><br><br>This week ou=
+r <a href=3D"http://link.economist.com/click/5296761.484115/aHR0cDovL3d3dy5=
+lY29ub21pc3QuY29tL25ld3MvbGVhZGVycy8yMTY3MjIxMy12aXJhbC1hbmQtcGFyYXNpdGljLW=
+Rpc2Vhc2VzLWFyZS1ub3Qtb25seS13b3J0aC1raWxsaW5nLXRoZXktYXJlLWFsc28taW5jcmVhc=
+2luZ2x5P2NpZDE9Y3VzdC9lZG5ldy9uL24vbi8yMDE1MTA4bi9vd25lZC9uL24vbndsL24vbi9u=
+L2VtYWls/5356c5a2899249e1ccb66536B2bbb32cb" style=3D"color:#4a4a4a;">cover<=
+/a> makes the case for eradicating diseases. Thanks to progress in medicine=
+ and communications, the end of a range of infections such as malaria and m=
+easles is within reach. Millions of lives would be saved; hundreds of milli=
+ons transformed
+<a href=3D"?cid1=3Dcust/ednew/n/n/n/2015108n/owned/n/n/nwl/n/n/n/email" sty=
+le=3D"color:#4a4a4a;"></a>
+<a href=3D"?cid1=3Dcust/ednew/n/n/n/2015108n/owned/n/n/nwl/n/n/n/email" sty=
+le=3D"color:#4a4a4a;"></a>
+<a href=3D"?cid1=3Dcust/ednew/n/n/n/2015108n/owned/n/n/nwl/n/n/n/email" sty=
+le=3D"color:#4a4a4a;"></a><br />
+<br />
+<strong>Zanny Minton Beddoes, Editor-in-Chief</strong></td>
+</tr>
+</table>
+</td>
+<td width=3D"13"><img src=3D"http://email-media.s3.amazonaws.com/spacer.gif=
+" width=3D"1" height=3D"1" alt=3D"" border=3D"0" style=3D"display:block;" /=
+></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td height=3D"20" class=3D"height_15">&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>                             =20
+</td>
+</tr>
+<tr>
+<td height=3D"13" style=3D"line-height:13px; font-size:0px;" class=3D"hide"=
+><img src=3D"http://email-media.s3.amazonaws.com/spacer.gif" width=3D"1" he=
+ight=3D"1" alt=3D"" border=3D"0" style=3D"display:block;" /></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td height=3D"20" class=3D"height_15">&nbsp;</td>
+</tr>
+<tr>
+<td valign=3D"top">
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" alig=
+n=3D"center" bgcolor=3D"#fffffd">
+<tr>
+<td height=3D"20">&nbsp;</td>
+</tr>
+<tr>
+<td valign=3D"top">
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" alig=
+n=3D"center">
+<tr>
+<td valign=3D"middle"><!--left col-->
+<table width=3D"400" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=
+=3D"left" class=3D"wrapper">
+<tr>
+<td height=3D"5" style=3D"line-height:5px; font-size:0px;"><img src=3D"http=
+://email-media.s3.amazonaws.com/spacer.gif" width=3D"1" height=3D"1" alt=3D=
+"" border=3D"0" style=3D"display:block;" /></td>
+</tr>
+<tr>
+<td valign=3D"top">
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" alig=
+n=3D"center">
+<tr>
+<td width=3D"15" class=3D"width_10"><img src=3D"http://email-media.s3.amazo=
+naws.com/spacer.gif" width=3D"1" height=3D"1" alt=3D"" border=3D"0" style=
+=3D"display:block;" /></td>
+<td valign=3D"middle">
+<table  width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" ali=
+gn=3D"center">
+<tr>
+<td style=3D"font-family:Georgia,serif; font-size:17px; color:#ff0000; text=
+-align:left;"></td>
+</tr>
+<tr>
+<td style=3D"font-family:Georgia,serif; font-size:37px; color:#4a4a4a; padd=
+ing-top:4px; text-align:left;"><a href=3D"http://link.economist.com/click/5=
+296761.484115/aHR0cDovL3d3dy5lY29ub21pc3QuY29tL25ld3MvbGVhZGVycy8yMTY3MjIxN=
+y1wcmVzaWRlbnQtYWJkZWwtZmF0dGFoLWFsLXNpc2ktdGFraW5nLWVneXB0LWRvd24tZmFtaWxp=
+YXItZGVhZC1lbmQtZHVkLXJldHVybi1kZW1vY3JhY3k_Y2lkMT1jdXN0L2VkbmV3L24vbi9uLzI=
+wMTUxMDhuL293bmVkL24vbi9ud2wvbi9uL24vZW1haWw/5356c5a2899249e1ccb66536B75288=
+884" style=3D"color:#4a4a4a; text-decoration:none;">Egypt=E2=80=99s dead en=
+d</a></td>
+</tr>
+<tr>
+<td style=3D"font-family:Arial,sans-serif; font-size:16px; line-height:22px=
+; color:#333333; padding-top:18px; text-align:left;" class=3D"hide">Preside=
+nt Abdel-Fattah al-Sisi is leading his country astray. He is also unchallen=
+ged</td>
+</tr>
+<tr><td  style=3D"font-family:Arial,sans-serif; font-size:14px; color:#4a4a=
+4a; padding-top:18px; text-align:left;" class=3D"hide"><a href=3D"http://li=
+nk.economist.com/click/5296761.484115/aHR0cDovL3d3dy5lY29ub21pc3QuY29tL25ld=
+3MvbGVhZGVycy8yMTY3MjIxNy1wcmVzaWRlbnQtYWJkZWwtZmF0dGFoLWFsLXNpc2ktdGFraW5n=
+LWVneXB0LWRvd24tZmFtaWxpYXItZGVhZC1lbmQtZHVkLXJldHVybi1kZW1vY3JhY3k_Y2lkMT1=
+jdXN0L2VkbmV3L24vbi9uLzIwMTUxMDhuL293bmVkL24vbi9ud2wvbi9uL24vZW1haWw/5356c5=
+a2899249e1ccb66536C75288884" style=3D"color:#4a4a4a; font-weight:bold; text=
+-decoration:none;">READ MORE ></a></td></tr>
+</table></td>
+<td width=3D"13"><img src=3D"http://email-media.s3.amazonaws.com/spacer.gif=
+" width=3D"1" height=3D"1" alt=3D"" border=3D"0" style=3D"display:block;" /=
+></td>
+</tr>
+</table></td>
+</tr>
+<tr>
+<td height=3D"20" class=3D"height_15">&nbsp;</td>
+</tr>
+</table>
+<!--[if gte mso 9]>
+</td>
+<td valign=3D"top">
+<![endif]-->=20
+<!--right col-->
+<table width=3D"306" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=
+=3D"right" class=3D"wrapper">
+<tr>
+<td valign=3D"top"><table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0=
+" border=3D"0" align=3D"center">
+<tr>
+<td width=3D"0" class=3D"width_10"><img src=3D"http://email-media.s3.amazon=
+aws.com/spacer.gif" width=3D"1" height=3D"1" alt=3D"" border=3D"0" style=3D=
+"display:block;" /></td>
+<td valign=3D"top"><table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0=
+" border=3D"0" align=3D"center">
+<tr>
+<td><a href=3D"http://link.economist.com/click/5296761.484115/aHR0cDovL3d3d=
+y5lY29ub21pc3QuY29tL25ld3MvbGVhZGVycy8yMTY3MjIxNy1wcmVzaWRlbnQtYWJkZWwtZmF0=
+dGFoLWFsLXNpc2ktdGFraW5nLWVneXB0LWRvd24tZmFtaWxpYXItZGVhZC1lbmQtZHVkLXJldHV=
+ybi1kZW1vY3JhY3k_Y2lkMT1jdXN0L2VkbmV3L24vbi9uLzIwMTUxMDhuL293bmVkL24vbi9ud2=
+wvbi9uL24vZW1haWw/5356c5a2899249e1ccb66536D75288884"><img src=3D"http://cdn=
+.static-economist.com/sites/default/files/store/al-Sisi.jpg" width=3D"291" =
+height=3D"195" alt=3D"" border=3D"0" style=3D"display:block;" class=3D"full=
+_img" /></a></td>
+</tr>
+<tr>
+<td  height=3D"0" style=3D"line-height:0px; font-family:Arial,sans-serif; f=
+ont-size:0px; color:#fffffd; padding-top:0px;" class=3D"hidden_text">Presid=
+ent Abdel-Fattah al-Sisi is leading his country astray. He is also unchalle=
+nged</td>
+</tr>
+<tr><td  height=3D"0" style=3D"line-height:0px; font-family:Arial,sans-seri=
+f; font-size:0px; color:#4a4a4a; padding-top:0px;" class=3D"hidden_cta"><a =
+href=3D"http://link.economist.com/click/5296761.484115/aHR0cDovL3d3dy5lY29u=
+b21pc3QuY29tL25ld3MvbGVhZGVycy8yMTY3MjIxNy1wcmVzaWRlbnQtYWJkZWwtZmF0dGFoLWF=
+sLXNpc2ktdGFraW5nLWVneXB0LWRvd24tZmFtaWxpYXItZGVhZC1lbmQtZHVkLXJldHVybi1kZW=
+1vY3JhY3k_Y2lkMT1jdXN0L2VkbmV3L24vbi9uLzIwMTUxMDhuL293bmVkL24vbi9ud2wvbi9uL=
+24vZW1haWw/5356c5a2899249e1ccb66536E75288884" style=3D"color:#4a4a4a; text-=
+decoration:none; font-weight:bold;">READ MORE ></a></td></tr>
+<tr><td  height=3D"0" style=3D"line-height:0px;" class=3D"height_20"><img s=
+rc=3D"http://email-media.s3.amazonaws.com/spacer.gif" width=3D"1" height=3D=
+"1" alt=3D"" border=3D"0" style=3D"display:block;" /></td></tr>
+</table></td>
+<td width=3D"15" class=3D"width_10"><img src=3D"http://email-media.s3.amazo=
+naws.com/spacer.gif" width=3D"1" height=3D"1" alt=3D"" border=3D"0" style=
+=3D"display:block;" /></td>
+</tr>
+</table></td>
+</tr>
+</table></td>
+</tr>
+</table>                             =20
+</td>
+</tr>
+<tr>
+<td height=3D"13" style=3D"line-height:13px; font-size:0px;" class=3D"hide"=
+><img src=3D"http://email-media.s3.amazonaws.com/spacer.gif" width=3D"1" he=
+ight=3D"1" alt=3D"" border=3D"0" style=3D"display:block;" /></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td height=3D"20" class=3D"height_15">&nbsp;</td>
+</tr>
+<tr>
+<td class=3D"hide"><a href=3D"http://link.economist.com/click/5296761.48411=
+5/aHR0cHM6Ly9zdWJzY3JpcHRpb25zLmVjb25vbWlzdC5jb20vR0xCL05ML0VQLz9jaWQxPWN1c=
+3QvZWRuZXcvbi9uL24vMjAxNTEwOG4vb3duZWQvbi9uL253bC9uL24vbi9lbWFpbA/5356c5a28=
+99249e1ccb66536C36768e7e"><img src=3D"http://email-media.s3.amazonaws.com/E=
+conomist/EditorsPicks/Registered_deskB.jpg" alt=3D"" border=3D"0" style=3D"=
+display:block;" width=3D"728" height=3D"98" /></a></td></tr>
+<tr><td height=3D"0" style=3D"line-height:0px; font-size:0px;" class=3D"use=
+rs_banner_swap"><a href=3D"http://link.economist.com/click/5296761.484115/a=
+HR0cHM6Ly9zdWJzY3JpcHRpb25zLmVjb25vbWlzdC5jb20vR0xCL05ML0VQLz9jaWQxPWN1c3Qv=
+ZWRuZXcvbi9uL24vMjAxNTEwOG4vb3duZWQvbi9uL253bC9uL24vbi9lbWFpbA/5356c5a28992=
+49e1ccb66536D36768e7e"><img src=3D"http://email-media.s3.amazonaws.com/spac=
+er.gif" width=3D"1" height=3D"1" alt=3D"" border=3D"0" style=3D"display:blo=
+ck;" /></a></td></tr>
+<tr><td height=3D"20" class=3D"height_15">&nbsp;</td></tr>
+<tr>
+<td valign=3D"top">
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" alig=
+n=3D"center">
+<tr>
+<td valign=3D"top">
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" alig=
+n=3D"center">
+<tr>
+<td valign=3D"middle">
+<!--left col-->
+<table width=3D"410" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=
+=3D"left" class=3D"wrapper">
+<tr>
+<td valign=3D"top" height=3D"250" bgcolor=3D"#fffffd" class=3D"height_auto"=
+>
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" alig=
+n=3D"center">
+<tr>
+<td width=3D"15" class=3D"width_10"><img src=3D"http://email-media.s3.amazo=
+naws.com/spacer.gif" width=3D"1" height=3D"1" alt=3D"" border=3D"0" style=
+=3D"display:block;" /></td>
+<td valign=3D"middle">
+<table  width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" ali=
+gn=3D"center">
+<tr><td height=3D"17"><img src=3D"http://email-media.s3.amazonaws.com/space=
+r.gif" width=3D"1" height=3D"1" alt=3D"" border=3D"0" style=3D"display:bloc=
+k;" /></td></tr>
+<tr>
+<td style=3D"font-family:Georgia,serif; font-size:17px; color:#ff0000; text=
+-align:left;"></td>
+</tr>
+<tr>
+<td style=3D"font-family:Georgia,serif; font-size:37px; color:#4a4a4a; padd=
+ing-top:4px; text-align:left;"><a href=3D"http://link.economist.com/click/5=
+296761.484115/aHR0cDovL3d3dy5lY29ub21pc3QuY29tL25ld3MvYXNpYS8yMTY3MjM1OS1wc=
+mltZS1taW5pc3Rlci13YW50cy1pbmRpYS1ncm93LWZhc3Qtb3Zlci1uZXh0LTIwLXllYXJzLWNo=
+aW5hLWhhcy1vdmVyLXBhc3QtMjA_Y2lkMT1jdXN0L2VkbmV3L24vbi9uLzIwMTUxMDhuL293bmV=
+kL24vbi9ud2wvbi9uL24vZW1haWw/5356c5a2899249e1ccb66536Bca0b252c" style=3D"co=
+lor:#4a4a4a; text-decoration:none;">India=E2=80=99s environment</a></td>
+</tr>
+<tr>
+<td style=3D"font-family:Arial,sans-serif; font-size:16px; line-height:22px=
+; color:#333333; padding-top:18px; text-align:left;">India=E2=80=99s prime =
+minister wants his country's economy to grow as fast as China's has. Will t=
+hat lead to Chinese levels of pollution?</td>
+</tr>
+<tr>
+<td  style=3D"font-family:Arial,sans-serif; font-size:14px; color:#4a4a4a; =
+padding-top:18px;"><a href=3D"http://link.economist.com/click/5296761.48411=
+5/aHR0cDovL3d3dy5lY29ub21pc3QuY29tL25ld3MvYXNpYS8yMTY3MjM1OS1wcmltZS1taW5pc=
+3Rlci13YW50cy1pbmRpYS1ncm93LWZhc3Qtb3Zlci1uZXh0LTIwLXllYXJzLWNoaW5hLWhhcy1v=
+dmVyLXBhc3QtMjA_Y2lkMT1jdXN0L2VkbmV3L24vbi9uLzIwMTUxMDhuL293bmVkL24vbi9ud2w=
+vbi9uL24vZW1haWw/5356c5a2899249e1ccb66536Cca0b252c" style=3D"color:#4a4a4a;=
+ font-weight:bold; text-decoration:none;">READ MORE ></a></td>
+</tr>
+</table>
+</td>
+<td width=3D"10"><img src=3D"http://email-media.s3.amazonaws.com/spacer.gif=
+" width=3D"1" height=3D"1" alt=3D"" border=3D"0" style=3D"display:block;" /=
+></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!--[if gte mso 9]>
+</td>
+<td valign=3D"top">
+<![endif]-->=20
+<!--right col-->
+<table width=3D"300" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=
+=3D"right" class=3D"wrapper">
+<tr><td height=3D"0" style=3D"line-height:0px;" class=3D"height_18"><img sr=
+c=3D"http://email-media.s3.amazonaws.com/spacer.gif" width=3D"1" height=3D"=
+1" alt=3D"" border=3D"0" style=3D"display:block;" /></td></tr>
+<!--ad test-->
+<tr>
+<td class=3D"mpu_deskmob">
+<a href=3D"http://link.economist.com/click/5296761.484115/aHR0cDovL3B1YmFkc=
+y5nLmRvdWJsZWNsaWNrLm5ldC9nYW1wYWQvanVtcD9pdT0vNTYwNS90ZWcub3Ftay9rbDJ0JnN6=
+PTMwMHgyNTAmdD1wb3MlM0RtcHVfdG9wJmM9MTA5MTI2NQ/5356c5a2899249e1ccb66536B407=
+c425b"><img src=3D"http://pubads.g.doubleclick.net/gampad/ad?iu=3D/5605/teg=
+.oqmk/kl2t&sz=3D300x250&t=3Dpos%3Dmpu_top&c=3D1091265" alt=3D"" border=3D"0=
+" style=3D"display:block;" width=3D"300" height=3D"250" /></a>
+</td>
+</tr>
+<tr><td height=3D"0" style=3D"line-height:0px;" class=3D"height_18"><img sr=
+c=3D"http://email-media.s3.amazonaws.com/spacer.gif" width=3D"1" height=3D"=
+1" alt=3D"" border=3D"0" style=3D"display:block;" /></td></tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td height=3D"20" class=3D"hide">&nbsp;</td>
+</tr>
+<tr>
+<td valign=3D"top">
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" alig=
+n=3D"center" bgcolor=3D"#fffffd">
+<tr>
+<td height=3D"20">&nbsp;</td>
+</tr>
+<tr>
+<td valign=3D"top">
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" alig=
+n=3D"center">
+<tr>
+<td valign=3D"middle">
+<!--left col-->
+<table width=3D"400" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=
+=3D"left" class=3D"wrapper">
+<tr>
+<td height=3D"5" style=3D"line-height:5px; font-size:0px;"><img src=3D"http=
+://email-media.s3.amazonaws.com/spacer.gif" width=3D"1" height=3D"1" alt=3D=
+"" border=3D"0" style=3D"display:block;" /></td>
+</tr>
+<tr>
+<td valign=3D"top">
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" alig=
+n=3D"center">
+<tr>
+<td width=3D"15" class=3D"width_10"><img src=3D"http://email-media.s3.amazo=
+naws.com/spacer.gif" width=3D"1" height=3D"1" alt=3D"" border=3D"0" style=
+=3D"display:block;" /></td>
+<td valign=3D"middle">
+<table  width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" ali=
+gn=3D"center">
+<tr>
+<td style=3D"font-family:Georgia,serif; font-size:17px; color:#ff0000; text=
+-align:left;"></td>
+</tr>
+<tr>
+<td style=3D"font-family:Georgia,serif; font-size:37px; color:#4a4a4a; padd=
+ing-top:4px; text-align:left;"><a href=3D"http://link.economist.com/click/5=
+296761.484115/aHR0cDovL3d3dy5lY29ub21pc3QuY29tL25ld3MvdW5pdGVkLXN0YXRlcy8yM=
+TY3MTE1MC1ob3ctdGVtcGxlLWdyYW5kaW5zLWRlc2lnbnMtaGF2ZS1yZWZvcm1lZC1tZWF0LWlu=
+ZHVzdHJ5LWp1bmdsZS1uby1tb3JlP2NpZDE9Y3VzdC9lZG5ldy9uL24vbi8yMDE1MTA4bi9vd25=
+lZC9uL24vbndsL24vbi9uL2VtYWls/5356c5a2899249e1ccb66536Bdd473724" style=3D"c=
+olor:#4a4a4a; text-decoration:none;">Kinder, gentler slaughterhouses</a></t=
+d>
+</tr>
+<tr>
+<td style=3D"font-family:Arial,sans-serif; font-size:16px; line-height:22px=
+; color:#333333; padding-top:18px; text-align:left;" class=3D"hide">Temple =
+Grandin=E2=80=99s designs have revolutionised America=E2=80=99s meat indust=
+ry</td>
+</tr>
+<tr><td  style=3D"font-family:Arial,sans-serif; font-size:14px; color:#4a4a=
+4a; padding-top:18px; text-align:left;" class=3D"hide"><a href=3D"http://li=
+nk.economist.com/click/5296761.484115/aHR0cDovL3d3dy5lY29ub21pc3QuY29tL25ld=
+3MvdW5pdGVkLXN0YXRlcy8yMTY3MTE1MC1ob3ctdGVtcGxlLWdyYW5kaW5zLWRlc2lnbnMtaGF2=
+ZS1yZWZvcm1lZC1tZWF0LWluZHVzdHJ5LWp1bmdsZS1uby1tb3JlP2NpZDE9Y3VzdC9lZG5ldy9=
+uL24vbi8yMDE1MTA4bi9vd25lZC9uL24vbndsL24vbi9uL2VtYWls/5356c5a2899249e1ccb66=
+536Cdd473724" style=3D"color:#4a4a4a; font-weight:bold; text-decoration:non=
+e;">READ MORE ></a></td></tr>
+</table></td>
+<td width=3D"13"><img src=3D"http://email-media.s3.amazonaws.com/spacer.gif=
+" width=3D"1" height=3D"1" alt=3D"" border=3D"0" style=3D"display:block;" /=
+></td>
+</tr>
+</table></td>
+</tr>
+<tr>
+<td height=3D"20" class=3D"height_15">&nbsp;</td>
+</tr>
+</table>
+<!--[if gte mso 9]>
+</td>
+<td valign=3D"top">
+<![endif]-->=20
+<!--right col-->
+<table width=3D"306" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=
+=3D"right" class=3D"wrapper">
+<tr>
+<td valign=3D"top">
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" alig=
+n=3D"center">
+<tr>
+<td width=3D"0" class=3D"width_10"><img src=3D"http://email-media.s3.amazon=
+aws.com/spacer.gif" width=3D"1" height=3D"1" alt=3D"" border=3D"0" style=3D=
+"display:block;" /></td>
+<td valign=3D"top">
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" alig=
+n=3D"center">
+<tr>
+<td><a href=3D"http://link.economist.com/click/5296761.484115/aHR0cDovL3d3d=
+y5lY29ub21pc3QuY29tL25ld3MvdW5pdGVkLXN0YXRlcy8yMTY3MTE1MC1ob3ctdGVtcGxlLWdy=
+YW5kaW5zLWRlc2lnbnMtaGF2ZS1yZWZvcm1lZC1tZWF0LWluZHVzdHJ5LWp1bmdsZS1uby1tb3J=
+lP2NpZDE9Y3VzdC9lZG5ldy9uL24vbi8yMDE1MTA4bi9vd25lZC9uL24vbndsL24vbi9uL2VtYW=
+ls/5356c5a2899249e1ccb66536Ddd473724"><img src=3D"http://cdn.static-economi=
+st.com/sites/default/files/store/Grandin.jpg" width=3D"291" height=3D"195" =
+alt=3D"" border=3D"0" style=3D"display:block;" class=3D"full_img" /></a></t=
+d>
+</tr>
+<tr>
+<td  height=3D"0" style=3D"line-height:0px; font-family:Arial,sans-serif; f=
+ont-size:0px; color:#fffffd; padding-top:0px;" class=3D"hidden_text">Temple=
+ Grandin=E2=80=99s designs have revolutionised America=E2=80=99s meat indus=
+try</td>
+</tr>
+<tr><td  height=3D"0" style=3D"line-height:0px; font-family:Arial,sans-seri=
+f; font-size:0px; color:#4a4a4a; padding-top:0px;" class=3D"hidden_cta"><a =
+href=3D"http://link.economist.com/click/5296761.484115/aHR0cDovL3d3dy5lY29u=
+b21pc3QuY29tL25ld3MvdW5pdGVkLXN0YXRlcy8yMTY3MTE1MC1ob3ctdGVtcGxlLWdyYW5kaW5=
+zLWRlc2lnbnMtaGF2ZS1yZWZvcm1lZC1tZWF0LWluZHVzdHJ5LWp1bmdsZS1uby1tb3JlP2NpZD=
+E9Y3VzdC9lZG5ldy9uL24vbi8yMDE1MTA4bi9vd25lZC9uL24vbndsL24vbi9uL2VtYWls/5356=
+c5a2899249e1ccb66536Edd473724" style=3D"color:#4a4a4a; text-decoration:none=
+; font-weight:bold;">READ MORE ></a></td></tr>
+<tr><td  height=3D"0" style=3D"line-height:0px;" class=3D"height_20"><img s=
+rc=3D"http://email-media.s3.amazonaws.com/spacer.gif" width=3D"1" height=3D=
+"1" alt=3D"" border=3D"0" style=3D"display:block;" /></td></tr>
+</table>
+</td>
+<td width=3D"15" class=3D"width_10"><img src=3D"http://email-media.s3.amazo=
+naws.com/spacer.gif" width=3D"1" height=3D"1" alt=3D"" border=3D"0" style=
+=3D"display:block;" /></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>     =20
+</td>
+</tr>
+<tr>
+<td height=3D"13" style=3D"line-height:13px; font-size:0px;" class=3D"hide"=
+><img src=3D"http://email-media.s3.amazonaws.com/spacer.gif" width=3D"1" he=
+ight=3D"1" alt=3D"" border=3D"0" style=3D"display:block;" /></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td height=3D"20" class=3D"height_15">&nbsp;</td>
+</tr>
+<tr>
+<td valign=3D"top">
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" alig=
+n=3D"center" class=3D"text_section">
+<tr>
+<td height=3D"50" bgcolor=3D"#666666" style=3D"font-family:Georgia,serif; f=
+ont-size:22px; color:#fffffd; text-align:left; padding-left:15px;">Politics=
+ this week</td>
+</tr>
+<tr>
+<td bgcolor=3D"#fffffd" style=3D"text-align:left; padding-left:16px; paddin=
+g-right:16px; padding-top:18px; padding-bottom:30px;font-family:Arial,sans-=
+serif; color:#4a4a4a; font-size:16px; line-height:22px;">M=C3=A9decins Sans=
+ Fronti=C3=A8res (MSF) called for an independent commission to investigate =
+strikes by American aircraft on a hospital in Kunduz in northern Afghanista=
+n which killed12 MSF medical staff and ten patients, three of them children=
+. The attack took place as Afghan forces were attempting to retake the city=
+ from Taliban fighters. Barack Obama apologised, but the American and Afgha=
+n governments offered conflicting accounts of what happened. It remains unc=
+ertain whether Afghan troops have regained full control of Kunduz, as their=
+ government claims</td>
+</tr>
+<tr>
+<td bgcolor=3D"#fffffd" style=3D"text-align:left; padding-left:16px; paddin=
+g-right:16px; padding-bottom:15px;font-family:Arial,sans-serif; color:#4a4a=
+4a; font-size:16px; line-height:22px;"><a href=3D"http://link.economist.com=
+/click/5296761.484115/aHR0cDovL3d3dy5lY29ub21pc3QuY29tL25ld3MvdW5pdGVkLXN0Y=
+XRlcy8yMTY3MjM2NS1maWdodGluZy1rdW5kdXotaWxsdXN0cmF0ZXMtd2h5LWFtZXJpY2EtbXVz=
+dC1yZW1haW4tYWZnaGFuaXN0YW4tdW5lbmRpbmctd2FyP2NpZDE9Y3VzdC9lZG5ldy9uL24vbi8=
+yMDE1MTA4bi9vd25lZC9uL24vbndsL24vbi9uL2VtYWls/5356c5a2899249e1ccb66536B8392=
+d3d4" style=3D"color:#4a4a4a; font-weight:bold; text-decoration:none; font-=
+size:14px;">SEE ARTICLE > </a></td>
+</tr>
+<tr>
+<td bgcolor=3D"#fffffd" style=3D"text-align:left; padding-left:16px; paddin=
+g-right:16px; padding-bottom:20px;font-family:Arial,sans-serif; color:#4a4a=
+4a; font-size:16px; line-height:22px;"><a href=3D"http://link.economist.com=
+/click/5296761.484115/aHR0cDovL3d3dy5lY29ub21pc3QuY29tL25ld3Mvd29ybGQtd2Vla=
+y8yMTY3MjM3NS1wb2xpdGljcy13ZWVrP2NpZDE9Y3VzdC9lZG5ldy9uL24vbi8yMDE1MTA4bi9v=
+d25lZC9uL24vbndsL24vbi9uL2VtYWls/5356c5a2899249e1ccb66536Bead31de0" style=
+=3D"color:#4a4a4a; font-weight:bold; text-decoration:none; font-size:14px;"=
+>MORE FROM POLITICS THIS WEEK > </a></td>
+</tr>=20
+</table>
+</td>
+</tr>
+<tr>
+<td height=3D"20" class=3D"height_15">&nbsp;</td>
+</tr>
+<!-- START NEW 2-COL BUSINESS SECTION-->
+<tr>
+<td valign=3D"top">
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" dir=
+=3D"ltr" align=3D"center">
+<tr>
+<td valign=3D"top">
+<!--left col-->
+<table width=3D"410" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=
+=3D"left" dir=3D"ltr" class=3D"wrapper">
+<tr>
+<td valign=3D"top">
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" alig=
+n=3D"center" class=3D"text_section">
+<tr>
+<td height=3D"50" bgcolor=3D"#666666" style=3D"font-family:Georgia,serif; f=
+ont-size:22px; color:#fffffd; text-align:left; padding-left:15px;">Business=
+ this week</td>
+</tr>
+<tr>
+<td bgcolor=3D"#fffffd" style=3D"text-align:left; padding-left:16px; paddin=
+g-right:16px; padding-top:18px; padding-bottom:30px;font-family:Arial,sans-=
+serif; color:#4a4a4a; font-size:16px; line-height:22px;">After five years o=
+f negotiations a deal was at last struck on the Trans-Pacific Partnership, =
+the biggest trade accord in years. TPP covers 12 countries in Asia and the =
+Americas that account for 40% of the world=E2=80=99s economy. The deal was =
+largely welcomed by political leaders, but faces an uphill battle getting a=
+pproved in some parliaments</td>
+</tr>
+<tr>
+<td bgcolor=3D"#fffffd" style=3D"text-align:left; padding-left:16px; paddin=
+g-right:16px; padding-bottom:15px;font-family:Arial,sans-serif; color:#4a4a=
+4a; font-size:16px; line-height:22px;"><a href=3D"http://link.economist.com=
+/click/5296761.484115/aHR0cDovL3d3dy5lY29ub21pc3QuY29tL25ld3MvbGVhZGVycy8yM=
+TY3MjIxNC1zZWFsaW5nLXBhY2lmaWMtdHJhZGUtZGVhbC13ZWxjb21lLXNwYXJlLWNoZWVycy1l=
+dmVyeS1zaWx2ZXItbGluaW5nLWhhcz9jaWQxPWN1c3QvZWRuZXcvbi9uL24vMjAxNTEwOG4vb3d=
+uZWQvbi9uL253bC9uL24vbi9lbWFpbA/5356c5a2899249e1ccb66536B9d7217b8" style=3D=
+"color:#4a4a4a; font-weight:bold; text-decoration:none; font-size:14px;">SE=
+E ARTICLE > </a></td>
+</tr>
+<tr>
+<td bgcolor=3D"#fffffd" style=3D"text-align:left; padding-left:16px; paddin=
+g-right:16px; padding-bottom:20px;font-family:Arial,sans-serif; color:#4a4a=
+4a; font-size:16px; line-height:22px;"><a href=3D"http://link.economist.com=
+/click/5296761.484115/aHR0cDovL3d3dy5lY29ub21pc3QuY29tL25ld3Mvd29ybGQtd2Vla=
+y8yMTY3MjM3NC1idXNpbmVzcy13ZWVrP2NpZDE9Y3VzdC9lZG5ldy9uL24vbi8yMDE1MTA4bi9v=
+d25lZC9uL24vbndsL24vbi9uL2VtYWls/5356c5a2899249e1ccb66536B27209de5" style=
+=3D"color:#4a4a4a; font-weight:bold; text-decoration:none; font-size:14px;"=
+>MORE FROM BUSINESS THIS WEEK > </a></td>
+</tr>=20
+</table>
+</td>
+</tr>
+</table>
+<!--[if gte mso 9]>
+</td>
+<td valign=3D"top">
+<![endif]-->                                      =20
+<!--right col-->
+<table width=3D"300" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=
+=3D"right" dir=3D"ltr" class=3D"wrapper">
+<!--<tr><td height=3D"0" style=3D"line-height:0px;" class=3D"height_18"><im=
+g src=3D"http://email-media.s3.amazonaws.com/spacer.gif" width=3D"1" height=
+=3D"1" alt=3D"" border=3D"0" style=3D"display:block;" /></td></tr>-->
+<tr>
+<td class=3D"mpu_mob"><a href=3D"http://link.economist.com/click/5296761.48=
+4115/aHR0cDovL3B1YmFkcy5nLmRvdWJsZWNsaWNrLm5ldC9nYW1wYWQvanVtcD9pdT0vNTYwNS=
+90ZWcub3Ftay9rbDJ0JnN6PTMwMHgyNTAmdD1wb3MlM0RtcHVfYm90dG9tJmM9MTA5MTI2NQ/53=
+56c5a2899249e1ccb66536C263bf4bd"><img src=3D"http://pubads.g.doubleclick.ne=
+t/gampad/ad?iu=3D/5605/teg.oqmk/kl2t&sz=3D300x250&t=3Dpos%3Dmpu_bottom&c=3D=
+1091265" alt=3D"" border=3D"0" style=3D"display:block;" width=3D"300" heigh=
+t=3D"250" /></a></td>
+</tr>
+<tr><td height=3D"0" style=3D"line-height:0px;" class=3D"height_18"><img sr=
+c=3D"http://email-media.s3.amazonaws.com/spacer.gif" width=3D"1" height=3D"=
+1" alt=3D"" border=3D"0" style=3D"display:block;" /></td></tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<!-- END NEW 2-COL BUSINESS SECTION-->           =20
+<tr>
+<td height=3D"20" class=3D"height_15">&nbsp;</td>
+</tr>
+<tr>
+<td valign=3D"middle" height=3D"72" bgcolor=3D"#fffffd" class=3D"social_con=
+tainer">
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" alig=
+n=3D"center">
+<tr>
+<td valign=3D"top">
+<!--left col-->
+<table width=3D"238" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=
+=3D"left" class=3D"wrapper">
+<tr>
+<td style=3D"text-align:right; font-family:Georgia,serif; font-size:22px; c=
+olor:#000001;" class=3D"follow">Follow <em>The Economist</em></td>
+</tr>
+</table>
+<!--right col-->
+<table width=3D"306" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=
+=3D"right" class=3D"wrapper">
+<tr>
+<td style=3D"padding-right:10px;" class=3D"social"><a href=3D"http://link.e=
+conomist.com/click/5296761.484115/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL1RoZUVjb=
+25vbWlzdA/5356c5a2899249e1ccb66536B99fecb82"><img src=3D"http://email-media=
+.s3.amazonaws.com/Economist/EditorsPicks/facebook.jpg" width=3D"25" height=
+=3D"25" alt=3D"" border=3D"0" style=3D"display:block;" /></a></td>
+<td style=3D"padding-right:10px;"><a href=3D"http://link.economist.com/clic=
+k/5296761.484115/aHR0cHM6Ly90d2l0dGVyLmNvbS9UaGVFY29ub21pc3Q/5356c5a2899249=
+e1ccb66536B360d10ab"><img src=3D"http://email-media.s3.amazonaws.com/Econom=
+ist/EditorsPicks/twitter.jpg" width=3D"25" height=3D"25" alt=3D"" border=3D=
+"0" style=3D"display:block;" /></a></td>
+<td style=3D"padding-right:10px;"><a href=3D"http://link.economist.com/clic=
+k/5296761.484115/aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2dycC9ob21lP2dpZD0zMDU2Mj=
+E2/5356c5a2899249e1ccb66536B84335854"><img src=3D"http://email-media.s3.ama=
+zonaws.com/Economist/EditorsPicks/linkedin.jpg" width=3D"25" height=3D"25" =
+alt=3D"" border=3D"0" style=3D"display:block;" /></a></td>
+<td style=3D"padding-right:10px;"><a href=3D"http://link.economist.com/clic=
+k/5296761.484115/aHR0cHM6Ly9wbHVzLmdvb2dsZS5jb20vK1RoZUVjb25vbWlzdC9wb3N0cw=
+/5356c5a2899249e1ccb66536Ba23fe3aa"><img src=3D"http://email-media.s3.amazo=
+naws.com/Economist/EditorsPicks/google.jpg" width=3D"25" height=3D"25" alt=
+=3D"" border=3D"0" style=3D"display:block;" /></a></td>
+<td style=3D"padding-right:10px;"><a href=3D"http://link.economist.com/clic=
+k/5296761.484115/aHR0cDovL3RoZWVjb25vbWlzdC50dW1ibHIuY29tLw/5356c5a2899249e=
+1ccb66536B9dd3b6b1"><img src=3D"http://email-media.s3.amazonaws.com/Economi=
+st/EditorsPicks/tumblr.jpg" width=3D"25" height=3D"25" alt=3D"" border=3D"0=
+" style=3D"display:block;" /></a></td>
+<td style=3D"padding-right:10px;"><a href=3D"http://link.economist.com/clic=
+k/5296761.484115/aHR0cHM6Ly93d3cucGludGVyZXN0LmNvbS90aGVlY29ub21pc3Qv/5356c=
+5a2899249e1ccb66536B6dd8819e"><img src=3D"http://email-media.s3.amazonaws.c=
+om/Economist/EditorsPicks/pinterest.jpg" width=3D"25" height=3D"25" alt=3D"=
+" border=3D"0" style=3D"display:block;" /></a></td>
+<td style=3D"padding-right:10px;"><a href=3D"http://link.economist.com/clic=
+k/5296761.484115/aHR0cHM6Ly93d3cueW91dHViZS5jb20vdXNlci9lY29ub21pc3RtYWdhem=
+luZQ/5356c5a2899249e1ccb66536B8a77d6c7"><img src=3D"http://email-media.s3.a=
+mazonaws.com/Economist/EditorsPicks/youtube.jpg" width=3D"25" height=3D"25"=
+ alt=3D"" border=3D"0" style=3D"display:block;" /></a></td>
+<td style=3D"padding-right:10px;"><a href=3D"http://link.economist.com/clic=
+k/5296761.484115/aHR0cDovL3d3dy5lY29ub21pc3QuY29tL3Jzcw/5356c5a2899249e1ccb=
+66536B618f0cb4"><img src=3D"http://email-media.s3.amazonaws.com/Economist/E=
+ditorsPicks/rss.jpg" width=3D"25" height=3D"25" alt=3D"" border=3D"0" style=
+=3D"display:block;" /></a></td>
+<td><a href=3D"http://link.economist.com/click/5296761.484115/aHR0cDovL3d3d=
+y5lY29ub21pc3QuY29tL25ld3NsZXR0ZXJz/5356c5a2899249e1ccb66536Ba2f3b701"><img=
+ src=3D"http://email-media.s3.amazonaws.com/Economist/EditorsPicks/email.jp=
+g" width=3D"25" height=3D"25" alt=3D"" border=3D"0" style=3D"display:block;=
+" /></a></td>
+</tr>
+</table>
+</td>
+<td width=3D"161">&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td height=3D"20" class=3D"height_15">&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td width=3D"20" class=3D"width_10">&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!--End Main Table-->
+<!--Start Footer-->
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" alig=
+n=3D"center" bgcolor=3D"#999999">
+<tr>
+<td valign=3D"top">
+<table width=3D"768" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=
+=3D"center" class=3D"main_table">
+<tr>
+<td valign=3D"top" style=3D"min-width:600px;" class=3D"min_width">
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" alig=
+n=3D"center">
+<tr>
+<td width=3D"20" class=3D"width_10">&nbsp;</td>
+<td valign=3D"top">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" alig=
+n=3D"center">
+<tr><td height=3D"20" class=3D"height_15">&nbsp;</td></tr>
+<tr>
+<td valign=3D"top">
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" alig=
+n=3D"center">
+<tr>
+<td width=3D"101"><a href=3D"http://link.economist.com/click/5296761.484115=
+/aHR0cDovL3d3dy5lY29ub21pc3QuY29tLz9jaWQxPWN1c3QvZWRuZXcvbi9uL24vMjAxNTEwOG=
+4vb3duZWQvbi9uL253bC9uL24vbi9lbWFpbA/5356c5a2899249e1ccb66536C864e6c6d"><im=
+g src=3D"http://email-media.s3.amazonaws.com/Economist/EditorsPicks/logo_50=
+0x247.jpg" width=3D"100" height=3D"50" alt=3D"" border=3D"0" style=3D"displ=
+ay:block;" /></a></td>
+<td style=3D"font-family:Georgia,serif; font-size:22px; color:#fffffd; font=
+-style:italic; text-align:left; padding-left:15px;"><a href=3D"http://link.=
+economist.com/click/5296761.484115/aHR0cDovL3d3dy5lY29ub21pc3QuY29tLz9jaWQx=
+PWN1c3QvZWRuZXcvbi9uL24vMjAxNTEwOG4vb3duZWQvbi9uL253bC9uL24vbi9lbWFpbA/5356=
+c5a2899249e1ccb66536D864e6c6d" style=3D"color:#fffffd; text-decoration:none=
+;">Go to Economist.com</a></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr><td height=3D"20" class=3D"height_15">&nbsp;</td></tr>
+<tr><td style=3D"font-family:Arial,sans-serif; font-size:14px; line-height:=
+18px; color:#fffffd; text-align:left;">This e-mail has been sent to: <a hre=
+f=3D"mailto:erictessenow@web.de" style=3D"color:#fffffd; text-decoration:no=
+ne;">erictessenow@web.de</a> If you'd like to update your details please cl=
+ick here (you may need to log in). Questions? Comments? Please <a href=3D"h=
+ttp://link.economist.com/click/5296761.484115/aHR0cDovL3d3dy5lY29ub21pc3QuY=
+29tL2NvbnRhY3QtaW5mbz9jaWQxPWN1c3QvZWRuZXcvbi9uL24vMjAxNTEwOG4vb3duZWQvbi9u=
+L253bC9uL24vbi9lbWFpbA/5356c5a2899249e1ccb66536B49932e84" style=3D"color:#f=
+ffffd; text-decoration:underline;">contact us</a>. Replies to this e-mail w=
+ill not reach us.<br /><br />
+If you no longer wish to receive this newsletter, unsubscribe <a href=3D"ht=
+tp://link.economist.com/click/5296761.484115/aHR0cDovL3d3dy5lY29ub21pc3QuY2=
+9tL3Vuc3Vic2NyaWJlP2U9ZXJpY3Rlc3Nlbm93JTQwd2ViLmRlJmg9OGQ1NTBmNzI4NGY0ZWExZ=
+TNjNWZiZmVkOTE4NWY4ODImbT0yMTAxNjIwNQ/5356c5a2899249e1ccb66536B61c942bb" st=
+yle=3D"color:#fffffd; text-decoration:underline;" target=3D"_blank">here</a=
+>.<br /><br />
+Copyright &copy; The Economist Group 2015. All rights reserved.<br />
+<a href=3D"http://link.economist.com/click/5296761.484115/aHR0cDovL3d3dy5lY=
+29ub21pc3Rncm91cG1lZGlhLmNvbS8/5356c5a2899249e1ccb66536Be5d03aef" style=3D"=
+color:#fffffd; text-decoration:none;">Advertising Info</a> | <a href=3D"htt=
+p://link.economist.com/click/5296761.484115/aHR0cDovL3d3dy5lY29ub21pc3Rncm9=
+1cC5jb20vcmVzdWx0c19hbmRfZ292ZXJuYW5jZS9nb3Zlcm5hbmNlL3ByaXZhY3kv/5356c5a28=
+99249e1ccb66536Bf5d70852" style=3D"color:#fffffd; text-decoration:none;">Pr=
+ivacy Policy</a> | <a href=3D"http://link.economist.com/click/5296761.48411=
+5/aHR0cDovL3d3dy5lY29ub21pc3QuY29tL2xlZ2FsL3Rlcm1zLW9mLXVzZT9jaWQxPWN1c3QvZ=
+WRuZXcvbi9uL24vMjAxNTEwOG4vb3duZWQvbi9uL253bC9uL24vbi9lbWFpbA/5356c5a289924=
+9e1ccb66536Ba12016f0"  style=3D"color:#fffffd; text-decoration:none;">Terms=
+ & Conditions</a> | <a href=3D"http://link.economist.com/click/5296761.4841=
+15/aHR0cDovL3d3dy5lY29ub21pc3QuY29tL2hlbHAvaG9tZT9jaWQxPWN1c3QvZWRuZXcvbi9u=
+L24vMjAxNTEwOG4vb3duZWQvbi9uL253bC9uL24vbi9lbWFpbA/5356c5a2899249e1ccb66536=
+B5ae63968" style=3D"color:#fffffd; text-decoration:none;">Help</a><br /><br=
+ />
+<span class=3D"applelinks_fffffd">=03=03Registered in England and Wales. No=
+.236383<br />
+=03Registered office: 25 St James's Street, London, SW1A 1HG</span></td></t=
+r>
+<tr><td height=3D"60">&nbsp;</td></tr>
+</table>
+</td>
+<td width=3D"20" class=3D"width_10">&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!--End Footer-->
+</td>
+</tr>
+</table>
+<!-- End of Background table -->
+<!--DO NOT REMOVE THIS DIV! This is a hack to force desktop layout for iPho=
+ne Gmail App-->
+<div style=3D"display:none; white-space:nowrap; font:15px courier; line-hei=
+ght:0;">
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+;=20
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+;=20
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+</div>
+<style>@media print{ #_t { background-image: url('https://ue0wknz6.emltrk.c=
+om/ue0wknz6?p&d=3D[UNIQUE]');}} div.OutlookMessageHeader {background-image:=
+url('https://ue0wknz6.emltrk.com/ue0wknz6?f&d=3D[UNIQUE]')} table.moz-email=
+-headers-table {background-image:url('https://ue0wknz6.emltrk.com/ue0wknz6?=
+f&d=3D[UNIQUE]')} blockquote #_t {background-image:url('https://ue0wknz6.em=
+ltrk.com/ue0wknz6?f&d=3D[UNIQUE]')} #MailContainerBody #_t {background-imag=
+e:url('https://ue0wknz6.emltrk.com/ue0wknz6?f&d=3D[UNIQUE]')}</style><div i=
+d=3D"_t"></div>
+<img src=3D"https://ue0wknz6.emltrk.com/ue0wknz6?d=3D[UNIQUE]" width=3D"1" =
+height=3D"1" border=3D"0" />
+</body>
+</html>
+------=_Part_27290992_1580750147.1444331961084--
+

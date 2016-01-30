@@ -1,0 +1,112 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.79.82.193 with SMTP id g184csp2623697ivb;
+        Tue, 9 Jun 2015 19:20:14 -0700 (PDT)
+X-Received: by 10.107.37.69 with SMTP id l66mr1041747iol.76.1433902809328;
+        Tue, 09 Jun 2015 19:20:09 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 39JR3VRUKDK0fPUbYNeNYRegf-abeRcYlTbbTYR.PbZReVPgRffRabjjRO.QR@scholar-alerts.bounces.google.com designates 209.85.214.201 as permitted sender) smtp.mail=39JR3VRUKDK0fPUbYNeNYRegf-abeRcYlTbbTYR.PbZReVPgRffRabjjRO.QR@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 39JR3VRUKDK0fPUbYNeNYRegf-abeRcYlTbbTYR.PbZReVPgRffRabjjRO.QR@scholar-alerts.bounces.google.com designates 209.85.214.201 as permitted sender) client-ip=209.85.214.201;
+Received: by 10.64.148.102 with POP3 id tr6mf535301ieb.19;
+        Tue, 09 Jun 2015 19:20:09 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 39JR3VRUKDK0fPUbYNeNYRegf-abeRcYlTbbTYR.PbZReVPgRffRabjjRO.QR@scholar-alerts.bounces.google.com
+Received: from mail-ob0-f201.google.com ([209.85.214.201]) by mx-ha.web.de
+ (mxweb005) with ESMTPS (Nemesis) id 0M9qum-1YvwRp13wO-00B0Xl for
+ <erictessenow@web.de>; Wed, 10 Jun 2015 03:37:57 +0200
+Received: by obcuy5 with SMTP id uy5so2344481obc.0
+        for <erictessenow@web.de>; Tue, 09 Jun 2015 18:37:56 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=H4KUjeXKqY2wfPn95cdcO88brmn46FMJsR9d7XKVDzI=;
+        b=CBd0hAw66OlOr0tGVaKVCvnj+69wCW+c89+cNIOxDRwUYdwcbXtX2GekP6kxXcByLT
+         bU3P3CWv4O2UBJ+uWT7lzoVoFU3hZ0GkwOoIVBVZun5ujIWap6HzvTZRFdNh/EVA8/n1
+         +b7tmkFFj6zaUQjd1m4q3nfNj3S5sfSrwZw/jsTOVsbRxktSJmlw+7VLka2cRCjKDeS3
+         5AcdFVKqUAV5k7Yc6ufXEWn50SaiYfK5vxidmvPyDyMPwydQYCdrvpobRqnVuFVfec2U
+         Px74aIUgFZqwGlRjsaEYniH2q2hqwQ4eYajir+y1vVwd631uNDHI6LYL9RMVU6fyT+A2
+         LQ+w==
+MIME-Version: 1.0
+X-Received: by 10.50.132.65 with SMTP id os1mr2173833igb.2.1433900276029; Tue,
+ 09 Jun 2015 18:37:56 -0700 (PDT)
+Message-ID: <047d7b2e40669898d305181fecde@google.com>
+Date: Wed, 10 Jun 2015 01:37:56 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:LdAgi/IViCM=:eqFYahVmcYckSNcxT0zAk1/IbT
+ 9FtXd4tILnmSqTX7Vo/0mymNufy7IRqc+p1TV2+kqRQe5jJB1MV/OXSXLe7P8cA8OW9tXY61V
+ fOvmei9PjyZFnYlgBYnSghzhgTcaQ6GHPOQ9tzPhjS75pOlHEg47ow0qyrSOMfaU192tOTxdW
+ YOKIkXhDUxF5+JS2mOAvXh8GuBkAJoonXdW6RvPflRnZ3Zt5+Iqt6fkWoVJilymO6/Nx8YgHV
+ 2O07GeO6wFwNX1TR0s6nrSelM5G5VTV+5CmjjYwJBmQI8TKWQppoC08HX42Xod0pNojXiOqb1
+ p2cwNY/3cInbc5wYeiG+XAlLOKo+MpuOULe/cQpU0oDstyAFkTlGT8NjYnAi0f3LclZa3vtOG
+ YS6AAjVApQresnhZrcILPsO4a9YGApJL+OlEsiyhfPi4bcIAYTMHdoEu1rNRJEjMHhgpp1TJj
+ SeSKOzA5m/rggNTgOxFdjLPtDQqOBPMEF41BsijV3sHwo4RX/SjokOTyoHKd4gP13FSVAS12i
+ jvidCGMc5V66R4v+FAJ0KjLLN1+WaCxN3/vErBKy+Y57QS6BAShdrkTDZCjqKpiqjPSkVe+8Z
+ xJxqlNV9kUYvcH7EkdOGjKeUhlEyCfWvvyXKRqqBKbW2VWRQJ+GZnx9dZJLNMGsfQzWst407V
+ HPLfwna3sj0Cf1JyoFoZuZLQjXO/7C19Mx3EOr7DzqTg6s59fAMwLPK+UjQ0gxToYZaNDAXbG
+ 01z9ZGt+arRe78F+0YRfMNUhd2WdtCeBb5bCI/DBCPmgAj+jfXpGZYEUqBOudhrbU4EqqOX19
+ ObfVdQAtcGgM14bkINwQ2Cn/OsN25Jz41WiSsS6le0FnITyFo7XRCLRoItHavvvLJ0/TgZW9c
+ yvhxBW2wRj2WOPFlQCf5ebTR2m+RhdUUyFTnn1trMT0qqwdBYfCZZOBrnH5Dbt9e5ysH+ItJP
+ LZieI2v/4s/9daXixkuoLwv0D4YLT1pHfGJIOdxErjKJPVcaKVo6U/MFX8oey5HK680U9EREf
+ sQYWY1h/sZKjmri7+0/eW0ziQWnZeU2EVwxNJ59N4Cfrnw7vGCSZK9NNHxQRqarcY5ChRDlGK
+ JeHDcahOAXpKUGHs+YQQHXgG+EOh1RPNVezRno3lGpks+f/BnDHtQnzUbrfEYS+5gqEFOs9ht
+ 6i+4G+Com9Or4Emobw13yi3y8sHDm5rQxCiVVz0XikbdR5zpx8Vxy49b0olizWQYFF+geOtDj
+ Ygy+21SdpFQ/6F+sM3c1sjDS5w7uLzUhKGjeOEM6oh7sl6PSKVms01YazGFKfff4ohhvT6H2G
+ MKhR
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D=
+2 color=3D#1a0dab>[HTML]</font> <a href=3D"http://scholar.google.de/scholar=
+_url?url=3Dhttp://bmjopen.bmj.com/content/5/6/e007974.full&amp;hl=3Dde&amp;=
+sa=3DX&amp;scisig=3DAAGBfm2eypJFYhgAz1nUEoc69WE7kdP4ZQ&amp;nossl=3D1&amp;oi=
+=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:und=
+erline">&hellip;  of the recording of comorbidity in primary and secondary =
+care by using the Charlson Index to predict short-term and long-term surviv=
+al in a routine <b>linked data </b>cohort</font></a></h3><div><font size=3D=
+2 color=3D#006621>CJ Crooks, J West, TR Card - BMJ Open, 2015</font></div><=
+div><font size=3D2 color=3D#222222>Objective Hospital admission records pro=
+vide snapshots of clinical histories for a subset of <br>the population adm=
+itted to hospital. In contrast, primary care records provide continuous <br=
+>clinical histories for complete populations, but might lack detail about i=
+npatient stays. <b> ...</b></font></div><br><h3 style=3D"font-weight:normal=
+;margin:0;font-size:medium;max-width:44.5em"><font size=3D2 color=3D#1a0dab=
+>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_url?url=3Dhttps:/=
+/hal.inria.fr/hal-01159826/document&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAG=
+Bfm0NweHtxpmtfQz3S9144a2bRd9k4w&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font s=
+ize=3D3 color=3D#1a0dab style=3D"text-decoration:underline">Curtains Up! Li=
+ghts, Camera, Action! Documenting the Creation of Theater and Opera Product=
+ions with <b>Linked Data </b>and Web Technologies</font></a></h3><div><font=
+ size=3D2 color=3D#006621>T Steiner, R Ronfard, PA Champin, B Encelle, Y Pr=
+i=C3=A9 - International Conference on  &hellip;, 2015</font></div><div><fon=
+t size=3D2 color=3D#222222>For this paper, in the context of the French res=
+earch project Spectacle en Ligne (s), we have <br>recorded the entire set o=
+f rehearsals of one theater and one opera production using state-of-<br>the=
+-art video equipment. The resulting raw video and audio tracks as well as m=
+anually <b> ...</b></font></div><br><h3 style=3D"font-weight:normal;margin:=
+0;font-size:medium;max-width:44.5em"><a href=3D"http://scholar.google.de/sc=
+holar_url?url=3Dhttps://apha.confex.com/apha/143am/webprogram/Paper324978.h=
+tml&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm2j3vT89A6i8-kNt3cLiPO8Cq2LbQ&=
+amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D=
+"text-decoration:underline">Using Linked PRAMS DATA to Evaluate Outcomes of=
+ a Rural Healthy Start Program</font></a></h3><div><font size=3D2 color=3D#=
+006621>S Mobley - 143rd APHA Annual Meeting and Exposition (October  &helli=
+p;, 2015</font></div><div><font size=3D2 color=3D#222222><b>...</b> Backgro=
+und The Secretary&#39;s Advisory Committee on Infant Mortality recognized<b=
+r>
+the value of <b>linked</b> <b>data</b> sets to evaluate maternal child heal=
+th programs and<br>
+encouraged collaboration from local, state, and national programs. <b>...</=
+b>=20
+</font></div><br><p><hr noshade size=3D1><font size=3D2 color=3D#222222>Die=
+ser Google Scholar-Alert wird Ihnen von Google zur Verf=C3=BCgung gestellt.=
+<br><br><a href=3D"http://scholar.google.de/scholar_alerts?view_op=3Dcancel=
+_alert_options&amp;email_for_op=3Derictessenow%40web.de&amp;alert_id=3DAIfe=
+vv3NkPcJ&amp;hl=3Dde"><font color=3D#1a0dab>Alert stornieren</font></a><br>=
+</font></div></body></html>

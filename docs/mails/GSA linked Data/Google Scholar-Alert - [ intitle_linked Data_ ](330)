@@ -1,0 +1,80 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.64.243.69 with SMTP id ww5csp53716iec;
+        Wed, 23 Apr 2014 19:53:48 -0700 (PDT)
+X-Received: by 10.50.92.42 with SMTP id cj10mr6627266igb.34.1398308026689;
+        Wed, 23 Apr 2014 19:53:46 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 31HNYUxUKDL0vfkrodudohuwv-qruhso1jrrjoh.frphulfwhvvhqrzzhe.gh@scholar-alerts.bounces.google.com designates 209.85.220.202 as permitted sender) smtp.mail=31HNYUxUKDL0vfkrodudohuwv-qruhso1jrrjoh.frphulfwhvvhqrzzhe.gh@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 31HNYUxUKDL0vfkrodudohuwv-qruhso1jrrjoh.frphulfwhvvhqrzzhe.gh@scholar-alerts.bounces.google.com designates 209.85.220.202 as permitted sender) client-ip=209.85.220.202;
+Received: by 10.50.16.163 with POP3 id h3mf813396igd.13;
+        Wed, 23 Apr 2014 19:53:45 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 31HNYUxUKDL0vfkrodudohuwv-qruhso1jrrjoh.frphulfwhvvhqrzzhe.gh@scholar-alerts.bounces.google.com
+Received: from mail-vc0-f202.google.com ([209.85.220.202]) by mx-ha.web.de
+ (mxweb108) with ESMTPS (Nemesis) id 0MSLWZ-1WSsKE1nqN-00TWoU for
+ <erictessenow@web.de>; Thu, 24 Apr 2014 04:15:49 +0200
+Received: by mail-vc0-f202.google.com with SMTP id lh14so307574vcb.1
+        for <erictessenow@web.de>; Wed, 23 Apr 2014 19:15:48 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=NKWQr1KW/N++a87sxb2KR68uMrdmc6hSI1SFaNsYe2Y=;
+        b=fKkNcJNPvwBG5FUfKvws2JYPQ4AH9YjmSb0PS+ZkzaMO/2DSSDYdx7NT2Dw10kR/NL
+         wtZoPhJsJp4RhHxAaJGD1+v5VQj+5/nBlyx7DAtQ5urhwjdfWbfdcYv85YkQDdMZ8XON
+         z7A9BPSx4mCPb7ks2qIwS2bTkkthjvkxYkiYYuEV4fkEipht12AQUzBwHJZ/SZpRGGbw
+         iHUdZZsMVn3CWyQxuhZnVvDKxPwD4zxLVZz2T9lCy1DqPgfbkRqrbezSpNRlM3wsHzoK
+         brMmbvZGLaghFNgaJkPFDmz/8iQEOvms0DsXrudPfqPxmDbuCRlm8qERyYJS3r/yHikw
+         KdoA==
+MIME-Version: 1.0
+X-Received: by 10.236.125.6 with SMTP id y6mr25006444yhh.3.1398305748350; Wed,
+ 23 Apr 2014 19:15:48 -0700 (PDT)
+Message-ID: <20cf303a35ad6af74004f7c06de1@google.com>
+Date: Thu, 24 Apr 2014 02:15:48 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:ZAq8Yhh6pGM=:dNCTG0qkZP6vZk/aJ8Z7W9hDoq
+ ioO2GsaOhE8oJmvBmy3Tz53JS1C2Q/uUIinrKTb8r/j8Na672aF5JQvJgGviukIrZzlepqeR4
+ H/uwxQ8nptm78ACiHiq8PW8xYnNGzFBtGNl4tcXChkT/YugGdyE1hRgfFvekS4x51X9TTzaC0
+ faM6LQEFGB9psSq9vb/cwzlRVQvf86glIS5sAWPCWBzDAC4Pa0gK+3YcSSxznWEJS2Jp+ASHs
+ gff4TWgs8BHktfkoQpdpvM6r7k3b1X79o0l4jGNBeIPGxR3AQUeutMu4GLMEHHNzK0AQYZr2y
+ pVd5sZZSkYwl3clTD74XAWpuYgJkfqjcSuNJjWg1KjKYB9/vCDckuB8fpu9X5uNYjIjJhBpTf
+ iXsZq6GttDfCbaR5rwE5evnSWWMQa1VsSa5I4rjnndNm8BFvLabjoPDx2IwjwVmNhQ/qEiuuA
+ fNhG8VJn2vIXmNO7zmWrXHdil2il0EfBu7T5Uv7zFaqh+edGfN3d0M3aZWJ08XM3ySXfdquwU
+ n3fyvoFu/0sBuT6G0B9sikTAwdydnNgp6dIiuCtSgemLigXVoNT7vd97j7rshP27szbZU0JFt
+ fdcdy2yCHQLJeKPfOWoqIN/wqFiLASzPBM8dKHeoR/lxLfSFf+Rc0MDNFCGS5bgLI1rDyq8q3
+ VAXU7e4uXK5pItZ0v3Lmo3w5TxM+e4KhLFzIhNYKvJlMyJgIvk+qj17LSiE7sn42j4dsDwKzT
+ SciLg7kefPditVxi/3zZu+RpejCHLP/DyuBT57MX/HHW/xxhR22UE+tpZ/XeIY5okQ3e3Mf6W
+ N7yNDi1+gjI/TXpta0uOXdb9rd6bF7mn7eLFsu0+Z++lkFh4OXAvoVylyZUXvO86VvUJSLl32
+ 3wfl6+8GE2RTct0a1x8XD+ayWBjj0AIkggS5NPcH/W7u9MISwCJAfKfFwgNTTBehfowBpdwwy
+ rStmMY3Ao5nG6gaRIZepZlx5swOG5GDMqLIVeVrHxOjx57OqUyn99cp40f2Vee84T5PGaGE1x
+ 0vYEwEQtAx4quJcB35eeLX/dhl48rixa3qq+ovNzTyn1rVDgPO+g0UZ6RXNykYiYQ8rb84xmX
+ SoYodcLrZ28Kadwy86Xm2sGqaQRiv0F92EIviz90YYWVqtSCs6ePIixlZ++F9iOQgjY6ZaSQi
+ j/SQo6Yw+ikHyaaCKua873SPTTOnlQR1+BKP1YrFa1/g==
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D=
+2 color=3D#1122cc>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_=
+url?hl=3Dde&amp;q=3Dhttp://www.diva-portal.org/smash/get/diva2:712903/FULLT=
+EXT01.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm2mx-lazfOX3KrI5Z13XJEo3T8Zng&amp;oi=
+=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D"text-decoration:und=
+erline">Supporting loose forms of collaboration: Using <b>Linked Data </b>t=
+o realize an architecture for collective knowledge construction</font></a><=
+/h3><div><font size=3D2 color=3D#009933>H Ebner - 2014</font></div><div><fo=
+nt size=3D2 color=3D#222222>Abstract This thesis is driven by the motivatio=
+n to explore a way of working collaboratively <br>that closely reflects the=
+ World Wide Web (WWW), more specifically the potential of the Web <br>archi=
+tecture built on Semantic Web technologies and <b>Linked Data</b>. The goal=
+ is to describe <b> ...</b></font></div><br><p><hr noshade size=3D1><font s=
+ize=3D2 color=3D#222222>Dieser Google Scholar-Alert wird Ihnen von Google z=
+ur Verf=C3=BCgung gestellt.<br><br><a href=3D"http://scholar.google.de/scho=
+lar_alerts?view_op=3Dcancel_alert_options&amp;email_for_op=3Derictessenow%4=
+0web.de&amp;alert_id=3DAIfevv3NkPcJ&amp;hl=3Dde"><font color=3D#1122cc>Aler=
+t stornieren</font></a><br></font></div></body></html>

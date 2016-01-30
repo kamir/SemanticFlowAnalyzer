@@ -1,0 +1,82 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.64.70.37 with SMTP id j5csp87588ieu;
+        Wed, 22 Jan 2014 17:27:06 -0800 (PST)
+X-Received: by 10.50.61.140 with SMTP id p12mr6006218igr.29.1390440423805;
+        Wed, 22 Jan 2014 17:27:03 -0800 (PST)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3ZW_gUhUKDGISCHOLARALERTS-NOREPLYGOOGLE.COMERICTESSENOWWEB.DE@scholar-alerts.bounces.google.com designates 209.85.223.201 as permitted sender) smtp.mail=3ZW_gUhUKDGISCHOLARALERTS-NOREPLYGOOGLE.COMERICTESSENOWWEB.DE@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3ZW_gUhUKDGISCHOLARALERTS-NOREPLYGOOGLE.COMERICTESSENOWWEB.DE@scholar-alerts.bounces.google.com designates 209.85.223.201 as permitted sender) client-ip=209.85.223.201;
+Received: by 10.50.7.236 with POP3 id m12mf97244iga.14;
+        Wed, 22 Jan 2014 17:27:02 -0800 (PST)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3ZW_gUhUKDGISCHOLARALERTS-NOREPLYGOOGLE.COMERICTESSENOWWEB.DE@scholar-alerts.bounces.google.com
+Received: from mail-ie0-f201.google.com ([209.85.223.201]) by mx-ha.web.de
+ (mxweb005) with ESMTPS (Nemesis) id 0MCbnm-1VxrIS13sA-009MNw for
+ <erictessenow@web.de>; Thu, 23 Jan 2014 02:24:54 +0100
+Received: by mail-ie0-f201.google.com with SMTP id tp5so92432ieb.0
+        for <erictessenow@web.de>; Wed, 22 Jan 2014 17:24:53 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=E/N2rVUEuMN9LM8WBJ6bPtoVfG1NEDSgNYVJ4N9k5AU=;
+        b=huLFXq/8a1TppGF1rToEZDIfwMMC4SEMtNLWZYJa0ISdHibRsCSYdnh/OZVWojxHCf
+         sR234d7a7rjDUE1H0esE1wjxaEXokJC+zAGbIDRGtPwsa10SGXqu86Cf33ZkG+Dav1BG
+         zlkLipuXNgT4wFHMAvmXLlAK3tLYgL2JnVvn4y7aniZLWd9R+UWKrox0CiTV6SG+5dVt
+         0H8i9LtdGtZEHOTOVqUkkjFHdtjNcmHcZ3Abw7Hs/olIaYvFytV3vDiF+OYLjD/5dmb9
+         /YA9usho60B2pa2D18tWPax+CVYKPnAfS/JkeWoJQy4SY30AGSicWvcWJJTE+mRzsGdJ
+         4GHQ==
+MIME-Version: 1.0
+X-Received: by 10.182.153.68 with SMTP id ve4mr1924601obb.39.1390440293037;
+ Wed, 22 Jan 2014 17:24:53 -0800 (PST)
+Message-ID: <089e0139fd1cbf77dd04f0991bf5@google.com>
+Date: Thu, 23 Jan 2014 01:24:53 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:Ip+jXDtZ/Z4=:r9hEihjdYlIkj4/rGgHo607Ku1
+ pXnfJ1t2R24obsWVq7fEksmun2CPE8IwlQRg5jY8Hh3KD+MmxJvncBfNKmuI7IjigbtXxrLau
+ lcs/KTzkeZVRWR5fis73vx8P7hDWkLNJXcYmaR0ZpGPo1xLnYV65Qc2W1o0cH+tEY4MjXMbj4
+ /9vrAbkJb6zfng9c0hdMTRVyuoYXNB5XhURDfIaIsq+u6dC9HPePdRZrE9nkGAQ7smuR1jWc3
+ bjztXCZQ5ShCVLTFY/1BiEKXFVUJ+No+Opz0tHZtvG9C75gGS4hWux0Ng5WZDKwvh9Rd19rlr
+ uvnybtt+vyRHaEZREhknTFZcPeoo9hC3dzgQv2esGYdleNLZflCqOOMdF9TkIdIEic44ayN38
+ lDIlELNNQ3AiXQHG/hpKt1d3rt1zE6mc/GiKmbI87qFeINAYwLWvmcRobf6LF5XGvQxUwViht
+ BVRWWEDik+/1soKxzZB/GxIwvzWCxcqz38TgcfQynklnxc8G1l6a0A0hBoi35McmYOovwqwTH
+ vRrDnqLYOYxTKL4sjQ9eVuB5yj5IYxgXGih7Uwn/sIGIhxqaBUr5QNUS4rV/vAqA5TIVKkibj
+ CtOwA7BJWXC80KHU9KG0sn5Avj98nVC/oaWHQMbGf/boDruSxOCD+MeknBfmDz27xXp8lZTbf
+ fEoeX/9bKMLxEi1nlXEXdxSu3xchZXitrS5Hq1+BR3ksjkdnNwd9s+b54wwDib6Bj7cWKcN6i
+ MU+975zW0r1USiwZDYNXniRL1NBn7DJwzITmTzpcVFtYOWrNZjxnwIqVJhmy08ybsjlh2aIHA
+ DlL33qBd87vAwFHnOisCznxHbSSqyn7V0fpLZc9P0T8Vt+oCKoAji7HWNRpAlplvcbfmoOAE+
+ v1a7QL//Vr1zhcEoF/ec+1H1PYuIEuPCI6ej5VWX5+UpO2P0/vlaw87WlPmuNrr6oQcmNoqjR
+ 6eI6LxkwJ3V4LJNiolNHIJRcmowm1bMIUbBcWAxQq37wWWhZREGTFwHA6BZqrXguLF0sReta5
+ UKRLrdWflZhGoMGEO8pBHLEvENJpq+y9jCpnyDdotPdXyAA65KFxGS5ikq9EjBm6poasx3GUt
+ Z3aWGthDAc8X2WsIGjs2XehMi1G3YAEtapuUjqyKy9xSQw222NSGdhSQxC+9Tb26rpE3oHL7G
+ UeU+mwamaMJwDPAvGtiFCCliH8E9jTU9Dy6m9zHwppsji1AOZKO6VvMZwAZKC9g4CBsztLEP5
+ XXYVjXR6iexuaXRSMbGaEVkbrx9SdwC+RwRQujbbFWm/Re5FnBbizgGUb0EKUw18U87o74mHW
+ hE1kVDtb5R9R9w4VSTDSwmHSEt8Xg1osX1T4doa6hyeJ0Wlrho3+oHJ4H0/GWqZeXGtSY/dgF
+ kYEvSlX2rlYfcMRBQ==
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D=
+2 color=3D#1122cc>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_=
+url?hl=3Dde&amp;q=3Dhttp://content.lib.utah.edu/utils/getfile/collection/et=
+d3/id/2655/filename/2660.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm1vXY2rJaIoZrSYnR=
+Kpa4KQe6ZqZQ&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D"=
+text-decoration:underline">SUPPORTING SCALABLE DATA ANALYTICS ON LARGE <b>L=
+INKED DATA</b></font></a></h3><div><font size=3D2 color=3D#009933>W Le - 20=
+13</font></div><div><font size=3D2 color=3D#222222>ABSTRACT <b>Linked data =
+</b>are the de-facto standard in publishing and sharing data on the <br>web=
+. To date, we have been inundated with large amounts of ever-increasing <b>=
+linked data </b>in <br>constantly evolving structures. The proliferation of=
+ the data and the need to access and <b> ...</b></font></div><br><p><hr nos=
+hade size=3D1><font size=3D2 color=3D#222222>Dieser Google Scholar-Alert wi=
+rd Ihnen von Google zur Verf=C3=BCgung gestellt.<br><br><a href=3D"http://s=
+cholar.google.de/scholar_alerts?view_op=3Dcancel_alert_options&amp;email_fo=
+r_op=3Derictessenow%40web.de&amp;alert_id=3DAIfevv3NkPcJ&amp;hl=3Dde"><font=
+ color=3D#1122cc>Alert stornieren</font></a><br></font></div></body></html>

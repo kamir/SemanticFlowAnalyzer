@@ -1,0 +1,159 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.112.221.138 with SMTP id qe10csp257533lbc;
+        Tue, 29 Jul 2014 00:32:04 -0700 (PDT)
+X-Received: by 10.112.202.69 with SMTP id kg5mr250825lbc.33.1406619120280;
+        Tue, 29 Jul 2014 00:32:00 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 38kHXUxUKDHcnXcjgVmVgZmon-ijmZkgtbjjbgZ.XjhZmdXoZnnZijrrZW.YZ@scholar-alerts.bounces.google.com designates 209.85.220.74 as permitted sender) smtp.mail=38kHXUxUKDHcnXcjgVmVgZmon-ijmZkgtbjjbgZ.XjhZmdXoZnnZijrrZW.YZ@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 38kHXUxUKDHcnXcjgVmVgZmon-ijmZkgtbjjbgZ.XjhZmdXoZnnZijrrZW.YZ@scholar-alerts.bounces.google.com designates 209.85.220.74 as permitted sender) client-ip=209.85.220.74;
+Received: by 10.112.18.7 with POP3 id s7mf4526594lbd.34;
+        Tue, 29 Jul 2014 00:32:00 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 38kHXUxUKDHcnXcjgVmVgZmon-ijmZkgtbjjbgZ.XjhZmdXoZnnZijrrZW.YZ@scholar-alerts.bounces.google.com
+Received: from mail-pa0-f74.google.com ([209.85.220.74]) by mx-ha.web.de
+ (mxweb108) with ESMTPS (Nemesis) id 0MXaiQ-1Wx9ko0TbC-00WUc3 for
+ <erictessenow@web.de>; Tue, 29 Jul 2014 08:40:52 +0200
+Received: by mail-pa0-f74.google.com with SMTP id lj1so2047929pab.3
+        for <erictessenow@web.de>; Mon, 28 Jul 2014 23:40:50 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=Xhj7TcDn3RLEhLA+alqeWMM3+hilZbpniJc2QrlOkAM=;
+        b=cnIkwdt+iwREg0s4jTMH3b2AeapSO8gaLgQvKeOyYigSSZioWLnU3T2BtKy9sV9bb1
+         vKda051egBFb5E95cCplwluqLS2XhvMRJDfzlc1KqOoi7wtnStFOrgndRaQqW6aTjqda
+         vGuDd24R1L8ftahXhhVFqwi3c5GHkxPYTGd+tzGnDJbgwFkRlOtODKxhodej6NpnbDFG
+         2i3XNgfBnUD6uxAEFnT4iCR0RRd4e1il6nmMHcEibt7CckedDFfS7BSXdeis5a0V6H+0
+         0EY+Ltfuw1KeekCpZa1h4pW+ZAB79+iqUBm+wR8XWckvdFVMLveBchgoABzV/x0VBmn4
+         yyBQ==
+MIME-Version: 1.0
+X-Received: by 10.66.235.66 with SMTP id uk2mr18038027pac.39.1406616050634;
+ Mon, 28 Jul 2014 23:40:50 -0700 (PDT)
+Message-ID: <047d7b15a1af08919d04ff4f5278@google.com>
+Date: Tue, 29 Jul 2014 06:40:50 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:UASUhI0oS+M=:JIZaqEfvpf8aXbnkse1iu0RCf5
+ ATok8hGgHZfuAnyLLE9Pmqncff/tN38AwYI4EKneXnJFwvuBsBQzxLGWQX0bF1kmxE28rWcOD
+ SsbV/bkF3rHMeuzWArZo7FSoLfD63tP0lpwBMsqgdHMfpLxsS2KTZYlXZlm8xzeZtve1LbbEx
+ +NixsH6rUCnuWKLo/SU9tFz0fHK7fiu4vz+5VXAK64M4JlD7MQi2b2xvjDrPBqXxllxM4mHW5
+ AV144UugcBKAiGpmupeRPy21gvQPRL9YTZ90Qisz/tqxOfLkrPkpoZ1x1Pff4cu7Z/H7OT4Na
+ HQcj4DbCdAlPFxDSh5sn8/il0bfgG2VGJev2tQmTNAIZ8Udu5cU7eWxMn6xHNllPB9x1iuDN2
+ 415nm+r53mvtvkuP74TFCZlfQtWTPx9Zag/Iv3xsnVb3qqIMKcD6SZFe6E1+GnGghfNXjyQUR
+ y/DXJqt+oYtoeQtca+4pafk9gdsCmlZ/i9lRTONhDEzlFdoYhrsNsWR0Yx7UZ2JWmbf1zCzjp
+ HQPWcbLT4PfDYfZtHjuu3Yh1GEp0azVMrH8dOUOCQkJbiv88GF1A4GxUGsTDMWWSUV3y8JN1S
+ knPV8mSPFgorCeuPjz1LzjQ1I4NLlSF1dpWKl9OEoRlWPSVy/jDDZ5MyUq+YpQKA/n3XNVZtF
+ xhrAcJQCDPltCjULE2X8w20SrDbxIoN53HDX3bvEaJyy1eodqX2Mi4cTJpmBPB6XGeUj6B9ja
+ qn6Bm4FBT4MUJSRY0GxwS8G3dbn4i2mdUCzmgBLWCzaXL9XcLvf+VXgBD75HYyDTFLy9Z1F0D
+ Ar4bXkOoLTIWcSae0mGPqjj4WSFxDbOMOC5yhPurrl11dLtlhdsQO2GGlzq9I/B7c5SuHYdd2
+ i53l+CPxoEM4vn5Z/wzyE6eip88ogcmAuo9pFVHkss/eSfO+aErA3HZVt531okZLQ8dclo7r3
+ S4IJ3Er6QwBNIqXlDN+NJzveIcTpYIG/hn625BI7TM6HThdwALZO3LqA7134if0gV40ChoZbx
+ pkxaPmsvDjD8InN6IJ80u8oUFur9SN4nq7y8092AZZAyokX/ODgIdb8duHze3EwhxV+cBNEo4
+ Ra3payRHic55+VTlaEH1EJeeITGEbQHrrgH/zVh1UmXPkRAWCWXuvAPPLTthaNWmueGVUr4Xq
+ bsP0bGsZm0V/s4X4rU9E00WB87/aLQoiCwD6HaAdOioWl8wTDlbucgDQ+1jODpymwGjdFP7xL
+ AFOTsoKQ3ZZ+4Y3fuxupgOcavGVPxfhO6fWvFGZaMExp1PWyU0qHVG+Vf73xLMaGF6426gIiq
+ fedS
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D=
+2 color=3D#1122cc>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_=
+url?hl=3Dde&amp;q=3Dhttp://oro.open.ac.uk/40591/1/Paper_15-Curriculum.pdf&a=
+mp;sa=3DX&amp;scisig=3DAAGBfm2AJHkEiyUA8lfKcGq31__Olcqdew&amp;oi=3Dscholara=
+lrt"><font size=3D3 color=3D#1122cc style=3D"text-decoration:underline">Dev=
+eloping a curriculum of open educational resources for <b>Linked Data</b></=
+font></a></h3><div><font size=3D2 color=3D#009933>A Mikroyannidis, J Doming=
+ue, M Maleshkova, B Norton&hellip; - 2014</font></div><div><font size=3D2 c=
+olor=3D#222222>The EUCLID project is developing an educational curriculum a=
+bout <b>Linked Data</b>, supported <br>by multimodal Open Educational Resou=
+rces (OERs) tailored to the real needs of data <br>practitioners. The EUCLI=
+D OERs facilitate professional training for data practitioners, who <b> ...=
+</b></font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:med=
+ium;max-width:44.5em"><a href=3D"http://scholar.google.de/scholar_url?hl=3D=
+de&amp;q=3Dhttp://adsabs.harvard.edu/abs/2014EGUGA..16.2101L&amp;sa=3DX&amp=
+;scisig=3DAAGBfm1eoBJTwlbBfwIUzfCp_pf8Vsv3Jw&amp;oi=3Dscholaralrt"><font si=
+ze=3D3 color=3D#1122cc style=3D"text-decoration:underline">Linked Ocean Dat=
+a</font></a></h3><div><font size=3D2 color=3D#009933>A Leadbetter, R Arko, =
+C Chandler, A Shepherd - EGU General Assembly Conference  &hellip;, 2014</f=
+ont></div><div><font size=3D2 color=3D#222222><b>...</b> Origin: COPERNICUS=
+. Bibliographic Code: 2014EGUGA..16.2101L. Abstract. &quot;<b>Linked</b> <b=
+>Data</b>&quot; is<br>
+a term used in Computer Science to encapsulate a methodology for publishing=
+ data and metadata<br>
+in a structured format so that links may be created and exploited between o=
+bjects. <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&a=
+mp;q=3Dhttp://dl.acm.org/citation.cfm%3Fid%3D2628608&amp;sa=3DX&amp;scisig=
+=3DAAGBfm3uoK5birjY4AFqcea5uySZ0yFp_A&amp;oi=3Dscholaralrt"><font size=3D3 =
+color=3D#1122cc style=3D"text-decoration:underline">Using <b>linked data </=
+b>for interactive 3D web content integration</font></a></h3><div><font size=
+=3D2 color=3D#009933>X Zhang, D Gra=C4=8Danin, K Matkovi=C4=87 - Proceeding=
+s of the Nineteenth International ACM  &hellip;, 2014</font></div><div><fon=
+t size=3D2 color=3D#222222>Abstract The recent advances in Web and mobile t=
+echnology broke exciting new <br>possibilities for virtual reality (VR) on =
+the Web. Authoring and sharing of 3D content is <br>becoming a very importa=
+nt activity. Associating semantics with the 3D web content <b> ...</b></fon=
+t></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;max-w=
+idth:44.5em"><a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=
+=3Dhttp://oro.open.ac.uk/40595/&amp;sa=3DX&amp;scisig=3DAAGBfm3bH2-9k7s6Z7u=
+qLSxuZkE6X8JBhw&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=
+=3D"text-decoration:underline">Raising the stakes in <b>Linked Data </b>edu=
+cation</font></a></h3><div><font size=3D2 color=3D#009933>A Mikroyannidis, =
+J Domingue, E Simperl - ERCIM News, 2014</font></div><div><font size=3D2 co=
+lor=3D#222222>There is currently a revolution going on in education general=
+ly, but nowhere more so than in <br>the ICT field, owing to the availabilit=
+y of high quality online learning resources and MOOCs <br>(Massive Open Onl=
+ine Courses). The EUCLID project is at the forefront of this initiative by =
+<b> ...</b></font></div><br><h3 style=3D"font-weight:normal;margin:0;font-s=
+ize:medium;max-width:44.5em"><font size=3D2 color=3D#1122cc>[PDF]</font> <a=
+ href=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttps://cs.uw=
+aterloo.ca/~ohartig/files/DissertationOlafHartig.pdf&amp;sa=3DX&amp;scisig=
+=3DAAGBfm06pGS-vVemmCKsNBqUNzt128zeuw&amp;oi=3Dscholaralrt"><font size=3D3 =
+color=3D#1122cc style=3D"text-decoration:underline">Querying a Web of <b>Li=
+nked Data</b></font></a></h3><div><font size=3D2 color=3D#009933>DIO Hartig=
+ - 2014</font></div><div><font size=3D2 color=3D#222222>Abstract During rec=
+ent years a set of best practices for publishing and connecting structured =
+<br>data on the World Wide Web (WWW) has emerged. These best practices are =
+referred to as <br>the <b>Linked Data </b>principles and the resulting form=
+ of Web data is called <b>Linked Data</b>. The <b> ...</b></font></div><br>=
+<h3 style=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em"=
+><font size=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"http://scholar.goog=
+le.de/scholar_url?hl=3Dde&amp;q=3Dhttp://semantic-web-journal.net/system/fi=
+les/swj758.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm3Bg7CQWuriX3q5Icd71f1o1-gWjQ&a=
+mp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D"text-decoratio=
+n:underline">Completing RDF Data in Linked Open Data Cloud using Formal Con=
+cept Analysis</font></a></h3><div><font size=3D2 color=3D#009933>M Alam, A =
+Buzmakov, V Codocedo, A Napoli</font></div><div><font size=3D2 color=3D#222=
+222><b>...</b> Otherwise, the rule confidence is less than 1 and is called =
+an association rule. 4 <b>Linked</b> <b>data</b><br>
+and heterogeneous pattern structures <b>...</b> The aforementioned models t=
+o support <b>linked</b> <b>data</b> using<br>
+FCA are adequate for small datasets as the example provided. <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://www.insight-centr=
+e.org/sites/default/files/publications/paper_0.pdf&amp;sa=3DX&amp;scisig=3D=
+AAGBfm0uM_x9D80ccef90w-NkQ1dXt-APQ&amp;oi=3Dscholaralrt"><font size=3D3 col=
+or=3D#1122cc style=3D"text-decoration:underline">Towards Linked Vital Regis=
+tration Data for Reconstituting Families and Creating Longitudinal Health H=
+istories</font></a></h3><div><font size=3D2 color=3D#009933>O Beyan, C Brea=
+thnach, S Collins, C Debruyne&hellip;</font></div><div><font size=3D2 color=
+=3D#222222><b>...</b> In the longer term, this plat- form will allow resear=
+chers to investigate how official historical datasets<br>
+can contribute to modern-day epidemiological planning. Keywords: birth, dea=
+th and marriage<br>
+records; health histories; ontolo- gies and <b>linked</b> <b>data</b>; auto=
+matic annotation. <b>...</b>=20
+</font></div><br><p><hr noshade size=3D1><font size=3D2 color=3D#222222>Die=
+ser Google Scholar-Alert wird Ihnen von Google zur Verf=C3=BCgung gestellt.=
+<br><br><a href=3D"http://scholar.google.de/scholar_alerts?view_op=3Dcancel=
+_alert_options&amp;email_for_op=3Derictessenow%40web.de&amp;alert_id=3DAIfe=
+vv3NkPcJ&amp;hl=3Dde"><font color=3D#1122cc>Alert stornieren</font></a><br>=
+</font></div></body></html>

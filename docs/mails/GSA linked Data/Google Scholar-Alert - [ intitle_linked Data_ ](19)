@@ -1,0 +1,207 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.68.128.10 with SMTP id nk10csp82478pbb;
+        Tue, 15 Oct 2013 18:49:58 -0700 (PDT)
+X-Received: by 10.66.154.197 with SMTP id vq5mr767046pab.155.1381888195860;
+        Tue, 15 Oct 2013 18:49:55 -0700 (PDT)
+DomainKey-Status: good
+Received-SPF: pass (google.com: domain of 3xe9dUhUKDLQmWbifUlUfYlnm-hilYjfsaiiafY.WigYlcWnYmmYhiqqYV.XY@scholar-alerts.bounces.google.com designates 209.85.192.202 as permitted sender) client-ip=209.85.192.202;
+Received: by 10.66.119.14 with POP3 id kq14mf331239pab.9;
+        Tue, 15 Oct 2013 18:49:54 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3xe9dUhUKDLQmWbifUlUfYlnm-hilYjfsaiiafY.WigYlcWnYmmYhiqqYV.XY@scholar-alerts.bounces.google.com
+Received:  from mail-pd0-f202.google.com ([209.85.192.202]) by mx-ha.web.de
+ (mxweb009) with ESMTPS (Nemesis) id 0MZAQG-1VBHNz3rlk-00Kw5x for
+ <erictessenow@web.de>; Wed, 16 Oct 2013 03:45:44 +0200
+Received: by mail-pd0-f202.google.com with SMTP id x10so10146pdj.3
+        for <erictessenow@web.de>; Tue, 15 Oct 2013 18:45:42 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=n6hmbDTXk/je8QZfGh0uRQlmdAkz/DRJgxGdT+4Kr48=;
+        b=No7hGMFAXTG52z+S/cx3i8Vrq+J21UAH2/ynf/usgSbuNskShENOyDD3RvLmriDLka
+         miHNY2TguDhHrDTBMwBqbSkicNFNtBDQgBbbRuSpvS49HWiGAJWp+e0gw0ACIpA0a88s
+         UeAwTBLiRqd6twkNEW+db+/xfxopHfmzHFFLffnrH8EXZ6PE9EBz1xJ6y7K4yZvZJf4H
+         L0vUcs8dSW0xQu/FvqLG94Db2Kuoi9JlvB2uK0zVCY57W3zGsVqCr1ZzMrLGSVwUgTAw
+         ri4HHsuCvHa6i/zlbBMbzKrXbgb+qbA0mxLpGqg6coPwtsWqdFJIzQK2TTKDzoQ/0v/v
+         D2Hw==
+MIME-Version: 1.0
+X-Received: by 10.66.186.4 with SMTP id fg4mr337085pac.33.1381887941903; Tue,
+ 15 Oct 2013 18:45:41 -0700 (PDT)
+Message-ID: <047d7bdc911ee5860e04e8d1db8b@google.com>
+Date: Wed, 16 Oct 2013 01:45:41 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:TkFjns2qV38=:XIzQPrMfx7nt2q2t3tKdpUVFkq
+ Zn7KIwZBbJu0PDMwTDy6ym6DW8Cq2017RcNVgvqk360fMe9NOTtOo8EOSTlWcQ1yLCx7VGury
+ Jyjt+Z/TAJMOAWssOBe0pFpUlzUoAGuItTik5rtNSHOgXlK/d5K06iIm2tJ7TrZW/7FVu6uTR
+ Odh+nIImxK7GhRJQOWsbjwV4HQkZ7Ng3T9YOIp1k+os3MnBVKLB+FjIJLlkMMsv56EI8W5WxC
+ e/eW2ci2FUNU/Iw9+C25i1OPvP4jLAk9oKJBnnwBrLMKYHD5X2OcKf3tDqYfNJKlIQWsdBTxN
+ Yqf49PUWg14rVBEp6DLjQchTh4Chz2Bnf1UHrXhbNu9PjPid6FZsjmX8+yQb+BOWYrEyJPpMZ
+ UVtmYilH/VpUzHc0Ei90U5wE5ZuBZ5DoeZBVztyHN6daE6o5rfV/lltoqwkwr81Pmjdj6ouPy
+ s/l+w6loMiD2Aq9tgXUoEcTjm7dmfPipfBzAUWfACp2QZ7SYpQVyPpNA/1XaFuok3SRAtvizC
+ Lcm3zvl44pLgPnAiZK5+aBKzuBd1iDTcGAuW+1abeZk2qu1bgSUaVJxJNzbh10xGpv/knahrK
+ UuWYnyrcGk0fvCVYrxdZaJo1LfPlz82t0wCcbRoOlL79MeqiuzfCtreIuccPjPM0Hzi8KeS4U
+ K2J5eMHjmLRdAEncpRCaz0vVZD7dTLqFHuOxVmm9c2FryhkWeF9wNlogyhacopBmFYhujQmST
+ QI+AYvJrKs/2O/xH3ACsURPGcqVSIV+QKZYGI2UpFwVxmNOdxzBCPNNRsEcn4rodxkz7U68Bj
+ 2eYvlwommCFBY8rO/ExAV8QQpuzLAA4Ih+bN2i7Y5F9HL6pNPi7W5i/wGlqPs6NcF8MwBYx8f
+ XmSB9vJC+7Zk+p0pN/K4a6EfRjme48/PrQ8kwiYa6frBLblNpt8xqqzrr8lPrFXX6Vl6rtXIN
+ Z40/tF+2DqsPCC5JzvwU7/mVgK32Q2zVoccaVNMOxMMLRs6Ldlc5ym0XUKvlo/2N3wnqTqd1S
+ zV0Jnu61PW9zD22TsRiOqixJngQ0Blh9CIzWxWotxm6StXowpiX0MLRUdjajIRH3m7qHrjeYT
+ YoZWdtbmpxCgdIuIss74yfzvzElmLOfdwK2UUq+GJ3aPS52kLQRZ85LZFs+jSPtnM00ULaF08
+ UvwTECOBzAZjWMproXQH5qgktLpTI0Dir6XJicCDyAQ3kpeXDwGpjjO62b6j3xBFlFZnF5jbf
+ D6DVAPupOxFIYWtcgdCYFa6VARHgHi47gQiXHfGurjqe10Uxvlw8HxBj+DEu3B5riHEfoiWgW
+ 1c5Yex5a5zF5r16JEMehs4A5M/omcvCWNxlBAphhYiX+fHc=
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://ieeexplore.ieee.o=
+rg/xpls/abs_all.jsp%3Farnumber%3D6621359&amp;sa=3DX&amp;scisig=3DAAGBfm3skS=
+Br5KcGVWJC9K2lnN_5GZFjkA&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122=
+cc style=3D"text-decoration:underline">A <b>Linked Data </b>Perspective for=
+ Collaboration in Mashup Development</font></a></h3><div><font size=3D2 col=
+or=3D#009933>D Bianchini, V De Antonellis, M Melchiori - Database and Exper=
+t Systems  &hellip;, 2013</font></div><div><font size=3D2 color=3D#222222>A=
+bstract=E2=80=94Web mashup is becoming an approach more and more popular fo=
+r developing <br>Web applications both for general and enterprise purposes.=
+ Mashup development is fueled <br>by Web sites, as ProgrammableWeb and Mash=
+ape, offering large, ever growing, <b> ...</b></font></div><br><h3 style=3D=
+"font-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"=
+http://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://ruben.verborgh.=
+org/publications/verborgh_salad_2013/&amp;sa=3DX&amp;scisig=3DAAGBfm1DaktuV=
+uLLb5nzMfWP2N6jRJpJOA&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc =
+style=3D"text-decoration:underline">Proceedings of the First Workshop on Se=
+rvices and Applications over Linked APIs and Data</font></a></h3><div><font=
+ size=3D2 color=3D#009933>R Verborgh, M Maleshkova, S Stadtm=C3=BCller, T S=
+teiner&hellip; - 2013</font></div><div><font size=3D2 color=3D#222222><b>..=
+.</b> APIs and Data. by Ruben Verborgh, Maria Maleshkova, Steffen Stadtm=C3=
+=BCller, Thomas<br>
+Steiner, and Pedro Szekely Current developments on the Web have been marked=
+<br>
+by the increased popularity of <b>Linked</b> <b>Data</b> and Web APIs. <b>.=
+..</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&a=
+mp;q=3Dhttp://dl.acm.org/citation.cfm%3Fid%3D2507171&amp;sa=3DX&amp;scisig=
+=3DAAGBfm0-yc7tRQCgw0n6TNbNhPaI4vIo4A&amp;oi=3Dscholaralrt"><font size=3D3 =
+color=3D#1122cc style=3D"text-decoration:underline">Hybrid event recommenda=
+tion using <b>linked data </b>and user diversity</font></a></h3><div><font =
+size=3D2 color=3D#009933>H Khrouf, R Troncy - Proceedings of the 7th ACM co=
+nference on  &hellip;, 2013</font></div><div><font size=3D2 color=3D#222222=
+>Abstract An ever increasing number of social services offer thousands of d=
+iverse events per <br>day. Users tend to be overwhelmed by the massive amou=
+nt of information available, <br>especially with limited browsing options p=
+erceived in many event web services. To <b> ...</b></font></div><br><h3 sty=
+le=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font =
+size=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"http://scholar.google.de/s=
+cholar_url?hl=3Dde&amp;q=3Dhttp://digitalcommons.unl.edu/cgi/viewcontent.cg=
+i%3Farticle%3D2454%26context%3Dlibphilprac&amp;sa=3DX&amp;scisig=3DAAGBfm3-=
+8BHcIUjWjE_X88Q1aPkfBfIKcA&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#11=
+22cc style=3D"text-decoration:underline"><b>Linked Data </b>in Libraries: L=
+ibrary of Congress&#39; Bibliographic Framework Transition Initiative</font=
+></a></h3><div><font size=3D2 color=3D#009933>ML Halla - 2013</font></div><=
+div><font size=3D2 color=3D#222222>Abstract This research paper examines Li=
+brary of Congress&#39; Biblographic Framework <br>Transition Initiative, or=
+ BIBFRAME, through the lens of current Library and Information <br>Science =
+literature on introducing <b>Linked Data </b>principles into cataloging. Th=
+is research <b> ...</b></font></div><br><h3 style=3D"font-weight:normal;mar=
+gin:0;font-size:medium;max-width:44.5em"><font size=3D2 color=3D#1122cc>[PD=
+F]</font> <a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dh=
+ttp://www.biomedcentral.com/content/pdf/1472-6963-13-396.pdf&amp;sa=3DX&amp=
+;scisig=3DAAGBfm3t5dfzQPZ2HmAJkqH_pAq8U1_hLg&amp;oi=3Dscholaralrt"><font si=
+ze=3D3 color=3D#1122cc style=3D"text-decoration:underline">Evaluation of pa=
+ediatric nursing-sensitive outcomes in an Australian population using linke=
+d administrative hospital data</font></a></h3><div><font size=3D2 color=3D#=
+009933>S Wilson, AP Bremner, Y Hauck, J Finn - BMC health services research=
+, 2013</font></div><div><font size=3D2 color=3D#222222><b>...</b> the comor=
+bid condition also being coded on that record. However, in our previous<br>
+work using <b>linked</b> <b>data</b> [21], we found that recording of comor=
+bid conditions was not<br>
+consistent. For example, we found that 43% of children with <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&a=
+mp;q=3Dhttp://jos.hueuni.edu.vn/index.php/TCKHDHH/article/view/1192&amp;sa=
+=3DX&amp;scisig=3DAAGBfm013m5EzBXDebkJfIWVSCs1lks7Xw&amp;oi=3Dscholaralrt">=
+<font size=3D3 color=3D#1122cc style=3D"text-decoration:underline">NGHI=C3=
+=8AN C=E1=BB=A8U V=C3=80 TRI=E1=BB=82N KHAI <b>LINKED DATA </b>CHO C=C3=81C=
+ =E1=BB=A8NG D=E1=BB=A4NG WEB NG=E1=BB=AE NGH=C4=A8A</font></a></h3><div><f=
+ont size=3D2 color=3D#009933>LTT T=C3=A2m, HH H=E1=BA=A1nh, LM Th=E1=BA=A1n=
+h - T=E1=BA=A1p ch=C3=AD Khoa h=E1=BB=8Dc =C4=90=E1=BA=A1i h=E1=BB=8Dc Hu=
+=E1=BA=BF, 2013</font></div><div><font size=3D2 color=3D#222222>Web ng=E1=
+=BB=AF ngh=C4=A9a l=C3=A0 xu th=E1=BA=BF ph=C3=A1t tri=E1=BB=83n trong vi=
+=E1=BB=87c bi=E1=BB=83u di=E1=BB=85n d=E1=BB=AF li=E1=BB=87u =C4=91=E1=BB=
+=83 kh=E1=BA=AFc ph=E1=BB=A5c c=C3=A1c h=E1=BA=A1n ch=E1=BA=BF <br>c=E1=BB=
+=A7a Web hi=E1=BB=87n t=E1=BA=A1i v=C3=A0 h=C6=B0=E1=BB=9Bng =C4=91=E1=BA=
+=BFn m=E1=BB=99t th=E1=BA=BF h=E1=BB=87 Web =C4=91=C3=A1p =E1=BB=A9ng t=E1=
+=BB=91t h=C6=A1n nhu c=E1=BA=A7u c=E1=BB=A7a con ng=C6=B0=E1=BB=9Di v=C3=A0=
+ <br>c=C3=A1c =E1=BB=A9ng d=E1=BB=A5ng. <b>Linked Data </b>l=C3=A0 thu=E1=
+=BA=ADt ng=E1=BB=AF ch=E1=BB=89 c=C3=A1ch th=E1=BB=A9c li=C3=AAn k=E1=BA=BF=
+t c=C3=A1c ngu=E1=BB=93n d=E1=BB=AF li=E1=BB=87u tr=C3=AAn Web <b> ...</b><=
+/font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;m=
+ax-width:44.5em"><font size=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"htt=
+p://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://saki.siit.tu.ac.th=
+/acis2013/uploads_final/119__6a28bafb430d75ef707f7d8bf106257c/ACIS-2013-Sta=
+nkovski-final.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm1yzsHluNY2P25xRtdj_D7kFOeTC=
+w&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D"text-decora=
+tion:underline">From <b>Linked Data </b>to Linked Services: Developing Info=
+rmation Services for Sustainable Buildings</font></a></h3><div><font size=
+=3D2 color=3D#009933>V Stankovski, B Brank</font></div><div><font size=3D2 =
+color=3D#222222>Abstract In near future, it is expected that a large part o=
+f the existing building stock in Europe <br>would need renovation and refur=
+bishment in order to comply with energy efficiency and <br>sustainability s=
+tandards. The stakeholders (investors, architects, construction companies) =
+<b> ...</b></font></div><br><h3 style=3D"font-weight:normal;margin:0;font-s=
+ize:medium;max-width:44.5em"><font size=3D2 color=3D#1122cc>[DOC]</font> <a=
+ href=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://rcrese=
+arch2011.googlecode.com/svn/trunk/Documents/S4BioDiv2013/Journal/Comments/T=
+akeda-2013-09-03.docx&amp;sa=3DX&amp;scisig=3DAAGBfm0kDEHnJFkYuCMRBWpBwLOeu=
+8dabg&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D"text-de=
+coration:underline">LTK site: http://ltk. cs. ait. ac. th/A Logical Model f=
+or Taxonomic Concepts for Expanding Knowledge using Linked Open Data</font>=
+</a></h3><div><font size=3D2 color=3D#009933>R Chawuthai, H Takeda, V Wuwon=
+gse, U Jinbo</font></div><div><font size=3D2 color=3D#222222><b>...</b> Mor=
+eover, our model can publish some taxonomic information as <b>linked</b> <b=
+>data</b> and, hence, with<br>
+additional benefits of Linked Open Data (LOD) cloud. <b>...</b> Keywords. B=
+iological data, Biodiversity<br>
+informatics, Logical model, <b>Linked</b> <b>data</b>, Ontology, Semantic w=
+eb, Taxon concept. <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://ceur-ws.org/Vol-1=
+057/MyersEtAl_LD4IE2013.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm16HmmiS4iJ17Ta2-Z=
+OlTPdUp0sFQ&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D"t=
+ext-decoration:underline"><b>Linked Data </b>for Cross-disciplinary Collabo=
+ration Cohort Discovery.</font></a></h3><div><font size=3D2 color=3D#009933=
+>T Myersa, J Trevathanc, D Maddenb, T O&#39;Neilla</font></div><div><font s=
+ize=3D2 color=3D#222222>Abstract. Cross-disciplinary collaborations potenti=
+ally offer the diversity of understanding <br>required to answer complex pr=
+oblems. However, barriers to cohort discovery exist because <br>content abo=
+ut people is predominantly only in human-readable form on websites and/or i=
+n <b> ...</b></font></div><br><h3 style=3D"font-weight:normal;margin:0;font=
+-size:medium;max-width:44.5em"><font size=3D2 color=3D#1122cc>[PDF]</font> =
+<a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://www.=
+ionio.gr/~papatheodor/papers/mtsr2013-paper67-cr.pdf&amp;sa=3DX&amp;scisig=
+=3DAAGBfm0prGm0NnHPH6wOmJ38JuOlm3QtWg&amp;oi=3Dscholaralrt"><font size=3D3 =
+color=3D#1122cc style=3D"text-decoration:underline">Highlights of library d=
+ata models in the era of Linked Open Data</font></a></h3><div><font size=3D=
+2 color=3D#009933>S Zapounidou, M Sfakakis, C Papatheodorou</font></div><di=
+v><font size=3D2 color=3D#222222><b>...</b> Abstract. Semantic Web technolo=
+gies and <b>Linked</b> <b>data</b> form a new reference framework for libra=
+ries. <b>...</b><br>
+Keywords: semantic web, library data models, <b>linked</b> <b>data</b>, FRB=
+R, FRBRoo, EDM, BIBFRAME<br>
+1 Introduction Libraries develop and preserve rich metadata for their holdi=
+ngs. <b>...</b>=20
+</font></div><br><p><hr noshade size=3D1><font size=3D2 color=3D#222222>Die=
+ser Google Scholar-Alert wird Ihnen von Google zur Verf=C3=BCgung gestellt.=
+<br><br><a href=3D"http://scholar.google.de/scholar_alerts?view_op=3Dcancel=
+_alert_options&amp;email_for_op=3Derictessenow%40web.de&amp;alert_id=3DAIfe=
+vv3NkPcJ&amp;hl=3Dde"><font color=3D#1122cc>Alert stornieren</font></a><br>=
+</font></div></body></html>

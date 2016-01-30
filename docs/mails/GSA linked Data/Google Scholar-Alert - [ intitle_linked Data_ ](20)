@@ -1,0 +1,84 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.140.159.12 with SMTP id f12csp296001qhf;
+        Fri, 29 Aug 2014 22:17:15 -0700 (PDT)
+X-Received: by 10.229.235.133 with SMTP id kg5mr24749488qcb.24.1409375832929;
+        Fri, 29 Aug 2014 22:17:12 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3ulcBVBUKDBUDx296vCv6zCED-89CzA6J19916z.x97zC3xEzDDz89HHzw.yz@scholar-alerts.bounces.google.com designates 209.85.213.74 as permitted sender) smtp.mail=3ulcBVBUKDBUDx296vCv6zCED-89CzA6J19916z.x97zC3xEzDDz89HHzw.yz@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3ulcBVBUKDBUDx296vCv6zCED-89CzA6J19916z.x97zC3xEzDDz89HHzw.yz@scholar-alerts.bounces.google.com designates 209.85.213.74 as permitted sender) client-ip=209.85.213.74;
+Received: by 10.224.31.76 with POP3 id x12mf1398812qac.15;
+        Fri, 29 Aug 2014 22:17:12 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3ulcBVBUKDBUDx296vCv6zCED-89CzA6J19916z.x97zC3xEzDDz89HHzw.yz@scholar-alerts.bounces.google.com
+Received: from mail-yh0-f74.google.com ([209.85.213.74]) by mx-ha.web.de
+ (mxweb008) with ESMTPS (Nemesis) id 0Lzc1q-1YSDaz0nkA-014j6a for
+ <erictessenow@web.de>; Sat, 30 Aug 2014 06:48:59 +0200
+Received: by mail-yh0-f74.google.com with SMTP id 29so444401yhl.1
+        for <erictessenow@web.de>; Fri, 29 Aug 2014 21:48:58 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=9LM2AO15xFb9aFmpQa/AI7pqLn1VQjQo3WsRrGc3anM=;
+        b=oetZUWtTxPHnSxsr1SnAUVAt/KVnuKzcADtJfi8LCo5fjrUTN79OfejWuI7vBprusN
+         FDXB5y1VVjz8G33SjSno7oIwoFYCt6RNzvM+UX8c5hqCxbVPAProPayWViOF8ZkCZ4U5
+         WBMG0JtDG4cTzE+F9xqEUBc3ByGdsx9SOl0COHSKPkmtA6e9G/RWOjK3LdN9VGBeYDPH
+         cU8CV+g7cFlZogqrGxjlG5QJzTD5t0naljHRZGnYlPXh08JqBazERRlQtvT6UJ6a5LIb
+         vVl+q5l8GJ4SQ+XZCwmw50sYod6U5q9uWRy5EFUnxsayEtLBissen3JTw0mr3do3FQFJ
+         CC+Q==
+MIME-Version: 1.0
+X-Received: by 10.236.44.205 with SMTP id n53mr3338550yhb.12.1409374138023;
+ Fri, 29 Aug 2014 21:48:58 -0700 (PDT)
+Message-ID: <20cf3003be8eda3dd30501d17cda@google.com>
+Date: Sat, 30 Aug 2014 04:48:58 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:yIzYQmQ27M8=:9vV3KRMiJbrV04+5GVNtQbpdiH
+ FrUpjV5Fm5mcwUhJ1StVNxtwtSnLsFiV2/c2gTJEumIYmRUjIp2fkdH+j4IOxWCII75c2XMte
+ 877UsYbOAJZO2QGEFnrJQy3PxO3tiHBIGccGrwsAOieDxyn6NRVKQAu2wVzPP5DInJFY8fiOw
+ EBzzVDcFhqqGAvnvEnPf0KHv3xdQIOXEqTpmQn1kEAMtO0gTISAMbs8gjCjerNZ9gUWLOPbnt
+ N/ykLcJgo52nlWutZv8jpmN9BdnqwY8/F+VNIKSeubiLvtiq6driqmenmXzzEv5qhYKR73lS8
+ D0qd1DcgZMeG26DT52BhADC3dsixCmJ84x2j4hPzCGBy9hLaRdorDZsyg3CEO+U3o824ztKp6
+ jhUZDxiKPY77Eh8dr8tUnahwzM0iOklRvaY1ZfIcWPvHMSgUxfcINBFTcJ8H768mdKdAYglgC
+ N5CAnUiG4iHHd7NZ6Ux6fn3k0m5caMKk0SwSv+E+HJYgmD9OCScJJip3gcyPrLoBfZ5BCK3ff
+ 9mYyMCWAWiNVLaTP3yXL2vMQlcotQKCFZGXaXTHGcZmWP1x4R0BmsbhviyBh5uwd3A2+BeRdd
+ eFG9hmJNCyn76BIyh6TsY83GBiW8w+WnlLsqXCstnLzTLR8CinkeBmQBy9zcam3A0agvsCU1l
+ yrbPqcxkSjOahB3pxx1G/Lde0E9m72TsEHFJRkgCGbtskjRdVKB5Susd3TbGLnLTGOCF6HiKc
+ Ssll2tiVGw8r8p+s0hOS50ECmwrAC+lF6tKmNMtiG9j0yDViPvV/gfcOhEu5dNRtnbRLeMBa0
+ ynDBotwexVjFMALsZElciVsGyk54WLdGSxcuq0Bidihc4wyhjl/BifdkFM0wpqG+VMgcw7ZDV
+ JPiQMeJl81sxnuE8jPreOkFojlFyLKZIwFLX3Hj06Dibp0YHUEeMFz4lF4/m/UVYEehMCi4Jl
+ 4FjbpbPKdQfFL+/aerGvFHFVqJaroX3cWV24aA8Ue23hDRtVtCFumDF/1Y+mD/VtNE1P4EOlR
+ ucPswBXZWfi+YCT74qcp+uVQ3qsTVmHTes62QPa2dF4UjhzQcYNzvKubfeeRgosLwuM4cw6yH
+ 7cvptL+GWZ0zon4hOb9tcHor6sEpu15cfBHOQeu/tHo/7UN8zXKEz2X0AcUftWi/3mzjADVA3
+ 8oDJcP9Pz5EMeWxxwu4hQQz0WOU0y830JoQYT0Eve8fymUIA6x1R8BRzbkXS9T6cAT1tJEjIb
+ xBz6DV/zIwgia4ITjTMwA45ESR0qELUhHMF9p/L2kxP7m7uz7wflNIrLq9Zo3Yi8mSkRfJKrw
+ DMF/iA4G044LR8n+s08OsAqkpciKUJ3V6z9K0pmtUedpubCBvUpVoPTYQ8PJk7tip4cD3T3iu
+ HqcvNx5HYDEu0svXwYc9ttiTaEOlzkMUbNxaRAbGvdZv5UnYoxshh4d9qeiB/ntPACiUapXLe
+ aVqZpCtiJY+zeEpU6tWPHbpfQeWMl3a3ZezeRSHpOfDzUkVAAq
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://ieeexplore.ieee.o=
+rg/xpls/abs_all.jsp%3Farnumber%3D6882027&amp;sa=3DX&amp;scisig=3DAAGBfm0N1I=
+6Ib94gw_nkz5GoYcvh1LaV0A&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0d=
+ab style=3D"text-decoration:underline">CrowdLink: Crowdsourcing for Large-S=
+cale <b>Linked Data </b>Management</font></a></h3><div><font size=3D2 color=
+=3D#006621>A Basharat, IB Arpinar, S Dastgheib, U Kursuncu&hellip; - Semant=
+ic Computing (ICSC) &hellip;, 2014</font></div><div><font size=3D2 color=3D=
+#222222>Abstract=E2=80=94Crowdsourcing is an emerging paradigm to exploit t=
+he notion of human-<br>computation for solving various computational proble=
+ms, which cannot be accurately solved <br>solely by the machine-based solut=
+ions. We use crowdsourcing for large-scale link <b> ...</b></font></div><br=
+><p><hr noshade size=3D1><font size=3D2 color=3D#222222>Dieser Google Schol=
+ar-Alert wird Ihnen von Google zur Verf=C3=BCgung gestellt.<br><br><a href=
+=3D"http://scholar.google.de/scholar_alerts?view_op=3Dcancel_alert_options&=
+amp;email_for_op=3Derictessenow%40web.de&amp;alert_id=3DAIfevv3NkPcJ&amp;hl=
+=3Dde"><font color=3D#1a0dab>Alert stornieren</font></a><br></font></div></=
+body></html>

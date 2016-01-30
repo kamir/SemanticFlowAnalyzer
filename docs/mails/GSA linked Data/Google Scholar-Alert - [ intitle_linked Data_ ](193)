@@ -1,0 +1,133 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.140.156.151 with SMTP id c145csp294820qhc;
+        Tue, 7 Oct 2014 01:51:47 -0700 (PDT)
+X-Received: by 10.224.129.201 with SMTP id p9mr2313689qas.75.1412671906430;
+        Tue, 07 Oct 2014 01:51:46 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3-KgzVBUKDL8xhmtqfwfqjwyx-stwjuq3lttlqj.htrjwnhyjxxjst11jg.ij@scholar-alerts.bounces.google.com designates 209.85.220.73 as permitted sender) smtp.mail=3-KgzVBUKDL8xhmtqfwfqjwyx-stwjuq3lttlqj.htrjwnhyjxxjst11jg.ij@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3-KgzVBUKDL8xhmtqfwfqjwyx-stwjuq3lttlqj.htrjwnhyjxxjst11jg.ij@scholar-alerts.bounces.google.com designates 209.85.220.73 as permitted sender) client-ip=209.85.220.73;
+Received: by 10.229.166.70 with POP3 id l6mf4764306qcy.21;
+        Tue, 07 Oct 2014 01:51:46 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3-KgzVBUKDL8xhmtqfwfqjwyx-stwjuq3lttlqj.htrjwnhyjxxjst11jg.ij@scholar-alerts.bounces.google.com
+Received: from mail-pa0-f73.google.com ([209.85.220.73]) by mx-ha.web.de
+ (mxweb008) with ESMTPS (Nemesis) id 0Ld0vw-1Y1eRt2I1g-00iCVe for
+ <erictessenow@web.de>; Tue, 07 Oct 2014 10:48:57 +0200
+Received: by mail-pa0-f73.google.com with SMTP id et14so1428877pad.0
+        for <erictessenow@web.de>; Tue, 07 Oct 2014 01:48:56 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=M+2nJz8/orxJsrc5N7lmPCT05PBUqjMccIpd+n7u4KA=;
+        b=AjlFdVGjXf8A//YnJTh3x+Hc/ldxEkb1ZOgrM6zFTQC87zA/pazTqa7jNRx5OJQQBg
+         AyMZ4sJc+5vGN0aab/M0B1vP3cufK7G/dhYvxGyTdvCMoUcE/2da2G9iVGEIYGYYprDT
+         DVha414xS82OeOarOAAeeMGaWFIM71tMOXWMRuxQSVprkdj58zpjXfluYTNGDGLgjiJ5
+         zAWFPgEv1irZD36bTPGos/nhxYgjP0ChN7EEElKqSeX9pbCZgSDbKZMqDsVX2crt01FZ
+         DDZKVYcJWf2GZOAGCrusMJ7mG3KZkGGXtJ4/uQUJXrB8Hdk+nhJFr5sD7B20hN2Uy2Qw
+         Tv4g==
+MIME-Version: 1.0
+X-Received: by 10.68.57.226 with SMTP id l2mr1399546pbq.8.1412671736055; Tue,
+ 07 Oct 2014 01:48:56 -0700 (PDT)
+Message-ID: <001a1136b1720306b30504d145e4@google.com>
+Date: Tue, 07 Oct 2014 08:48:56 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:J+CgjNJ6/pM=:bWGTsBWVv52uP2bSeEU1MrX37h
+ BS+KuB/3JrmMaO/KDRnu3KyEfSaV0uMiVHRTGqzvPo+/BFMpH3I0eRUmtome7PrZjxnQuVKsX
+ tqlfhB1gB3v/56rlnMATHJu8UWR3hOMZBtbLlKN9pmXLeHJrNK9ZgJux2XVjQjGf33ea2tCFM
+ Lt28l3ocgGJczVQi8hrhTyPSAk0e9EZwLgcoQd09dx+ZirZ7ul5AEakr0w+IJQvi1O9UlHYVu
+ OwubTv3hb9De05HSeZymSh5jIRWr1TVExUzlPAEC0svo+mF6VDXO4sD9vpF1jVmiL5KoBWBlx
+ syq0vEfcifhLad/vB+1SFTiVPiTagThzn+GpGTvB2P7JqXKiI21dOnOK1IM1O6zL361BUWPED
+ MvbI3KFKywqoC6s0HvjGBx18Wa85ezWC8C2i5WQ+DaSYidETXS0spQAQ7JQd+leee/4UMGJd1
+ A1dV8URH13pQIrLHusrCr+IP/9RxecIMSYuYZSBhBCYVSUxTH7Bqq6z0EY8HZNnTX9ki9gZF7
+ Je3vuWNqDPlj+zjn7OYSolUtWjWzFS9WqPQONe5uh+vFYvyZDHrZlzrMCf466YzoB0Az9hGhn
+ W2l3skp6O7o5eGig97xETGLQ9QPIvrX+FTTZf5yyhj/ZLAxIS960fLSUK7Od84eoqa9vR7Bx0
+ 2WL2NTrT+zBruG1RFApVdwSdoDvE967V/JNucTv51wqsKvre81GcNoIVT+D2BmqviuW+DPW1e
+ aMvKFoAFgwNfK4prryiUgISigEP/geIgeZ4Zu0welPXabKgOmSE2da/Od2cVxeVEI4/olMIVk
+ B5Eo7H/IwZCJCXcX0phKRRH9GuLysvGcHwtS5P2Cd7bFCRixRUqEAjhicqGZ2xiptRxqLC7eq
+ hlyoveEqtHaRhv7lJySjs6z6DfCr/swV1oBliNUg57QTbWYBbSl7dXGL/eBTluTXTaGuQTq26
+ y5/FhpdIivONNTMTl4REwkGIA/HUlaJKp6/ybH1wWkbzaUAVoWefY2+kOMSqa8wSbxepJdmtY
+ RtbnhNlnh7pIkxI6dGsNkr/eZFj9OFLJTRKCAZMVgL82amR1SOpgR/OFH8dq/EmAjG6y5v6Aj
+ pcuuF0/LIHJChGXh+bLQowDZY7lE0dO9tzF3cvlDTc+xlJt2ibc0Iz9sZxx46oB3h2/mq5ofL
+ LH4GmgSpaJqZYa8R2QoYtlk71GQvPgnvikMbWD+M+E2dSbzJ7MamTeZQOpDD8RDrxpmN33jJ4
+ hSr48dZlkH/ucSAORaoLQ6+AwskFb64+kGFKikr/mY1KGBjKikB3gm+ggUxiDOtY2oqmVFMQ9
+ 2zTLhcz20izjcxVpKMndmtfhafFanJIbjEqDAnTZ7WKRAL0ptmiS78p2Gj3aSYDopxRRm4ku/
+ gCynJbm8PstXMSBPWzBAiWUAMbIt832QxUQqL4ypR6de41FUczX9wb8IY/iS0dP5kS1ucyjDQ
+ ViSyO0RpwU/BxLd8Po+FWBP+7s8Mx4spVlk80kbGWK0wKG0SLl
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://crln.acrl.org/con=
+tent/75/9/492.full&amp;sa=3DX&amp;scisig=3DAAGBfm1z5A7YV-BKRc5ieE5zlhHy1f64=
+xA&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decor=
+ation:underline">A web of meaning Linked open data resources on the web</fo=
+nt></a></h3><div><font size=3D2 color=3D#006621>C Landis - College &amp; Re=
+search Libraries News, 2014</font></div><div><font size=3D2 color=3D#222222=
+><b>...</b> Access: http://5stardata.info/. <b>Linked</b> <b>Data</b> Gloss=
+ary. As with any emerging technology, there has<br>
+been an explosion of various approaches, terms, standards, and ideas associ=
+ated with linked<br>
+open data. <b>...</b> Access: http://www.w3.org/TR/ld-glossary/. <b>Linked<=
+/b> <b>Data</b>=E2=80=93The Story So Far. <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://discovery.ucl.ac.=
+uk/1449458/2/Intro%2520to%2520linked%2520data%2520C%2526I174final.pdf&amp;s=
+a=3DX&amp;scisig=3DAAGBfm0I45edXOwtZIpKFAQYavBiRushnw&amp;oi=3Dscholaralrt"=
+><font size=3D3 color=3D#1a0dab style=3D"text-decoration:underline">Introdu=
+ction to <b>linked data</b></font></a></h3><div><font size=3D2 color=3D#006=
+621>TP Meehan - Catalogue and Index, 2014</font></div><div><font size=3D2 c=
+olor=3D#222222><b>Linked data </b>is a powerful means of structuring and pu=
+blishing data on the web. The world <br>wide web we are used to is essentia=
+lly a linked web of documents; <b>linked data </b>provides a <br>means to c=
+reate a web of data. Rather than a series of locked down catalogue database=
+s <b> ...</b></font></div><br><h3 style=3D"font-weight:normal;margin:0;font=
+-size:medium;max-width:44.5em"><a href=3D"http://scholar.google.de/scholar_=
+url?hl=3Dde&amp;q=3Dhttp://www.sciencedirect.com/science/article/pii/S03043=
+80014004335&amp;sa=3DX&amp;scisig=3DAAGBfm33hV_WhiPjolLpnht04SdQd1hxrg&amp;=
+oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:u=
+nderline">Data mining and linked open data=E2=80=93New perspectives for dat=
+a analysis in environmental research</font></a></h3><div><font size=3D2 col=
+or=3D#006621>A Lausch, A Schmidt, L Tischendorf - Ecological Modelling, 201=
+4</font></div><div><font size=3D2 color=3D#222222>The rapid development in =
+information and computer technology has facilitated an extreme<br>
+increase in the collection and storage of digital data. However, the ass.
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://www.adambarker.or=
+g/papers/ekaw_2014.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm0MsnDUKASCqPCQJzlbR_iw=
+3pMG_w&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-d=
+ecoration:underline">Integrating Know-How into the <b>Linked Data </b>Cloud=
+</font></a></h3><div><font size=3D2 color=3D#006621>P Pareti12, B Testu, R =
+Ichise, E Klein, A Barker</font></div><div><font size=3D2 color=3D#222222>A=
+bstract. This paper presents the first framework for integrating procedural=
+ knowledge, or <br>=E2=80=9Cknow-how=E2=80=9D, into the <b>Linked Data </b>=
+Cloud. Knowhow available on the Web, such as step-by-<br>step instructions,=
+ is largely unstructured and isolated from other sources of online <b> ...<=
+/b></font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medi=
+um;max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D=
+"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://www.semantic-w=
+eb-journal.net/system/files/swj828.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm3tCVkb=
+8yWoz9DCeW6saHuOLJA9xw&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab=
+ style=3D"text-decoration:underline">Crowd-sourced Digital Humanities <b>li=
+nked data </b>contributing to library datasets: the case of the Listening E=
+xperience Database</font></a></h3><div><font size=3D2 color=3D#006621>A Ada=
+moua, M d&#39;Aquina</font></div><div><font size=3D2 color=3D#222222>Abstra=
+ct. In this paper, we present a linked dataset for&#39;early access&#39; to=
+ information crowd-<br>sourced as part of the Listening Experience Database=
+ project. We call it early access, <br>consistently with the practice in mo=
+dern software development, as its main aim at this <b> ...</b></font></div>=
+<br><p><hr noshade size=3D1><font size=3D2 color=3D#222222>Dieser Google Sc=
+holar-Alert wird Ihnen von Google zur Verf=C3=BCgung gestellt.<br><br><a hr=
+ef=3D"http://scholar.google.de/scholar_alerts?view_op=3Dcancel_alert_option=
+s&amp;email_for_op=3Derictessenow%40web.de&amp;alert_id=3DAIfevv3NkPcJ&amp;=
+hl=3Dde"><font color=3D#1a0dab>Alert stornieren</font></a><br></font></div>=
+</body></html>

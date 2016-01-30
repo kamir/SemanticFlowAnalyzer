@@ -1,0 +1,174 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.64.44.105 with SMTP id d9csp72695iem;
+        Fri, 2 Aug 2013 00:24:38 -0700 (PDT)
+X-Received: by 10.182.47.137 with SMTP id d9mr4340461obn.26.1375428145066;
+        Fri, 02 Aug 2013 00:22:25 -0700 (PDT)
+DomainKey-Status: good
+Received-SPF: pass (google.com: domain of 3mn_iurukdkuxhmtqfwfqjwyx-stwjuqdlttlqj.htrjwnhyjxxjstbbjg.ij@scholar-alerts.bounces.google.com designates 209.85.216.73 as permitted sender) client-ip=209.85.216.73;
+Received: by 10.76.26.50 with POP3 id i18mf3963062oag.18;
+        Fri, 02 Aug 2013 00:22:23 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3mn_iurukdkuxhmtqfwfqjwyx-stwjuqdlttlqj.htrjwnhyjxxjstbbjg.ij@scholar-alerts.bounces.google.com
+Received: from mail-qa0-f73.google.com ([209.85.216.73]) by mx-ha.web.de
+ (mxweb109) with ESMTP (Nemesis) id 0LzEMv-1UDl2n2xTF-014XbV for
+ <erictessenow@web.de>; Tue, 25 Jun 2013 02:07:12 +0200
+Received: by mail-qa0-f73.google.com with SMTP id hu14so46956qab.4
+        for <erictessenow@web.de>; Mon, 24 Jun 2013 17:07:12 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=LRLKhilBssrPDDMxf30FfsQ98g4oVCuVndclmOpZ3rU=;
+        b=VOH8g7yiHYcYHFdtDM4+vg58KfqaDJ0MsYcdFoVEPLViTMCZu9wENdZgpSjiD9HBxH
+         U/LVpUVIhtGM/kOrSngwcWgoTLe8ru4gSG/h/cdqnBU6KgHcroRfRPCT8OptcvU9Q8r1
+         Qzep9jlTlX0S0IGfAJGeTd3zRQR6GfTNDuxJ0T1pdGF/TNphm0XLSPuVyePELaziGXla
+         qYwFUxu5BCJDzJSaW0Z5LhT2HYJgBTNg0WJSTCnywyqj8963TtGabLmDqhmk9yjLkH3g
+         O/VgTXQWv+RuqPras6076h7GT7crLcWHiab9eLvsjKrLj9uBI7rpk25akpKLIjtgBXBi
+         3e7A==
+MIME-Version: 1.0
+X-Received: by 10.236.70.170 with SMTP id p30mr15205080yhd.5.1372118832002;
+ Mon, 24 Jun 2013 17:07:12 -0700 (PDT)
+Message-ID: <001a11c1cd3892371d04dfef4f3e@google.com>
+Date: Tue, 25 Jun 2013 00:07:12 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:pg6qoUjJ8kw=:I5LN+5TTFySG6yzhH/cTWf
+ 2UZnAmbFC9yl5qgeSKdl+ULoZ70WMluGwze76BSlYqLnm3a3r2IZ7wI47ZX/v68khgAxSps
+ +34Cwb5pKpmjUzrYlgsZv3efE+NP//QA+IPPlAC2FyAJPVZHJQxeMeM/IWwYCDiTdmEgc7U
+ uWjkgG5jJqLCsM8srzC1hA5BDS21n/jXEMqKXaqCTEM6tc9ezvfSQghKIWRR0HmcreztBAx
+ AnaBtCc4g3QSToSqZhPvPqdzCY3XgRWC1oeDM+mzZRp/jmUiymJgVakbZfsOoSH7vfhNCYw
+ mxzXvfwdozDGjQKFimoPozqamf1If5Dfq84w2CMzPgbNGiOmv10dsOaqmDgbKDpt4xAm8lm
+ a3y9LBA8Bk5oeKyZTWjRGwqnHcKsuW9gqN37rId8Iu6JIrt281VP5udAABKzRTMhSQLvLPf
+ pSl5gmqRuNINzsXPYAb8k+aOoPQwkQpBPXNdmiMUJHWhogIghY3CgpcWdGiZgvnLBpYCM49
+ n4OwCMJlwaepORaoT1zXDHj74Y2BB8jtjBgVOuKMbFbFq6UO4mopsVNzbh6LWdw7r6QCQaG
+ yUn9mchFkkcQ3dlRfQSNBPp7kcR3biLIOUa3NesFpiymsENppUnfqPSF5Ql+IIjaCFF2IER
+ sAIVfqQ+58MsburyCRDHTfb1wJISe5Jyfe6tljHVv02AfQhL0Vecah2NEyhsqaBNVk2LMw1
+ uVXzSpTPyEPl5exPae+InkDwIgJ9m1gVNo41m/JNMKJquAAKHgZ3GqlykU2gwerN4cNNrCw
+ Pumj9LiFTXTtPNiwyCNIivSlpCiGi8QpucIItnQ8HwbnsBKGPeIfkyF6q9LfdcJT2/S6v2B
+ ttUhloZlVVQFVuKaei9URpwXZcTr0WgrpgdJLhgjbsCxRjlESMmSrt6MdUnpV4Iwli2VnRh
+ YbpnUq0d+n9c+OdADYFVT+z+Z2ZNqCEc4NOXUVhA+aUqyQiRdg6+FtnAmZUcavh50lnIwo+
+ ykecgrdrFeuAu0YKENvVVpjriKVsgAWFBw5QGxdpRju44jAT0Z2tJhK1JQ0rcgYN+hMfv/k
+ FE8j1tiq51p41nYbmVd/SL+BzXZAGb5IEuJB4bgB6p7prRkhm4wwit8hjbPtC+2KwnpX1lb
+ kWYCoxASAINgrN/dVVDTu5W2Re79TE7lMC2w/YEaCqfh6ebjaYPM5fp+Q73+0tGvQOPRXRU
+ ZlJ48m+6tT7k1IhY7tHNIEH6ritofLsMtBlUXPIsdMTx8gsXDz3WujxrAskmo+2/bNQzASP
+ QVz09CIExzPcppHUJSKdVQVNGtjEuymjTpil9L4gLSMHJhoDJu9cZ/m6+4SgPnQJtRVUSyc
+ A0OYkdGh35bkRlBVKKj6PvaKi4zUrC3ofvs1Gxfle66lq1T5Ve/8vz0PUvw==
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D=
+2 color=3D#1122cc>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_=
+url?hl=3Dde&amp;q=3Dhttp://ifgi.uni-muenster.de/~j_jone02/publications/FOSS=
+4G2013.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm1iqrMPVIDJaf1uZmahY8wzIWFJPw&amp;o=
+i=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D"text-decoration:un=
+derline">Gestural Interaction with Spatiotemporal Linked Open Data</font></=
+a></h3><div><font size=3D2 color=3D#009933>T Bartoschek, G Pape, C Kray, J =
+Jones, T Kauppinen - 2013</font></div><div><font size=3D2 color=3D#222222><=
+b>...</b> into an exhibit. We present a set of gestures that visitors to a =
+science fair can use to<br>
+explore large amounts of <b>linked</b> <b>data</b> related to deforesta- ti=
+on on large screens and<br>
+we also report on results from an initial survey. In the following <b>...</=
+b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&a=
+mp;q=3Dhttp://onlinelibrary.wiley.com/doi/10.1111/exsy.12034/full&amp;sa=3D=
+X&amp;scisig=3DAAGBfm02NQXefor9Xt2QI4mmixtMgQpgHQ&amp;oi=3Dscholaralrt"><fo=
+nt size=3D3 color=3D#1122cc style=3D"text-decoration:underline">Extracting =
+knowledge from web communities and <b>linked data </b>for case=E2=80=90base=
+d reasoning systems</font></a></h3><div><font size=3D2 color=3D#009933>CS S=
+auer, T Roth=E2=80=90Berghofer - Expert Systems, 2013</font></div><div><fon=
+t size=3D2 color=3D#222222>Abstract Web communities and the Web 2.0 provide=
+ a huge amount of experiences and <br>there has been a growing availability=
+ of Linked (Open) Data. Making experiences and data <br>available as knowle=
+dge to be used in case-based reasoning (CBR) systems is a current <b> ...</=
+b></font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:mediu=
+m;max-width:44.5em"><font size=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"=
+http://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://tcdfame.cs.tcd.=
+ie/pv/files/sigir-enrich-2013-dacura-09.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm0=
+1DIr5FacyX1wWwXWSjY0nOQCZ5w&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1=
+122cc style=3D"text-decoration:underline">Publishing Social Sciences Datase=
+ts as <b>Linked Data</b>: a Political Violence Case Study</font></a></h3><d=
+iv><font size=3D2 color=3D#009933>R Brennan, KC Feeney, O Gavin - 2013</fon=
+t></div><div><font size=3D2 color=3D#222222>ABSTRACT This paper discusses t=
+he design, application and generalization of a <b>Linked </b><br><b>Data </=
+b>vocabulary to describe historical events of political violence. The vocab=
+ulary was <br>designed to capture the United States political violence 1795=
+-2010 dataset created by <b> ...</b></font></div><br><h3 style=3D"font-weig=
+ht:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"http://sch=
+olar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://onlinelibrary.wiley.com/d=
+oi/10.1002/asi.22876/full&amp;sa=3DX&amp;scisig=3DAAGBfm1B53EVmvn6Jn1YSEZFt=
+2lfK2VGsA&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D"tex=
+t-decoration:underline">Linked Open Data technologies for publication of ce=
+nsus microdata</font></a></h3><div><font size=3D2 color=3D#009933>G Pab=C3=
+=B3n, C Guti=C3=A9rrez, JD Fern=C3=A1ndez&hellip; - Journal of the American=
+  &hellip;, 2013</font></div><div><font size=3D2 color=3D#222222><b>...</b>=
+ They establish a common scheme to be followed in the assignment of URIs. <=
+b>Linked</b> <b>data</b><br>
+links. The <b>Linked</b> <b>Data</b> fourth principle recommends making lin=
+ks elsewhere to connect<br>
+the data to conform to a <b>linked</b> <b>data</b> web. <b>...</b> <b>Linke=
+d</b> <b>Data</b> Links. <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&a=
+mp;q=3Dhttp://link.springer.com/article/10.1007/s12145-013-0118-2&amp;sa=3D=
+X&amp;scisig=3DAAGBfm3pTQCcafYo2USZXxTVmpA5YNo9Sw&amp;oi=3Dscholaralrt"><fo=
+nt size=3D3 color=3D#1122cc style=3D"text-decoration:underline">A Linked Sc=
+ience investigation: enhancing climate change data discovery with semantic =
+technologies</font></a></h3><div><font size=3D2 color=3D#009933>LC Pouchard=
+, ML Branstetter, RB Cook&hellip; - Earth Science Informatics, 2013</font><=
+/div><div><font size=3D2 color=3D#222222><b>...</b> In general, there are t=
+wo key approaches. In one, the (<b>linked</b>) <b>data</b> is represented i=
+n RDF<br>
+or OWL and the search engine provides access to a collection of such data, =
+either through<br>
+keyword search or through SPARQL (eg, SWSE (Hogan et al. <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&a=
+mp;q=3Dhttp://dl.acm.org/citation.cfm%3Fid%3D2479748&amp;sa=3DX&amp;scisig=
+=3DAAGBfm3z-O_sFs_SlAQS6HheBWkn8k4SXA&amp;oi=3Dscholaralrt"><font size=3D3 =
+color=3D#1122cc style=3D"text-decoration:underline">Fusepool R5 <b>linked d=
+ata </b>framework: concepts, methodologies, and tools for <b>linked data</b=
+></font></a></h3><div><font size=3D2 color=3D#009933>M Kaschesky, L Selmi -=
+ Proceedings of the 14th Annual International  &hellip;, 2013</font></div><=
+div><font size=3D2 color=3D#222222>Abstract The work reported here was done=
+ within the applied research project Fusepool. <br>Fusepool is an internati=
+onal project to develop a set of integrated software components to <br>ease=
+ the publishing of open data based on an open-source <b>Linked Data </b>Pla=
+tform and a <b> ...</b></font></div><br><h3 style=3D"font-weight:normal;mar=
+gin:0;font-size:medium;max-width:44.5em"><font size=3D2 color=3D#1122cc>[PD=
+F]</font> <a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dh=
+ttp://ecsocman.hse.ru/hsedata/2013/06/21/1286691610/1BI%25202(24)%25202013.=
+pdf%23page%3D3&amp;sa=3DX&amp;scisig=3DAAGBfm32gh5PZCsA6fbqhBuclPbNYMq-1g&a=
+mp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D"text-decoratio=
+n:underline"><b>Linked data </b>paradigm for enterprises: information integ=
+ration and value chain</font></a></h3><div><font size=3D2 color=3D#009933>D=
+ Hladky, SV Maltseva - =D0=9C=D0=90=D0=A1=D0=A1-=D0=9C=D0=95=D0=94=D0=98=D0=
+=99=D0=9D=D0=AB=D0=95 =D0=9A=D0=9E=D0=9C=D0=9F=D0=9B=D0=95=D0=9A=D0=A1=D0=
+=AB WEB 3.0  &hellip;</font></div><div><font size=3D2 color=3D#222222>Data =
+integration in enterprises is a crucial but at the same time costly and cha=
+llenging <br>problem. While business-critical information is stored in ERP,=
+ CRM, SCM and in Content <br>Management systems the integration of such bec=
+omes even more critical when integrating <b> ...</b></font></div><br><h3 st=
+yle=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font=
+ size=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"http://scholar.google.de/=
+scholar_url?hl=3Dde&amp;q=3Dhttp://semantic-web-journal.net/system/files/sw=
+j495.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm0zTe7RyjKvI-po8ocL6XrsmW3MbQ&amp;oi=
+=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D"text-decoration:und=
+erline">Multilingual <b>Linked Data </b>Patterns</font></a></h3><div><font =
+size=3D2 color=3D#009933>JEL Gayo, D Kontokostas, S Auer</font></div><div><=
+font size=3D2 color=3D#222222>Abstract. The increasing publication of <b>li=
+nked data </b>makes the vision of the semantic web a <br>probable reality. =
+Although it may seem that the web of data is inherently multilingual, data =
+<br>usually contain labels, comments, descriptions, etc. that depend on the=
+ natural language <b> ...</b></font></div><br><p><hr noshade size=3D1><font=
+ size=3D2 color=3D#222222>Dieser Google Scholar-Alert wird Ihnen von Google=
+ zur Verf=C3=BCgung gestellt.<br><br><a href=3D"http://scholar.google.de/sc=
+holar_alerts?view_op=3Dcancel_alert_options&amp;email_for_op=3Derictessenow=
+%40web.de&amp;alert_id=3DAIfevv3NkPcJ&amp;hl=3Dde"><font color=3D#1122cc>Al=
+ert stornieren</font></a><br></font></div></body></html>

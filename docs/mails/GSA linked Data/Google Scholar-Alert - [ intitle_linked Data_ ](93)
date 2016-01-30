@@ -1,0 +1,121 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.55.94.196 with SMTP id s187csp83279qkb;
+        Fri, 28 Aug 2015 20:11:43 -0700 (PDT)
+X-Received: by 10.140.133.135 with SMTP id 129mr22240810qhf.95.1440817901164;
+        Fri, 28 Aug 2015 20:11:41 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 35R7hVRUKDFwM6BIF4L4F8LNM-HIL8JFSAIIAF8.6IG8LC6N8MM8HIQQ85.78@scholar-alerts.bounces.google.com designates 209.85.223.201 as permitted sender) smtp.mailfrom=35R7hVRUKDFwM6BIF4L4F8LNM-HIL8JFSAIIAF8.6IG8LC6N8MM8HIQQ85.78@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 35R7hVRUKDFwM6BIF4L4F8LNM-HIL8JFSAIIAF8.6IG8LC6N8MM8HIQQ85.78@scholar-alerts.bounces.google.com designates 209.85.223.201 as permitted sender) client-ip=209.85.223.201;
+Received: by 10.55.108.129 with POP3 id h123mf8367188qkc.2;
+        Fri, 28 Aug 2015 20:11:41 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 35R7hVRUKDFwM6BIF4L4F8LNM-HIL8JFSAIIAF8.6IG8LC6N8MM8HIQQ85.78@scholar-alerts.bounces.google.com
+Received: from mail-io0-f201.google.com ([209.85.223.201]) by mx-ha.web.de
+ (mxweb108) with ESMTPS (Nemesis) id 0M7IN8-1YkxFI1Uco-00x5tM for
+ <erictessenow@web.de>; Sat, 29 Aug 2015 04:54:30 +0200
+Received: by iofe124 with SMTP id e124so7192712iof.1
+        for <erictessenow@web.de>; Fri, 28 Aug 2015 19:54:29 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=R/clhoiCwfFx9ujKNXtO31qvwVZwoJuWpI3wIX0/Xt8=;
+        b=JUOyR0RKnCUnp6ZPxyrXbJhvcG31N0nVodt8V4bWrN/IVKlJVk/OepxyqWW5WlYG8u
+         RPJK6i/8sRFOIK9x/QMNtEQTdZ9uI3D925O+WNCTbLih7YJbAe2m8Kzl0CltA6ChyJOH
+         4l5/DhbUvVW1NWve8BaErFX8p2X7ZHqA8+g/AH5srMe/a2DTzFCDcBwYOxbvs5QFsKV7
+         wpzCyF2yGXca0ZbZ3kpw9wxVO/0ZHkZS4xf86as4aGxz3I/QmJnWBNkCABu7dq1bA5kv
+         Ypi3/utGYOpdFbaYKLDrbhoihJNOMt4cl7dL8ZZ3x11zovU9P0saPBCAGrSsu0Z4272t
+         vZmA==
+MIME-Version: 1.0
+X-Received: by 10.50.60.70 with SMTP id f6mr8074690igr.2.1440816869303; Fri,
+ 28 Aug 2015 19:54:29 -0700 (PDT)
+Message-ID: <047d7b10d03fae64f0051e6a511d@google.com>
+Date: Sat, 29 Aug 2015 02:54:29 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:yaTik2YbpBU=:T1nA2EXgLgA9Kh0OD6WwlFcPrM
+ AqH3jb72UGRkMluleIPwjiC0J4AgKElXd4rlhDbebmdLyCmF5t4PZSvZnNy1rQOHfG6RDuljx
+ k4thhkNeLl0eDa2JgeTeW2VKhQDNxw1iVS7Duv+0bXfOlHXhEVFZdBrFgE3qJaXxIFSjfeZLf
+ OV/xoPXEzyaLh025DHpxHS1XL9DnRKEdb0+X1XCU8Mto358sr7WadSUSNf2AHpt3Z8xPsGz6z
+ 7IttufsZT/MoTAHzr9vr7/HdrAmKzms7WkRqLQxSdBq4t01OjA1gTthtxcc2kHVr+2fPnhhhk
+ JSA1hiLJu9Ke2OYZq+1Y51MdYy3oE66jC6mE1bMnX1J8Pl7dTMgqhxI6p4Ydd51cUnMJjO+9b
+ 01Gk77cEMevKMeTWCbEqqsJKO20hqjPsnwp0ILRRMr9DBFBgmojaX8pXT0YMj0oPQEgCucfe5
+ 9mAA8cub3Lv6INgtoe0CbNvjukAVZZMGttOdilYpKvAjN5x68nU4ijxsu6UWS91VRI+kmAp/r
+ cPJA7UTWud3CUqtm4D+7TLGbYBWAT4RF5FVcX2RIeWSAHe+F7UaaXR8R9O4JUKRB1jjGrzm4d
+ 2kHjUQ4FAfBd1PJTSREJ6BNaUV9Jb+lWJfq9v1XX0wi0b3HbzKjLZUN3eU5si/Jz4BtZ77qt5
+ b7h9M5D5MbUjl/PLpq9eF4DfEXZXoVIquirhzwZPUwqP+0xCrKzwwQ9GZGyOBlfwiXt9qabyv
+ n/I/7C8GS/ULZ8gM3yIN1SjRUSmrkKopKOTV5ZnaHLpYjuFBarIJRmJmmxt30lxGy4QNotU0e
+ fJdfhRYKWdwup1kVjPAbFXKY+qf/oq1DLBomaHMjlovlqtZC/OcC7PVu1x69HF173b3VU52+V
+ iQa+l/3n5/ErABOfEqMPRSUlc1dH0cnty5V7Xx0rKIIyrUyHswmku4UdhFTmScySVEHxf0GOs
+ k0L/Z2OPjMuFl4L0ZkKDHDEiYLanl5q+LKWwSMsmpYR6kCORKw2ITmFq7ee8uiyCjY9SmFM5m
+ MPyB3RTMmLg6ZnwQIbOJUA1R/yTY7txVwxuAE6k3MT4H6VGcV4N9F7LSlCwyRMKTWGQA2e0iD
+ xkuzQbMIVx3j2g97lTMJVTnEdMEmCoG1bweGiN0WhEWIoa4vNpH0Urp6yfQRVFZxQCCdkKsVj
+ tgnwxOBPkGYJvExeJ0Kdd15e37mJFmDow2xXOpPm+cWgH9xFq3O6FqDO3X3hji5eZmB3RfeOZ
+ 7FjtcR+iutXhH59PUkTBOu7OUW+jN4R1i10I4nIyf10iqVJTYuhy967WGDLuGcJHYolveD81/
+ vWKoLaL10N9hO3JmHs0Zjn7AkhqSm2NS2nnvOOkceerhpt6z7CUBZIUnXw1rup/FSbG5qDvuO
+ qbeZj9Z9ed2wELJJHqWsa1ZvbPI487JLfDHsQ2bt5xUjN7CZGR2unV+4FxnuDUgU3aOYqcwal
+ s0GJojO0EBOqDMr9kSFzR2Tdv8AXIGjlmS0MDWeDzWkHd03ehg
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D=
+2 color=3D#1a0dab>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_=
+url?url=3Dhttp://arxiv.org/pdf/1508.06098&amp;hl=3Dde&amp;sa=3DX&amp;scisig=
+=3DAAGBfm33oM6AzB4iM2iA-qQ_neZcTo9Oug&amp;nossl=3D1&amp;oi=3Dscholaralrt"><=
+font size=3D3 color=3D#1a0dab style=3D"text-decoration:underline">Tracking =
+Federated Queries in the <b>Linked Data</b></font></a></h3><div><font size=
+=3D2 color=3D#006621>G Nassopoulos, P Serrano-Alvarado, P Molli&hellip; - a=
+rXiv preprint arXiv: &hellip;, 2015</font></div><div><font size=3D2 color=
+=3D#222222>Abstract: Federated query engines allow data consumers to execut=
+e queries over the <br>federation of <b>Linked Data </b>(LD). However, as f=
+ederated queries are decomposed into <br>potentially thousands of subquerie=
+s distributed among SPARQL endpoints, data providers <b> ...</b></font></di=
+v><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;max-width:4=
+4.5em"><font size=3D2 color=3D#1a0dab>[HTML]</font> <a href=3D"http://schol=
+ar.google.de/scholar_url?url=3Dhttp://www.ncbi.nlm.nih.gov/pmc/articles/PMC=
+4525267/&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm1Kd5zZdqKlaZmygfIip1asPl=
+RKYA&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab sty=
+le=3D"text-decoration:underline">Mining Electronic Health Records using <b>=
+Linked Data</b></font></a></h3><div><font size=3D2 color=3D#006621>DJ Odger=
+s, M Dumontier - AMIA Summits on Translational Science Proceedings, 2015</f=
+ont></div><div><font size=3D2 color=3D#222222>Abstract Meaningful Use guide=
+lines have pushed the United States Healthcare System to <br>adopt electron=
+ic health record systems (EHRs) at an unprecedented rate. Hospitals and <br=
+>medical centers are providing access to clinical data via clinical data wa=
+rehouses such as <b> ...</b></font></div><br><h3 style=3D"font-weight:norma=
+l;margin:0;font-size:medium;max-width:44.5em"><font size=3D2 color=3D#1a0da=
+b>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_url?url=3Dhttp:/=
+/ceur-ws.org/Vol-1426/paper-07.pdf&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGB=
+fm3mHnMROwxLCqjOMKkE7rllAXl1jA&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font si=
+ze=3D3 color=3D#1a0dab style=3D"text-decoration:underline">Leveraging <b>Li=
+nked Data </b>to Infer Semantic Relations within Structured Sources</font><=
+/a></h3><div><font size=3D2 color=3D#006621>M Taheriyan, CA Knoblock, P Sze=
+kely, JL Ambite&hellip;</font></div><div><font size=3D2 color=3D#222222>Abs=
+tract. Information sources such as spreadsheets and databases contain a vas=
+t amount of <br>structured data. Understanding the semantics of this inform=
+ation is essential to automate <br>searching and integrating it. Semantic m=
+odels capture the intended meaning of data <b> ...</b></font></div><br><h3 =
+style=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em"><fo=
+nt size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"http://scholar.google.d=
+e/scholar_url?url=3Dhttp://semantics.cc/sites/2015.semantics.cc/files/files=
+/LinkedDataExplorer_Thesis.pdf&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm1E=
+GdpFOW0xNlBKmpGRz0DgIVCiZA&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=
+=3D3 color=3D#1a0dab style=3D"text-decoration:underline">Customizable <b>Li=
+nked Data </b>Browser</font></a></h3><div><font size=3D2 color=3D#006621>K =
+Kl=C3=ADma</font></div><div><font size=3D2 color=3D#222222>Abstract: The ai=
+m of this thesis is to identify key requirements for exploring <b>Linked Da=
+ta </b>and <br>design and implement a web application which serves as a <b>=
+Linked Data </b>browser, including <br>search and customization features. I=
+n comparison to existing approaches it will enable <b> ...</b></font></div>=
+<br><p><hr noshade size=3D1><font size=3D2 color=3D#222222>Dieser Google Sc=
+holar-Alert wird Ihnen von Google zur Verf=C3=BCgung gestellt.<br><br><a hr=
+ef=3D"http://scholar.google.de/scholar_alerts?view_op=3Dcancel_alert_option=
+s&amp;email_for_op=3Derictessenow%40web.de&amp;alert_id=3DAIfevv3NkPcJ&amp;=
+hl=3Dde"><font color=3D#1a0dab>Alert stornieren</font></a><br></font></div>=
+</body></html>

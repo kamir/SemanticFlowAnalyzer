@@ -1,0 +1,126 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.140.156.88 with SMTP id c85csp435383qhc;
+        Tue, 28 Oct 2014 02:03:31 -0700 (PDT)
+X-Received: by 10.224.41.142 with SMTP id o14mr2798074qae.100.1414487008789;
+        Tue, 28 Oct 2014 02:03:28 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3QVtPVBUKDNwQAFMJ8P8JCPRQ-LMPCNJWEMMEJC.AMKCPGARCQQCLMUUC9.BC@scholar-alerts.bounces.google.com designates 209.85.192.201 as permitted sender) smtp.mail=3QVtPVBUKDNwQAFMJ8P8JCPRQ-LMPCNJWEMMEJC.AMKCPGARCQQCLMUUC9.BC@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3QVtPVBUKDNwQAFMJ8P8JCPRQ-LMPCNJWEMMEJC.AMKCPGARCQQCLMUUC9.BC@scholar-alerts.bounces.google.com designates 209.85.192.201 as permitted sender) client-ip=209.85.192.201;
+Received: by 10.229.166.70 with POP3 id l6mf245006qcy.30;
+        Tue, 28 Oct 2014 02:03:28 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3QVtPVBUKDNwQAFMJ8P8JCPRQ-LMPCNJWEMMEJC.AMKCPGARCQQCLMUUC9.BC@scholar-alerts.bounces.google.com
+Received: from mail-pd0-f201.google.com ([209.85.192.201]) by mx-ha.web.de
+ (mxweb005) with ESMTPS (Nemesis) id 0Lt0WI-1Y6mbU40rq-012Unv for
+ <erictessenow@web.de>; Tue, 28 Oct 2014 10:01:03 +0100
+Received: by mail-pd0-f201.google.com with SMTP id r10so30947pdi.2
+        for <erictessenow@web.de>; Tue, 28 Oct 2014 02:01:01 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=ULqRa29vIyB35K2Fl0njwfb81kTlmaNIj7y9ZmnjATk=;
+        b=a9Ko+XgyWqRkAS74zibicwVnSgpL0zAGx/cc5h9Ui+XBhOrlDW7/aNMtagIMlbRW5A
+         wY41a0VFAzuprdJ6muH8ukVB2kvmtbliPwj9pvNj9LcSiT68N9EUvi/+t/gbIq+JYXJF
+         eK5AUGZ5C8jVJTCeSqG0HN5OJ0ezfKu4TNktC4hXvVAZsv5GjHnFNkdlVdLkHw3Rc7Ri
+         +7auqbMk2U5Ou5tB94jyCYgEWfp8mfS9Sc31c6TWT3N5Go0/nkG9ORIylACIKKyUhd8T
+         6K3QFdVrCmkbhyBIzMIEHyUVeRSw5Dc6zVqXyDEQnlOn3TcU6/nqaV8ztkLHt7IHdsB5
+         s/lw==
+MIME-Version: 1.0
+X-Received: by 10.70.63.106 with SMTP id f10mr1401534pds.1.1414486849609; Tue,
+ 28 Oct 2014 02:00:49 -0700 (PDT)
+Message-ID: <001a113444fe35dfc2050677e2f0@google.com>
+Date: Tue, 28 Oct 2014 09:00:49 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:TSIHzCMWVb8=:EwHu8S4d1nt/xOUdWFF8P9tAJ1
+ Jm9+iUZ2gmYGimsT+3+Sg9npfxJsxyjU/K4X4QPq/fUEOR8kCt3Q8I7mLwDI3qNhJtZVnJQ7e
+ sKXXg4KOgknqKFhnkFbNiCiUbEKeZefybVogfTtGlLj5SGJFrJyL3lhW9M37k6y97ugHoM4bl
+ Uzdvie9hm+wnc8mwDyRZKBamK0dymCX8mdUDHXUxuD6Vbegut383vw+WtvIVwCbpqP3L/q439
+ EOGXkLSpni+iEjvTtL1uT1YsGRkYdD4UHfEkSSibK1wHJEn6dbac1zCIripYzRZohDgoZPdia
+ ToCLezHPQOQ3QDcuij8HRuCf7OHgZOBFk6mcETZr58Sx4ljEjTc2dDKvv6azoyg3pTMhzZhNy
+ QKUYZld4ftzAKHywf0NDbjrDhKmym4w6RwywLN55GL9gGOfxinWVGWiJJ9uKMJT0MuyYLk+j/
+ TMKcmh7mJJ6aPGjar5s6VSMzBGY/C3mtDyOGZWOTOQZczXWLelbkxA3BBHOeO0xbrszogD9GA
+ 54I4cqzsyMyMCk5Giej2KTRowgh8QXg0pu2yrfst8ObWYrf2hrMPzmWNU7vmHnkF8pV/fYkUZ
+ pEMOdkfpgdOgMcQK8miJluYhhQNZvnpzQ7SIRx0vyAlzIptHfUm3aXo/oqguUFjbutgK8HHnw
+ rRNfMhgipOoYNbpfOAo/Jna7BDgI8bNJaLebQhnH7PrHB9hwWW504xmgiZl1hQBiLAytFWGX0
+ d+5p+lyGa9Gbsg61h9TOPHv5kFQQaldqTm7pIZI4rmFiaZK5NidTbiyyakldu4+XC+wHneNgr
+ wimD38wo0uNCSA9akOyZ4a/2u6r4TjjuHEfS3or6+RvSP32RjA4Y1sU+zAz98AptZuG1EPKPb
+ KgWz3sjNTba6vyaUcu/WWj65KfwZwjS5imGd3poee4Z7br69UmXVdrHvAxclgjsRNrRaAIO0Q
+ t9CC8QP2raScfZKsbhGaPMjW6H0MmV6AN/T88k0w9VvTao+XOH0qT709pBNziqmOrdo0R2AeO
+ nQc8N3gQqqEnZrzlpsTlyt7ZV1tB472XHtgKgIErlwVu4X1aZlfIicW3+bScVcgYy+P9iOa04
+ bw3AHlSbALHsUYNvfUPqNKTUG+2Q3ugo05j+nAwGNzvHyuftnzs3Rj3X/o+WkukrdDDJ8EAFW
+ pdJ553DrEhvxBPRvo2DP1fGMn6wdznUjn93zSqMhdGVwu78mWVfL+KbZmckJOKz/uc5pXTCtv
+ WXELQpIS0z7yiFd0oH3Ume2bvO6Ne/CZa2JI2q+G8Tc34RhIjnCjOT3wMIGgLLnJFVoxa9ATc
+ nf4X9/Heekvx97e0b5ky1VQBFqYQVl2yJgZMhzq3gdsNfZzrX8Yj6vMS8tnlJRcic5nLl3je4
+ UEBMa0oVCjHUoR3/LQcPaNkztbB5LBJ3V0hhCKucsyqM7H/26rbbuJakBJUsZOlChYHFdFRNY
+ kbpERDHXrEnid+uILIvYd7gvGZ/OOzcZv4UCuP/OxhzP/RPFzmix7sp9Ioz7lAy0c2EJuijW2
+ S0jQgyUIx9XrofEIW407Zu/eUc3T+jRfyvISasG3EpCmAqMntNNWPngT3lIWBULE+NMuhI1b7
+ 3Ii1JDVnapEvsDzQuss7aTYoDmagACVtYI9Gp7hlGdDBP/w0k/bN/CxLbu9ThT5P0IL/kWmCt
+ Er3/4nBP7KfLjWP5FLTFo5PgIfVLVBoCLS9BAMxf2FPIQ==
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D=
+2 color=3D#1a0dab>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_=
+url?hl=3Dde&amp;q=3Dhttp://ftp.iza.org/dp8556.pdf&amp;sa=3DX&amp;scisig=3DA=
+AGBfm0CeKm1BF9snhmiHDjPIUKUS_sLpg&amp;oi=3Dscholaralrt"><font size=3D3 colo=
+r=3D#1a0dab style=3D"text-decoration:underline">New <b>Linked Data </b>on R=
+esearch Investments: Scientific Workforce, Productivity, and Public Value</=
+font></a></h3><div><font size=3D2 color=3D#006621>J Lane, J Owen-Smith, R R=
+osen, B Weinberg - 2014</font></div><div><font size=3D2 color=3D#222222>Lon=
+gitudinal micro-data derived from transaction level information about wage =
+and vendor <br>payments made by federal grants on multiple US campuses are =
+being developed in a <br>partnership involving researchers, university admi=
+nistrators, representatives of federal <b> ...</b></font></div><br><h3 styl=
+e=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=
+=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://www.eddi-co=
+nferences.eu/ocs/index.php/eddi/eddi14/paper/view/151&amp;sa=3DX&amp;scisig=
+=3DAAGBfm0KTTuB8td2Ujpodt3Fj0VUojIDCA&amp;oi=3Dscholaralrt"><font size=3D3 =
+color=3D#1a0dab style=3D"text-decoration:underline">Let&#39;s Disco-Publish=
+ Your DDI Metadata as <b>Linked Data</b></font></a></h3><div><font size=3D2=
+ color=3D#006621>T Bosch, B Zapilko - EDDI14=E2=80=936th Annual European DD=
+I User Conference, 2014</font></div><div><font size=3D2 color=3D#222222>Abs=
+tract This half-day tutorial introduces Disco. The DDI-RDF Discovery Vocabu=
+lary (Disco) <br>is a RDF Schema vocabulary that supports the discovery of =
+microdata sets and related <br>metadata using RDF technologies in the Web o=
+f <b>Linked Data</b>. Disco can be used to <b> ...</b></font></div><br><h3 =
+style=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a =
+href=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://ieeexpl=
+ore.ieee.org/xpls/abs_all.jsp%3Farnumber%3D6916497&amp;sa=3DX&amp;scisig=3D=
+AAGBfm3xpQQFT5qytn8wDvTWJbaAVf36zw&amp;oi=3Dscholaralrt"><font size=3D3 col=
+or=3D#1a0dab style=3D"text-decoration:underline">Applying Linked Open Data =
+to Green Design</font></a></h3><div><font size=3D2 color=3D#006621>T Kawamu=
+ra, A Ohsuga</font></div><div><font size=3D2 color=3D#222222><b>...</b> the=
+ LOD data and the application&#39;s usability. Index Terms=E2=80=94Intellig=
+ent Web Services,<br>
+Semantic Web, <b>Linked</b> <b>Data</b>, Green Computing, Augmented Reality=
+, Sensor Web<br>
+I. INTRODUCTION Urban greening and agriculture have <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://www.semanticsoftw=
+are.info/system/files/Loeffler_GvDB2014.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm1=
+qMNgP2Ae6XN6cGxWShs4y2BJ3Fg&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1=
+a0dab style=3D"text-decoration:underline">Towards Semantic Recommendation o=
+f Biodiversity Datasets based on Linked Open Data</font></a></h3><div><font=
+ size=3D2 color=3D#006621>F L=C3=B6ffler, B Sateli, R Witte, B K=C3=B6nig-R=
+ies</font></div><div><font size=3D2 color=3D#222222><b>...</b> Springer, 20=
+09. [9] T. Health and C. Bizer. <b>Linked</b> <b>Data</b>: Evolving the Web=
+ into a Global Data<br>
+Space. Synthesis Lectures on the Semantic Web: Theory and Technology. Morga=
+n &amp; Claypool,<br>
+2011. [10] W. IJntema, F. Goossen, F. Frasincar, and F. Hogenboom. <b>...</=
+b>=20
+</font></div><br><p><hr noshade size=3D1><font size=3D2 color=3D#222222>Die=
+ser Google Scholar-Alert wird Ihnen von Google zur Verf=C3=BCgung gestellt.=
+<br><br><a href=3D"http://scholar.google.de/scholar_alerts?view_op=3Dcancel=
+_alert_options&amp;email_for_op=3Derictessenow%40web.de&amp;alert_id=3DAIfe=
+vv3NkPcJ&amp;hl=3Dde"><font color=3D#1a0dab>Alert stornieren</font></a><br>=
+</font></div></body></html>

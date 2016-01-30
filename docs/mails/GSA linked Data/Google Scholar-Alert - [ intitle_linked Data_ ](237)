@@ -1,0 +1,135 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.140.140.136 with SMTP id 130csp422754qhm;
+        Tue, 2 Dec 2014 01:01:33 -0800 (PST)
+X-Received: by 10.140.100.228 with SMTP id s91mr33753895qge.31.1417510890389;
+        Tue, 02 Dec 2014 01:01:30 -0800 (PST)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3sXl9VBUKDEQyinurgxgrkxzy-tuxkvr4muumrk.iuskxoizkyyktu22kh.jk@scholar-alerts.bounces.google.com designates 209.85.160.202 as permitted sender) smtp.mail=3sXl9VBUKDEQyinurgxgrkxzy-tuxkvr4muumrk.iuskxoizkyyktu22kh.jk@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3sXl9VBUKDEQyinurgxgrkxzy-tuxkvr4muumrk.iuskxoizkyyktu22kh.jk@scholar-alerts.bounces.google.com designates 209.85.160.202 as permitted sender) client-ip=209.85.160.202;
+Received: by 10.229.166.70 with POP3 id l6mf2783638qcy.29;
+        Tue, 02 Dec 2014 01:01:30 -0800 (PST)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3sXl9VBUKDEQyinurgxgrkxzy-tuxkvr4muumrk.iuskxoizkyyktu22kh.jk@scholar-alerts.bounces.google.com
+Received: from mail-yk0-f202.google.com ([209.85.160.202]) by mx-ha.web.de
+ (mxweb005) with ESMTPS (Nemesis) id 0LqSSf-1YQMhn3WoD-00e6WP for
+ <erictessenow@web.de>; Tue, 02 Dec 2014 09:34:59 +0100
+Received: by mail-yk0-f202.google.com with SMTP id 9so657720ykp.1
+        for <erictessenow@web.de>; Tue, 02 Dec 2014 00:34:57 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=U2V0soMtX+7HChiwxE/EVDDYgrhcYnD9uZ5ME6ttcww=;
+        b=n1vHFztFMIrslrOcnk5C46jhzgcVNGfD403q4rdZv+TF/+/86WadVg4gZnfTq8YHQt
+         VrOC1DnRf6UcjR60p3RavK2+MiBQt+Tgdh2yjvEmjxs5d9J423E9WP2t6SSTz1cyLNpf
+         UgZ4rJ6mT3gK3/Hn6yevtCeCfDRbBTUI5Gk0fJJEVAEZf9W0rVHlc7HKnpCrJWbHy5VG
+         A4p3mJjBE/rTfgbsi/4zsMLaSTmoFa/hRcFnXjsTgMvf7sfonBnVl99oxZP6eYIA7pBr
+         NMkWDo/+LLYbbCioBqg6MHea9Se67X78WMvrqtP6SEKnq3Nl8B9FsMo0IwHXX3nAEjQX
+         Z3Ww==
+MIME-Version: 1.0
+X-Received: by 10.236.38.225 with SMTP id a61mr60432500yhb.44.1417509297692;
+ Tue, 02 Dec 2014 00:34:57 -0800 (PST)
+Message-ID: <089e01634dec279ea40509379a28@google.com>
+Date: Tue, 02 Dec 2014 08:34:57 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:CXv45C+fhdA=:ZjJVDFz2zx345U2B8pg5rhg8hN
+ 5CMFvlSt+ZqzO9+X70W5J/9ew08nBkx+4OUCFyUeW4jteTXpoidKphUuLLGAPmBPxglaGM0Ym
+ 1OUFnNv+49gVXyfxACnzh5MzQSkP31ha3+dCpI1hYMZGK8cJCTcWU9tWJm2jkX16vQOvR8KaM
+ iKrBjjHbi/LQBf15gvZwtzSMgGfIJhlRq9Sb8lTSGz9HVq8n7D+S+PQZePeEi+K5kUx+JTUIi
+ GuKmc769rOzZssdUb3EQa0i6Pw+Cp8xZvaMi2d7fuKpdlvwtZtZD8imjxTixxcekFjOV7mv1Y
+ 8/JR150CgbKHrDtoZtlozk5NPlYgmckP9OJKkI7nbk7moYknR0qZVX0kK3ocFh4P2yk8ZYDtd
+ qx+6kQ8XmEGPxE/TQBXn3qg9SYZGXEucdlQUlofk45PG/okImZK1IwRZnECeO1NOz8+STa4Vm
+ s7MybvcZV3Ka+p6BeCNicIwbbwIoI220srsxo1CEZ2V/y91ZQuFdTKirlFpTkdAlU7nQr8E82
+ dFn26CbNnrrg47k9sy+dsEeqSXSNSTmE++HkPuqnCGfeGwFIAZWTByeLyL4Prb+SO1FrHnpEv
+ rA/wKUXhZWbq0PiL+NEvtSIJUw2vXAKazwA68qSTUKMa51rx+fw7YFA930wAWDLtUy0uOOBI/
+ Liwoxx7Nan/5gFeih/3zGAqNp+oFddu7/d9rQMS5N6hCNQgz0n1ATwSNnIkhLvZB3zdFt3oWY
+ cTZH3OgszLdBoAwgz84haC02Qg3L+C3ymZUrYxsQr9RcsoUeDWMnSzM64P3/2tGZooeb85EOQ
+ 9nLcq5k8KBdD7MDfeYLff5O/Me99uxIx2QJTSiJqU6tTmXCljbnmXFAGApOvWsFiFCRZLoQQI
+ ME5VcN105YDz+2p8CEIHkpd4gzTbM41BpkbrQCEMxB7iYjYJJaAV9Pl91BX9UBqQ8mlKQ5BIH
+ iojpc7nwLxmFTosPDOwVzVpR23qR6T2O4mk5Gjv3VIDMz71CKg3ODQO+YTDgRN6wJfgaMJkNi
+ h5CZWKGCCLCofJJp5L6B3c+UZKJ9EFWQPPRFW9aec+4SeCHF2JDctsyrjRN+G27eLbtWS+TV8
+ iAc6CHe4BiGJg4Mh4pt0dgmSm7jZsjZgLt3N/jsjpqpifPgzcJ+xAXrj3Jol8cZ8zPYjU/SPG
+ ZrE9Gu1GO/On3pGtoPgti+9I1fp2Y0nxhBU7HhZZ7sVgsP2sU7FpEl9A7fU/Ct9dtewLQWyL5
+ FY6bWMryVDOIrAFbzQkSzac7k4PMXPtLqoHTXAtxoS0hQNX1n8RjOyhspMians2ulzyujpfga
+ D5nq
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D=
+2 color=3D#1a0dab>[HTML]</font> <a href=3D"http://scholar.google.de/scholar=
+_url?hl=3Dde&amp;q=3Dhttp://opus.kobv.de/ubp/volltexte/2014/7231/&amp;sa=3D=
+X&amp;scisig=3DAAGBfm0LamC5ckKXNM9-DPbd4DbhL-hYIg&amp;oi=3Dscholaralrt"><fo=
+nt size=3D3 color=3D#1a0dab style=3D"text-decoration:underline">What&#39;s =
+in a query: analyzing, predicting, and managing <b>linked data </b>access</=
+font></a></h3><div><font size=3D2 color=3D#006621>J Lorey - 2014</font></di=
+v><div><font size=3D2 color=3D#222222>ABSTRACT The term <b>Linked Data </b>=
+refers to connected information sources comprising <br>structured data abou=
+t a wide range of topics and for a multitude of applications. In recent <br=
+>years, the conceptional and technical foundations of <b>Linked Data </b>ha=
+ve been formalized <b> ...</b></font></div><br><h3 style=3D"font-weight:nor=
+mal;margin:0;font-size:medium;max-width:44.5em"><font size=3D2 color=3D#1a0=
+dab>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&am=
+p;q=3Dhttp://ldlab.ifs.tuwien.ac.at/sites/default/files/papers/SoICT2014_In=
+viedTalk.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm22gax441mvUV5M1pffxEcrR90FUg&amp=
+;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:=
+underline">Exploring Linked Statistical Data Using Linked Widgets</font></a=
+></h3><div><font size=3D2 color=3D#006621>AM Tjoa, BL Do, A Anjomshoaa, TD =
+Trinh, P Wetz&hellip; - 2014</font></div><div><font size=3D2 color=3D#22222=
+2><b>...</b> Linked Statistical Data is an evolving concept that combines t=
+he richness of <b>Linked</b> <b>Data</b> (a set<br>
+of best practices for publishing and connecting structured data on the Web)=
+ with the<br>
+descriptiveness of statistical data to integrate data from multiple sources=
+ and put it in a semantic <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://www.lnit.org/uplo=
+adfile/2014/1126/20141126042340791.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm1pjn6H=
+OFNMbRqMR8vy31DrWWbvXg&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab=
+ style=3D"text-decoration:underline">MDH*: Multidimensional Histograms for =
+<b>Linked Data </b>Queries</font></a></h3><div><font size=3D2 color=3D#0066=
+21>Y Lee - Lecture Notes on Information Theory Vol, 2014</font></div><div><=
+font size=3D2 color=3D#222222>Abstract=E2=80=94Recently, a very pragmatic a=
+pproach towards achieving the Semantic Web has <br>gained some traction wit=
+h <b>Linked Data</b>. While many standards, methods, and technologies <br>a=
+re applicable for <b>Linked Data</b>, there are still a number of open prob=
+lems in the area of <b> ...</b></font></div><br><h3 style=3D"font-weight:no=
+rmal;margin:0;font-size:medium;max-width:44.5em"><font size=3D2 color=3D#1a=
+0dab>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&a=
+mp;q=3Dhttp://ldlab.ifs.tuwien.ac.at/sites/default/files/papers/SemStats201=
+4_Paper.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm1b0-HElteDP6EZ4mzaK6gLxg13Cg&amp;=
+oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:u=
+nderline">Multiscale Exploration of Spatial Statistical Datasets: A <b>Link=
+ed Data </b>Mashup Approach</font></a></h3><div><font size=3D2 color=3D#006=
+621>BL Do, TD Trinh, P Wetz, E Kiesling, A Anjomshoaa&hellip;</font></div><=
+div><font size=3D2 color=3D#222222>Abstract. Many national and internationa=
+l organizations today leverage semantic web <br>technologies to make statis=
+tical datasets available as Linked Open Data (LOD). A key <br>advantages of=
+ this approach is that the data not only becomes publicly available, but al=
+so <b> ...</b></font></div><br><h3 style=3D"font-weight:normal;margin:0;fon=
+t-size:medium;max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font>=
+ <a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://pnc=
+link.org/pnc2014/english/Docs/Andrea%2520Wei-Ching%2520Huang.pdf&amp;sa=3DX=
+&amp;scisig=3DAAGBfm0QM7TMUO5aWvQho_xInBSZgjC8Wg&amp;oi=3Dscholaralrt"><fon=
+t size=3D3 color=3D#1a0dab style=3D"text-decoration:underline">A <b>Linked =
+Data </b>Prototype for The Union Catalog of Digital Archives Taiwan</font><=
+/a></h3><div><font size=3D2 color=3D#006621>KJ Chen, TR Chuang, AWC Huang, =
+CH Hung, WJ Shu</font></div><div><font size=3D2 color=3D#222222>Museum Comp=
+uting: An Approach to Bridging Cultures, Communities and Science The 21th <=
+br>
+PNC Annual Conference and Joint Meetings, October 21-23, 2014 National Pala=
+ce <br>
+Museum, Taipei, Taiwan  <b> ...</b> Keh-Jiann Chen, Tyng-Ruey Chuang, Andre=
+a Wei-Ching <b> ...</b> </font></div><br><p><hr noshade size=3D1><font size=
+=3D2 color=3D#222222>Dieser Google Scholar-Alert wird Ihnen von Google zur =
+Verf=C3=BCgung gestellt.<br><br><a href=3D"http://scholar.google.de/scholar=
+_alerts?view_op=3Dcancel_alert_options&amp;email_for_op=3Derictessenow%40we=
+b.de&amp;alert_id=3DAIfevv3NkPcJ&amp;hl=3Dde"><font color=3D#1a0dab>Alert s=
+tornieren</font></a><br></font></div></body></html>

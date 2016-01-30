@@ -1,0 +1,96 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.182.128.163 with SMTP id np3csp3889353obb;
+        Thu, 14 Jan 2016 00:10:05 -0800 (PST)
+X-Received: by 10.202.199.82 with SMTP id x79mr1937774oif.139.1452759004804;
+        Thu, 14 Jan 2016 00:10:04 -0800 (PST)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3TleXVhUKDBUDx296vCv6zCED-89CzA6J19916z.x97zC3xEzDDz89HHzw.yz@scholar-alerts.bounces.google.com designates 209.85.214.202 as permitted sender) smtp.mailfrom=3TleXVhUKDBUDx296vCv6zCED-89CzA6J19916z.x97zC3xEzDDz89HHzw.yz@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3TleXVhUKDBUDx296vCv6zCED-89CzA6J19916z.x97zC3xEzDDz89HHzw.yz@scholar-alerts.bounces.google.com designates 209.85.214.202 as permitted sender) client-ip=209.85.214.202;
+Received: by 10.202.86.67 with POP3 id k64mf176714895oib.1;
+        Thu, 14 Jan 2016 00:10:04 -0800 (PST)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: <3TleXVhUKDBUDx296vCv6zCED-89CzA6J19916z.x97zC3xEzDDz89HHzw.yz@scholar-alerts.bounces.google.com>
+Received: from mail-ob0-f202.google.com ([209.85.214.202]) by mx-ha.web.de
+ (mxweb003) with ESMTPS (Nemesis) id 0M7ZVX-1ZvkQx0L6F-00xMEz for
+ <erictessenow@web.de>; Thu, 14 Jan 2016 09:07:44 +0100
+Received: by mail-ob0-f202.google.com with SMTP id n6so654995obv.1
+        for <erictessenow@web.de>; Thu, 14 Jan 2016 00:07:43 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=aBk+f6KsuPCvCby35rolkF6pqc7hvlHZLyUqlfw7g60=;
+        b=aOsvfJ1FGD2B5vOwAr1NIM/lFwpkEe5sUKACwQZxgvloRGFn7zyvTNvYL6raGVqR0+
+         T4lCAu7Oy3xk0c/bZLT6F8AxlAkQMMrhjyKhSWU0UhEYN7rzbP+0uZ/Zo2jT7at9fqS9
+         /7FqZXcLjoCzWQrixSGihZvkb9dT3b7q0ivyOAvP4Z8Xn/BBNGZFkdR0mY3HwOT7k2HZ
+         jW7cfGuQH48nEpVUjFYTQHtamSmMzyydtD0Gl6MCxELBWWzAc5KkipAP5krZK2f+x6QN
+         dtSDBBAIrNCQC0SW+9jzVlLbN/HNlqz6GFbSz6uhY77EI2oFlhT5JdnSl3F1nDCYT/Oz
+         6JEA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:message-id:date:subject:from:to
+         :content-type:content-transfer-encoding;
+        bh=aBk+f6KsuPCvCby35rolkF6pqc7hvlHZLyUqlfw7g60=;
+        b=IUPx+aHvgaMcufxNQA5PoGnyKWx4RqYJGoq8VqzU0vMhEWY+lrOJkjRScevoMXQN8R
+         5feEeKSkXC9TmeXGEA1SFcsy8RQeW41Sf9JyKbaPHFeauBpxrdyQoCceIb2cyBAni33s
+         KPd13mXaxXpR2mYW7uk8CppUSWYOacfPOFd4GgB9liDusQtMLJ45iqcpKf2o1WflkrDN
+         TETbqzssSGF04542P0x3X/XIWdZd5hGACi5fObARDo596zXFiTE0Vk2dIs4fsX0Ko8zF
+         rJFuGbUMBG3cUKMPOcGGEV3h/wD1fwthkjPjnaY+MUK4WClQM2rIgDDEY2k+cpYOV8UK
+         HwTg==
+X-Gm-Message-State: ALoCoQmvVfjy3hS3GEYUNB//WNOcnMtKHrwXKhTAmp5iU8abunLacsJzyRoeb091NvREZygcHCk6byb28UlER+pZ+9sjlRfP9Q==
+MIME-Version: 1.0
+X-Received: by 10.182.27.101 with SMTP id s5mr2327522obg.35.1452758862850;
+ Thu, 14 Jan 2016 00:07:42 -0800 (PST)
+Message-ID: <089e01184c8ef6e8a7052946c7ca@google.com>
+Date: Thu, 14 Jan 2016 08:07:42 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:EZvzMYSLCOQ=:qlgFRb/+Dx/EU7mbdx+7aNeb5d
+ F+mCON49Gn2QC0Wx8RTcDKq2Lt4Ha9PXDbywr8SPKnO33NIL3rVRFIm6ZBo9CMlupe6xUJ+I3
+ WCGe4gTKxL1Nje/ji3IQjyE239wxQ3sb2F7pMxCuQmBNkdkrLJ9A7vABR1GWUxpgSZcn//ILc
+ 3Juiy6Js2qm2Znv4BiNkYPsYeyofTa8zhocb0IP5W00BtrpA1+zhRcuE6Nb1EBq6OnadGiPo3
+ 6dnXShYOlikvIWmYX6UJyh61jeROrGkX7Tt+2s6c0nP3q5w8EX+6ENFAUB4Pe9XybwdQrBKCi
+ FidXd4uLzYk5WhatKRkAWloqITbOYALl7w7jo5FfjjuPvpPDLjkWBpryUbHkp0fVgnjwNExlQ
+ taziilfp1R+qqgCbjl+AaY24Qz7H2kHbKQHHPxpAJUuUNnrNpSG/8ztUipt7Thk7qjHPhm+bO
+ EMdDkkbsVnVAqQM64Vr7NtiYL6plEI3nyP8wi6jJthP5sok51+8tBa3biUnN3kcXXhvatmrSd
+ q2T1eKKXGFgmS2Vi2ODQKHRccRxZfs9M8pfYt/uD26CT1RNiYwHZqZvMnUDYLdwC9G+VN8Lfi
+ sKCq3vLSdo8/vnGlWj4OFkuECN86zdudfEnaQwEPcZb9b9HeUKQqdnFqb8WR9eH7ACVxt/t+B
+ xEX9mRVyzWoFN40kESxrbndVtBW/m6nM6dlfGj/t9I1DfJJo2vmbgGijn5GigO4PxdlNBOrHw
+ uzcWtYL377Px7JOyqhF6Xiyc/tgqkDmm45Yrnq1Nv/bFR6BQZK9dUl7N0M1Gw3i+Uld2x7UsU
+ OY9oStJD7Uv/7jlXdN933K2MHmiZWK28UCtM6CkS74KLb+Euhdcat53I9GfwLNtG61Qg+te5I
+ r3b/exqkPzED0l+JwFHGCFmKPh5wGLszK6F9hAUfafMUkwAmnxKUC5QAkqzzCXTsOAk0x2slm
+ CLtp8NkjNdrOU2cTlw1y1OTLEjqSc/jUxHTrzB9wEizQJXM9gKj78W4WOFWYdK9x1QLXYfyN2
+ ZxEuMxmK9wQkswTnV7Z1KHG1ydLb+iIaGMvhaaJDms/g3i7LSiVFnPk9TuHT2ImLgvl6cU1zO
+ URK8ee2MFReVwTMh8zvbFdKhQ/EjVKxa558tpb5o9e0SCKt8JHapHMgJiJYr3hOOxDqzZPaaB
+ p+OHRK/ndQIniADyjYAYO5Zo3gXPDiw97bgkVpVk8adQ2pFaLIlSH5n5s/5zzapJkATm2/Wwi
+ nSR/i8rKP6b+fsxuLv+Q2gzSlFT3w//c1DOpwauGI+OCS7yzNFMCTqvvorNY0XE1UtdGStlVa
+ 8WC3TIsjwn+CVWc1OB8rNyrzDv9y6i+n7huoyPKLkjrQairK2ibMN11syUbCQ9s7B/UGYgUGO
+ 941+Qy5GSYXgHXjCLGCTYcxhxdUsv9noc04jjTYuUoaMEzNs4iLP2WdP1LOf7uhZNjh5rMLu7
+ m5F9KkMi4fS6GTRVpXeIG2GkKJAu378LVUBlL6fc9VsaLd1+krsZrNXzJwUht0IR30MZVqFGK
+ PF5a0wkbj32viIht7+x4=
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttps://www.ideals.illinois.edu/ha=
+ndle/2142/88824&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm0Ip1d8l9bO3i6gC37=
+aLSkXEomjDA&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0=
+dab style=3D"text-decoration:underline">Open <b>Linked Data </b>in Discover=
+y: BIBFRAME+ Schema. org in an Experimental Bento View</font></a></h3><div>=
+<font size=3D2 color=3D#006621>JF Hahn - 2016</font></div><div><font size=
+=3D2 color=3D#222222>With support from an internal innovation grant of the =
+University of Illinois Library at Urbana-<br>Champaign, researchers transfo=
+rmed and enriched nearly 300,000 e-book records in their <br>library catalo=
+g from Machine-Readable Cataloging (MARC) records to Bibliographic <b> ...<=
+/b></font></div><br><p><hr noshade size=3D1><font size=3D2 color=3D#222222>=
+Dieser Google Scholar-Alert wird Ihnen von Google zur Verf=C3=BCgung gestel=
+lt.<br><br><a href=3D"http://scholar.google.de/scholar_alerts?view_op=3Dcan=
+cel_alert_options&amp;email_for_op=3Derictessenow%40web.de&amp;alert_id=3DA=
+Ifevv3NkPcJ&amp;hl=3Dde"><font color=3D#1a0dab>Alert stornieren</font></a><=
+br></font></div></body></html>

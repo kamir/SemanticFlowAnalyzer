@@ -1,0 +1,97 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.79.106.2 with SMTP id f2csp316740ivc;
+        Fri, 3 Jul 2015 19:19:07 -0700 (PDT)
+X-Received: by 10.43.65.139 with SMTP id xm11mr1282683icb.81.1435976347214;
+        Fri, 03 Jul 2015 19:19:07 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3nTuXVRUKDCQSCHOLARALERTS-NOREPLYGOOGLE.COMERICTESSENOWWEB.DE@scholar-alerts.bounces.google.com designates 209.85.160.201 as permitted sender) smtp.mail=3nTuXVRUKDCQSCHOLARALERTS-NOREPLYGOOGLE.COMERICTESSENOWWEB.DE@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3nTuXVRUKDCQSCHOLARALERTS-NOREPLYGOOGLE.COMERICTESSENOWWEB.DE@scholar-alerts.bounces.google.com designates 209.85.160.201 as permitted sender) client-ip=209.85.160.201;
+Received: by 10.50.210.162 with POP3 id mv2mf71370450igc.1;
+        Fri, 03 Jul 2015 19:19:07 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3nTuXVRUKDCQSCHOLARALERTS-NOREPLYGOOGLE.COMERICTESSENOWWEB.DE@scholar-alerts.bounces.google.com
+Received: from mail-yk0-f201.google.com ([209.85.160.201]) by mx-ha.web.de
+ (mxweb005) with ESMTPS (Nemesis) id 0MUHD8-1Zb5CO0xd4-00R5If for
+ <erictessenow@web.de>; Sat, 04 Jul 2015 03:49:18 +0200
+Received: by ykfs198 with SMTP id s198so2968766ykf.1
+        for <erictessenow@web.de>; Fri, 03 Jul 2015 18:49:17 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=Lg55IWOvteE7gji5e+J9+xrwbdzj7LEH28F2jys5p6o=;
+        b=jBmZ7fLL6ZamktGgYInUS95tLctnWtVuz8QFkz2f+G6Mm2dvuhZ8M/htNm7GhWWS73
+         GqFBR/qvtO+0I7FsonVLGJjHebRa9hDwy1Kj0Gu0ryBhFv/FNDpUD1If83PQ8q4LKBJr
+         N0oG29vpRLaXNLBuQ1J6YxqfamRW9fqWMajLUXWSOK6Ine/nASTmw6VXkKbffaYHGgal
+         SUy7CvPxlfzKowjEF1PQe8uxguRs/SolbdOJ8lu3EngnSNK5GT1qrjkJFWWpZDHt0Vuu
+         ZTPTLXJVeZ2pYkIzHXKJ52IjHbRaFsfrEwpqCxmwidaT0BQf1OxZNEGsTfx05yYiEbQu
+         WNSw==
+MIME-Version: 1.0
+X-Received: by 10.129.70.133 with SMTP id t127mr51449160ywa.58.1435974557130;
+ Fri, 03 Jul 2015 18:49:17 -0700 (PDT)
+Message-ID: <001a114c766e626028051a02e1cb@google.com>
+Date: Sat, 04 Jul 2015 01:49:17 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:HTWMwbXT7Bo=:7pQorFmaagmF0nW67XbqINlwMp
+ I3RoM4UeqywqesongDGIPb2HoMy298vw6bAv3D5UFYUlziDtPaSiFouCMpm2+Nv9e97xKsZR9
+ hUFhzo57OAGOhkFcBBWEHYGwF/GoW5NeGAuMG8nRZKyMbFeg2X2ubM/tM2U/ddkOaW+MUtKlk
+ X2u+k5Q8qEIWWUeEgPcMTDM4UlaB1lcyDP49xOYW608XI17az/hN/4D7W3Ob5xkae7ko2WECK
+ 9YtQuSYYZUPQzDDquHS+MxQIpeFqbNvhn8dOcyNdeZJbV4ao6A6xtXeYdkexx91WQi1WbllzY
+ 8sz/WO8u2tzs4CrO24O/daE3vnrgIrzh6G/04zhc83vm+pelI0ga3wOFESm9oylB4tknyC1wl
+ TzunRfhVN6U7GwQ+MXKAQx/OboAf6Pk6rXPj/oNOsocUrtVd7t5zFV/i3HgxBBJn8d9umAOjO
+ tTsgAPF7BEBlZquMPZTOXUVrPbIIyaJOFh7JfRUAaOj4P0Gpwiy1JuUCmysJlYLrMWI4Gom+L
+ 1ioS1Fk5FNX6A+2a/SsuhbeSz1GkPqGVhupxgrRWTSfSVBpQY6/JJLfGJW7ysUxNXiceEogAG
+ iXdi4UeE3XbiM9b+3JHmkQ0LAwcwBFyVDL7dbCMSD593ocOybMgLKq2Gis1f0DDzQxJLhRvaI
+ +8dd7d4rcQpGo1V+DtnI8Ur7sEI6WPAOmO9t/R6jOeuZrh4q3vEu8umtxoZg6EHX8p9wXq4Jq
+ zK1B61kWHxIfRdhH6vypSg/YBHrSu+QkbBDXm5/mMbpHQsy8DrLDF7bUHkjg++HHSdOH+y28/
+ GyHn8tmGV1fklaxcqfb89MtYswGAc2rCyxjon6WZySmbQ7DFXP09sgMOCTfbrOXfdUBdMotpV
+ US6VaHZLrCSqr+Tu7HFzkHgxl2bHOhmzb1+6qYA/E03N62CYCY16Fs+9FYOkVwnc8+SEowczt
+ gifXxXi1hGr8Wmjlvw44bFAfPs8wx36WciK2cGYxTndSP21XkSHY2tSQvj+uKnV9P8hfWBgFS
+ I+xBPH9jZLciecZz2VKpePYQswHaeW/mQ/0Z1n9QIR8DllzaXSu0KortKpzZt4NqiLKxAysej
+ k1rjKsTVljG1+5ehHoaA16LX8wHbx9CqbPQaV+3u2avwtr4PI1Xb92u/26LXkELPgbgcSGVMq
+ 62iOBevUjAN8KRY8ZJk0pEhbKM9AUEI/AOaVHxNk1NQaZLOuLpCELaD8jCtoqGt86NWL3K2ZU
+ 0j85KhaEN1rphH8EWzjxXDlTd6nqLCv9sVsi6j+hOpiiPV1+KFIrgF5p0XKCs0P9gRFIgLA9h
+ LUOR
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttp://repository.tudelft.nl/view/=
+ir/uuid:c5a80e2d-b1ab-46ed-95e9-56c7f0fefb83/&amp;hl=3Dde&amp;sa=3DX&amp;sc=
+isig=3DAAGBfm2KSanzOwdKlZ8sUr7uWZoFOAfT9Q&amp;nossl=3D1&amp;oi=3Dscholaralr=
+t"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:underline">Towar=
+ds a Web application for viewing Spatial Linked Open Data of Rotterdam</fon=
+t></a></h3><div><font size=3D2 color=3D#006621>GM Abhilakh Missier - 2015</=
+font></div><div><font size=3D2 color=3D#222222><b>...</b> formats or metada=
+ta is missing. <b>Linked</b> <b>data</b> could benefit in that regard. <b>L=
+inked</b> <b>data</b><br>
+is a method to publish data on the Web in a way that it can be easily combi=
+ned with<br>
+other datasets on the Web. <b>Linked</b> <b>data</b> has benefits for <b>..=
+.</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><a href=3D"http://scholar.google.de/scholar_url?url=3Dhtt=
+p://ieeexplore.ieee.org/xpls/abs_all.jsp%3Farnumber%3D7138578&amp;hl=3Dde&a=
+mp;sa=3DX&amp;scisig=3DAAGBfm3Db1DFTicSui7_b6TVX1GAq9FRGg&amp;nossl=3D1&amp=
+;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:=
+underline">Developing a Smart Semantic Web With <b>Linked Data </b>and Mode=
+ls for Near-Real-Time Monitoring of Red Tides in the Eastern Gulf of Mexico=
+</font></a></h3><div><font size=3D2 color=3D#006621>C Hu, B Murch, A Corcor=
+an, L Zheng, BB Barnes&hellip;</font></div><div><font size=3D2 color=3D#222=
+222>In recent decades, the technology used to detect and quantify harmful a=
+lgal blooms <br>(commonly known as red tides) and characterize their physic=
+ochemical environment has <br>improved considerably. A remaining challenge =
+is effective delivery of the information <b> ...</b></font></div><br><p><hr=
+ noshade size=3D1><font size=3D2 color=3D#222222>Dieser Google Scholar-Aler=
+t wird Ihnen von Google zur Verf=C3=BCgung gestellt.<br><br><a href=3D"http=
+://scholar.google.de/scholar_alerts?view_op=3Dcancel_alert_options&amp;emai=
+l_for_op=3Derictessenow%40web.de&amp;alert_id=3DAIfevv3NkPcJ&amp;hl=3Dde"><=
+font color=3D#1a0dab>Alert stornieren</font></a><br></font></div></body></h=
+tml>

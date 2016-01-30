@@ -1,0 +1,153 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.55.166.132 with SMTP id p126csp1011423qke;
+        Mon, 7 Sep 2015 19:40:58 -0700 (PDT)
+X-Received: by 10.140.234.151 with SMTP id f145mr33766131qhc.26.1441680054263;
+        Mon, 07 Sep 2015 19:40:54 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3Z0XuVRUKDGAQAFMJ8P8JCPRQ-LMPCNJWEMMEJC.AMKCPGARCQQCLMUUC9.BC@scholar-alerts.bounces.google.com designates 209.85.214.201 as permitted sender) smtp.mailfrom=3Z0XuVRUKDGAQAFMJ8P8JCPRQ-LMPCNJWEMMEJC.AMKCPGARCQQCLMUUC9.BC@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3Z0XuVRUKDGAQAFMJ8P8JCPRQ-LMPCNJWEMMEJC.AMKCPGARCQQCLMUUC9.BC@scholar-alerts.bounces.google.com designates 209.85.214.201 as permitted sender) client-ip=209.85.214.201;
+Received: by 10.55.174.133 with POP3 id x127mf24045886qke.0;
+        Mon, 07 Sep 2015 19:40:54 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3Z0XuVRUKDGAQAFMJ8P8JCPRQ-LMPCNJWEMMEJC.AMKCPGARCQQCLMUUC9.BC@scholar-alerts.bounces.google.com
+Received: from mail-ob0-f201.google.com ([209.85.214.201]) by mx-ha.web.de
+ (mxweb105) with ESMTPS (Nemesis) id 0LbtpQ-1YqCse1pn2-00jMLz for
+ <erictessenow@web.de>; Tue, 08 Sep 2015 04:18:16 +0200
+Received: by obczc1 with SMTP id zc1so5941245obc.0
+        for <erictessenow@web.de>; Mon, 07 Sep 2015 19:18:15 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=d64dhqcKRSmWFkKJD2IFLmlfRzw0f3jWR4QtRoE2hPQ=;
+        b=KIYXf/BmmIefETOhvLKNnLgml7oVqKYjRFk+gesSrje6y5hZvgsX988PbZGhluR0iH
+         8mDaAms3qnPBBbSVDoiXB4JyuvulkGNWN9mMKtLcjwufJKpBeMfrHtGpGJIV8gpxTZ1o
+         gF6iZJzpBk27UhqBLWW8noz0aOHzhjhWXDvl7338iDwnGSn/37eynUM3f62LexATQoTX
+         a9wg4Y5uBhC/LXYsNNvqUgxadNZlUH38e30uFhmomS+OVSeOgs+B5HM53psASdkjfbfE
+         dYCh6FmGnR3GDb2nHWVUXlDGd1J3uHDYdWGwa8/zNHj77UCx4XmpxvYMioMOidP7qe1a
+         pNHw==
+MIME-Version: 1.0
+X-Received: by 10.182.50.170 with SMTP id d10mr20766883obo.48.1441678695284;
+ Mon, 07 Sep 2015 19:18:15 -0700 (PDT)
+Message-ID: <089e0158b9a6833f00051f32faf8@google.com>
+Date: Tue, 08 Sep 2015 02:18:15 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:f7Ach8n9psA=:MKhERFRwplx9BTwj/WYNSbIaeI
+ mwRRhbutwkrKx5cN0IVdWM7ndYdAV6bINVhlG8t12ePMU0oADj1oJYjsdD8gPEd3lweN4k7l2
+ 3qB+Tlxj0bi8qu3ZrO/sxL2VOpk1dzHfjXg+uFHO5wTS3GnadKlDc7iOg65AwbGiA3rl95fze
+ 00ghqxuHd3csCFgKySMW3IcVqxVN8e5ED9yBkSwfJpCN3Oj7yB0cniRFhgfpLr+0XaPjzF1hM
+ u+gY2SRQ31auVgCKKRkSlhchCLIaZIReVHPbCT7kQ67sZxmO/09waO83WuvINu6YsDvx47NL4
+ guMik63/7vuT/yhj1SaP46X9Kzb2x+I/u//3oO0qCtmKOl6gfE9VGx+Xe0uwonWYrwbLH6qMm
+ sPIpPqhwuVkgDYVTOtIKmlZMo84dsKxavgX4nfFeilp3l/BWtoC8zdbgHabaIMPPmYr0dCp+v
+ paB7eUkjSV5u+liROJG+N4f6JbsXb5VWnNvt/2L1BOHasZjDxSTVITSLQBs9TP7O5Wzzj9qY4
+ 0A8+cyDvpqRBiYl07PcHaDkIXY8yGZd3Kqld4YXEC3PTgjsyVQqyFs0FO875JFfzChlog1xMH
+ W0q6bXxp/qOaCP2QzaBw3zVz9h+Ov5i/rIHoc43PFvOEtGgfT6ou4lCHMNew2gL5xzPn952WH
+ Lnh/Ywo/nY8nnt2uYuszlLfe+wg8jkWBrczjLhCCADbPuj4Tf+uKy8uV8bJGZV/1q2S7KfnHh
+ AQlyKbV5vCYepuXwSF5C5TJ6Olo4NGA2+uwYOdrdQo+i4sBGvDXaKu4SoH5V6Lpq8FnvxzU9t
+ lgepRBx/NIO19y47NMFltn6Fl7UCO1phRTgkmNJljfvhVnrR59UVf1RFGWJjaG5BJWWG/29gJ
+ Waib94+j+o1PUkRTrV2g8lg9UfIa1nFCIixsZLhf9aJtt9PXci1b8hGHjNA4qoIZo/wtZewCr
+ x9MaBNIpnezQaxRJVoOZtuNGYGZLAVSeNgg0KdJqf8jfYkQmgTRwvBdgJN15GnyDiP1eVpKh5
+ Y1G/edTQ4iL9HryTiyCSR+ddyRZUHoz0h3Zdh1T6bFGVPF5nMmrYalsX3kmtlV9wUMwoxskNn
+ Tf7bAvJiGmFguEZfobvblwJN938y+zjZjsNiZkM1A0xHWcgc2xDWHCXsMMOAaNNt2V5T4cEdz
+ z9/21THRJl7NbNhCmj8my8FUMuHblGKdfCu4VUyLP0jDlYChUNBqUhC3a0i6+cFGdxkAqSHsJ
+ v72LGTF5cftxHt3Ldj1/Ymaxfq/0McusQjvdAfdHpFH4/F7s9yTTpnVLHjxM35BxVvO5jlKcj
+ GABV
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttp://jech.bmj.com/content/69/Sup=
+pl_1/A16.2.abstract&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm1-CvgvtJusfAJ=
+rMKGPjZC7rAN9hA&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D=
+#1a0dab style=3D"text-decoration:underline">OP18 Using linked administrativ=
+e data to reduce bias due to missing outcome data in exposure-outcome estim=
+ates: a study of the association between breastfeeding  &hellip;</font></a>=
+</h3><div><font size=3D2 color=3D#006621>RP Cornish, K Tilling, A Boyd, A D=
+avies, J Macleod - Journal of Epidemiology and  &hellip;, 2015</font></div>=
+<div><font size=3D2 color=3D#222222><b>...</b> Key limiting factors are the=
+ strength of association between the outcome and its proxy and<br>
+coverage of the <b>linked</b> <b>data</b>; in our case, where the correlati=
+on was modest and <b>linked</b> <b>data</b><br>
+were not available for all individuals, some bias may remain. <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><a href=3D"http://scholar.google.de/scholar_url?url=3Dhtt=
+p://link.springer.com/chapter/10.1007/978-3-319-23461-8_28&amp;hl=3Dde&amp;=
+sa=3DX&amp;scisig=3DAAGBfm14PtG8O9D_DDlSKkPQtefonvQ1Dw&amp;nossl=3D1&amp;oi=
+=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:und=
+erline">Data Patterns Explained with <b>Linked Data</b></font></a></h3><div=
+><font size=3D2 color=3D#006621>I Tiddi, M d&#39;Aquin, E Motta - Machine L=
+earning and Knowledge Discovery in  &hellip;, 2015</font></div><div><font s=
+ize=3D2 color=3D#222222>Abstract In this paper we present the system Dedalo=
+, whose aim is to generate explanations <br>for data patterns using backgro=
+und knowledge retrieved from <b>Linked Data</b>. In many real-<br>world sce=
+narios, patterns are generally manually interpreted by the experts that hav=
+e to <b> ...</b></font></div><br><h3 style=3D"font-weight:normal;margin:0;f=
+ont-size:medium;max-width:44.5em"><a href=3D"http://scholar.google.de/schol=
+ar_url?url=3Dhttp://www.freepatentsonline.com/9122496.html&amp;hl=3Dde&amp;=
+sa=3DX&amp;scisig=3DAAGBfm0XfEyM4Qh-bxKSaaerXrPYQ0qY5w&amp;nossl=3D1&amp;oi=
+=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:und=
+erline">Integrated help system using <b>linked data </b>for distributed sys=
+tems</font></a></h3><div><font size=3D2 color=3D#006621>A Jhoney, CV Lazzar=
+o, A Ramakrishnan, R Shetty&hellip; - US Patent 9,122,496, 2015</font></div=
+><div><font size=3D2 color=3D#222222>Abstract: An approach is provided for =
+providing cross product contextual help consolidating <br>cross product con=
+textual help. The approach is responsive to receiving a help request. The <=
+br>help request pertains to a first software product installed on the infor=
+mation handling <b> ...</b></font></div><br><h3 style=3D"font-weight:normal=
+;margin:0;font-size:medium;max-width:44.5em"><font size=3D2 color=3D#1a0dab=
+>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_url?url=3Dhttp://=
+www.degruyter.com/dg/viewarticle.fullcontentlink:pdfeventlink/%24002fj%2400=
+2fjos.2015.31.issue-3%24002fjos-2015-0024%24002fjos-2015-0024.pdf%3Ft:ac%3D=
+j%24002fjos.2015.31.issue-3%24002fjos-2015-0024%24002fjos-2015-0024.xml&amp=
+;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm1YQj7m5XZQuiU317ztLwhX1KXlsA&amp;nos=
+sl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-d=
+ecoration:underline">Using the Bootstrap to Account for Linkage Errors when=
+ Analysing Probabilistically Linked Categorical Data</font></a></h3><div><f=
+ont size=3D2 color=3D#006621>JO Chipperfield, RL Chambers - Journal of Offi=
+cial Statistics, 2015</font></div><div><font size=3D2 color=3D#222222><b>..=
+.</b> In such cases, coverage error models are usually based on the <b>link=
+ed</b> <b>data</b>. Ideally,<br>
+the linkage will be perfect, that is, all records belonging to the same uni=
+t are linked and<br>
+there are no links between records that belong to different units. <b>...</=
+b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttp://www.degruyter.com/dg/viewar=
+ticle.fullcontentlink:pdfeventlink/%24002fj%24002fjos.2015.31.issue-3%24002=
+fjos-2015-0025%24002fjos-2015-0025.pdf%3Ft:ac%3Dj%24002fjos.2015.31.issue-3=
+%24002fjos-2015-0025%24002fjos-2015-0025.xml&amp;hl=3Dde&amp;sa=3DX&amp;sci=
+sig=3DAAGBfm16Gu2YqaoHgXNWny5C_ttzXSAylw&amp;nossl=3D1&amp;oi=3Dscholaralrt=
+"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:underline">Covera=
+ge Evaluation on Probabilistically <b>Linked Data</b></font></a></h3><div><=
+font size=3D2 color=3D#006621>L Di Consiglio, T Tuoto - Journal of Official=
+ Statistics, 2015</font></div><div><font size=3D2 color=3D#222222>Abstract =
+The Capture-recapture method is a well-known solution for evaluating the un=
+known <br>size of a population. Administrative data represent sources of in=
+dependent counts of a <br>population and can be jointly exploited for apply=
+ing the capture-recapture method. Of <b> ...</b></font></div><br><h3 style=
+=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font si=
+ze=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"http://scholar.google.de/sch=
+olar_url?url=3Dhttps://www.essence-network.com/wp-content/uploads/2015/08/v=
+our_essence_working.pdf&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm2R_RyUMX5=
+y5hXnqYi2k8bjxdUmeA&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 colo=
+r=3D#1a0dab style=3D"text-decoration:underline">Validation of entity relati=
+ons in <b>linked data</b></font></a></h3><div><font size=3D2 color=3D#00662=
+1>A Vourliotakis, M Rovatsos, CR Moreno</font></div><div><font size=3D2 col=
+or=3D#222222>Abstract=E2=80=94The Web is continuously enriched with new inf=
+ormation in the form of <br>interconnected datasets of structured data usin=
+g the <b>linked data </b>methodology. In order to <br>develop systems that =
+are capable of making the most of this phenomenon, it is imperative <b> ...=
+</b></font></div><br><p><hr noshade size=3D1><font size=3D2 color=3D#222222=
+>Dieser Google Scholar-Alert wird Ihnen von Google zur Verf=C3=BCgung geste=
+llt.<br><br><a href=3D"http://scholar.google.de/scholar_alerts?view_op=3Dca=
+ncel_alert_options&amp;email_for_op=3Derictessenow%40web.de&amp;alert_id=3D=
+AIfevv3NkPcJ&amp;hl=3Dde"><font color=3D#1a0dab>Alert stornieren</font></a>=
+<br></font></div></body></html>

@@ -1,0 +1,123 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.55.166.132 with SMTP id p126csp172872qke;
+        Mon, 21 Sep 2015 22:43:13 -0700 (PDT)
+X-Received: by 10.140.85.51 with SMTP id m48mr28677191qgd.9.1442900593354;
+        Mon, 21 Sep 2015 22:43:13 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3XOkAVhUKDOcbLQXUJaJUNacb-WXaNYUhPXXPUN.LXVNaRLcNbbNWXffNK.MN@scholar-alerts.bounces.google.com designates 209.85.213.74 as permitted sender) smtp.mailfrom=3XOkAVhUKDOcbLQXUJaJUNacb-WXaNYUhPXXPUN.LXVNaRLcNbbNWXffNK.MN@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3XOkAVhUKDOcbLQXUJaJUNacb-WXaNYUhPXXPUN.LXVNaRLcNbbNWXffNK.MN@scholar-alerts.bounces.google.com designates 209.85.213.74 as permitted sender) client-ip=209.85.213.74;
+Received: by 10.140.104.228 with POP3 id a91mf21599072qgf.3;
+        Mon, 21 Sep 2015 22:43:13 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: <3XOkAVhUKDOcbLQXUJaJUNacb-WXaNYUhPXXPUN.LXVNaRLcNbbNWXffNK.MN@scholar-alerts.bounces.google.com>
+Received: from mail-vk0-f74.google.com ([209.85.213.74]) by mx-ha.web.de
+ (mxweb007) with ESMTPS (Nemesis) id 0LlVRf-1aFFjG2Yw3-00bGDR for
+ <erictessenow@web.de>; Tue, 22 Sep 2015 07:38:37 +0200
+Received: by vkhf67 with SMTP id f67so8202544vkh.1
+        for <erictessenow@web.de>; Mon, 21 Sep 2015 22:38:36 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=afBoRCoyu2PsRXDK4yIz2NN2GAybd5FhL5MT0Xw/PcU=;
+        b=pK49DP4bSibVEoSWOHpBzePWqFOtpRRL7XVhm9sjNgFdS2q6iddujE/GvBxW0i9CJ+
+         CcoGFtqR+j2XC7EJ8+5WLQka2at89XBxgvipt3zSNtMW6PhlAl+y+Qb5HP2KpzU5P4Eo
+         0fsTz3pH7ypdnBmeiP5DAq06sCLII5AB1rauKRutTatxDMzRoakX3IAW9ycr9evZNl2r
+         bt7eqRQd9z/tTa8VYM2EnhYmfmqeiTe6vAlLGkJadeqvxL17DaGxDePUXWjgaVgeuJLW
+         PVg3ptpkLH6Xut/IGIp7vz4QeXyhfEnVIx8wM+DVRYzsIVFhccuEjYfQuPNAZc4LrLw8
+         zoRw==
+MIME-Version: 1.0
+X-Received: by 10.13.215.74 with SMTP id z71mr20463230ywd.26.1442900316493;
+ Mon, 21 Sep 2015 22:38:36 -0700 (PDT)
+Message-ID: <94eb2c073ca2cf95c705204f68d4@google.com>
+Date: Tue, 22 Sep 2015 05:38:36 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:K7JE33NXEiU=:E+kY0n4xvKMjOMECKDAjH0HXiG
+ +2bb/QaMy3kAC4oEMSp0piEGUf5xl6VbGF2H6jwx7TJppUECBFen9MTB1ep2oo4y7hNfLLkpG
+ 3h47ynpXiSHwdxDi51f5ACZgY3/N/Mc/Y5kShwSVqmdIH2+W0IGeUbIDgL3hkv0TMem25nba+
+ 61/ulBHrMjXX6WpN1HGpx6BD8ILeZd9qEu52Z7n7gq5Ppl97nhfongpWWgpAjTPFKXhfXnKde
+ hxJLAyZJEl00KSk1skDIHuSDF0rRTT7elUvanslAKWXGL1NNYpdt7oYVgDRiltrAg/q94Bru5
+ PsGgw8kOyRUfBrYKUvaq4Q7lt+oOUCzQOeJCbIcYCA5F23T7iAT+iil97dVD91ZGINDecI3yJ
+ SjGT+k1TlxoMYzbsf0p22NbMzLkYkXsFYIHiAzaNgGbXo2hOubG5oi4h9FSnpeL0xL334QnQr
+ yO0Fa6O1GusL0K0DQJ9n2it+mL0FZhvuDIKftr2+sIpQlRSNGbpFE7fYnZvqK9S+R6DqiHL2K
+ EAE9E8OReuiRUpUyCRNI6CzmieRBT8jaNP15KVRu67hTXCQ6x6va8F2n6gVnXloxOW3RUMybU
+ bmGNQZFDpPJJ9XoaQp/jCaA72r55kG75rh8LWCMH4CmpLpRFLiKUchF0WZmjtIc7fKLBPGwYR
+ 994STuPf6rMV2O5dAcdHILoI1JjTKhssdLAjxJv7XDMJl8bIhgR7EK23KihTlnPJWnDSgwsk7
+ 1JtoDeHns/+f5LoIVVcb4WmXupnS1OSsVRH6gOEv4GS5riurwyQHNAQqjanukBQR4MMiFPVCF
+ MvMWYfjQKK88RJIatl8GY6X8d/OWqTDmIc+auaWkhNBLnVRhDOCW7n45Y/bw5/2xe2Mh50K1J
+ D/0uSTRfpgoTeL0LELeWw9+F1fkywmQoq2sgdl0bY7p/mq7C9lI8O1YCEZYHXP7joap6/JFhA
+ SuHeBMmBCWn86ahclK5WdEbn8U38LDAzQOXF1Gdvy8AVyuuwv8Tf1mFaGaEkygt1Plubz+tXx
+ 12d2rRzp/vfYmANeKzFu3AlH7PHjpy+L1lxacbW2gb6I17w0LKsFdkiLT/qNDsQJPDhHRXxQn
+ R9kiThCs+ymOuHUnQP3BV1c8hWD0T4v6mVj2HhhuKCWTV8/KhCrCeEed9YFlY/c9AK2kjCeJA
+ T2RYYO0aVlGP/vCWLUqEC5qSMnJmd9t9SHHn81KLW63GOOc/acnC175Ana3PZ73zWhWuA5hkl
+ +vlPQwvRuaCTE8e4yWdC0neT0jYtmpRAELeoatEHzmKVlDadAcvC62/C3iegLwdtPMvN+3hHR
+ VDkd
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttp://dl.acm.org/citation.cfm%3Fi=
+d%3D2814884&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm0kQ2n3wzG10Vpy0rWuc5G=
+6KEaSBQ&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab =
+style=3D"text-decoration:underline">A <b>linked data </b>platform for finit=
+e element biosimulations</font></a></h3><div><font size=3D2 color=3D#006621=
+>M Mehdi, Y Khan, A Freitas, J Jares, S Decker&hellip; - Proceedings of the=
+ 11th  &hellip;, 2015</font></div><div><font size=3D2 color=3D#222222>Abstr=
+act Biosimulation models have been recently introduced to understand the ex=
+act <br>causative factors that give rise to impairment in human organs. Fin=
+ite Element Method (FEM) <br>provides a mathematical framework to simulate =
+dynamic biological systems, with <b> ...</b></font></div><br><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttp://dl.acm.org/citation.cfm%3Fi=
+d%3D2814869&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm3Ji1K653IkhQAmbd2FA8a=
+31hbXrg&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab =
+style=3D"text-decoration:underline">An elastic and scalable spatiotemporal =
+query processing for linked sensor data</font></a></h3><div><font size=3D2 =
+color=3D#006621>HNM Quoc, D Le Phuoc - Proceedings of the 11th Internationa=
+l Conference on  &hellip;, 2015</font></div><div><font size=3D2 color=3D#22=
+2222><b>...</b> unsolved. In this paper, we propose a spatiotemporal query =
+engine for sensor data<br>
+based on <b>Linked</b> <b>Data</b> model. <b>...</b> unsolved. In this pape=
+r, we propose a spatiotemporal<br>
+query engine for sensor data based on <b>Linked</b> <b>Data</b> model. <b>.=
+..</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><a href=3D"http://scholar.google.de/scholar_url?url=3Dhtt=
+p://jos.hueuni.edu.vn/index.php/TCKHDHH/article/view/2114&amp;hl=3Dde&amp;s=
+a=3DX&amp;scisig=3DAAGBfm3QI-nMHXMKPH9G7BP9l4Emopuo5w&amp;nossl=3D1&amp;oi=
+=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:und=
+erline">PROCESSING RDF QUERIES ON LINKED STREAM DATA</font></a></h3><div><f=
+ont size=3D2 color=3D#006621>K CNTT, HH Ha=CC=A3nh, TK Duy, TN Phong - T=E1=
+=BA=A1p ch=C3=AD Khoa h=E1=BB=8Dc =C4=90=E1=BA=A1i h=E1=BB=8Dc Hu=E1=BA=BF,=
+ 2015</font></div><div><font size=3D2 color=3D#222222><b>...</b> In this pa=
+per, we present an overview on processing <b>linked</b> <b>data</b> stream =
+by SPARQL extensions<br>
+and compare, evaluate some SPARQL extension method on RDF stream data. Keyw=
+ords: <b>Linked</b><br>
+<b>data</b>, Stream data, RDF, SPARQL, Semantic Web, ontology, query. <b>..=
+.</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttp://info.ornl.gov/sites/publica=
+tions/Files/Pub55468.pdf&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm2paarsd-=
+CZjpR52Yc8GcB7GijMiA&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 col=
+or=3D#1a0dab style=3D"text-decoration:underline">Query Optimization for Gra=
+ph Analytics on <b>Linked Data </b>Using SPARQL</font></a></h3><div><font s=
+ize=3D2 color=3D#006621>S Hong, S Lee, SH Lim, SR Sukumar, RR Vatsavai</fon=
+t></div><div><font size=3D2 color=3D#222222>ABSTRACT Triplestores that supp=
+ort W3C standards such as Resource Description <br>Framework (RDF) and SPAR=
+QL, have emerged as one of the preferred solutions to store <br>and analyze=
+ heterogeneous graphs. However, there is a gap in being able to express <b>=
+ ...</b></font></div><br><p><hr noshade size=3D1><font size=3D2 color=3D#22=
+2222>Dieser Google Scholar-Alert wird Ihnen von Google zur Verf=C3=BCgung g=
+estellt.<br><br><a href=3D"http://scholar.google.de/scholar_alerts?view_op=
+=3Dcancel_alert_options&amp;email_for_op=3Derictessenow%40web.de&amp;alert_=
+id=3DAIfevv3NkPcJ&amp;hl=3Dde"><font color=3D#1a0dab>Alert stornieren</font=
+></a><br></font></div></body></html>

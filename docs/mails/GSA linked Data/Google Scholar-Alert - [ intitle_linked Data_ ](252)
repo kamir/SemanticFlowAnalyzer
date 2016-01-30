@@ -1,0 +1,95 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.64.243.69 with SMTP id ww5csp1607iec;
+        Fri, 11 Apr 2014 23:52:56 -0700 (PDT)
+X-Received: by 10.50.4.74 with SMTP id i10mr1800397igi.43.1397285574232;
+        Fri, 11 Apr 2014 23:52:54 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3DtdIUxUKDH8vfkrodudohuwv-qruhso1jrrjoh.frphulfwhvvhqrzzhe.gh@scholar-alerts.bounces.google.com designates 209.85.160.73 as permitted sender) smtp.mail=3DtdIUxUKDH8vfkrodudohuwv-qruhso1jrrjoh.frphulfwhvvhqrzzhe.gh@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3DtdIUxUKDH8vfkrodudohuwv-qruhso1jrrjoh.frphulfwhvvhqrzzhe.gh@scholar-alerts.bounces.google.com designates 209.85.160.73 as permitted sender) client-ip=209.85.160.73;
+Received: by 10.50.151.174 with POP3 id ur14mf657937igb.2;
+        Fri, 11 Apr 2014 23:52:53 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3DtdIUxUKDH8vfkrodudohuwv-qruhso1jrrjoh.frphulfwhvvhqrzzhe.gh@scholar-alerts.bounces.google.com
+Received: from mail-pb0-f73.google.com ([209.85.160.73]) by mx-ha.web.de
+ (mxweb001) with ESMTPS (Nemesis) id 0MKY9H-1Waltw2vHL-0020QJ for
+ <erictessenow@web.de>; Sat, 12 Apr 2014 08:02:56 +0200
+Received: by mail-pb0-f73.google.com with SMTP id rp16so806981pbb.0
+        for <erictessenow@web.de>; Fri, 11 Apr 2014 23:02:54 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=IJ/+RXir+6iLahbaD4wVPofF+afsOJPwnpt/QeAY2Vw=;
+        b=OKDEwcvVs4rRbGLgUTw+WQvPiZGph6Vr/Z3HOWOtNM+hT/XQf7nBXTIgM2n/Lnn6/B
+         uv4Mn+tVogVyeOPeVHr3RsVs+mWC/hJwd85Ha2IR2ElQcSEKVVVPLE8C+PHpxXhOZY/1
+         xnLfVfVyQ+n+St/d6P2naYGL9OKnUgtmHfae90pf5qNlNBwWBHIUJ6MAXdw1l2RZeKb2
+         0sxYZvHlu4/s/wi8Fegghcf4777PVINpQP/7XnJU/uA6/oCxGZYjAC5dsSN5SrHwBdHA
+         LpwV7JgWi5VLMr/YpSJDx74jQgS2OjU7ukj5z3cNljfgpmFf3/jEsCeMkP+GxAXkflFc
+         3hcQ==
+MIME-Version: 1.0
+X-Received: by 10.66.222.129 with SMTP id qm1mr4082062pac.6.1397282574221;
+ Fri, 11 Apr 2014 23:02:54 -0700 (PDT)
+Message-ID: <047d7b5d4e327cc29d04f6d2337f@google.com>
+Date: Sat, 12 Apr 2014 06:02:54 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:ou/rFYcVgmU=:f0IUfvV0+iS4rUZ3czOG3TUYCn
+ ykfPvBo+y0XrilW+g92cPqUSAU7aRI/LmbHZBPDiOu+vz+S4WJZtzrJrzyEIAXSdZxpJafXmZ
+ HGb60Rk164iRoNqNMlL5Mcs7NjtXJK/T0nPps+4YUnZYAHX4BJGORuE1Dgu6eGuvZzsSpbVPP
+ 29MQnkCrkBpkryOzTCLargAWOodD8lFYKMqxWb491rWr/mjzNpwq08jYr+TtI95iGyXGA3+IF
+ Y5kVKxpVB89G1HG3/ufBLMIccgpLUnOGAjuqVy6zCXTGy27XNJKCIhGXWAUQ7T6Nsi8JBZrY1
+ lEaJObFVL1vMv8/weU3r/5RANwaNZTsp7v0Dd9WDwvDLnmHuTsMcsPei1QFqtnasuhsJg13KA
+ 4wswCrLujPsDnKfEQcrLGGhYSQeszPIj9K2dxdjWE7udv1WWBseBfuJKFj+n5RJN/DOuPzP5q
+ VHZAtf04+AAmjw9zYhnmkEp5wnYnFoaXZQzoUxSAzxq3wxuEham0EvI0Gj7eS6BFmPQTY2jku
+ T3pDQNjC2kfixPFg6ufDG6SwhDcsd66dQhzcKqF0griDUTNjRJdbXDuZvqIYAlXap/e9Scuam
+ iaoVKCBklkw+L8iwXSV/h/KGPHcN8+5wpikhqjYakyOyou/WG0ZvvOCLHOT7IPCNM/MC2TJP8
+ 8feEMNZufSmkEMenles8ZXOhsWf3TDASEmj4k5y+O41HRMohKxur37o5ZJCX0bkO3H2leS4XQ
+ KNBZOLXLr3pwKHE4dzLGDYGVrci1epiHaKgeCtXDHVY+fl7dC/pl9z8cQffPYY4ZLnmXNOrPR
+ 71K+8AFxWPDfsE6uD7AGh7llK3igSGUhBMWArYniGUV5+d+O8A1TSmq+TUNxZFIWh4d4lKpED
+ m3rusJBTfmrxilZw7cwYpph0TYmXELPVxnYEqOI30WmoBSvjuTbljdipUOKqkv17tXvoLI5X1
+ qdNTLD8XfaJO7gXbRjuHMKG/GZLodMf86dWQTxErajM+Q9PcIFkBJ0SeYygkznxVFoNeY8QKQ
+ yODq4X369cyc69etf7OUKXk8T2DT110+uSocRDO49sB0i94c4af2ic3pf2fyM19HthmGtT71i
+ vtqgyk2EQlcqg6tQ5pIlMAiz5zwGRziL+jMRjvS6OmmiWqHphU5JWGQoPIz8XxTzB5fC+hSAU
+ GjqAgaQ+o7lNG5dKmUE+epoj8HsMWdvv6Hjj2SfpaXtQ==
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D=
+2 color=3D#1122cc>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_=
+url?hl=3Dde&amp;q=3Dhttp://lnx-hrl-075v.web.pwo.ou.nl/bitstream/1820/5344/1=
+/LA_in_LD.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm2r3mnE5JgYIPmoeG9SHRWOjFBI4w&am=
+p;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D"text-decoration=
+:underline">Using <b>linked data </b>in Learning Analytics</font></a></h3><=
+div><font size=3D2 color=3D#009933>A Mathieu, D Stefan, H Eelco, D Hendrik,=
+ T Davide - 2014</font></div><div><font size=3D2 color=3D#222222>Learning A=
+nalytics has a lot to do with data, and the way to make sense of raw data i=
+n terms <br>of the learner&#39;s experience, behaviour and knowledge. In th=
+is article, we argue about the <br>need for a closer relationship between t=
+he field of Learning Analytics and the one of <b> ...</b></font></div><br><=
+h3 style=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em">=
+<font size=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"http://scholar.googl=
+e.de/scholar_url?hl=3Dde&amp;q=3Dhttp://www.bizcnets.com/sites/default/file=
+s/file/papers/BibliotecaCervantinaSemantica_camera_ready.pdf&amp;sa=3DX&amp=
+;scisig=3DAAGBfm2cVIWiU6OKfuX3a7Fa_lhd6gsvHg&amp;oi=3Dscholaralrt"><font si=
+ze=3D3 color=3D#1122cc style=3D"text-decoration:underline">Building the Tec=
+nologico de Monterrey&#39;s Cultural Heritage Linked Open Data</font></a></=
+h3><div><font size=3D2 color=3D#009933>HG Ceballos, D Sanabria-Barrios, JC =
+Lavariega</font></div><div><font size=3D2 color=3D#222222><b>...</b> Keywor=
+ds=E2=80=94Cultural Heritage; Digital Libraries; <b>Linked</b> <b>Data</b>;=
+ Semantic Web. <b>...</b> http://bdmx.mx [5]<br>
+Biblioteca del Tecnol=C3=B3gico de Monterrey. http://millenium.itesm.mx/sea=
+rch~S30*spi/ [6] Heath,<br>
+T. and Bizer, C., <b>Linked</b> <b>Data</b>: Evolving the Web into a Global=
+ Data Space. <b>...</b>=20
+</font></div><br><p><hr noshade size=3D1><font size=3D2 color=3D#222222>Die=
+ser Google Scholar-Alert wird Ihnen von Google zur Verf=C3=BCgung gestellt.=
+<br><br><a href=3D"http://scholar.google.de/scholar_alerts?view_op=3Dcancel=
+_alert_options&amp;email_for_op=3Derictessenow%40web.de&amp;alert_id=3DAIfe=
+vv3NkPcJ&amp;hl=3Dde"><font color=3D#1122cc>Alert stornieren</font></a><br>=
+</font></div></body></html>

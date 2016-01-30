@@ -1,0 +1,94 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.112.221.138 with SMTP id qe10csp173356lbc;
+        Thu, 7 Aug 2014 01:00:42 -0700 (PDT)
+X-Received: by 10.152.205.8 with SMTP id lc8mr15516030lac.57.1407398440992;
+        Thu, 07 Aug 2014 01:00:40 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 36CvjUxUKDHEhRWdaPgPaTgih-cdgTeanVddVaT.RdbTgXRiThhTcdllTQ.ST@scholar-alerts.bounces.google.com designates 209.85.218.73 as permitted sender) smtp.mail=36CvjUxUKDHEhRWdaPgPaTgih-cdgTeanVddVaT.RdbTgXRiThhTcdllTQ.ST@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 36CvjUxUKDHEhRWdaPgPaTgih-cdgTeanVddVaT.RdbTgXRiThhTcdllTQ.ST@scholar-alerts.bounces.google.com designates 209.85.218.73 as permitted sender) client-ip=209.85.218.73;
+Received: by 10.152.134.243 with POP3 id pn19mf951460lab.9;
+        Thu, 07 Aug 2014 01:00:40 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 36CvjUxUKDHEhRWdaPgPaTgih-cdgTeanVddVaT.RdbTgXRiThhTcdllTQ.ST@scholar-alerts.bounces.google.com
+Received: from mail-oi0-f73.google.com ([209.85.218.73]) by mx-ha.web.de
+ (mxweb107) with ESMTPS (Nemesis) id 0MS44k-1WqZFL1p2g-00THd7 for
+ <erictessenow@web.de>; Thu, 07 Aug 2014 09:34:01 +0200
+Received: by mail-oi0-f73.google.com with SMTP id u20so683672oif.2
+        for <erictessenow@web.de>; Thu, 07 Aug 2014 00:34:00 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=0i0vQEmrlGhshAPfBmR2Etp71+Jr1liavWPpWs1zEQA=;
+        b=TEJgPaZaAPF/Oos+duUBLQnonh+wzWT9GxL1xAqA4I1sz/EuhkkemduZY/3NRBnWjM
+         PolvdC2qdwdGD8u/l5mmsRAJWw+uYdi48NoKH5bGS3sTV5z0u1yBedGewhgcTX5nwCIe
+         RbFN1YjKkz5O1kgAZOh5uT/GWM5RCk2y757i9e8PBAG2c5edUyMc6kqHNHLiZZlyb/Xy
+         26UyuQRjYHMxd2GNMiB7P9kOQGn4SVUUO+Tz9uqpvFuod4evtTfEwgKDbwd7930Uw5Rc
+         SMno0QyyVViZYtZ0k5UhmeeUSCMIEzKG5/laiiR4+o04+n1EuwK7H3wXqbSBUXqhNMl1
+         mmhw==
+MIME-Version: 1.0
+X-Received: by 10.182.186.4 with SMTP id fg4mr8735998obc.9.1407396840240; Thu,
+ 07 Aug 2014 00:34:00 -0700 (PDT)
+Message-ID: <089e013cbeacb877030500051ca6@google.com>
+Date: Thu, 07 Aug 2014 07:34:00 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:I5BtFBIFB/A=:jKxkOvnQaNlgP27ByBQhPfh+dN
+ KbB1E1OCN+LDQkARTqxvBSmnI3qrTa6PEIXqhK07yIjTsOYj/DtKxM5JT0O5TCkfQJ2XSobKq
+ ElYStTJ2RjWu6pgcMOvbeiA91OUVZq6ZNh4D5nJuz9keU+AkB18k/4MVhbV2QGv6AuyZWCwim
+ hEe138HQJ6/kkWHK4Zbl2XG4gQPMRyzEGyOBf81ny5wXnf+0cz36LimeoKKLFs1VYqy3qz5U3
+ owOU/3Nmxwiyxe/7bEZ4NVlSbbGts0iHsQ74BZ00L5nmykdSNBKM2iNCGkM2/V3yWb8eIT2Vt
+ u8jKKrHNh8hxLRafo1pngtKdhgUuj1TtiIkK6tkH71o0yVe42NeBWcgeo/DjpmTEV7zeuaHS2
+ JUS7mzL0gO9h8J9BlZQ5KQkUdsX8QNMveeLMABV15siOeNFOoCIsVWCh7c1nrJu4KcXB15o2o
+ q6SQ1QSREuf9tK49QASog9KAc3KHCjgjD8UjsjohfIX2lGbMy3QofpEg8QnGucEJXMuCH/fLw
+ 1sKXXYuntOhUWw1G9rqcV1HVJrROToMyd4ibl6rty5mSiZth2r7xjrhL+FaJNsyH8ToEFTmnm
+ Mj3BpP57Q5mqVV7K6ntu4DpRTTRHnGGkyZgwvbJXImJvCWYTexqKP2zF7OwzqNmnDjLX4DOah
+ 7C3kuFb4IVUgRMfzPSaZDIV6Iu5k6VlocI6YsA0kHvGDCBLZlzJi4hREvL+FFSsAwh/28OfCk
+ G0RmHIGoyAOG44U/tHMKSTnFpy52++3lpS/+DQzCF2UjJw0sdSk/IutN8tn8G7FKpqnCMEuhX
+ yyez9rVKDhoQiH5N4fdQyPtc/VyasOt7wPkiNycnZqiRvEQkhVegYUtc4Zo2BRV+HdrYrv22c
+ UVo3wuhY4geJg4BywfRyutWJkpsUzliRrr1E8DIuIyq/WxQMZfF/Xi/AyprJV+yTLrcsGP45g
+ TxHIk2XtE8BJDnh0xT7ud3YaR66Xt6pbS7vVMuirUxZC7GOe9XSZAzFYDicMfxfpd2O0WGGG7
+ X3AJqG+1ONjHJ5Um2CTAWxlQYpQ7sWD7tIEG+i3wcW4Y4KenDxj606VGtrDnOPx9OEL676AVm
+ 2T/kpcdjQgp5ga01ZA1XrjjuL+tXOFEmQorTP+6UP7pYW1lXyN24Vw+bipiCLP9G+myddOvRh
+ 7U519u+TvMnt+jeueqxGqtLn9E39ocfQbx515xNndShJ0S5Y8PymePEBJe/WhgxF0MkMHS9tF
+ FCfq7tLe5we6hWhFLLTW5FDwtaFa5rOzGzSza78Bwv46yMmair09gSKTloMo2DcjrKVYIsTse
+ tdR+
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D=
+2 color=3D#1122cc>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_=
+url?hl=3Dde&amp;q=3Dhttp://www.heikopaulheim.com/docs/iswc_2014.pdf&amp;sa=
+=3DX&amp;scisig=3DAAGBfm3ZG3mPH3wvYVmxx7vbBGD6sr5z2Q&amp;oi=3Dscholaralrt">=
+<font size=3D3 color=3D#1122cc style=3D"text-decoration:underline">Detectin=
+g Errors in Numerical <b>Linked Data </b>using Cross-Checked Outlier Detect=
+ion</font></a></h3><div><font size=3D2 color=3D#009933>D Fleischhacker, H P=
+aulheim, V Bryl, J V=C3=B6lker, C Bizer</font></div><div><font size=3D2 col=
+or=3D#222222>Abstract. Outlier detection used for identifying wrong values =
+in data is typically applied to <br>single datasets to search them for valu=
+es of unexpected behavior. In this work, we instead <br>propose an approach=
+ which combines the outcomes of two independent outlier detection <b> ...</=
+b></font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:mediu=
+m;max-width:44.5em"><font size=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"=
+http://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://www.heikopaulhe=
+im.com/docs/ijswis_2014.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm2mkfcks_jacN3ee_9=
+er2mLrFgDdg&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D"t=
+ext-decoration:underline">Improving the Quality of <b>Linked Data </b>Using=
+ Statistical Distributions</font></a></h3><div><font size=3D2 color=3D#0099=
+33>H Paulheim, C Bizer</font></div><div><font size=3D2 color=3D#222222>ABST=
+RACT <b>Linked Data </b>on the Web is either created from structured data s=
+ources (such as <br>relational databases), from semi-structured sources (su=
+ch as Wikipedia), or from <br>unstructured sources (such as text). In the l=
+atter two cases, the generated <b>Linked Data </b>will <b> ...</b></font></=
+div><br><p><hr noshade size=3D1><font size=3D2 color=3D#222222>Dieser Googl=
+e Scholar-Alert wird Ihnen von Google zur Verf=C3=BCgung gestellt.<br><br><=
+a href=3D"http://scholar.google.de/scholar_alerts?view_op=3Dcancel_alert_op=
+tions&amp;email_for_op=3Derictessenow%40web.de&amp;alert_id=3DAIfevv3NkPcJ&=
+amp;hl=3Dde"><font color=3D#1122cc>Alert stornieren</font></a><br></font></=
+div></body></html>

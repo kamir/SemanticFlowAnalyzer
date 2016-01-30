@@ -1,0 +1,125 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.140.237.204 with SMTP id i195csp1739443qhc;
+        Tue, 24 Feb 2015 02:12:12 -0800 (PST)
+X-Received: by 10.140.238.208 with SMTP id j199mr30762771qhc.56.1424772728387;
+        Tue, 24 Feb 2015 02:12:08 -0800 (PST)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3cE3sVBUKDGkZJOVSHYHSLYaZ-UVYLWSfNVVNSL.JVTLYPJaLZZLUVddLI.KL@scholar-alerts.bounces.google.com designates 209.85.220.73 as permitted sender) smtp.mail=3cE3sVBUKDGkZJOVSHYHSLYaZ-UVYLWSfNVVNSL.JVTLYPJaLZZLUVddLI.KL@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3cE3sVBUKDGkZJOVSHYHSLYaZ-UVYLWSfNVVNSL.JVTLYPJaLZZLUVddLI.KL@scholar-alerts.bounces.google.com designates 209.85.220.73 as permitted sender) client-ip=209.85.220.73;
+Received: by 10.224.189.16 with POP3 id dc16mf3424696qab.2;
+        Tue, 24 Feb 2015 02:12:08 -0800 (PST)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3cE3sVBUKDGkZJOVSHYHSLYaZ-UVYLWSfNVVNSL.JVTLYPJaLZZLUVddLI.KL@scholar-alerts.bounces.google.com
+Received: from mail-pa0-f73.google.com ([209.85.220.73]) by mx-ha.web.de
+ (mxweb003) with ESMTPS (Nemesis) id 0Lw2vd-1XS5I92TIz-017n6N for
+ <erictessenow@web.de>; Tue, 24 Feb 2015 11:07:48 +0100
+Received: by mail-pa0-f73.google.com with SMTP id lf10so8831774pab.0
+        for <erictessenow@web.de>; Tue, 24 Feb 2015 02:07:44 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=FI5MRoxvteszHtIIWw37xNQFp8+mDvISFw/1csVBt78=;
+        b=NoO8mYggwhIFLOrAI151u03cLjUjqaRnAQqTOPB8EcPVPF0vcqEJqSbLLZMYyMxZZs
+         XhP4mFNymvxS63gVIo3efl5zcoUyhNKYJnDMouInHagsFuFIcwZhw3zeYv+uVwktHAu/
+         fj2IUxomgOF/JYelCjBwWlZ1mY3WOpCpNDbxDDmzXjpkcYo1B+lPtafTOl4LTFKRWJ8u
+         /ZXRwNseJCPMYfqpmL1SWSvvBXQrQsUdWdZmmsxBKoXHWq50ZNkUgYlXMJb3yAmLbVJL
+         3sFUiWtNMm9f27E+JJD+zgsE54rzo1n00qI/6X8jBNgLCoPv04QGwP8WXTv4gohBMSbX
+         NRiw==
+MIME-Version: 1.0
+X-Received: by 10.70.18.37 with SMTP id t5mr16029189pdd.7.1424772464702; Tue,
+ 24 Feb 2015 02:07:44 -0800 (PST)
+Message-ID: <047d7bd6be86a4f32e050fd2b0df@google.com>
+Date: Tue, 24 Feb 2015 10:07:44 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:nRxuCAr49qE=:W8SM+gUqQ/EGov9aIRPeYs8HID
+ SrLABUAAQ/70FVisLUivodF+a2L4YOIOM5OYnV0O+djotbptpeIK4aVr7CauOVvcF8deqg786
+ NjWQ+ah92bByjtb6GScEmUcKUbxURn44rH6HcGkUX+wTL6M+6d2OHUpvfJ4i2i+hYtuAslQUX
+ j8WPisHu1DGxv/xlidYeDQTQJ3sZp3PZS6lg4DNBrMT+TZwIrLaCoVF6RAiJE6wmMZDwKRuO2
+ bCjRfVbHLaBs6zr8d9EPm4injqeiWAjO8tTvykjixHyAq32wFIT+mPW+YB4DtcTQJzIqzmoVh
+ AyrU7wvpZzX6QZEiHoClTENXmqARh62HJpjpbL6cjG2pi9wMMNaj6P4Gr83QgkvVufHL22h25
+ H92athHGMtZPxnE/AOLkLWgapiuZvsq7qVNnTqJLI5EyMivJ/MMCT+2tjqtcWwt6lThUjgA6Q
+ yKqP9dZi0NNlggeLZq754cFAz0Z5/ADoMLVpV2jI+dIhQ0zkea3eacMf576Hlk41p9dM8JEYP
+ E5MNzmhnn6HsAuyt6FjZAdolfscTzpPL5ZqAsvAXwfc22sfbyjRvu2nYyArqi6vdijNB+GQZR
+ WcSh2kjOE5PpzqB6uaOPwFHOa3Ak0lLzqKBpv93yMpq7afEVtmU754INS+d9ho5TzkghLoBdn
+ EdiTBVeLhRzaV9Ig5MCmB86eTFJuOoXokMEdsqR9QmCcrGUTd4+L46oYGU4Wzt6S74OiZfQOt
+ k36TJSJb+B/YWm2PQwCUCW915EmvXRbckwbEMxgViw6l5EkvLs/DfiPjTdwCnwz+0YwpZ6UOq
+ 6hd8wsssjz+WHaZ27T0Bl2EzUI3lTU4ppwGaKm2KWb+cTbVZgJ+X9LnHn4zen1ZX3Z7IaD3Ux
+ GvicXpcx4OfEV/hzxm9PfU9MjW81cXzTKuvEdGUGaHnUjShHWtaVJE2YM6jL4NKUwntpkm+0y
+ +lCdfcqDfh4B5ihs6fBJNcoTpnAvRrVs8RhsOEhZe21IhxSIs9tvQK60koO5tWdfgToyd9mbH
+ TsQ3EYVY2Fl80FF6xavwysYdOkXOZcrBRV01AeATXfPIER31sYV9jHlD5BsB9NMyjI/zwUQdq
+ 1Be38q7TaKlwIRJL1TSblLxZtvQ0P1CctTqgcNzeL/oLhqwnAf2TCQA9QTqqQW/VmEiJPudHl
+ qPt5CSrsFRnPT6lBLMrIBoJkv2uYgeE8MHlpPbIh0sgDKbDJJD6ihzyNZ+BDioy7+nldiRzrU
+ LhO4CMpiYqvlNct2aifO4SkzIixblfJwc0jVUykDyCLQfhaFU7pFEOFXofsseeO9a6mOr115P
+ uh9f
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttp://journals.lww.com/obstetrica=
+nesthesia/Fulltext/2015/03000/The_Incidence_of_Preeclampsia_and_Eclampsia_a=
+nd.19.aspx&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm2uQ47l7q8ATeq61NvkfCBM=
+paDZqQ&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab s=
+tyle=3D"text-decoration:underline">The Incidence of Preeclampsia and Eclamp=
+sia and Associated Maternal Mortality in Australia From Population-<b>linke=
+d Data </b>Sets: 2000 to 2008</font></a></h3><div><font size=3D2 color=3D#0=
+06621>C Thornton, H Dahlen, A Korda, A Hennessy - Obstetric Anesthesia Dige=
+st, 2015</font></div><div><font size=3D2 color=3D#222222>The reported rates=
+ of preeclampsia and eclampsia in developed countries vary greatly, <br>mos=
+tly due to geographic variations, varying definitions of the diseases, and =
+the size of data <br>sources. Effective detection and treatment of both pre=
+eclampsia and eclampsia should be <b> ...</b></font></div><br><h3 style=3D"=
+font-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=
+=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"http://scholar.google.de/schol=
+ar_url?url=3Dhttp://www.ieeetclt.org/issues/december2014/5-Zotou.pdf&amp;hl=
+=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm3sfuxu-87LJVbj5yceGmM7lkAXkg&amp;nossl=
+=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-dec=
+oration:underline">Implementing =E2=80=9CRethinking Education=E2=80=9D: Mat=
+ching Skills Profiles with Open Courses through Linked Open Data technologi=
+es</font></a></h3><div><font size=3D2 color=3D#006621>M Zotou, A Papantonio=
+u, K Kremer, V Peristeras&hellip; - Bulletin of the IEEE  &hellip;, 2014</f=
+ont></div><div><font size=3D2 color=3D#222222><b>...</b> SKOS is built on t=
+op of the Resource Description Framework (RDF; www.w3.org/TR/rdf-<br>
+primer) and one of its main objectives is to enable the production, publica=
+tion, and use<br>
+of controlled vocabularies as <b>linked</b> <b>data</b>. III. METHODOLOGY <=
+b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><a href=3D"http://scholar.google.de/scholar_url?url=3Dhtt=
+p://www.sciencedirect.com/science/article/pii/S0167642315000398&amp;hl=3Dde=
+&amp;sa=3DX&amp;scisig=3DAAGBfm0WZKjzpwugTSSaUClRrTMaCuNchw&amp;nossl=3D1&a=
+mp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoratio=
+n:underline">Specifying <b>linked data </b>structures in JML for combining =
+formal verification and testing</font></a></h3><div><font size=3D2 color=3D=
+#006621>C Gladisch, S Tyszberowicz - Science of Computer Programming, 2015<=
+/font></div><div><font size=3D2 color=3D#222222>Abstract We show how to wri=
+te concise and readable specifications of <b>linked data </b>structures <br=
+>that are applicable for both formal deductive verification and testing. A =
+singly linked list and a <br>binary search tree are provided as examples. T=
+he main characteristic of the specifications <b> ...</b></font></div><br><h=
+3 style=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em"><=
+font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"http://scholar.google=
+.de/scholar_url?url=3Dhttp://www.ieeetclt.org/issues/december2014/3-Softic.=
+pdf&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm3xfN3wOMtCJFv3_5LRRutUrgY2mA&=
+amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D=
+"text-decoration:underline">Leveraging Learning Analytics in a Personal Lea=
+rning Environment using <b>Linked Data</b></font></a></h3><div><font size=
+=3D2 color=3D#006621>S Softic, L De Vocht, B Taraghi, M Ebner, E Mannens&he=
+llip; - Bulletin of the IEEE  &hellip;, 2014</font></div><div><font size=3D=
+2 color=3D#222222>Abstract=E2=80=94We report on the reflection of learning =
+activities and revealing hidden information <br>based on tracking user beha=
+viors with <b>Linked Data</b>. Within this work we introduce a case <br>stu=
+dy on usage of semantic context modelling and creation of <b>Linked Data </=
+b>from logs in <b> ...</b></font></div><br><p><hr noshade size=3D1><font si=
+ze=3D2 color=3D#222222>Dieser Google Scholar-Alert wird Ihnen von Google zu=
+r Verf=C3=BCgung gestellt.<br><br><a href=3D"http://scholar.google.de/schol=
+ar_alerts?view_op=3Dcancel_alert_options&amp;email_for_op=3Derictessenow%40=
+web.de&amp;alert_id=3DAIfevv3NkPcJ&amp;hl=3Dde"><font color=3D#1a0dab>Alert=
+ stornieren</font></a><br></font></div></body></html>

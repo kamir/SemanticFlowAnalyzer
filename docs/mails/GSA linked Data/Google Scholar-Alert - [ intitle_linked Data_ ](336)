@@ -1,0 +1,183 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.112.221.138 with SMTP id qe10csp165171lbc;
+        Tue, 22 Jul 2014 04:35:59 -0700 (PDT)
+X-Received: by 10.112.48.103 with SMTP id k7mr19757896lbn.32.1406028957237;
+        Tue, 22 Jul 2014 04:35:57 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3c0zOUxUKDOgcMRYVKbKVObdc-XYbOZViQYYQVO.MYWObSMdOccOXYggOL.NO@scholar-alerts.bounces.google.com designates 209.85.213.73 as permitted sender) smtp.mail=3c0zOUxUKDOgcMRYVKbKVObdc-XYbOZViQYYQVO.MYWObSMdOccOXYggOL.NO@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3c0zOUxUKDOgcMRYVKbKVObdc-XYbOZViQYYQVO.MYWObSMdOccOXYggOL.NO@scholar-alerts.bounces.google.com designates 209.85.213.73 as permitted sender) client-ip=209.85.213.73;
+Received: by 10.112.34.6 with POP3 id v6mf3681461lbi.3;
+        Tue, 22 Jul 2014 04:35:57 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3c0zOUxUKDOgcMRYVKbKVObdc-XYbOZViQYYQVO.MYWObSMdOccOXYggOL.NO@scholar-alerts.bounces.google.com
+Received: from mail-yh0-f73.google.com ([209.85.213.73]) by mx-ha.web.de
+ (mxweb102) with ESMTPS (Nemesis) id 0M9rT2-1XGB7E1npI-00B3Pb for
+ <erictessenow@web.de>; Tue, 22 Jul 2014 13:35:16 +0200
+Received: by mail-yh0-f73.google.com with SMTP id f73so1198723yha.2
+        for <erictessenow@web.de>; Tue, 22 Jul 2014 04:35:15 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=qwPeLDTy6dvPj6aapGs/Do0GJ7Q4vPvjG8Haekz23H4=;
+        b=dWnOpoBUiERHf/TmXv52or84PmzDfd9kmaeQoYrRAb6Zjo1kCB/YjtYeYzMVpYBR3P
+         9RTtkIbU8ax4xXwn9TSro6478bxo99mHJISkuPB061diLvrV4WnGhxUe2SeY0oSwcMrC
+         IQ7gyX0cUGbHEQCyKRmd3PDIB55LSSQz61Ro90y6f7rDMh/qws0FBmKH4Vjat+GODfHU
+         URD3MDU0N0G8j1xeXD+NUqj7Zwo60FC2rLIz5c69YGDC3K11g5/0bFoBrN9tEG6RcN8D
+         etFJas7HWSXKM6eH22ytvcUbV9IlyR8e+NKk1RcLQvxf2yj15ctzH54y8gi39Miz87kG
+         HISQ==
+MIME-Version: 1.0
+X-Received: by 10.224.127.70 with SMTP id f6mr15693643qas.5.1406028915247;
+ Tue, 22 Jul 2014 04:35:15 -0700 (PDT)
+Message-ID: <001a11335d26098bc104fec69e52@google.com>
+Date: Tue, 22 Jul 2014 11:35:15 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:6rv07efzTS4=:V1BSEXVZmNK9qiA2whhu+7zyHE
+ CK22H5qvUkOqnpIsPAt0ic98eIcO+GDfNh8icUtR9zq7DPYfXPGrL80OmFEkTt1DZv9AsrX3u
+ cMrwoR2surdmEUetUxVgUCAtrudBnTq2eRhtJiTnCSJsTWg2QmpRlVd9jN3RxPAQv3fzx9sxC
+ qi5v0megaMPfWPoxNi+Su3CjhovgkZgVEdjJJJo1IK1ItgDrIiMg0yVpjGTd7Wzf0x24+nkLT
+ HG5NrmU1UhXklugaon2lFkKlDStF1NdV3G29iyKllnb7FkT720xwNRmb6b1c+M52uAm9rSNpE
+ v1OjcfqeWKOmucdaKcuHzi/MfBeHNs3GWS6dzXbNX3//SpvtFNVXIsBcTgMKP9D2g09ynZrX7
+ bhxEUx37doSdJedDPlWk2pCQr/0CbNz3s6lsRDOU7KDCvgyS/qzyXDfCxpB5+cElsbK8rRdYM
+ C6jul9YQfWcP7YHvCw4tB/iBtRyrDFRQAsqGU4WYL9JBwFg9OItaiP8xotLrBs8qlFtE4IYro
+ 4s1+ybGFU3UiWQUYfLZ9XIXDeKyY3awSyalmYiPBCsMu+Fr2v5+zAGEJl3osDGqNcKclWtYzw
+ 97PVgScka70AsA0ASLBrva8GaYV9rX71Tgm3tEmpUMnhCf87L2/Sor2YKYFAQJmjSzBqFxv/8
+ BFdQ3lbAiXYVaRi9xdoHbtJB2Agf7MECGwXfOQrxtAOgeHMS5YNnhwIybnTeC06q+RU4fsqaQ
+ AL6qeGUlLmWQsRH/MYPErVHFYAVUjEw54Y50YqBFknKQH9+fPkqfXaVdVOH2CRPHc0N4B1Bf/
+ Hbr4brclzM3ndKuSO+Vee2kFt9996u1979sFzwZZQtZzZ2f1IHXbnJc/8Gwf8T3YbT3dwixhC
+ umYmTVJAku9MYH7qbtE10ZZ7hdIAUgHvSGVouQ/SuBHRsw6KJy8gewf5JWihLM9+JD2vAdLi2
+ pnQtdnH3me6s79T5OLETT0QYegPjECNwlxc8yVyGMxgPEAQwOo4Z7LY5gj7u2zETloSxgzb9v
+ QED6x3CuWX2eFaxKmkvo62MVTLL6wKTuPcx9GhOMd7HIfO22kIi7iMGYuNFPeCWpzDqOMI1kM
+ M2LpVGWYmcuaAlrihh0cHi7Sp0SIQBtVRTOGKZD296XA1ofX3EdECv64a8Z0JRVrLVKXGQ+es
+ NzX7RSAX0tujwTY+HoNTeysg4OP8oeBeWqPXYz3SSS9o2JGZdHjqWafs8MVHF38r5Si90ca4y
+ /LSNfyfZLjaVh5r0ZUPUu8rbjGemOl1DgCFhSnVJZGL/J3R63LnSb2p0Pb30jt8Tum1ytJnTK
+ qL3zFm+r4HJ2KahGACHNIXKYI3yAnCqIIhsj/wfud6lIWbFIiCPrF9uPy1BeqGV7vwqL3jTPG
+ asUyLgfkm3JcrpbuK1oS5eO5oMBMwezayegE4ldSfRFBI2Xesy5TOrhq8NHKciLJeSHWDtP5v
+ oEpG417lHzmyneA3quUiPll3E8pDnwwOALsd0EW70y4XIuFPze
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://www.sciencedirect=
+.com/science/article/pii/S1570826814000523&amp;sa=3DX&amp;scisig=3DAAGBfm0u=
+hwBHdEjBQV4NvofZYAxqu8hl2A&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#11=
+22cc style=3D"text-decoration:underline">Big linked cancer data: Integratin=
+g linked TCGA and PubMed</font></a></h3><div><font size=3D2 color=3D#009933=
+>M Saleem, MR Kamdar, A Iqbal, S Sampath, HF Deus&hellip; - Web Semantics: =
+Science,  &hellip;, 2014</font></div><div><font size=3D2 color=3D#222222><b=
+>...</b> In this paper, we advocate the use of <b>Linked</b> <b>Data</b> to=
+ integrate, query and visualize bio-medical<br>
+data. The resulting Big <b>Linked</b> <b>Data</b> allows discovering knowle=
+dge distributed across manifold<br>
+sources, making it viable for the serendipitous discovery of novel knowledg=
+e. <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&a=
+mp;q=3Dhttp://adsabs.harvard.edu/abs/2014EGUGA..16.5958R&amp;sa=3DX&amp;sci=
+sig=3DAAGBfm2RtiR3QZl-21ieKnkwT7WvnKhK9w&amp;oi=3Dscholaralrt"><font size=
+=3D3 color=3D#1122cc style=3D"text-decoration:underline">Connecting geoscie=
+nce systems and data using Linked Open Data in the Web of Data</font></a></=
+h3><div><font size=3D2 color=3D#009933>B Ritschel, G Neher, T Iyemori, Y Ko=
+yama, A Yatagai&hellip; - EGU General Assembly  &hellip;, 2014</font></div>=
+<div><font size=3D2 color=3D#222222><b>...</b> Abstract. <b>Linked</b> <b>D=
+ata</b> or Linked Open Data (LOD) in the realm of free and publically acces=
+sible<br>
+data is one of the most promising and most used semantic Web frameworks con=
+necting various<br>
+types of data and vocabularies including geoscience and related domains. <b=
+>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://mayor2.dia.fi.upm=
+.es/oeg-upm/files/eswc2014/Workshops/KNOW%40LOD2014/ldmc2014_submission_2.p=
+df&amp;sa=3DX&amp;scisig=3DAAGBfm2rqOCORAU4ODFvEoHN7uVJIN1AwA&amp;oi=3Dscho=
+laralrt"><font size=3D3 color=3D#1122cc style=3D"text-decoration:underline"=
+>Development of Prediction Model for <b>Linked Data </b>based on the Decisi=
+on Tree=E2=80=93for Track A, Task A1</font></a></h3><div><font size=3D2 col=
+or=3D#009933>D Jeon, W Kim - Know@ LOD 2014, <b>Linked Data </b>Mining Chal=
+lenge  &hellip;, 2014</font></div><div><font size=3D2 color=3D#222222>Abstr=
+act. In this paper, we explain the detail analysis procedure of submission =
+1 (Previous <br>predicted results submission) of Task A1. We are trying to =
+induce decision tree models to <br>predict pc: numberOfTenders. Since the t=
+ype of target attribute is non-negative integer <b> ...</b></font></div><br=
+><h3 style=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em=
+"><a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://li=
+brary.iated.org/view/MECHANT2014LIN&amp;sa=3DX&amp;scisig=3DAAGBfm1n0c7n_IZ=
+pxqp59RolOjM72w79pg&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc st=
+yle=3D"text-decoration:underline">LINKED OPEN DATA AND RESEARCH KNOWLEDGE M=
+ANAGEMENT: AN EXPLORATORY SEARCH AND VISUALIZATION FRAMEWORK</font></a></h3=
+><div><font size=3D2 color=3D#009933>P Mechant, M Van Compernolle, A Dimou,=
+ L De Vocht&hellip; - EDULEARN14 Proceedings, 2014</font></div><div><font s=
+ize=3D2 color=3D#222222><b>...</b> In the first part of the paper the stage=
+ is set for describing LOD/VizSuite by theoretically unpacking<br>
+concepts such as &#39;open data&#39; (data that can be freely used, reused =
+and redistributed by anyone =E2=80=93<br>
+subject only, to the requirement to attribute), &#39;<b>linked</b> <b>data<=
+/b>&#39; (structured data so that it <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&a=
+mp;q=3Dhttp://www.scientific.net/AMM.598.387&amp;sa=3DX&amp;scisig=3DAAGBfm=
+3khIZ_MF89ThE2KtD5CxgsP3gKYQ&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#=
+1122cc style=3D"text-decoration:underline">Multilevel <b>Linked Data </b>St=
+ructure for the Multidimensional Orthogonal Packing Problem</font></a></h3>=
+<div><font size=3D2 color=3D#009933>VA Chekanin, AV Chekanin - Applied Mech=
+anics and Materials, 2014</font></div><div><font size=3D2 color=3D#222222>T=
+he actual NP-completed orthogonal bin packing problem is considered in the =
+article. In practice <br>
+a solution of a large number of different practical problems, including pro=
+blems in logistics and <br>
+scheduling comes down to the bin packing problem. A decision of an any pack=
+ing <b> ...</b> </font></div><br><h3 style=3D"font-weight:normal;margin:0;f=
+ont-size:medium;max-width:44.5em"><font size=3D2 color=3D#1122cc>[PDF]</fon=
+t> <a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://m=
+ayor2.dia.fi.upm.es/oeg-upm/files/eswc2014/Workshops/KNOW%40LOD2014/knowlod=
+2014_submission_5.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm3zWyX95sp9BscCPbkO1_VxB=
+4CTew&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D"text-de=
+coration:underline">Parallel Search Through Statistical Semantic Spaces Lev=
+eraging Linked Open Data</font></a></h3><div><font size=3D2 color=3D#009933=
+>A Cheptsov</font></div><div><font size=3D2 color=3D#222222><b>...</b> http=
+://www.data.gov/. [retrieved: April, 2013]. 2. <b>Linked</b> <b>Data</b> pr=
+oject website. [Online]. <b>...</b> [retrieved:<br>
+April, 2013]. 3. C. Bizer, T. Heath, and T. Berners-Lee, =E2=80=9C<b>Linked=
+</b> <b>data</b> - the story so far=E2=80=9D, International<br>
+Journal on Semantic Web and Information Systems (IJSWIS), 5(3), 2009, pp. 1=
+-22. <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://www.nlpr.ia.ac.cn=
+/cip/liukang.files/QALD-4.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm2DUj60vnwvKiLAG=
+uhrehzLe6febA&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D=
+"text-decoration:underline">CASIA@ V2: A MLN-based Question Answering Syste=
+m over <b>Linked Data</b></font></a></h3><div><font size=3D2 color=3D#00993=
+3>S He, Y Zhang, K Liu, J Zhao</font></div><div><font size=3D2 color=3D#222=
+222>Abstract. We present a question answering system (CASIA@ V2) over <b>Li=
+nked Data </b><br>(DBpedia), which translates natural language questions in=
+to structured queries <br>automatically. Existing systems usually adopt a p=
+ipeline framework, which contains four <b> ...</b></font></div><br><h3 styl=
+e=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font s=
+ize=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"http://scholar.google.de/sc=
+holar_url?hl=3Dde&amp;q=3Dhttp://www.seco.tkk.fi/publications/submitted/mak=
+ela-et-al-ww1lod.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm1u9eC418b_BQ7_81pNMJXMYK=
+kLYQ&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D"text-dec=
+oration:underline">World War 1 as Linked Open Data</font></a></h3><div><fon=
+t size=3D2 color=3D#009933>E M=C3=A4kel=C3=A4, J T=C3=B6rnroos, T Lindquist=
+, E Hyv=C3=B6nen</font></div><div><font size=3D2 color=3D#222222><b>...</b>=
+ The approach is being evaluated using an existing WW1 online collection. I=
+n addition, discussions<br>
+are ongoing with several other organizations about making use of the datase=
+t. Keywords: <b>linked</b><br>
+<b>data</b>, historical data, digital humanities, modeling, dataset 1. Intr=
+oduction <b>...</b>=20
+</font></div><br><p><hr noshade size=3D1><font size=3D2 color=3D#222222>Die=
+ser Google Scholar-Alert wird Ihnen von Google zur Verf=C3=BCgung gestellt.=
+<br><br><a href=3D"http://scholar.google.de/scholar_alerts?view_op=3Dcancel=
+_alert_options&amp;email_for_op=3Derictessenow%40web.de&amp;alert_id=3DAIfe=
+vv3NkPcJ&amp;hl=3Dde"><font color=3D#1122cc>Alert stornieren</font></a><br>=
+</font></div></body></html>

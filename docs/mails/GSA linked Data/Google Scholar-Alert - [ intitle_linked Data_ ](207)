@@ -1,0 +1,212 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.64.67.99 with SMTP id m3csp41795iet;
+        Sat, 23 Nov 2013 20:52:07 -0800 (PST)
+X-Received: by 10.50.73.164 with SMTP id m4mr8123304igv.7.1385268725238;
+        Sat, 23 Nov 2013 20:52:05 -0800 (PST)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3fIWRUhUKDGcXHMTQFWFQJWYX-STWJUQdLTTLQJ.HTRJWNHYJXXJSTbbJG.IJ@scholar-alerts.bounces.google.com designates 209.85.219.74 as permitted sender) smtp.mail=3fIWRUhUKDGcXHMTQFWFQJWYX-STWJUQdLTTLQJ.HTRJWNHYJXXJSTbbJG.IJ@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3fIWRUhUKDGcXHMTQFWFQJWYX-STWJUQdLTTLQJ.HTRJWNHYJXXJSTbbJG.IJ@scholar-alerts.bounces.google.com designates 209.85.219.74 as permitted sender) client-ip=209.85.219.74;
+Received: by 10.64.24.237 with POP3 id x13mf2125939ief.27;
+        Sat, 23 Nov 2013 20:52:03 -0800 (PST)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3fIWRUhUKDGcXHMTQFWFQJWYX-STWJUQdLTTLQJ.HTRJWNHYJXXJSTbbJG.IJ@scholar-alerts.bounces.google.com
+Received: from mail-oa0-f74.google.com ([209.85.219.74]) by mx-ha.web.de
+ (mxweb109) with ESMTPS (Nemesis) id 0MXBft-1W7Nnc2ydZ-00WFol for
+ <erictessenow@web.de>; Sun, 24 Nov 2013 05:50:06 +0100
+Received: by mail-oa0-f74.google.com with SMTP id o6so615036oag.5
+        for <erictessenow@web.de>; Sat, 23 Nov 2013 20:50:04 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=NdT5hmcGpPm4JiKnuq2ygWR58ta4zsLGOnWxnWR1cpc=;
+        b=G89XbycoC9dPJBY8NXo708s27iginYAZn76N2AeSoaM3vcotbaSDqtAj00fDR/ygGF
+         xeSWszjo1y8fD2+4pKZ0wlSyVJkn9D1aPuQ6Jv19ufGnrDyVPYR2OMEQQSklkgW3pBaQ
+         picZa8pbOeX9AlAxBU1D6edUpydb9RA21F/zb8UbiW1zmg2ak2aVATKoJFiysJ7raVsQ
+         QyLXxrnVi8uTmCCcaNQwnGJiQcpXWvrJKPRmOm6o8Wa26wemZ4m0UahSIiQy+HskSQ+V
+         gv6wjQYfUdyYKPykIILMV9nZzDbsvuQHBkCN8EBsIwkl/tzw0B+61AOv/gOxGEGH69Pf
+         LSkg==
+MIME-Version: 1.0
+X-Received: by 10.182.108.136 with SMTP id hk8mr6978286obb.11.1385268604410;
+ Sat, 23 Nov 2013 20:50:04 -0800 (PST)
+Message-ID: <089e0149d2c01599e704ebe4fb93@google.com>
+Date: Sun, 24 Nov 2013 04:50:04 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:YgInJZW0pWU=:XbezLZ+pvJcHNo68m0rMeYSv9f
+ tUiaSCTtM6GusZPyewJofnNBXHVbw9IwOPBHM2tuaEpTJ9IBPDVmyXG0VziltIuKDVcLOaTIf
+ jBPhPHKVj0IIm2miM0jkrI6bV6uc0ZFFuahhOZ8mTouCkLK8QiQ5+0FhFUWRj4c4uf8dSsTe+
+ WcgdQmwtdfM8p/72iengUo5Lrxth+G46VYN2DVwWTN679cXLOhubuIMB1xkP1Ddlap/vbjbKU
+ sNMcMg8K73iHXfju16sBak3dOkC4BbvuYojkhg7bT28EwMSF90p+lTRwddDK33etw6o7pkWib
+ eeLHi4Si2MaBQQz2GfpAOEPYwMLZPHcW7rn7aW7BYzeW7hpdqAj44ZSwherQM1MPSXGM7Qv2H
+ e1vA2FUum+101A6NiNbA+yBK0mmHRanQ0E7nzxXSUvtieWX1NJtiUFjHs9Og+TSXEvy7eSfaX
+ bpMb2QRMYiHKydk8hb8Bm4bQL/srCqoB84Dy6V3n7Psyg3ej1K35Wm+Q9C9playNrXXRsBnNS
+ +uV+IvFJYDt9aAs2OMm/KFUM6ieFuAytJG1EiTilBgbOBxdBDctkMiIa7a8F7iRgOSmGQUt2s
+ 03qjEcxO2lkoX7JxGUHGDcDy5QzUHt7ud1pK+230xQyiAmfnHNwZ6rHUp30ZUSOO69Rbfzv4i
+ fxQzZRzDrgRJUBD4awXPahQ0bDcZFGUgl3wFAFQr1MS1rB5LKUiM5KlebEPfLIiUpbMUdOxoe
+ 8Xbn8lQ40SPjlpatk9hSPSql3DKC6C5pzqkJYz0S74rq+c+cKUI3aYIqVVNV44opzkGhB6ZAM
+ vbAbxvzUMD0opfOSU4cXXfsGPr+CAYATW7rU+ZOY9B043bHnlNa1st6uuruid4JwoQtIH7BBQ
+ DNhoU/pQXseoL2FrmlvSJtIr48fI+JPXDdL/rqxc651Hz1aPbXegUu4XDOkMotjoZcha6Ew/O
+ 2STc+w6+iJQitbzZVZH/e/YHhYplPyDWxOwS350Ylfx46rCVtBIxBii5XX/DF9XqjsV6xS3iF
+ vyn84/mgumfzIRymhF1x8yypUkhOM9d37tg6SfYHynvux4vZyFGZ04n3+cP4yt5isk9GIuw8u
+ 6e84jbxMKXY+hsFkfIBC4kv2+17jL9G9VbTCIDW2GFJsRsPX/aoQW2DJaI9FGxj1+diNJktdz
+ l8QK/goNj3zp/es2QoNB9Jl6Tq5iHkkOuFQNVudR7NRlGxqjVWdoLbMppNnIgEpB9FoXlbUeE
+ tpJuWBVeF726j768NRh+YnyZltCBHNEMa/ZulYE8wFl70W3BHRKmR6AOZNayyu7fj/KINjgC5
+ 7AsJUmxY6HCJD4J1Q73r/v8a0ndscB2WI3AsLlqkXz0q1y61U2RZ3FPKZp0VWsJFNyNxfHNWf
+ 3+wZroPQziFbMGBgw==
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D=
+2 color=3D#1122cc>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_=
+url?hl=3Dde&amp;q=3Dhttp://www.coventry.ac.uk/Global/Faculty%2520events/SB1=
+3/SB13-19-Relationships-Between-Linked-Open-Data-and-BIM.pdf&amp;sa=3DX&amp=
+;scisig=3DAAGBfm20LrkVqCW3f4E6mzhCaKzhuHh4BQ&amp;oi=3Dscholaralrt"><font si=
+ze=3D3 color=3D#1122cc style=3D"text-decoration:underline">Exploring the re=
+lationships between Linked Open Data and Building Information Modelling</fo=
+nt></a></h3><div><font size=3D2 color=3D#009933>FH Abanda, W Zhou, JHM Tah,=
+ F Cheung - Proceedings of the Sustainable Building  &hellip;, 2013</font><=
+/div><div><font size=3D2 color=3D#222222><b>...</b> 3 <b>LINKED</b> <b>DATA=
+</b> TECHNOLOGIES Common terminologies often used in <b>Linked</b> <b>Data<=
+/b> parlance<br>
+are Open Data, LOD, Open Government Data and Semantic Web. For clarity, the=
+se terminologies<br>
+will be examined. Open Data is data which can be used more or less freely. =
+<b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1122cc>[HTML]</font> <a href=3D"h=
+ttp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://bmjopen.bmj.com/=
+content/3/11/e003813.full&amp;sa=3DX&amp;scisig=3DAAGBfm1stvxXugJIbFvZ3PkvU=
+fJwh9mTdQ&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D"tex=
+t-decoration:underline">Cross vascular risk for first and recurrent hospita=
+lised atherothrombosis determined retrospectively from <b>linked data</b></=
+font></a></h3><div><font size=3D2 color=3D#009933>TG Briffa, LJ Nedkoff, MW=
+ Knuiman, GJ Hankey&hellip; - BMJ Open, 2013</font></div><div><font size=3D=
+2 color=3D#222222>Objectives To determine the sex-specific and age-specific=
+ risk ratios for the first-ever and <br>recurrent hospitalisation for cereb=
+rovascular, coronary and peripheral arterial disease in <br>persons with ot=
+her vascular history versus without other vascular history in Western <b> .=
+..</b></font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:m=
+edium;max-width:44.5em"><font size=3D2 color=3D#1122cc>[PDF]</font> <a href=
+=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://www.ldl2013=
+.org/proceedings.pdf%23page%3D52&amp;sa=3DX&amp;scisig=3DAAGBfm0vGqnr1AzewI=
+J_05oghQLknu7GXw&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=
+=3D"text-decoration:underline">Transforming the Data Transcription and Anal=
+ysis Tool Metadata and Labels into a Linguistic Linked Open Data Cloud Reso=
+urce</font></a></h3><div><font size=3D2 color=3D#009933>A Pareja-Lora, M Bl=
+ume, B Lust - 2nd Workshop on <b>Linked Data </b>in Linguistics, 2013</font=
+></div><div><font size=3D2 color=3D#222222>Abstract Developing language res=
+ources requires much time, funding and effort. This is why <br>they need to=
+ be reused in new projects and developments, so that they may both serve a =
+<br>wider scientific community and sustain their cost. The main problems th=
+at prevent this from <b> ...</b></font></div><br><h3 style=3D"font-weight:n=
+ormal;margin:0;font-size:medium;max-width:44.5em"><font size=3D2 color=3D#1=
+122cc>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&=
+amp;q=3Dhttp://mt.inf.tu-dresden.de/sda2013/rademaker_sda2013_presentation.=
+pdf&amp;sa=3DX&amp;scisig=3DAAGBfm0siXHEFs51r_GGwAneRQhcJ_1U9g&amp;oi=3Dsch=
+olaralrt"><font size=3D3 color=3D#1122cc style=3D"text-decoration:underline=
+">A linked open data architecture for contemporary historical archives</fon=
+t></a></h3><div><font size=3D2 color=3D#009933>A Rademaker, S Higuchi, DAB =
+Oliveira - 2013</font></div><div><font size=3D2 color=3D#222222><b>...</b> =
+September 25, 2013 16 / 22 Page 17. Other Research Opportunities =E2=96=B6 =
+Natural language<br>
+processing: processing the DHBB entries to discover relations between entri=
+es and with<br>
+other <b>linked</b> <b>data</b> and resources. DHBB for NLP and vice versa!=
+ <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&a=
+mp;q=3Dhttp://hal.cirad.fr/lirmm-00903772/&amp;sa=3DX&amp;scisig=3DAAGBfm0s=
+-ZaCiefWHooErZu-JuMbAEIHrw&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#11=
+22cc style=3D"text-decoration:underline">Semi-automatic loading of a microb=
+ial risk in food database thanks to an ontology in the context of <b>Linked=
+ Data</b></font></a></h3><div><font size=3D2 color=3D#009933>P Buche, S Der=
+vaux, J Dibie-Barth=C3=A9lemy, L Ibanescu&hellip; - ICPMF&#39;13: 8th Inter=
+national  &hellip;, 2013</font></div><div><font size=3D2 color=3D#222222>A =
+preliminary step in microbial risk assessment in food is to gather and to c=
+apitalize <br>experimental data in order to feed simulation models. We have=
+ designed, in the predictive <br>modeling platform Sym&#39;Previus (www. sy=
+mprevius. org), a relational database, MicroRisk-<b> ...</b></font></div><b=
+r><h3 style=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5e=
+m"><font size=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"http://scholar.go=
+ogle.de/scholar_url?hl=3Dde&amp;q=3Dhttp://www.lifesciencesite.com/lsj/life=
+1011s/064_21624life1011s_349_358.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm2BegoIYL=
+zqMmYxEJP8uNFu4K3GXg&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc s=
+tyle=3D"text-decoration:underline">Navigating and Browsing Linked Open Data=
+: State-of-the-Art</font></a></h3><div><font size=3D2 color=3D#009933>S Khu=
+sro, A Khan, S Mahfooz, A Rauf, S Ali - Life Science Journal, 2013</font></=
+div><div><font size=3D2 color=3D#222222><b>...</b> edu.pk Abstract: Data ra=
+ce is the phenomena of conversion of web of text to web<br>
+of data; <b>Linked</b> <b>Data</b> provides uniform platform and infrastruc=
+ture for the organization<br>
+of structured data from diverse domains on the web. RDF <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://www.lifesciencesi=
+te.com/lsj/life1004/232_21482life1004_1766_1786.pdf&amp;sa=3DX&amp;scisig=
+=3DAAGBfm3NuTQptRV2PrQVvpvzev6NOgS-2A&amp;oi=3Dscholaralrt"><font size=3D3 =
+color=3D#1122cc style=3D"text-decoration:underline">Unleashing Sensor Data =
+on Linked Open Data-The Story So Far</font></a></h3><div><font size=3D2 col=
+or=3D#009933>S Khusro, S Ali, A Rauf, S Mahfooz, SR Mashwani&hellip; - Life=
+ Science Journal, 2013</font></div><div><font size=3D2 color=3D#222222><b>.=
+..</b> other related data sources. To solve these problems, sensor data nee=
+ds to be<br>
+annotated using Semantic Web technologies and published over the LOD cloud<=
+br>
+using the <b>Linked</b> <b>Data</b> principles. The resulting integration o=
+pens <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&a=
+mp;q=3Dhttp://www.utpl.edu.ec/sites/default/files/proyectos/divulgativo.pdf=
+%23page%3D79&amp;sa=3DX&amp;scisig=3DAAGBfm2uJtzOwQmU-nYBCCM-Qm143gQTgA&amp=
+;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D"text-decoration:=
+underline">LINKED OPEN DATA UNIVERSITY: PLATAFORMA SEM=C3=81NTICA Y COLABOR=
+ATIVA PARA ACCESO EN L=C3=8DNEA A DATOS Y DOCUMENTOS UNIVERSITARIOS  &helli=
+p;</font></a></h3><div><font size=3D2 color=3D#009933>ATP DE, CM HERN=C3=81=
+NDEZ - DIRECCI=C3=93N GENERAL DE INVESTIGACI=C3=93N Y  &hellip;, 2013</font=
+></div><div><font size=3D2 color=3D#222222><b>...</b> legibles autom=C3=A1t=
+icamente por agentes m=C3=A1quina (=E2=80=9Cmachine-readable=E2=80=9D forma=
+t). La<br>
+metodolog=C3=ADa a utilizar se basa en los principios de <b>Linked</b> <b>D=
+ata</b> para la publicaci=C3=B3n<br>
+de datos. Para ello se identificar=C3=A1n y seleccionar=C3=A1n fuentes <b>.=
+..</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://www.ldl2013.org/p=
+roceedings.pdf%23page%3D94&amp;sa=3DX&amp;scisig=3DAAGBfm1xxiZU49WY8u9CJrpl=
+nWyn8kflKA&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D"te=
+xt-decoration:underline">Towards the establishment of a linguistic <b>linke=
+d data </b>network for Italian</font></a></h3><div><font size=3D2 color=3D#=
+009933>R Bartolini, R Del Gratta, F Frontini - 2nd Workshop on <b>Linked Da=
+ta </b>in Linguistics</font></div><div><font size=3D2 color=3D#222222>Abstr=
+act This paper describes the conversion of ItalwordNet and of a domain Word=
+Net into <br>RDF and their linking to the (L) LOD cloud and to other existi=
+ng resources. A brief <br>presentation of the resources is given, and the c=
+onversion and resulting datasets are <b> ...</b></font></div><br><h3 style=
+=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font si=
+ze=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"http://scholar.google.de/sch=
+olar_url?hl=3Dde&amp;q=3Dhttp://mobmed.org/download/proceedings2013/mobilem=
+ed2013_paper_15.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm2s-ddDrZYl-L1QqhsPLy40ZhP=
+JEA&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D"text-deco=
+ration:underline">MOBILE APPLICATION FOR ACCESSING BIOMEDICAL INFORMATION U=
+SING LINKED OPEN DATA</font></a></h3><div><font size=3D2 color=3D#009933>E =
+Puertas, ML Prieto, M de Buenaga</font></div><div><font size=3D2 color=3D#2=
+22222><b>...</b> <b>Linked</b> <b>Data</b> is a publishing method for struc=
+tured and interlinked data, based on protocols<br>
+and standards such as HTTP, URIs and RDF, so that data can be retrieved fro=
+m<br>
+heterogeneous sources [3]. The WWW is becoming a Web of <b>Linked</b> <b>Da=
+ta</b>. <b>...</b>=20
+</font></div><br><p><hr noshade size=3D1><font size=3D2 color=3D#222222>Die=
+ser Google Scholar-Alert wird Ihnen von Google zur Verf=C3=BCgung gestellt.=
+<br><br><a href=3D"http://scholar.google.de/scholar_alerts?view_op=3Dcancel=
+_alert_options&amp;email_for_op=3Derictessenow%40web.de&amp;alert_id=3DAIfe=
+vv3NkPcJ&amp;hl=3Dde"><font color=3D#1122cc>Alert stornieren</font></a><br>=
+</font></div></body></html>

@@ -1,0 +1,201 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.79.82.193 with SMTP id g184csp530003ivb;
+        Sat, 23 May 2015 01:09:37 -0700 (PDT)
+X-Received: by 10.140.147.81 with SMTP id 78mr7053487qht.58.1432368576865;
+        Sat, 23 May 2015 01:09:36 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3rjNgVRUKDEc1lqxuj0jun021-wx0nyu7pxxpun.lxvn0rl2n11nwx55nk.mn@scholar-alerts.bounces.google.com designates 209.85.213.202 as permitted sender) smtp.mail=3rjNgVRUKDEc1lqxuj0jun021-wx0nyu7pxxpun.lxvn0rl2n11nwx55nk.mn@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3rjNgVRUKDEc1lqxuj0jun021-wx0nyu7pxxpun.lxvn0rl2n11nwx55nk.mn@scholar-alerts.bounces.google.com designates 209.85.213.202 as permitted sender) client-ip=209.85.213.202;
+Received: by 10.55.100.67 with POP3 id y64mf1644846qkb.21;
+        Sat, 23 May 2015 01:09:36 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3rjNgVRUKDEc1lqxuj0jun021-wx0nyu7pxxpun.lxvn0rl2n11nwx55nk.mn@scholar-alerts.bounces.google.com
+Received: from mail-ig0-f202.google.com ([209.85.213.202]) by mx-ha.web.de
+ (mxweb103) with ESMTPS (Nemesis) id 0MJiMC-1YxAp11108-001CMM for
+ <erictessenow@web.de>; Sat, 23 May 2015 10:00:47 +0200
+Received: by igdh15 with SMTP id h15so508470igd.0
+        for <erictessenow@web.de>; Sat, 23 May 2015 01:00:46 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=nMXz7AdRAZfYZXJql76nwKaSYHg4xCUZ17gyR9qTTxQ=;
+        b=eHbFD7666sXz+ztDT9YENatrY3xJVRMh3VW/7PDngf5JzmT+t3RWBtgPTVli+fXzAF
+         7qSAO7ufpHYwQZgCXUz11Azz2XI8NbEkcPqsl7n2nkCMRbbWiIKw17/2SrRTaD8V5SvA
+         fEEKwcU5REz6vVUew9yf3lWrPDMUN1SvTrDNXvkcDyBuHkDQahJGKCHfmH7pQp0C3uIw
+         AHK9p8REa2XPGduOFCWcGtyOcwtFuDEpQZK5NdXK4N1brwZ96djmtIQS0aj4bySJia87
+         RJneUiIo/s/WCyccXVV268+5WoKVQWswCcka8zQRgwlQgoxXp7nAiSNgtsgoZBPO34Fq
+         4Adw==
+MIME-Version: 1.0
+X-Received: by 10.182.44.166 with SMTP id f6mr15803142obm.44.1432368046033;
+ Sat, 23 May 2015 01:00:46 -0700 (PDT)
+Message-ID: <001a11c2e8d2924abb0516bb2c2b@google.com>
+Date: Sat, 23 May 2015 08:00:46 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:NY+KBPssZ5k=:t/yArJKJKS5S9TbcWyooB4NR35
+ np91JiF+P8wVycMLWRNBhjs6D3DQdqciEW6gysGk3jKJu1enJAyvlUwwpp5k9GgPj98KfyFl8
+ 5XJr4NYOnrusN6Uvc/Gjsoep/RyMSp6c3dqNXLcyoPyCwDv7vlqLZ1yv0MLndUPdC9AA1SD9E
+ iP6JsWK0LaNJWbXhVYEhYCB/wK6UnmiZ7erzbIfXZ71jK0JU27mQEZPmh50tW5s/VEtNExFjC
+ 4AW9HOsWkyT36YCZEHBEJ982Amfr7Z+9QcxkDGO0F/fK2Kux9btjaMQfmx/rTtyDIQhcg/y7r
+ +1zZ8po2UlR8HUrQb4hdP6pC46pZ22xcStFgWAUrrW8m2eMO/KedHEAtc9ZkIkVCJBJMf3ltg
+ SC8F/JVYNO0EAnVjCYiRrXz7YQekv/hkNbjp/qFF9V+PqZB1TU4VovhdTTLqEIb7USg+JJvuf
+ Jr4X0P6cNPismMJ6zjZvaOjvf3JyWJ8K2KoyEV1o+VNu8bSECWWXLoiJc6GRFKV5Gttdv096d
+ XDPB+AqtYgSXYZYoqSlcOi9hYEzLvkPopN4cmgp4hw65E0NHPMvJVsCUp6LsZlKVILnxKv1y6
+ L8MpdKFfDs8x8T5UIxOGWo6GXrPBghtgeZmlrOBtgcTPHOueKx+j2iiGRnlACcPPhWWDvupCv
+ ZytVl4G7ycwnXi0TRrTUX1R2Poa3bbDnSdUo67FK5UzgZD7NTI4py5vKKQWE2MVCLW60zndgd
+ Hpjh9FD6EUcjFAm/RLfAbnNbz/pP26guxdjbbwZ7gB2k7st8XwHrMMVJMyv0HvfeNn8Ye21G+
+ pDQZvPR+QpeI31PQKAqLvJISQh7ve9epyojEG2B37vNydKgg0XTlIm+9xcdg8LoooxKjH+AvC
+ ftS+YcGVvjxkklw+NpqXsj7wbtVCTGAr0RnwwXAc/nK4N0tUmfw6O6qw9RyvHYvtHb/dyE4iH
+ p7r7Zh7ZZ8dUbyU/VdXT76Ra5xOFQtrBaWcahpIwF2eUZbDv547iDbJklpQo8/aHt4TRJl+0L
+ 8XTYmLgl/bweaGdxeZ8rkU8Ylj5NSHPm+BMb7Tum0MRQQuu1n0yi3Rdnq6S5lSg2Yc/8xoUmn
+ kS9n/10E2dsFzPm2WyhmVqt0k5kpDqpSQVkvfJz3kFFBmBLgsaL8P3kAe5LcPvz4wTyFG4Ku9
+ XRzFfboObqi9O9GwF5ieNMcs7RKfBvlq6uDrTr1zvgbaiBL2O8sckMeQkIK3E9YJwhVFV1phB
+ /rMmPSYYMuysaU5c0a+8JOOCVarO2O5iQXV5k5iR1T4VRVI1bN9d8qBliK32AbTjq4QbsPdwi
+ eous
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D=
+2 color=3D#1a0dab>[HTML]</font> <a href=3D"http://scholar.google.de/scholar=
+_url?url=3Dhttp://bmjopen.bmj.com/content/5/5/e007898.full&amp;hl=3Dde&amp;=
+sa=3DX&amp;scisig=3DAAGBfm0GCAqgCVE1w3swM4GcAv8BOcs-Zw&amp;nossl=3D1&amp;oi=
+=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:und=
+erline">What factors contribute to positive early childhood health and deve=
+lopment in Australian Aboriginal children? Protocol for a population-based =
+cohort study using linked &hellip;</font></a></h3><div><font size=3D2 color=
+=3D#006621>K Falster, L Jorm, S Eades, J Lynch, E Banks&hellip; - BMJ Open,=
+ 2015</font></div><div><font size=3D2 color=3D#222222><b>...</b> In additio=
+n to the data sources described thus far, it is our intention to request <b=
+>linked</b> <b>data</b> from<br>
+the Medicare Benefits Schedule (MBS) and Centrelink income assistance data,=
+ although some<br>
+of the details of this request remain under negotiation with the relevant g=
+overnment <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttp://arxiv.org/pdf/1505.04880&am=
+p;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm1-rG7I8CMqXw48v3Qtaw6wQFK8DQ&amp;no=
+ssl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-=
+decoration:underline">ADQUEX: Adaptive Processing of Federated Queries over=
+ <b>Linked Data </b>based on Tuple Routing</font></a></h3><div><font size=
+=3D2 color=3D#006621>A Beiranvand, N Ghadiri - arXiv preprint arXiv:1505.04=
+880, 2015</font></div><div><font size=3D2 color=3D#222222>Abstract: Due to =
+the distribution of <b>linked data </b>across the web, the methods that pro=
+cess <br>federated queries through a distributed approach are more attracti=
+ve to the users and have <br>gained more prosperity. In distributed process=
+ing of federated queries, we need methods <b> ...</b></font></div><br><h3 s=
+tyle=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em"><fon=
+t size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"http://scholar.google.de=
+/scholar_url?url=3Dhttp://www.www2015.it/documents/proceedings/companion/p7=
+37.pdf&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm09r3XSoowTKdXCXZWOW6fWK0a5=
+-w&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=
+=3D"text-decoration:underline">Automating Annotation of Media with <b>Linke=
+d Data </b>Workflows</font></a></h3><div><font size=3D2 color=3D#006621>T W=
+ilmering, G Fazekas, S Dixon, S Bechhofer, K Page</font></div><div><font si=
+ze=3D2 color=3D#222222>ABSTRACT Computational feature extraction provides o=
+ne means of gathering structured <br>analytic metadata for large media coll=
+ections. We demonstrate a suite of tools we have <br>developed that automat=
+e the process of feature extraction from audio in the Internet <b> ...</b><=
+/font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;m=
+ax-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"htt=
+p://scholar.google.de/scholar_url?url=3Dhttp://it.husc.edu.vn/Media/ChuyenM=
+uc/KhoaHoc/Hoithao-Hoinghi/SAICT_2015_submission_29.pdf&amp;hl=3Dde&amp;sa=
+=3DX&amp;scisig=3DAAGBfm2r5rS6KKjrlDsRftHwGQk8guLwIA&amp;nossl=3D1&amp;oi=
+=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:und=
+erline">PROCESSING RDF QUERIES ON LINKED STREAM DATA</font></a></h3><div><f=
+ont size=3D2 color=3D#006621>HH Hanh, TK Duy, TN Phong</font></div><div><fo=
+nt size=3D2 color=3D#222222><b>...</b> In this paper, we present an overvie=
+w on processing <b>linked</b> <b>data</b> stream by SPARQL extensions<br>
+and compare, evaluate some SPARQL extension method on RDF stream data. Keyw=
+ords: <b>Linked</b><br>
+<b>data</b>, Stream data, RDF, SPARQL, Semantic Web, ontology, query. 1 Int=
+roduction <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttp://www.www2015.it/documents/pr=
+oceedings/companion/p515.pdf&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm1YEJ=
+i7XdfZAh3vtY0sDWGEUdhq9A&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3=
+ color=3D#1a0dab style=3D"text-decoration:underline">A Hybrid Framework for=
+ Online Execution of <b>Linked Data </b>Queries</font></a></h3><div><font s=
+ize=3D2 color=3D#006621>MM Sabri</font></div><div><font size=3D2 color=3D#2=
+22222>ABSTRACT <b>Linked Data </b>has been widely adopted over the last few=
+ years, with the size of <br>the <b>Linked Data </b>cloud almost doubling e=
+very year. However, there is still no well-defined, <br>efficient mechanism=
+ for querying such a Web of Data. We propose a framework that <b> ...</b></=
+font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;ma=
+x-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"http=
+://scholar.google.de/scholar_url?url=3Dhttp://mba.eci.ufmg.br/downloads/201=
+5_MEDINFO_Poster_Final.pdf&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm2RTgDS=
+5Y5ta7IPP8eAEkXYW_XWGg&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 c=
+olor=3D#1a0dab style=3D"text-decoration:underline">Linked Health Data: how =
+<b>linked data </b>can help to provide better health decisions</font></a></=
+h3><div><font size=3D2 color=3D#006621>F Farinelli, MB de Almeida, YL de So=
+uza</font></div><div><font size=3D2 color=3D#222222>Abstract This paper pro=
+vides brief survey about the use of <b>linked data </b>in healthcare to fos=
+ter <br>better health decisions and increase the health knowledge. We prese=
+nt real cases from the <br>Brazilian experience and emphasize some issues i=
+n research. This paper not intending to <b> ...</b></font></div><br><h3 sty=
+le=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font =
+size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"http://scholar.google.de/s=
+cholar_url?url=3Dhttp://www.www2015.it/documents/proceedings/companion/p154=
+9.pdf&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm3PPnX8ZZQH9A6noAtJ4wdnCJerx=
+A&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=
+=3D"text-decoration:underline">LDOW 2013: The 8th Workshop on <b>Linked Dat=
+a </b>on the Web</font></a></h3><div><font size=3D2 color=3D#006621>S Auer,=
+ T Berners-Lee, C Bizer, T Heath</font></div><div><font size=3D2 color=3D#2=
+22222>ABSTRACT This paper presents a brief summary of the eight workshop on=
+ <b>Linked Data </b>on <br>the Web. The LDOW 2013 workshop is held in conju=
+nction with the World Wide Web <br>conference 2013. The focus is on data pu=
+blishing, integration and consumption using <b> ...</b></font></div><br><h3=
+ style=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em"><f=
+ont size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"http://scholar.google.=
+de/scholar_url?url=3Dhttp://www.www2015.it/documents/proceedings/companion/=
+p719.pdf&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm1ZWqpjG_len-yLIj8ilk4Ruk=
+C09Q&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab sty=
+le=3D"text-decoration:underline">From Script Idea to TV Rerun-The Idea of L=
+inked Production Data in the Media Value Chain</font></a></h3><div><font si=
+ze=3D2 color=3D#006621>H Sack</font></div><div><font size=3D2 color=3D#2222=
+22><b>...</b> data exchange. In the course of the dwerft project funded by =
+the German government,<br>
+metadata exchange through all steps of the media value chain is to be foste=
+red<br>
+by the application of <b>Linked</b> <b>Data</b> principles. Starting with <=
+b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttp://ceur-ws.org/Vol-1364/paper1=
+.pdf&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm1wUGAK2BKnaBc4xOlf7l-suewytg=
+&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=
+=3D"text-decoration:underline">Studying the History of Pre-Modern Zoology w=
+ith <b>Linked Data </b>and Vocabularies</font></a></h3><div><font size=3D2 =
+color=3D#006621>M Tounsi, CF Zucker, A Zucker, S Villata, E Cabrio - Invite=
+d Talks</font></div><div><font size=3D2 color=3D#222222>Abstract. In this p=
+aper we first present the international multidisciplinary research network =
+<br>Zoomathia, which aims the study of the transmission of zoological knowl=
+edge from Antiquity <br>to Middle Ages through varied resources, and consid=
+ers especially textual information, <b> ...</b></font></div><br><h3 style=
+=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font si=
+ze=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"http://scholar.google.de/sch=
+olar_url?url=3Dhttp://www.www2015.it/documents/proceedings/companion/p705.p=
+df&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm2VMceEfHf9UX5Lg-NLIftxlLbVYQ&a=
+mp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"=
+text-decoration:underline">Towards Analysing the Scope and Coverage of Educ=
+ational <b>Linked Data </b>on the Web</font></a></h3><div><font size=3D2 co=
+lor=3D#006621>D Taibi, G Fulantelli, S Dietze, B Fetahu</font></div><div><f=
+ont size=3D2 color=3D#222222>ABSTRACT The diversity of datasets published a=
+ccording to <b>Linked Data </b>(LD) principles has <br>increased in the las=
+t few years and also led to the emergence of a wide range of data <br>suita=
+ble in educational settings. However, sufficient insights into the state, c=
+overage and <b> ...</b></font></div><br><p><hr noshade size=3D1><font size=
+=3D2 color=3D#222222>Dieser Google Scholar-Alert wird Ihnen von Google zur =
+Verf=C3=BCgung gestellt.<br><br><a href=3D"http://scholar.google.de/scholar=
+_alerts?view_op=3Dcancel_alert_options&amp;email_for_op=3Derictessenow%40we=
+b.de&amp;alert_id=3DAIfevv3NkPcJ&amp;hl=3Dde"><font color=3D#1a0dab>Alert s=
+tornieren</font></a><br></font></div></body></html>

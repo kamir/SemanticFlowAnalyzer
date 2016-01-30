@@ -1,0 +1,173 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.64.243.69 with SMTP id ww5csp210592iec;
+        Mon, 31 Mar 2014 21:01:00 -0700 (PDT)
+X-Received: by 10.43.74.198 with SMTP id yx6mr38776073icb.40.1396324857936;
+        Mon, 31 Mar 2014 21:00:57 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3pSw6UxUKDIY2mryvk1kvo132-xy1ozv8qyyqvo.mywo1sm3o22oxy66ol.no@scholar-alerts.bounces.google.com designates 209.85.128.201 as permitted sender) smtp.mail=3pSw6UxUKDIY2mryvk1kvo132-xy1ozv8qyyqvo.mywo1sm3o22oxy66ol.no@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3pSw6UxUKDIY2mryvk1kvo132-xy1ozv8qyyqvo.mywo1sm3o22oxy66ol.no@scholar-alerts.bounces.google.com designates 209.85.128.201 as permitted sender) client-ip=209.85.128.201;
+Received: by 10.64.226.50 with POP3 id rp18mf105642iec.18;
+        Mon, 31 Mar 2014 21:00:56 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3pSw6UxUKDIY2mryvk1kvo132-xy1ozv8qyyqvo.mywo1sm3o22oxy66ol.no@scholar-alerts.bounces.google.com
+Received: from mail-ve0-f201.google.com ([209.85.128.201]) by mx-ha.web.de
+ (mxweb105) with ESMTPS (Nemesis) id 0Ln99d-1Wyw9b0hf3-00hPeZ for
+ <erictessenow@web.de>; Tue, 01 Apr 2014 05:04:06 +0200
+Received: by mail-ve0-f201.google.com with SMTP id jy13so912470veb.2
+        for <erictessenow@web.de>; Mon, 31 Mar 2014 20:04:05 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=z5Ctl9l/ftE67SlprdAvFI+DAWtTZ3cGoUNjXWjrL64=;
+        b=L3nXmTlQrZLhVAAusorbKq9FstfrEZkx/Pvj/ATfwKMzzMvnII4cyUbag5jXO/wZgu
+         KFxFiOaLVbLfFtiGfPAIM/iNH/j13JZOIZrA91A5R0MFTFv8EPmishjs7+UxljWpvz7m
+         bjuZZXA9Fvjy/4IFeuH94bdyuUBkA3LMuvQ/I5t5wga3TmguH+i1JOLSG7N1t64EzMWu
+         cmYH90KPw5zJtoHDWtXt66ZPrE21eTftOYBOxzYZn4hEjS+uXNmA2T4ltZLO71SfLEQJ
+         MzybqozG9JSKuUZ4Ls1ntLLgB/zx+BsHGZumQ9BPqxj0EdE3q89QRZm9U8QfzEjUXh/4
+         JwgA==
+MIME-Version: 1.0
+X-Received: by 10.58.255.65 with SMTP id ao1mr9904357ved.11.1396321445129;
+ Mon, 31 Mar 2014 20:04:05 -0700 (PDT)
+Message-ID: <047d7bea398cbaac9804f5f26b4e@google.com>
+Date: Tue, 01 Apr 2014 03:04:05 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:s3g55ct1XcA=:sp9qT/WTqKJQ/VIqpVCdqFP8JP
+ P+GkBKxTmB/Gl9dbDGgkJWMXze7FOq8IQwBmFzdPGFaZr845YbpUGRmNdigmwQAv3/CiaQSeI
+ AbFRTQHK7BZHzUHhQ9VPrS8iCWqDM9AMMwTaTNyyYUiJJ5i+4MljrdDk7ENsrIu8co7SdSFAY
+ GZoycq9Jx+ihuZJca5bX5vcD4t+ioYBFyL2l/r1k5fn4EOfzUd9AUjHXZNaZh6ga7yAK7nVrg
+ d6Q7IUZRj9iFrCfn0cHGLZCOk0E/GzNMaJBJqXDyImzQCQVE1DQj2gSfOEQBSplyXBF404vQB
+ dH1hOKYdrKBNc0FO9cDl3z6554AvDxtntnQuJuPmc/Xzj735mlEWc82djI0PyyoEmuFiUen8C
+ 6HJDk2Wsj2fBnCXdb9xY2hqI/RPOvGoQP2nYzTWogg8rwDoZwwLglfU7kEZmE5M+gKcrZEZR2
+ sPwlLAkUhL4k2/QYFcXo2/WeWlBzJPy3WVaGUvaD2hAuoc7Zi40SCJlBRIjjJw/sSvoDVxakD
+ tZ/Kye2mcMvNk+wusuJ8NncYwsF8Lq2J8P8oa6oKun4CAvfU9OpeTa3paqsVHg8Wdzm/XWiPh
+ eYtRH6dPcIT94ak/94oBDcypDvuK1Pi+ZHG3bj9/se50om1qrmBOQ7ApMsuWiA9rHjOwJrT+w
+ Z6qRTKKfYoQ4Z9DAIXVvxJAI/+bRFWi2uvhvlFU5nvARP0FCwFaAsQsxYYQPEnIlRkCSjvmtW
+ uHSXLeVYaH0wi9AA+8M+BhFWiXVA3TWGPDAnhht6M03J3orFMw95/zL4SQ5vskzfKmrEOnjOB
+ V1Pvw7QDqYmM2i5KH3OSXz4YFwf6sAMMkcAFSR/JqLdELLfEUP40rdfXotGcqb+2dJ/MsYbBp
+ ARIMZQOQSxZzp6FkXlgQATrxH0VB0JbEbuB1DUA7rsgfDZyCVJ02qRf3mJwJQepNmqfrGLuvG
+ QjTKCOyN3pN3H/eUmZ263gl+DWE4QSR4gmvaaTENji0Yq85tKL2T+vcKyKjNe6sy0T3AuJvn7
+ nO9eDVJGjSoFtaBFOmhyaQ19wrOCkht1ZIVSOyRTvrj4oCWn6ZJ0tfVaybzkYgbu0ySRsRWFI
+ fbAafM+KJ9Nx1okP0pxYUHrnMSIStMWkMY/xM6YgrrNHkm2c+NeA6plhxYWCgVIPsBDQ9plsA
+ 2AnroP5bwesqL80SHtibDyNdQUwb109Ze9mTe4SzW3wfrve7MmNheUGduYrijVBZ1i5yo7e/T
+ OG4RiDrsFq0Rj2iVVf8JQAlykA16a6T+kLsrymqAIrJO/zrXKxyh5cg64vnoegY8KsciE9/TM
+ 5mgLoawpT+I1Gm8C6rulQN00azYXeqC/rQ8zF7dc2OE5eiWr0aUjr+9lAEUy3ulCGCPIUhwbR
+ lf1V/mcVth85ggtJA==
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://ww.w.websemantics=
+journal.org/index.php/ps/article/view/359&amp;sa=3DX&amp;scisig=3DAAGBfm0YR=
+1XleF_IuUSTjLRM7DXMJV3ERQ&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#112=
+2cc style=3D"text-decoration:underline">API-centric <b>Linked Data </b>Inte=
+gration: The Open PHACTS Discovery Platform Case Study</font></a></h3><div>=
+<font size=3D2 color=3D#009933>PT Groth, A Loizou, AJG Gray, C Goble, L Har=
+land&hellip; - Web Semantics: Science,  &hellip;, 2014</font></div><div><fo=
+nt size=3D2 color=3D#222222>Abstract Data integration is a key challenge fa=
+ced in pharmacology where there are <br>numerous heterogenous databases spa=
+nning multiple domains (eg chemistry and biology). <br>To address this chal=
+lenge, the Open PHACTS consortium has developed the Open <b> ...</b></font>=
+</div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;max-wid=
+th:44.5em"><a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=3D=
+http://digitalcommons.macalester.edu/libtech_conf/2014/sessions/60/&amp;sa=
+=3DX&amp;scisig=3DAAGBfm2AmSHVd1OSIuzPL6OSDRiuRomGgQ&amp;oi=3Dscholaralrt">=
+<font size=3D3 color=3D#1122cc style=3D"text-decoration:underline">Practica=
+l <b>Linked Data</b>: Learning How to Create and Use <b>Linked Data </b>in =
+the Real World</font></a></h3><div><font size=3D2 color=3D#009933>E Becknel=
+l, T Gross, S Hearn, S Quimby - 2014</font></div><div><font size=3D2 color=
+=3D#222222>Want to learn more about <b>linked data</b>? This session is int=
+ended for anyone interested in <br>learning more about <b>linked data</b>, =
+whether they are new to the subject or more advanced. We <br>will begin by =
+describing what <b>linked data </b>is. We then discuss our specific project=
+ and how <b> ...</b></font></div><br><h3 style=3D"font-weight:normal;margin=
+:0;font-size:medium;max-width:44.5em"><font size=3D2 color=3D#1122cc>[PDF]<=
+/font> <a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp=
+://www-sop.inria.fr/members/Hasan.Rakebul/papers/eswc2014.pdf&amp;sa=3DX&am=
+p;scisig=3DAAGBfm1Bm_Hay51VjKRi7IjBO31qII5mPQ&amp;oi=3Dscholaralrt"><font s=
+ize=3D3 color=3D#1122cc style=3D"text-decoration:underline">Generating and =
+Summarizing Explanations for <b>Linked Data</b></font></a></h3><div><font s=
+ize=3D2 color=3D#009933>R Hasan - Proc. of the 11th Extended Semantic Web C=
+onference, 2014</font></div><div><font size=3D2 color=3D#222222>Abstract. <=
+b>Linked Data </b>consumers may need explanations for debugging or understa=
+nding <br>the reasoning behind producing the data. They may need the possib=
+ility to transform long <br>explanations into more understandable short exp=
+lanations. In this paper, we discuss an <b> ...</b></font></div><br><h3 sty=
+le=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font =
+size=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"http://scholar.google.de/s=
+cholar_url?hl=3Dde&amp;q=3Dhttp://web.econ.ku.dk/eprn_epru/Forskningsprojek=
+t/EPRN_final.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm28LHzkcrrUv1v7Uwm1JZL6Y4a55Q=
+&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D"text-decorat=
+ion:underline">Research proposal: Education and Skills in the Global Econom=
+y: Evidence Using Linked Danish and Norwegian Matched Employer-Employee Dat=
+a Andreas Moxnes, &hellip;</font></a></h3><div><font size=3D2 color=3D#0099=
+33>C Xiang</font></div><div><font size=3D2 color=3D#222222><b>...</b> and H=
+ummels et al. 2013). In comparison, we have detailed information on both<br=
+>
+sides of firm-to-firm transactions, and our <b>linked</b> <b>data</b> is th=
+e first and only one of its<br>
+kind in the literature. Eaton et al. (2012) observe firm identities <b>...<=
+/b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://www.seco.tkk.fi/p=
+ublications/submitted/makela-hyvonen-ssaha-2014.pdf&amp;sa=3DX&amp;scisig=
+=3DAAGBfm39NLk_6gYEfz9p-6aH-hVm2iA3gQ&amp;oi=3Dscholaralrt"><font size=3D3 =
+color=3D#1122cc style=3D"text-decoration:underline">SPARQL SAHA, a Configur=
+able <b>Linked Data </b>Editor and Browser as a Service</font></a></h3><div=
+><font size=3D2 color=3D#009933>E M=C3=A4kel=C3=A4, E Hyv=C3=B6nen</font></=
+div><div><font size=3D2 color=3D#222222>Abstract. SPARQL SAHA is a <b>linke=
+d data </b>editor and browser that can be used as a service, <br>targeting =
+any available SPARQL endpoint. Besides being available as a web service, th=
+e <br>primary differentiating features of the tool are its configurability =
+to match the underlying <b> ...</b></font></div><br><h3 style=3D"font-weigh=
+t:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D2 color=
+=3D#1122cc>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_url?hl=
+=3Dde&amp;q=3Dhttp://ceur-ws.org/Vol-1137/lakdatachallenge2014_submission_4=
+.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm004-lMhySSpcN2Jd1dCGoKvWrU-w&amp;oi=3Dsc=
+holaralrt"><font size=3D3 color=3D#1122cc style=3D"text-decoration:underlin=
+e">A <b>Linked</b>-<b>Data</b>-Driven Web Portal for Learning Analytics: Da=
+ta Enrichment, Interactive Visualization, and Knowledge Discovery</font></a=
+></h3><div><font size=3D2 color=3D#009933>Y Hu, G McKenzie, JA Yang, S Gao,=
+ A Abdalla&hellip;</font></div><div><font size=3D2 color=3D#222222>ABSTRACT=
+ This paper presents a <b>Linked</b>-<b>Data</b>-driven Web portal for the =
+field of learning <br>analytics. The portal allows users to browse the link=
+ed datasets and explore data about <br>researchers, conferences, and public=
+ations. Additionally, users can interact with various <b> ...</b></font></d=
+iv><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;max-width:=
+44.5em"><font size=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"http://schol=
+ar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://www.aifb.kit.edu/images/0/0=
+6/In-use-fios_eswc_2014_final.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm2yjnzHMYr8Q=
+NKDejEo-MwzYe7qPA&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc styl=
+e=3D"text-decoration:underline">Accepting the XBRL Challenge with <b>Linked=
+ Data </b>for Financial Data Integration</font></a></h3><div><font size=3D2=
+ color=3D#009933>B K=C3=A4mpgen, T Weller, S O&#39;Riain, C Weber, A Harth<=
+/font></div><div><font size=3D2 color=3D#222222>Abstract. Analysts spend a =
+disproportionate amount of time with financial data curation <br>before the=
+y are able to compare company performances in an analysis. The Extensible <=
+br>Business Reporting Language (XBRL) for annotating financial facts is sui=
+ted for automatic <b> ...</b></font></div><br><h3 style=3D"font-weight:norm=
+al;margin:0;font-size:medium;max-width:44.5em"><font size=3D2 color=3D#1122=
+cc>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp=
+;q=3Dhttp://www-sop.inria.fr/members/Hasan.Rakebul/papers/eswc2014-dc.pdf&a=
+mp;sa=3DX&amp;scisig=3DAAGBfm1uUW2m3KhSjrDKoi0MmBGeTMVjFw&amp;oi=3Dscholara=
+lrt"><font size=3D3 color=3D#1122cc style=3D"text-decoration:underline">Pre=
+dicting SPARQL Query Performance and Explaining <b>Linked Data</b>=E2=8B=86=
+</font></a></h3><div><font size=3D2 color=3D#009933>R Hasan</font></div><di=
+v><font size=3D2 color=3D#222222>Abstract. As the complexity of the Semanti=
+c Web increases, efficient ways to query the <br>Semantic Web data is becom=
+ing increasingly important. Moreover, consumers of the <br>Semantic Web dat=
+a may need explanations for debugging or understanding the <b> ...</b></fon=
+t></div><br><p><hr noshade size=3D1><font size=3D2 color=3D#222222>Dieser G=
+oogle Scholar-Alert wird Ihnen von Google zur Verf=C3=BCgung gestellt.<br><=
+br><a href=3D"http://scholar.google.de/scholar_alerts?view_op=3Dcancel_aler=
+t_options&amp;email_for_op=3Derictessenow%40web.de&amp;alert_id=3DAIfevv3Nk=
+PcJ&amp;hl=3Dde"><font color=3D#1122cc>Alert stornieren</font></a><br></fon=
+t></div></body></html>

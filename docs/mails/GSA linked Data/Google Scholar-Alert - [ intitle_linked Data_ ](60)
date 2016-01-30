@@ -1,0 +1,84 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.140.140.136 with SMTP id 130csp739472qhm;
+        Thu, 4 Dec 2014 00:22:55 -0800 (PST)
+X-Received: by 10.140.84.111 with SMTP id k102mr14766961qgd.76.1417681373349;
+        Thu, 04 Dec 2014 00:22:53 -0800 (PST)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3iRmAVBUKDGYWGLSPEVEPIVXW-RSVITPcKSSKPI.GSQIVMGXIWWIRSaaIF.HI@scholar-alerts.bounces.google.com designates 209.85.214.201 as permitted sender) smtp.mail=3iRmAVBUKDGYWGLSPEVEPIVXW-RSVITPcKSSKPI.GSQIVMGXIWWIRSaaIF.HI@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3iRmAVBUKDGYWGLSPEVEPIVXW-RSVITPcKSSKPI.GSQIVMGXIWWIRSaaIF.HI@scholar-alerts.bounces.google.com designates 209.85.214.201 as permitted sender) client-ip=209.85.214.201;
+Received: by 10.229.166.70 with POP3 id l6mf4091603qcy.11;
+        Thu, 04 Dec 2014 00:22:53 -0800 (PST)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3iRmAVBUKDGYWGLSPEVEPIVXW-RSVITPcKSSKPI.GSQIVMGXIWWIRSaaIF.HI@scholar-alerts.bounces.google.com
+Received: from mail-ob0-f201.google.com ([209.85.214.201]) by mx-ha.web.de
+ (mxweb101) with ESMTPS (Nemesis) id 0LoX8I-1XUVhg36RG-00gW8x for
+ <erictessenow@web.de>; Thu, 04 Dec 2014 09:21:30 +0100
+Received: by mail-ob0-f201.google.com with SMTP id nt9so936027obb.0
+        for <erictessenow@web.de>; Thu, 04 Dec 2014 00:21:29 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=WBvy5solwxP0c+9gfbkCF4MtvuForGMETVcPkrg5tV4=;
+        b=K8ljQTluYNo1Y8wHX/RZLbghXBeU9RPlGi8pz0/wDE7Ou5rBHwzi3TjWkTMzpkLN/d
+         38bPDq2AteixoDGLpGz8WxujKCT+xiq4ZOEQNpz2k5kWs3KX8/uyjNabilfuqiie7DPU
+         OPDMmBzUJNykyUVZU252ezn2qOT74UN5K6lHvJvJwvykjwyh0CCREw1JEnQ/RZZouwz2
+         NaPXsERdvVvVfWCTxuxxDBw0FkWHdioTy4LgdoZOmO12Li/WwnIc6lexwq3kESIATZUW
+         b+A8fowYzgJafMKDplQgIX9q7I/IgrvMjAM8oTwlAE2k8+B21UjyJB+4s+edcOKkTnRb
+         iJ8g==
+MIME-Version: 1.0
+X-Received: by 10.43.126.9 with SMTP id gu9mr12567779icc.11.1417681289472;
+ Thu, 04 Dec 2014 00:21:29 -0800 (PST)
+Message-ID: <bcaec517cdb6a9eaec05095fa55f@google.com>
+Date: Thu, 04 Dec 2014 08:21:29 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:VuKQJxfB82w=:OquiL6CpgLhot4TE6B6w0jW+XB
+ m1X0sLMzw+g0Jf5gzxy8DhvJAI+IgqZkrK23ttUZE8W16ufxV2z78fqybRJwfOrXkCXCfyRZZ
+ NxJTLaLR38murtnQd/Hjo1cDYdHISV5Di8V8O9wsO/4cWhWaXr6yxMKjyQ0jvl+eqYmHh17zD
+ 2ud40KoybpQo/DvT+bxcCCNRfJZFdkNTDPU9hG2OIFbd5N3gkx07aaOTh9bn3tr7qgHCXCtDr
+ S2hBZxjbNREbFolUMIbeFd4jjpew0Xkpjm3HwBN2XB929naP0O2mciE/3nDHr7yuzQkJ5joQE
+ 9cAdPOkKVclkFK9hXakpzectdJuAUNmJkQxyep1mNsEWo49/RXJoEXU25DjmGKqD8ZNW9FwlQ
+ PnjKh8vG0uJomjfpQuF6a0/HP49wJ1ikF777wYQ0R2dY6o8bTA725bO2HEjofJ9MAy1B4pQU1
+ n1nD1Y4Ciin6cNtVFRn6sdxmA100+/7PNBF/9qFbww4PCDSbuRcypuInX+aA7Et5/FriS2DcK
+ nI9K9LKDwrbyP5byNGSZ32omr/4SpmZKkGtn5llNiMj6Y3ett/SSwGyO8zkZNh9d4suEqrHW5
+ UruS15tyfN738O7zV1wt7R0mBkv9QzdD54RrZCJjvSqR+AvHnbqnUy0V1vvMq9CvRfqmJ/UvX
+ HPhFvp+gkfYcSTZeo8jkoDqmqGbPQGdKBER/fHgTUWZyS1DgxXc8OlFcLncW70bG/tutpogz+
+ fgkjjDS34rpFxZ+KUIqIOPIJ5W4waDmlruN+qviGtbi09pMi6jtRtMFNfshA+vHY0BEkxNVAd
+ MXsHWz357LcO6OSkeASUg8oQBMSGBZaXJ1wEnpEETwUiWmbYfydB38UkSbBlNZ1XVPA+jQ54i
+ c5YqhxvsZiYmomtH6J4yS+K1xPgYRF89V2gg4TYRJcY1VCePoROBqQmfWqTFfW7zzMBcveuMh
+ Vgw9vab17uTFedyuHKVYrPajaBxA6CwvSP07c3GBtKfliN/pAbgqJBESpt3gwBNKZUKfTtpJi
+ 6F8LvQ9xOOMTboqzMASLfJa0Jh33lK1nbANSvBR/SwxJdleMXegaaRoySkDX3/X9HhRy1ZWHC
+ FwixFl1htr322mx+Vzo3NJZQ3I5aAb0xKtuMmOHtzB55EhhU50h2THwJjckoYzmeDu2Jt1hjs
+ nFZ9Tqlnb20pyS76pbvCkWkg7OxQyhqIvMXlsZeWhGXHmXahWktPgNuQGzXkBYqysLpumLrjX
+ JHvgYL9wgDiMUw4VgZstVYBn5feCVgvI0KsmWwwPtmrHPyXmJrxszrNv2W7jaWoPVW9xkglvp
+ eiMI23emaugPtlwnMWnp9+5rwZ+A+M7kDOR5/7oq5Kv00xrqTqeRQhNEzTEfwQRQK7BDEj9Xg
+ pQpKVhYwDSyOhkg9vro32k60zm+yk0Jg0RHkCpdJOUSHRg+X4R4zz4T4Pme9em8OErBOkp0an
+ +D3wao+ErCn26hhpw3/YOEak9viVZK5OwWs13M/iA9j7BdSyHt
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://www.ceeol.com/asp=
+x/getdocument.aspx%3Flogid%3D5%26id%3D02df006ce26f469fb28508f8d6e392c1&amp;=
+sa=3DX&amp;scisig=3DAAGBfm3r4dcZrVTGaQEXMPzGY9-H6t3thQ&amp;oi=3Dscholaralrt=
+"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:underline"><b>Lin=
+ked Data</b>, JSON-LD and the Semantics of Cultural and Scientific Heritage=
+</font></a></h3><div><font size=3D2 color=3D#006621>O Turcoane - Digital Pr=
+esentation and Preservation of Cultural and  &hellip;, 2014</font></div><di=
+v><font size=3D2 color=3D#222222>Abstract. This paper discusses the importa=
+nce of <b>linked data </b>for the semantics of cultural and <br>scientific =
+heritage and it provides some reasons on using JSONLD as a standard. From a=
+ <br>conceptual point of view, cultural and scientific heritage should wide=
+n for broad human <b> ...</b></font></div><br><p><hr noshade size=3D1><font=
+ size=3D2 color=3D#222222>Dieser Google Scholar-Alert wird Ihnen von Google=
+ zur Verf=C3=BCgung gestellt.<br><br><a href=3D"http://scholar.google.de/sc=
+holar_alerts?view_op=3Dcancel_alert_options&amp;email_for_op=3Derictessenow=
+%40web.de&amp;alert_id=3DAIfevv3NkPcJ&amp;hl=3Dde"><font color=3D#1a0dab>Al=
+ert stornieren</font></a><br></font></div></body></html>

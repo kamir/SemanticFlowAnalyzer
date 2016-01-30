@@ -1,0 +1,202 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.55.157.10 with SMTP id g10csp1568660qke;
+        Mon, 19 Oct 2015 22:11:08 -0700 (PDT)
+X-Received: by 10.140.96.71 with SMTP id j65mr1398806qge.92.1445317868434;
+        Mon, 19 Oct 2015 22:11:08 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3QMElVhUKDBE9ty52r8r2v8A9-458v62Fx55x2v.t53v8ztAv99v45DDvs.uv@scholar-alerts.bounces.google.com designates 209.85.220.80 as permitted sender) smtp.mailfrom=3QMElVhUKDBE9ty52r8r2v8A9-458v62Fx55x2v.t53v8ztAv99v45DDvs.uv@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3QMElVhUKDBE9ty52r8r2v8A9-458v62Fx55x2v.t53v8ztAv99v45DDvs.uv@scholar-alerts.bounces.google.com designates 209.85.220.80 as permitted sender) client-ip=209.85.220.80;
+Received: by 10.140.99.3 with POP3 id p3mf1148346qge.2;
+        Mon, 19 Oct 2015 22:11:08 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: <3QMElVhUKDBE9ty52r8r2v8A9-458v62Fx55x2v.t53v8ztAv99v45DDvs.uv@scholar-alerts.bounces.google.com>
+Received: from mail-pa0-f80.google.com ([209.85.220.80]) by mx-ha.web.de
+ (mxweb108) with ESMTPS (Nemesis) id 0M87if-1aj7mV10ef-00vcAx for
+ <erictessenow@web.de>; Tue, 20 Oct 2015 06:21:22 +0200
+Received: by padcn9 with SMTP id cn9so40139pad.3
+        for <erictessenow@web.de>; Mon, 19 Oct 2015 21:21:20 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=ymT/i/PHTkFlDHcIOTTldeWGlGmK5ChD6m3yJvd4drM=;
+        b=mIbiUIg1rYshGAhCrrbfQmpnNlzrvK0c0r7YuSUUb6n1EMsGjucNbE5NH96z6g+vhr
+         LI8Ynfr6XYfJRu/s+vjBm/3aSiJ8PXAH5M74V+DVfRk1AahAKyty/p5EzbFK34MkSinF
+         CEv2GaSAWXceJcSFVaf1yd3F4Y/jgRKF/5QWpgn5DzZONdfGz81qTlL42aCTTXb5JisS
+         jEEXRrhtG8xM/GS8FIFbgs1lCdm0+JzsFCc1xUovNvSvPyrOt1Mk0vhy64SS/wi1nLMH
+         LHWS3yA8XwXHZe0EFQGH/dnVfuZc4DkVh6v1oxtdeXXxHArP71ePEMh5kpz3BLTYqA0z
+         2pbA==
+MIME-Version: 1.0
+X-Received: by 10.66.246.234 with SMTP id xz10mr923329pac.10.1445314880781;
+ Mon, 19 Oct 2015 21:21:20 -0700 (PDT)
+Message-ID: <047d7b15b1830ebde9052281986f@google.com>
+Date: Tue, 20 Oct 2015 04:21:20 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:mbe9zqq2oeI=:rayNexDChHUBlGrxISYg0X6OnA
+ IHOCl+zVCtQEEF5fAbb06X/siWRfDQTNUwRI4PfExU+q8NsNX5KVv5nGjkmn5lYx7Gswx5pB3
+ kqmUjBGx6RmM0rMifIE3S4gVL6gMCzh1xdFcz6Nw85LGxm5gVQ03JEXlWD37zIKSDR2Xn5ko7
+ IT4oG7KA7Fak/Z9RNXrvgkiHD3lEdteCrGF7eYbezIURxOVPg+TsCsZYV2wVC1XLYJl47YHln
+ 7yXDQzka1ovl7wjWwQhpEHE9ATUK5V3Nsr+8/qNjGHxjXZkHIR4Sirnu6ZE2iWxpPWuR7B+5M
+ 6834prOQTJFUZA9iS1pPbHLOxEKQcNjYVwWvVSLPgyoOlXb+lIZYISMt5y8PEi3oOFxTyu1lp
+ 0an7kqnW9jBaIeGi4MVzbSN+MOZ1FRtIEcUqUPP0cJwyab8xyFkWv/h6ZbHjNMdR5aLSUixqF
+ aKdUIRtaijFa8keel2SLV3Om32BO6wNGu0/Kd5/vXrxkFloJyJrECLLi7z0YRYHdM0hTqUyaL
+ PUVadLSlhYNgVoVbBxqFO8L2gHpRyUzHuytctlTxhYHWbQat21/f244sNjxupKbiXEBVytBx1
+ Xum2KOc/a2ZTZQv0nznjM+5iEQYUBhDBALvBpAZII1CVgIjU12cL8aEczFY1nSg6oWORdRpW4
+ QmGgqBXyhbgzIGBzvgqVvRAy2UDQrx7s9uIlUW+xUvE2h4tYyQvheql4lrb54Bzc3kWwXwT69
+ rzTurCUBTm7UBs9NPEfKxDjWHjGZhc0K3FpV6kam8VxbG/luOao1y8QVBPB63azJNbF6+rerH
+ QGpHq4lGG4KLnhHDDc9lt/2s8vmlXgmJN8UYlLhJtMclbQyc36kwLBQis3gAoDw5KyrJO2zmV
+ 7vS/AB8FCfMdYTcLttpReI6vFdYcfYEvuCaGqOYdj6dEplo8Ui18zBM1Pj+RYV3AzC0HPDmiV
+ 2In8BDdP0IsYeC12DGpNQdJ0j4nqy1O8sFO26FfyiSWoARqCPDp1CGEC96hnZ389g/TwEfai8
+ RpC4oK9fKIasAyAO26VtBz2vQGqoky+bjlPGDYPQ3etd6TMc35NBcxkN5oKXV1ZiAbzkltJBr
+ FFjefbZteTuS8FwIt5ZKbw86YYHi/PB4ez/DSqf8PO01Zfixy8FW1+bTGR8735XVGrNxJAmyI
+ Bm7jQx0AKOkKobI8tbU8TLuUNlePpMC14KHdyQroajIdQ9HtCScbfLF5+BOn4tvh0ybtuRV4o
+ pahy6HvHJjqhxo0l5woIaeCBs7OSTqlN2UNQoCGGrzC8W2ZE+dwoCqr6VaiTyitFVrfvmZtOp
+ 0V3M+5D5yTQNxHOuQERpbCf+RIcBvFvRyulUG71KZcxmVpM=
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar?cluster=3D5928846004977960626&amp;hl=3Dde&am=
+p;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration=
+:underline">Distributed <b>Linked Data </b>Business Communication Networks:=
+ The LUCID Endpoint</font></a></h3><div><font size=3D2 color=3D#006621>N Pe=
+tersen, M Frommhold, S Auer - The Semantic Web: ESWC 2015 Satellite Events:=
+  &hellip;, 2015</font></div><br><h3 style=3D"font-weight:normal;margin:0;f=
+ont-size:medium;max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</fon=
+t> <a href=3D"http://scholar.google.de/scholar_url?url=3Dhttp://www.int-arc=
+h-photogramm-remote-sens-spatial-inf-sci.net/XL-3-W3/211/2015/isprsarchives=
+-XL-3-W3-211-2015.pdf&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm3pFhbydBBQ6=
+AfEwEy4hcW0OOd0zA&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=
+=3D#1a0dab style=3D"text-decoration:underline">Benefits of <b>Linked Data <=
+/b>for Interoperability during Crisis Management</font></a></h3><div><font =
+size=3D2 color=3D#006621>R Roller, J Roes, E Verbree - ISPRS-International =
+Archives of the Photogrammetry,  &hellip;, 2015</font></div><div><font size=
+=3D2 color=3D#222222>ABSTRACT: Floodings represent a permanent risk to the =
+Netherlands in general and to her <br>power supply in particular. Data shar=
+ing is essential within this crisis scenario as a power cut <br>affects a g=
+reat variety of interdependant sectors. Currently used data sharing systems=
+ <b> ...</b></font></div><br><h3 style=3D"font-weight:normal;margin:0;font-=
+size:medium;max-width:44.5em"><font size=3D2 color=3D#1a0dab>[HTML]</font> =
+<a href=3D"http://scholar.google.de/scholar_url?url=3Dhttp://src-online.ca/=
+src/index.php/src/article/view/212/409&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3D=
+AAGBfm0x13j8RjaEV2XpdAnYo_FbZwqayQ&amp;nossl=3D1&amp;oi=3Dscholaralrt"><fon=
+t size=3D3 color=3D#1a0dab style=3D"text-decoration:underline">An Entity By=
+ Any Other Name: Linked Open Data as a Basis for a Decentered, Dynamic Scho=
+larly Publishing Ecology</font></a></h3><div><font size=3D2 color=3D#006621=
+>S Brown, J Simpson - Scholarly and Research Communication, 2015</font></di=
+v><div><font size=3D2 color=3D#222222><b>...</b> <b>Linked</b> <b>data</b> =
+can underwrite a publishing ecology based on collaborations between the sch=
+olarly,<br>
+publishing, and library communities, but this vision is tempered by concern=
+s about <b>linked</b> <b>data</b><br>
+publishing practices and infrastructure gaps with respect to enabling such =
+<b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><a href=3D"http://scholar.google.de/scholar_url?url=3Dhtt=
+p://link.springer.com/chapter/10.1007/978-3-319-25639-9_22&amp;hl=3Dde&amp;=
+sa=3DX&amp;scisig=3DAAGBfm3YHlinwcO5iNMrj2CwE3q4TIWn7Q&amp;nossl=3D1&amp;oi=
+=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:und=
+erline">LIDSEARCH: A SPARQL-Driven Framework for Searching <b>Linked Data <=
+/b>and Semantic Web Services</font></a></h3><div><font size=3D2 color=3D#00=
+6621>ML Mouhoub, D Grigori, M Manouvrier - The Semantic Web: ESWC 2015 Sate=
+llite  &hellip;, 2015</font></div><div><font size=3D2 color=3D#222222>Abstr=
+act The Linked Open Data (LOD) cloud is a massive source of data in differe=
+nt <br>domains. However, these data might be incomplete or outdated. Furthe=
+rmore, there are still <br>a lot of data that are not published as static <=
+b>linked data </b>such as sensors data, on-demand <b> ...</b></font></div><=
+br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5=
+em"><a href=3D"http://scholar.google.de/scholar_url?url=3Dhttp://link.sprin=
+ger.com/chapter/10.1007/978-3-319-25639-9_30&amp;hl=3Dde&amp;sa=3DX&amp;sci=
+sig=3DAAGBfm1A_n4E0Hc9p5fE5gHcI91pY3RfKQ&amp;nossl=3D1&amp;oi=3Dscholaralrt=
+"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:underline">Distri=
+buted <b>Linked Data </b>Business Communication Networks: The LUCID Endpoin=
+t</font></a></h3><div><font size=3D2 color=3D#006621>S Tramp, RN Piris, T E=
+rmilov, N Petersen&hellip; - The Semantic Web: ESWC  &hellip;, 2015</font><=
+/div><div><font size=3D2 color=3D#222222>Abstract With the LUCID Endpoint, =
+we demonstrate how companies can utilize <b>Linked Data </b><br>technology =
+to provide major data items for their business partners in a timely manner,=
+ <br>machine readable and with open and extensible schemata. The main idea =
+is to provide a <b> ...</b></font></div><br><h3 style=3D"font-weight:normal=
+;margin:0;font-size:medium;max-width:44.5em"><a href=3D"http://scholar.goog=
+le.de/scholar_url?url=3Dhttp://link.springer.com/chapter/10.1007/978-3-319-=
+25639-9_51&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm0zRFB0QwVg6niSHl-dRJJu=
+WRzVIw&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab s=
+tyle=3D"text-decoration:underline">QueryVOWL: A Visual Query Notation for <=
+b>Linked Data</b></font></a></h3><div><font size=3D2 color=3D#006621>F Haag=
+, S Lohmann, S Siek, T Ertl - The Semantic Web: ESWC 2015 Satellite Events,=
+ 2015</font></div><div><font size=3D2 color=3D#222222>Abstract In order to =
+enable users without any knowledge of RDF and SPARQL to query <br><b>Linked=
+ Data</b>, visual approaches can be helpful by providing graphical support =
+for query <br>building. We present QueryVOWL, a visual query language that =
+is based upon the <b> ...</b></font></div><br><h3 style=3D"font-weight:norm=
+al;margin:0;font-size:medium;max-width:44.5em"><a href=3D"http://scholar.go=
+ogle.de/scholar_url?url=3Dhttp://link.springer.com/chapter/10.1007/978-3-31=
+9-25639-9_27&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm32dbt0Ep2fzTrgcL_XIR=
+YZttGn7g&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab=
+ style=3D"text-decoration:underline">Visual Analysis of Statistical Data on=
+ Maps Using Linked Open Data</font></a></h3><div><font size=3D2 color=3D#00=
+6621>P Ristoski, H Paulheim - The Semantic Web: ESWC 2015 Satellite Events,=
+ 2015</font></div><div><font size=3D2 color=3D#222222><b>...</b> References=
+ 1. Kl=C4=B1mek, J., Helmich, J., Neasky, M.: Application of the <b>linked<=
+/b> <b>data</b><br>
+visualization model on real world data from the Czech LOD cloud. In: 6th In=
+ternational<br>
+Workshop on the <b>Linked</b> <b>Data</b> on the Web (LDOW 2014) (2014 <b>.=
+..</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttp://www.researchgate.net/profil=
+e/Natalie_Walker4/publication/282736184_Proceedings_of_the_International_Co=
+nference_on_Semantic_Web_Business_and_Innovation_(SWBI2015)_Sierre_Switzerl=
+and_2015/links/561b02cb08ae044edbb20fc4.pdf%23page%3D15&amp;hl=3Dde&amp;sa=
+=3DX&amp;scisig=3DAAGBfm22_iKkprc-Drh-5uGh1G7gozr8wQ&amp;nossl=3D1&amp;oi=
+=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:und=
+erline"><b>Linked Data </b>Integration and Consumption: A Case of Open-Inte=
+rconnected Application in Swiss Administration</font></a></h3><div><font si=
+ze=3D2 color=3D#006621>F Cretton, Z Liu, A Le Calv=C3=A9 - The Internationa=
+l Conference on Semantic Web  &hellip;, 2015</font></div><div><font size=3D=
+2 color=3D#222222>ABSTRACT Building government services with an interconnec=
+ted administration approach <br>is a worldwide trend aimed to solve the com=
+plexity of government-related processes. The <br>connection between people =
+and services relies on technical tools that could benefit from <b> ...</b><=
+/font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;m=
+ax-width:44.5em"><a href=3D"http://scholar.google.de/scholar_url?url=3Dhttp=
+://link.springer.com/chapter/10.1007/978-3-319-25639-9_25&amp;hl=3Dde&amp;s=
+a=3DX&amp;scisig=3DAAGBfm3nJs8YBF_J9soebgQUgkdBD1IUgw&amp;nossl=3D1&amp;oi=
+=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:und=
+erline">ABSTAT: <b>Linked Data </b>Summaries with ABstraction and STATistic=
+s</font></a></h3><div><font size=3D2 color=3D#006621>M Palmonari, A Rula, R=
+ Porrini, A Maurino, B Spahiu&hellip; - The Semantic Web: ESWC  &hellip;, 2=
+015</font></div><div><font size=3D2 color=3D#222222>Abstract While much wor=
+k has focused on continuously publishing Linked Open Data, little <br>work =
+considers how to help consumers to better understand existing datasets. ABS=
+TAT <br>framework aims at providing a better understanding of big and compl=
+ex datasets by <b> ...</b></font></div><br><h3 style=3D"font-weight:normal;=
+margin:0;font-size:medium;max-width:44.5em"><a href=3D"http://scholar.googl=
+e.de/scholar_url?url=3Dhttp://link.springer.com/chapter/10.1007/978-3-319-2=
+5639-9_52&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm2z-PcPgrBzmkg9hS8VACDno=
+avXfA&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab st=
+yle=3D"text-decoration:underline">Studying the History of Pre-modern Zoolog=
+y by Extracting Linked Zoological Data from Mediaeval Texts and Reasoning o=
+n It</font></a></h3><div><font size=3D2 color=3D#006621>M Tounsi, CF Zucker=
+, A Zucker, S Villata, E Cabrio - The Semantic Web: ESWC 2015  &hellip;, 20=
+15</font></div><div><font size=3D2 color=3D#222222><b>...</b> in (i) extrac=
+t- ing pertinent knowledge from mediaeval texts using Natural Language Proc=
+essing<br>
+(NLP) methods, (ii) semantically enriching semi-structured zoological data =
+and publishing it as<br>
+an RDF dataset and its vocabu- lary, linked to other relevant <b>Linked</b>=
+ <b>Data</b> sources, and <b>...</b>=20
+</font></div><br><p><hr noshade size=3D1><font size=3D2 color=3D#222222>Die=
+ser Google Scholar-Alert wird Ihnen von Google zur Verf=C3=BCgung gestellt.=
+<br><br><a href=3D"http://scholar.google.de/scholar_alerts?view_op=3Dcancel=
+_alert_options&amp;email_for_op=3Derictessenow%40web.de&amp;alert_id=3DAIfe=
+vv3NkPcJ&amp;hl=3Dde"><font color=3D#1a0dab>Alert stornieren</font></a><br>=
+</font></div></body></html>

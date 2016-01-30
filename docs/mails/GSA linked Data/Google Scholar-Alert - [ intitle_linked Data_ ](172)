@@ -1,0 +1,158 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.64.67.99 with SMTP id m3csp183918iet;
+        Mon, 18 Nov 2013 05:38:52 -0800 (PST)
+X-Received: by 10.50.82.10 with SMTP id e10mr10022065igy.58.1384781930314;
+        Mon, 18 Nov 2013 05:38:50 -0800 (PST)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3NhaKUhUKDCUTDIPMBSBMFSUT-OPSFQMZHPPHMF.DPNFSJDUFTTFOPXXFC.EF@scholar-alerts.bounces.google.com designates 209.85.223.202 as permitted sender) smtp.mail=3NhaKUhUKDCUTDIPMBSBMFSUT-OPSFQMZHPPHMF.DPNFSJDUFTTFOPXXFC.EF@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3NhaKUhUKDCUTDIPMBSBMFSUT-OPSFQMZHPPHMF.DPNFSJDUFTTFOPXXFC.EF@scholar-alerts.bounces.google.com designates 209.85.223.202 as permitted sender) client-ip=209.85.223.202;
+Received: by 10.64.171.65 with POP3 id as1mf1371424iec.7;
+        Mon, 18 Nov 2013 05:38:49 -0800 (PST)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3NhaKUhUKDCUTDIPMBSBMFSUT-OPSFQMZHPPHMF.DPNFSJDUFTTFOPXXFC.EF@scholar-alerts.bounces.google.com
+Received: from mail-ie0-f202.google.com ([209.85.223.202]) by mx-ha.web.de
+ (mxweb101) with ESMTPS (Nemesis) id 0MWUqs-1WAXc543li-00XdMC for
+ <erictessenow@web.de>; Mon, 18 Nov 2013 14:29:28 +0100
+Received: by mail-ie0-f202.google.com with SMTP id lx4so56832iec.1
+        for <erictessenow@web.de>; Mon, 18 Nov 2013 05:29:26 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=wUGeXb99ItwoHxHgm2KTwN+IsGIEOVPCi3URBnnJkmE=;
+        b=EmIjvt0kY7kGs5FbI0zQ969gFEsCXst2BgdQM6hjnT0smDUF6bMcshKZJ3v1yhRjRi
+         5OGW4WcvHKE73drJDceVEBFAH5gj8Eqz+VjYW/PC2WMlJl8aUKJ5Wj5XsTGPOyPkwkz0
+         79bfmUo0FozwmBh14kakRWoR6/eohCmtzoUQW0z2G782gS45T9tIIJ17/kzi3C6VH8kk
+         s9kPrT0yaghCbAklfws3CvC4XfVUAAz14MfPRlXuV0h0+DMMgIPmds5p+oCzo7pTmGBq
+         3KnZ2BsS4RMqZqnrdAK3R0086djYLaHg4G+shwOH0A+jN1ohEEKu+DqhUr34kzNusgEJ
+         mOTw==
+MIME-Version: 1.0
+X-Received: by 10.182.60.37 with SMTP id e5mr7892769obr.30.1384781366681; Mon,
+ 18 Nov 2013 05:29:26 -0800 (PST)
+Message-ID: <089e01537a0a73e0af04eb738903@google.com>
+Date: Mon, 18 Nov 2013 13:29:26 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:ZWTD03797bg=:sGRJEpuIE0XXW8azi3knRU21/G
+ zJlCEnczyXlb94QzUvPKzUwqjFJHWA/PlTP2I2PdYHfMZy9Bae9PJ1ygnhL0bOMDguLnaDzke
+ F1ObDSljnlop/cqymSD/fDrv5cn0fUNeuZKN/ba8TnCslRkxmlZQmtYWFJivGUwsAFwJQbV4k
+ Damzte7DhMc/E2kC2MjzrK/5YjFqkHZrGICd0wKbuNT339gM5ZoSMquNZHod9ogh+mSPzc/r+
+ PCauAWySwMT9cWX1/cCzbsGZTjo46m4N3qdel0RbL6RSjtaiz7rTE7dHhehaRc9IPKWxAG0LX
+ g9IwXKK2hk+InKTkSRtXJU3ISlq0cK/Xb5qMKQjNTJPo+M9Jn7HFRZI3H6gkpMFHKMzGsGPKH
+ Gj9yba508GZZMFExs4i7vNMEmCbOMq/maW6AQj4uc3TDrHTKs5MImVHoJm3uoxTUyEXoqJZB3
+ zyFo6hOldghXoLTqYYue2VchUK8UuIaM/YFdp0xQlddKXN5+Go371KKlkfDrHAu9flaXHUqvo
+ g2Xp1ywmhEC8IotdE3AoAkp4YISMnn5GQfXrnrz8X+v+m/vTkjSEzZK2ai8MVYldlUEng0QTH
+ plAgpaQzg/LTWGLKGaOcynO02D1B91FPxk3sHajcfX9ez4gP8tLBg6fkPvZm2gINMKKxeB+6q
+ RzZttzBB1fJ/ouhmWoJ0SVpUAnXQjijXluuYsnSOldCNJ/nNFNeHuTIgaZ7ferpXsrE4gOa4P
+ oDAIyUkHsVPyEYQKp3I6rLwm0f2pdXt4C+MkruJj/9E/heh91EVDqCJJT4I1biij7Llw10xNX
+ zcTeGKLSMMnHCUM+UIbZSfMT7fTJqIJLlzOfHN1jl2os9Bv3TK+1CyCKHxx4Mdzrt1OeIo8ru
+ 470bmtsVUPDYZdPIZP63LE51LkBbIGEv792GnFAwCDxHNCZKOsVU/do3AIByWysC7Qef+11Qu
+ ExoDX5Z1svvNyccGGqgup/yOcmQ/MJdcy3RKCmPiMSlKAxK7WP36Wf2aB8Pr1JZh6aCL5zPpu
+ fAo0uPo7LoykwGSyu6i5K4bzdB9AvFAs5C2FMkopjfeGjGf3naDt3LNapAkN8ZVHnpIOx+T2u
+ EZZc7MzkRfNA6lEH4Z4s8slKqaCZDlu45QoCVGI+XlXbJcvXBdF5+dNTMHILE+ShI/vrs7RiA
+ ltQSzPG8MkyP1DGPKyXyeF8ZHbxFvSKMEfpffn9107BIAJv2hb8G4HQe8fqPgcJt4=
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D=
+2 color=3D#1122cc>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_=
+url?hl=3Dde&amp;q=3Dhttp://dspace.ou.nl/bitstream/1820/5224/1/LAK13_Linkedu=
+p_tutorial_Evaluation_Framework.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm1Ol0gtXZT=
+hOSw0FeDcv6-8HyAjgw&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc st=
+yle=3D"text-decoration:underline">Evaluation of <b>Linked Data </b>tools fo=
+r Learning Analytics</font></a></h3><div><font size=3D2 color=3D#009933>D H=
+endrik, E Herder, M d&#39;Aquin, S Dietze - 2013</font></div><div><font siz=
+e=3D2 color=3D#222222>Page 1. Using <b>Linked</b> <b>Data</b> in Learning A=
+nalytics LAK 2013 tutorial Hendrik Drachsler<br>
+(@hdrachsler, drachsler.de) (CELSTEC, Open Universiteit Nederland, NL) <b>.=
+..</b> Stefan Dietze (L3S<br>
+Research Center, DE) Evalua on of <b>Linked</b> <b>Data</b> tools for Learn=
+ing Analy cs Page 2. 2 Criteria: <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://www.seco.tkk.fi/p=
+ublications/submitted/alonen-et-al-vocab.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm=
+0Gs85lPtwoafepBZ8IxpON7JzE1Q&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#=
+1122cc style=3D"text-decoration:underline">Vocab. at=E2=80=93Automatic <b>L=
+inked Data </b>Documentation And Vocabulary Usage Analysis</font></a></h3><=
+div><font size=3D2 color=3D#009933>M Alonen, T Kauppinen, E Hyv=C3=B6nen - =
+2013</font></div><div><font size=3D2 color=3D#222222>Abstract A growing num=
+ber of <b>Linked Data </b>is being published as RDF data dumps, as RDFa <br=
+>embedded in HTML pages, and via SPARQL endpoints. Unfortunately, the data =
+available is <br>often poorly documented and the consistency of the dataset=
+s is unknown. Gaining an <b> ...</b></font></div><br><h3 style=3D"font-weig=
+ht:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"http://sch=
+olar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://dl.acm.org/citation.cfm%3=
+Fid%3D2526194&amp;sa=3DX&amp;scisig=3DAAGBfm3buITbepb0nrqnmf9yod3QXk5M-A&am=
+p;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D"text-decoration=
+:underline">jRDFa: browsing and visualization of <b>linked data </b>on the =
+web</font></a></h3><div><font size=3D2 color=3D#009933>AL Carlomagno, MM Ce=
+rqueira, CVS Prazeres - &hellip; of the 19th Brazilian symposium on &hellip=
+;, 2013</font></div><div><font size=3D2 color=3D#222222>Abstract Several ef=
+forts in research and development of technologies have been spent to <br>pu=
+blish data in open standard formats. The main project in this regard is the=
+ Linked Open <br>Data, which goal is to create an open and semantic Web of =
+Data, enabling processing and <b> ...</b></font></div><br><h3 style=3D"font=
+-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D2 c=
+olor=3D#1122cc>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_url=
+?hl=3Dde&amp;q=3Dhttp://ieeexplore.ieee.org/iel7/6648510/6661674/06661679.p=
+df%3Farnumber%3D6661679&amp;sa=3DX&amp;scisig=3DAAGBfm27NhK4NIpvIgPuYt1TpPp=
+QT0IxlA&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D"text-=
+decoration:underline">Use of open <b>linked data </b>in bioinformatics spac=
+e: A case study</font></a></h3><div><font size=3D2 color=3D#009933>R Celebi=
+, O Gumus, Y Aydin Son - &hellip;  Informatics and Bioinformatics (HIBIT), =
+2013 8th  &hellip;, 2013</font></div><div><font size=3D2 color=3D#222222>Ab=
+stract =EF=BD=B2, Q WKH OLIH VFLHQFHV VHPDQWLF ZHE FDQ VXSSRUW PDQ\ DVSHFWV=
+ RI <br>ELR DQG KHDOWK LQIRUPDWLFV ZLWK H [FLWLQJ DSSOLFDWLRQV DSSHDULQJ <b=
+r>LQ DUHDV UDQJLQJ IURP SODQW JHQHWLFV WR GUXJ GLVFRYHU\ 8VLQJ <b> ...</b><=
+/font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;m=
+ax-width:44.5em"><font size=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"htt=
+p://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://ceur-ws.org/Vol-10=
+64/Elbedweihy_Using_BabelNet.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm1PWfbAeShf1G=
+26m4rN4Wun5v4TRg&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=
+=3D"text-decoration:underline">Using BabelNet in Bridging the Gap Between N=
+atural Language Queries and <b>Linked Data </b>Concepts</font></a></h3><div=
+><font size=3D2 color=3D#009933>K Elbedweihy, S Wrigley, F Ciravegna, Z Zha=
+ng - &hellip;  of 1st International Workshop on NLP and  &hellip;</font></d=
+iv><div><font size=3D2 color=3D#222222>Abstract. Many semantic search tool =
+evaluations have reported a user preference for free <br>natural language a=
+s a query input approach as opposed to controlled or view-based inputs. <br=
+>Although the flexibility offered by this approach is a significant advanta=
+ge, it can also be a <b> ...</b></font></div><br><h3 style=3D"font-weight:n=
+ormal;margin:0;font-size:medium;max-width:44.5em"><font size=3D2 color=3D#1=
+122cc>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&=
+amp;q=3Dhttp://www.isi.edu/integration/papers/szekely13-ijhac.pdf&amp;sa=3D=
+X&amp;scisig=3DAAGBfm1XohAqCg2AS57iZuDxkdRtXkN4PQ&amp;oi=3Dscholaralrt"><fo=
+nt size=3D3 color=3D#1122cc style=3D"text-decoration:underline">Publishing =
+the Data of the Smithsonian American Art Museum to the <b>Linked Data </b>C=
+loud</font></a></h3><div><font size=3D2 color=3D#009933>P Szekely, CA Knobl=
+ock, F Yang, EE Fink, S Gupta&hellip;</font></div><div><font size=3D2 color=
+=3D#222222>Abstract Museums around the world have built databases with meta=
+data about millions of <br>objects, their history, the people who created t=
+hem, and the entities they represent. This data <br>is stored in proprietar=
+y databases and is not readily available for use. Recently, museums <b> ...=
+</b></font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:med=
+ium;max-width:44.5em"><font size=3D2 color=3D#1122cc>[PDF]</font> <a href=
+=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://www.jiide.o=
+rg/Jiide-theme/resources/docs/templates/articulos/jueves/Sabatini/5_linked_=
+Data_servicios_geoespaciales.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm0wRidW1RTPfY=
+QUvhqVeuNsvkE7LA&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=
+=3D"text-decoration:underline">Combinando <b>Linked Data </b>con servicios =
+geoespaciales</font></a></h3><div><font size=3D2 color=3D#009933>LM Vilches=
+-Bl=C3=A1zquez, C Sevilla, M Villal=C3=B3n&hellip;</font></div><div><font s=
+ize=3D2 color=3D#222222>El Sistema de Informaci=C3=B3n Geogr=C3=A1fica Naci=
+onal (SignA1) es el sistema corporativo del <br>Instituto Geogr=C3=A1fico N=
+acional (IGN) que tiene como finalidad la integraci=C3=B3n de los datos y <=
+br>servicios del IGN para su gesti=C3=B3n, an=C3=A1lisis y consulta, tanto =
+en modo local, como a trav=C3=A9s <b> ...</b></font></div><br><p><hr noshad=
+e size=3D1><font size=3D2 color=3D#222222>Dieser Google Scholar-Alert wird =
+Ihnen von Google zur Verf=C3=BCgung gestellt.<br><br><a href=3D"http://scho=
+lar.google.de/scholar_alerts?view_op=3Dcancel_alert_options&amp;email_for_o=
+p=3Derictessenow%40web.de&amp;alert_id=3DAIfevv3NkPcJ&amp;hl=3Dde"><font co=
+lor=3D#1122cc>Alert stornieren</font></a><br></font></div></body></html>

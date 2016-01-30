@@ -1,0 +1,1182 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.64.26.170 with SMTP id m10csp208790ieg;
+        Tue, 7 Jan 2014 08:57:58 -0800 (PST)
+X-Received: by 10.50.114.168 with SMTP id jh8mr26681577igb.6.1389113876904;
+        Tue, 07 Jan 2014 08:57:56 -0800 (PST)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of bounce-6464_HTML-146838422-7442035-1059199-1906@bounce.alerts.economist.com designates 68.232.205.169 as permitted sender) smtp.mail=bounce-6464_HTML-146838422-7442035-1059199-1906@bounce.alerts.economist.com;
+       dkim=pass header.i=publications@newsletters.economist.com
+Received-SPF: pass (google.com: domain of bounce-6464_HTML-146838422-7442035-1059199-1906@bounce.alerts.economist.com designates 68.232.205.169 as permitted sender) client-ip=68.232.205.169;
+Received: by 10.64.24.237 with POP3 id x13mf212746ief.21;
+        Tue, 07 Jan 2014 08:57:56 -0800 (PST)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: bounce-6464_HTML-146838422-7442035-1059199-1906@bounce.alerts.economist.com
+Received: from mta1.alerts.economist.com ([68.232.205.169]) by mx-ha.web.de
+ (mxweb002) with ESMTP (Nemesis) id 0M5MeV-1VBuQs1RhH-00zVfK for
+ <erictessenow@web.de>; Tue, 07 Jan 2014 17:57:42 +0100
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=200608; d=newsletters.economist.com;
+ h=From:To:Subject:Date:List-Unsubscribe:MIME-Version:Reply-To:Message-ID:Content-Type; i=publications@newsletters.economist.com;
+ bh=2/n0GvaQ9P86qsTRgdNyWOnKxCo=;
+ b=sPWXJ47tQmCpsz5DDRl5SDEu8xmvnuZWAPfAgpD8Vbg5jDw9EWbKkNaBr6pUVVv2T3ePm7uVacf8
+   Pb+/BECTL8lCsWORPB28VvAVJOhfvY19EtutMFbn0nKLR3s7kHCvLhjTMIYc/tQnPs2VvI4h0EXf
+   MloYQO1xSFOGNn2NM/w=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=200608; d=newsletters.economist.com;
+ b=p6o9B8JYvNOg4SR6q9O0e7qeSv4kHXseKrHX14ANe4XRvMhSWzdZ8ybzgoO0WXWs8sRw9MPWqAfo
+   UjCl0z3FaaR/D23vS5KGiOP9bCxFr30shqH+SIwLpjQX3QM2Y65iUILDCr+rBkM19p/KU0VufGof
+   s3uZ2OuALSJFhpKGWWo=;
+Received: by mta1.alerts.economist.com id hpgp0a163hs2 for <erictessenow@web.de>; Tue, 7 Jan 2014 10:57:38 -0600 (envelope-from <bounce-6464_HTML-146838422-7442035-1059199-1906@bounce.alerts.economist.com>)
+From: "New on Economist.com" <publications@newsletters.economist.com>
+To: <erictessenow@web.de>
+Subject: Brazil's big year, NAFTA's 20th birthday and an election calendar
+Date: Tue, 07 Jan 2014 10:57:36 -0600
+List-Unsubscribe: <mailto:leave-fd17127473606b2531492c-fe291574736c0775711672-fe9613747166047e70-fe8d1570706d05747c-ff2f15797562@leave.alerts.economist.com>
+MIME-Version: 1.0
+Reply-To: "The Economist" <reply-fe9613747166047e70-6464_HTML-146838422-1059199-1906@alerts.economist.com>
+x-job: 1059199_7442035
+Message-ID: <a2cd8cea-897b-4a11-b1d3-b0ea634e0870@xtnvmta1119.xt.local>
+Content-Type: multipart/alternative;
+	boundary="7cMyUlzBf8L2=_?:"
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: unknown:2;V01:K0:0jTPLOGgzbI=:c6iXpWD4HfTsan5X3KFPwwmfmo
+ 333KHqZD52n0yfeJJAVMAi+pYqkCaeklONaZAGkWQ0kDRBN+aubKcg8HKU+kMoenaP9OhW42H
+ YqF4IQh6s2WSW9eJfBsLCBNVaRnNbCojc97ux9ilr5yqO8I24hpCKnYuMOZzqPKB0j7ZK5noQ
+ JyJFWOC4FDNKGhapGuiKF5W8FreX8VJ+oC/6uvHGzVOwFbDA5PvmF6ONSw9kf3zI20P/d0IJY
+ dvE4rxCsgh/QEtQyvw3zJXm5eo2eGmhur1fhGGiGxFf7dqxISgpjhvxNX8YQl74a9LATOqtuu
+ uoQoVVkAHA3AnqkZ1NSWpCXixSdZ/3nQDPlozt9Qieg7My4noxtoKsWJp/dqS/0rS8i1Bkd9d
+ RCxU0+Ug+6/isbmsUkCc+JDt+HzB9qermrwfEtvcBTm2NBkr0Q7SZLX8brU9cqeRZBE1HZ8Xx
+ TqpAFgSKi8fMHjWWgx9rsTFpIXPC8ytEzQBQavgL+xdrgOAXy4gYtjfRsKg2NoMRmhxWjShld
+ tE67ecpy6pVTOPT4H+Ge3dlsGpGe8Ee0OrTNcKE1/BHZ+cxCPmXP3x1CDRE4P6/m/36G+5l5K
+ nxb5I8E40gb7byR3l8fI0IVhW4SYzEyDbvqW4rbjn1wEsNY8T4EhcGtag5JneXrH+bly4sv3N
+ jfT388s7RWKWynGQlBYeC0MNAlxG7HC2c/sZSdiVLqQ4BA9I2tvg1y+u4z/n5Nz2jbtCQQeHS
+ ezRS5FCKM5S0RXSt6fgNiOj1iaJnCu6inMSufTpMVyQ35jkMS7xE530h6ukF+UZCpgcJTNY6J
+ y+fZ1qRjW6Mci7dZIeOBPvDBa58L2K9RRIY9wIZHRa+qnKm7fHUz0x1bh+ksyI60Rg7Dq0skv
+ /NSQVkUFc851NrSGdGO1TdTsMCC3W0t+eSNwnuCb74xI5smJjJuq7scSakfl4iu+lmQhoHOzg
+ zBunElnWovFKpBSP/1NwEIAF7mZjwcBiPamNwiyaYzhwgsIDdDqB7a+bvm2A+o00w1/OWR7i6
+ Ikvbim2G5vMK7Px2WYHvAjcYS/8bBecO9khZpHWm7+OUiSdaJCcrlJX2IBnNdRxejEQlTrsd2
+ SpHt3ewas9cNZUZ89ZXCkCAl90iSvH5MJBFQnvPfgIXNj5d+2S6v9ZExtkX1ih/3buC+vsY0l
+ Zrc39ul6sys+8nYgPuHoLcaIWQ487RjYD89lU2R+mCSW3mggfLHmz2Qe3GpdBc68JeBKMl82B
+ 0m8Z8wBvIjgn/WTn9zUg4eFX5I/Yexi1Pjlf7AL566qWBJDdmiboHBU8=
+
+This is a multi-part message in MIME format.
+
+--7cMyUlzBf8L2=_?:
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+ 
+A selection of new stories from Economist=2Ecom
+
+AMERICAS VIEW: YOUR MONEY OR YOUR LOCKS
+A row erupts over cost overruns on a project to expand the Panama
+Canal
+http://click=2Ealerts=2Eeconomist=2Ecom/?qs=3Dd6abad3c7fed6cf812b5602740426=
+68a708f82f606f801cb80eb8eb68f0aef956ad2552bd4e398d2
+
+SCHUMPETER: GADGET HANGOVER
+This year's International Consumer Electronics Show is not expected
+to launch a stellar new product category
+http://click=2Ealerts=2Eeconomist=2Ecom/?qs=3Dd6abad3c7fed6cf80c41a67aa7041=
+7ded69816cf82d5af75aae6701d72df9a3033319341082ce0fc
+
+GRAPHIC DETAIL: THE 2014 BALLOT BOXES
+Our infographic of the major elections taking place around the world
+this year
+http://click=2Ealerts=2Eeconomist=2Ecom/?qs=3Dd6abad3c7fed6cf825db61929e578=
+bd23448ba2ea58742323978c452dcc74e8c7dafe1860fb11284
+
+BABBAGE: IN THE EYE OF THE BEHOLDER
+High-resolution digital cameras reveal recognisable images of other
+people in the reflections on a person's cornea
+http://click=2Ealerts=2Eeconomist=2Ecom/?qs=3Dd6abad3c7fed6cf887cef0b95952f=
+5309a21e353f75dc27daaf8661873033b0b5846b2e12a0a2406
+
+DEMOCRACY IN AMERICA: RELIGIOUS OBJECTIONS TO OBAMACARE
+Some religious groups are not satisfied with their exemption from
+Obamacare's contraceptive mandate
+http://click=2Ealerts=2Eeconomist=2Ecom/?qs=3Dd6abad3c7fed6cf85703fe59c6ab6=
+85332a3a20bffd423e54f080e5c3a2ec31690f4e13f39354954
+
+
+WATCH: BRAZIL'S BIG YEAR
+In 2014 Brazil will host a World Cup and hold an election=2E Our
+correspondents discuss the challenges President Dilma Rousseff faces
+http://click=2Ealerts=2Eeconomist=2Ecom/?qs=3Dd6abad3c7fed6cf82c894bb2fd04c=
+482fd5125e2b6e2fd88885579c2558df3236a735ab1471c7f59
+ 
+WATCH: NAFTA TURNS 20
+We assess the impact of the North American Free-Trade Agreement over
+the past two decades, and discuss how it might be reinvigorated
+http://click=2Ealerts=2Eeconomist=2Ecom/?qs=3Dd6abad3c7fed6cf8ee2425c12063e=
+462ee1952b7227e8f2ff22d62e77cf9cbef4a1f705ac01ceda6
+
+
+UPCOMING DEBATE
+Tune in for our 2014 debate on "Are worries about the health of
+democracy today overblown?" moderated by "World In 2014" editor,
+Daniel Franklin=2E
+http://click=2Ealerts=2Eeconomist=2Ecom/?qs=3Dd6abad3c7fed6cf8c86a114c86f65=
+f7002e2c553cd2eb2c4e9ab5a0bbf42a5b76745d2b2cb3ddede
+
+"The World in 2014" is The Economist's annual forecast of the events
+and trends that will shape the year ahead=2E Contributors include
+journalists from The Economist and luminaries from the world of
+politics, business, art and technology, including Ed Miliband and
+Virginia Rometty=2E Available in print, audio and app=2E
+BUY NOW
+http://click=2Ealerts=2Eeconomist=2Ecom/?qs=3Dd6abad3c7fed6cf81975897e07c24=
+b550c442646b95f4467c9defa6a2740a31b7b053ffbf00f9765
+
+
+- ADVERTISEMENT -
+
+The Economist's Which MBA? Online Fair
+February 5th, 6th and 8th 2014
+
+Thinking about an MBA? Meet dozens of business schools from around
+the world at the Which MBA? Online Fair=2E Chat with admissions
+officers, engage with live webinars and download resources=2E Visit
+five or more school booths for your chance to win a free iPad Air=2E
+Sign up free or learn more
+http://click=2Ealerts=2Eeconomist=2Ecom/?qs=3Dd6abad3c7fed6cf8e7434f503b67c=
+74a030b474e0113a4c8d7102c77c7c1b766807f827ea35e9d05
+
+
+- Try a print subscription to The Economist today -
+
+You'll gain insight & opinion on international news, business, world
+politics, finance, science, technology, books and the arts=2E
+
+Click here and receive great savings
+http://click=2Ealerts=2Eeconomist=2Ecom/?qs=3Dd6abad3c7fed6cf8613b03a211566=
+ec5600056c446ccb5d751590efd09818fc2d5595313eb272f6a 
+
+
+- ABOUT ECONOMIST=2ECOM PRODUCTS -
+
+For a complete listing of available e-mail newsletters visit:
+http://click=2Ealerts=2Eeconomist=2Ecom/?qs=3Dd6abad3c7fed6cf8c657e1c8d56bb=
+6f1a56c4ff3b2a1174392fee7ca94db9ce61e90916774e09ba8 
+
+Subscribe to Economist=2Ecom
+http://click=2Ealerts=2Eeconomist=2Ecom/?qs=3Dd6abad3c7fed6cf8cb09c8ffb6657=
+bad747bff5f9e63b454f338e74b9034825a7f5bc36e190e10fc 
+
+
+- CUSTOMER SERVICE -
+
+If you received this newsletter from a friend and you would like to
+subscribe to Economist=2Ecom's wide range of newsletters, please go
+to and fill out the registration form: http://click=2Ealerts=2Eeconomist=2E=
+com/?qs=3Dd6abad3c7fed6cf8d144ae88cc9fea4e3fd9df8be0f8f8772f643a91e0971902e=
+78ff84ee4d1db25 
+
+This mail has been sent to: moiraboone@economist=2Ecom 
+
+Questions? Comments? Use the customer service form to contact
+Economist=2Ecom staff=2E Replies to this e-mail will not reach us=2E Click
+=
+
+here: http://click=2Ealerts=2Eeconomist=2Ecom/?qs=3Dd6abad3c7fed6cf8c7f1b3=
+0b6c4108933a85a786a81e5525ac834b12744aa3bada23f57a4f164523 
+
+
+- COPYRIGHT -
+
+Copyright (c) The Economist Newspaper Limited 2014=2E All rights
+reserved=2E
+http://click=2Ealerts=2Eeconomist=2Ecom/?qs=3Dd6abad3c7fed6cf83969e1d315323=
+683dbfa992fbd60815f43f266827a59d03cfc1bdf56a5dfe1a9 
+
+Economist=2Ecom privacy policy
+http://click=2Ealerts=2Eeconomist=2Ecom/?qs=3D18116383902d972ccd0821a1d405e=
+00c39c6ffab22f9554a726dbd9b8b21f52b55fd80c51ad597c3 
+
+Economist=2Ecom Terms & Conditions
+http://click=2Ealerts=2Eeconomist=2Ecom/?qs=3D18116383902d972cc92e7d825511b=
+8ec912b02315dfb4ed36030e026e9d9eb079391dd767781643e 
+
+To unsubscribe please click here: 
+http://click=2Ealerts=2Eeconomist=2Ecom/?qs=3D18116383902d972cbc239495e94e1=
+4585f6ee754c319213af8f747acb75130d2930b5083dde7ce83
+
+An Economist Group business
+The Economist Newspaper Limited
+Registered in England and Wales=2E No=2E236383
+VAT no: GB 340 436 876
+Registered office: 25 St James's Street, London, SW1A 1HG=20=20=20
+
+--7cMyUlzBf8L2=_?:
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body bgcolor=3D"#ffffff" text=3D"#000000">
+<center>
+<table cellspacing=3D"0" width=3D"728" cellpadding=3D"0" border=3D"0" bgcol=
+or=3D"#ffffff" style=3D"border-collapse:collapse;" align=3D"center">
+	<tr>
+		<td>
+            <table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" width=
+=3D"728" style=3D"border-collapse:collapse;" align=3D"center">
+                <tr>
+                    <td height=3D"90"><table  width=3D"100%" bgcolor=3D"" b=
+order=3D"0" bordercolor=3D"" cellpadding=3D"0" cellspacing=3D"0"><tr><td st=
+yle=3D"font-family:Arial; font-size:13px">
+<a href=3D"http://ad=2Edoubleclick=2Enet/N5605/jump/teg=2Eoqmk/e09d;pos=3Dl=
+dr_top;sect=3De09d;sz=3D728x90,468x60;tile=3D1;dcove=3Dr;ord=3D744203514683=
+8422?" target=3D"_blank"><img src=3D"http://ad=2Edoubleclick=2Enet/N5605/ad=
+/teg=2Eoqmk/e09d;pos=3Dldr_top;sect=3De09d;sz=3D728x90,468x60;tile=3D1;dcov=
+e=3Dr;ord=3D7442035146838422?" border=3D"0" alt=3D"Click Here!" align=3D"ab=
+sMiddle" hspace=3D"0" vspace=3D"0"></a></td></tr></table></td>
+                </tr>
+            </table>
+            <table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" width=
+=3D"728" style=3D"border-collapse:collapse;" align=3D"center">
+                <tr>
+                    <td align=3D"right" height=3D"20" style=3D" padding-rig=
+ht:23px;">
+                            <a href=3D"http://click=2Ealerts=2Eeconomist=2E=
+com/?qs=3Dd6abad3c7fed6cf81c13fbbe8d68e75fd294d6c1841024bf64ca2e16a5f0bb478=
+ecd153fc923097e" style=3D"color:#4a4a4a; font-family:Arial, sans-serif; fon=
+t-size:12px; text-decoration:none;">View in browser</a> | <a href=3D"http:/=
+/click=2Ealerts=2Eeconomist=2Ecom/?qs=3Dd6abad3c7fed6cf87bca8a26e36b7fb131b=
+b474cdc664fa1f7b0ed9ddf46f0913f1ca391b26986fe" style=3D"color:#4a4a4a; font=
+-family:Arial, sans-serif; font-size:12px; text-decoration:none;">E-mail a =
+friend</a>
+                    </td>
+                </tr>
+            </table>
+        	<!-- START Newsletter header-->
+			<table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" width=3D"728" he=
+ight=3D"100" style=3D"border-collapse:collapse; margin-bottom:5px; margin-t=
+op:7px;" align=3D"center" bgcolor=3D"#e3e3e3">
+                <tr>
+                    <td width=3D"200" height=3D"100" style=3D"font-family:G=
+eorgia, 'Times New Roman', Times, serif; font-size:14px; color:#FFF;"><img =
+src=3D"http://image=2Ealerts=2Eeconomist=2Ecom/lib/fe8d1570706d05747c/m/1/m=
+asthead-economist=2Ejpg" width=3D"200" height=3D"100" alt=3D"The Economist"=
+ style=3D"display: block;"></td>
+                    <td width=3D"528" height=3D"100">
+                    	<table cellspacing=3D"0" width=3D"528" cellpadding=3D"=
+0" border=3D"0" style=3D"border-collapse:collapse;">
+                            <tr>
+                                <td width=3D"528" height=3D"47" valign=3D"b=
+ottom" style=3D"font-family:Arial, Helvetica, sans-serif; font-size:12px; f=
+ont-weight:bold; color:#9f9f9f;"><font style=3D"font-family:Arial, Helvetic=
+a, sans-serif; font-size:12px; font-weight:bold; color:#9f9f9f;">Tuesday, J=
+anuary 7th 2014</font></td>
+							</tr>                                
+                            <tr>
+                                <td width=3D"528" height=3D"53" style=3D"fo=
+nt-family:Georgia, 'Times New Roman', Times, serif; font-size:14px; color:#=
+4a4a4a; background-color:#dddddd;"><img src=3D"http://image=2Ealerts=2Eecon=
+omist=2Ecom/lib/fe8d1570706d05747c/m/1/new-on-economist-com=2Ejpg" width=3D=
+"528" height=3D"53" border=3D"0" alt=3D"Editor's picks" style=3D"display: b=
+lock;"></td>
+							</tr>
+						</table>
+                    </td>
+                </tr>
+            </table>
+            <!-- END Newsletter header-->
+
+			<!-- START Editor's note-->
+			<table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" width=3D"728" st=
+yle=3D"border-collapse:collapse; margin-top:7px;">
+                <tr>
+                    <td width=3D"25"></td>
+                    <td width=3D"163" align=3D"center" valign=3D"middle"><i=
+mg src=3D"http://www=2Eeconomist=2Ecom/sites/default/files/cf_images/images=
+-magazine/2014/01/04/CN/20140104_CNA117=2Ejpg" style=3D"border-color: #0000=
+00; padding-top:10px; padding-bottom:10px; width: 117px; height: 154px;" al=
+ign=3D"center" height=3D"154" width=3D"117"></td>
+                    <td width=3D"492" valign=3D"top" style=3D"padding-top:1=
+2px; padding-bottom:12px; font-family:Arial, Helvetica, sans-serif; font-si=
+ze:14px; color:#ffffff;">
+                   		<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0=
+" bordercolor=3D"" width=3D"100%" bgcolor=3D""><tr><td><table  width=3D"100=
+%" bgcolor=3D"" border=3D"0" bordercolor=3D"" cellpadding=3D"0" cellspacing=
+=3D"0"><tr><td style=3D"font-family:Arial; font-size:13px"><font style=3D"f=
+ont-family: Georgia, 'Times New Roman', Times, serif; font-size: 20px; colo=
+r: #4a4a4a;">A selection of new stories from Economist=2Ecom</font><br>
+<table style=3D"border-collapse: collapse; margin-top: 10px;" cellpadding=
+=3D"0" cellspacing=3D"0">
+	<tbody>
+		<tr>
+			<td style=3D"border-collapse: collapse; border-bottom-width: 1px; border=
+-bottom-style: solid; border-bottom-color: #f0f0f0; font-family: Arial, Hel=
+vetica, sans-serif; font-size: 15px; color: #4a4a4a; padding-top: 3px; padd=
+ing-bottom: 3px;">
+			<div>
+			<b>
+			Americas view: </b> <a href=3D"http://click=2Ealerts=2Eeconomist=2Ecom/?=
+qs=3Dd6abad3c7fed6cf822ffc6032354b10329b47a0fc74df2d5a0dd88b6519302a3dccfc3=
+6fc1793bd6" style=3D"font-family: Arial, Helvetica, sans-serif; font-size: =
+15px; color: #4a4a4a; text-decoration: none;">Your money or your locks</a>
+=
+
+			</div>
+			</td>
+		</tr>
+		<tr>
+			<td style=3D"border-collapse: collapse; border-bottom-width: 1px; border=
+-bottom-style: solid; border-bottom-color: #f0f0f0; font-family: Arial, Hel=
+vetica, sans-serif; font-size: 15px; color: #4a4a4a; padding-top: 3px; padd=
+ing-bottom: 3px;">
+			<div>
+			<b>
+			Schumpeter: </b> <a href=3D"http://click=2Ealerts=2Eeconomist=2Ecom/?qs=
+=3Dd6abad3c7fed6cf83447bec46a7c299f5ee965b4b905a059158313a79884f15cb6dd7638=
+b9b2909f" style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 15=
+px; color: #4a4a4a; text-decoration: none;">Gadget hangover</a>
+			</div>
+			</td>
+		</tr>
+		<tr>
+			<td style=3D"border-collapse: collapse; border-bottom-width: 1px; border=
+-bottom-style: solid; border-bottom-color: #f0f0f0; font-family: Arial, Hel=
+vetica, sans-serif; font-size: 15px; color: #4a4a4a; padding-top: 3px; padd=
+ing-bottom: 3px;">
+			<div>
+			<b>
+			Graphic detail: </b> <a href=3D"http://click=2Ealerts=2Eeconomist=2Ecom/=
+?qs=3Dd6abad3c7fed6cf8415fe25a60ab17dc22e870f7b7cc1293441a0ad6f5c49681fd35e=
+bd07cdccd73" style=3D"font-family: Arial, Helvetica, sans-serif; font-size:=
+ 15px; color: #4a4a4a; text-decoration: none;">The 2014 ballot boxes</a>
+			</div>
+			</td>
+		</tr>
+		<tr>
+			<td style=3D"border-collapse: collapse; border-bottom-width: 1px; border=
+-bottom-style: solid; border-bottom-color: #f0f0f0; font-family: Arial, Hel=
+vetica, sans-serif; font-size: 15px; color: #4a4a4a; padding-top: 3px; padd=
+ing-bottom: 3px;">
+			<div>
+			<b>
+			Babbage: </b> <a href=3D"http://click=2Ealerts=2Eeconomist=2Ecom/?qs=3Dd=
+6abad3c7fed6cf8776b55b57e5d5f923f99e411cd4c1517415fbf6c7bc1599006fd6d72ea8e=
+5b28" style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 15px; =
+color: #4a4a4a; text-decoration: none;">In the eye of the beholder</a>
+			</div>
+			</td>
+		</tr>
+		<tr>
+			<td style=3D"border-collapse: collapse; border-bottom-width: 1px; border=
+-bottom-style: solid; border-bottom-color: #f0f0f0; font-family: Arial, Hel=
+vetica, sans-serif; font-size: 15px; color: #4a4a4a; padding-top: 3px; padd=
+ing-bottom: 3px;">
+			<div>
+			<b>
+			Democracy in America: </b> <a href=3D"http://click=2Ealerts=2Eeconomist=
+=2Ecom/?qs=3Dd6abad3c7fed6cf83f1cd55d1ae0d449365d537f0d39f572d2550ce910be21=
+371dd42bbabab8c6c2" style=3D"font-family: Arial, Helvetica, sans-serif; fon=
+t-size: 15px; color: #4a4a4a; text-decoration: none;">Religious objections =
+to Obamacare</a>
+			</div>
+			</td>
+		</tr>
+	</tbody>
+</table></td></tr></table></td></tr></table>
+                    </td>
+                    <td width=3D"23">
+                    </td>		
+                    <td width=3D"25"></td>
+                </tr>
+            </table>
+			<!-- END Editor's note-->
+
+        	<!-- START Newsletter content-->
+			<table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" width=3D"728" st=
+yle=3D"border-collapse:collapse; margin-top:22px;">
+                <tr>
+                    <td width=3D"25"></td>
+                    <td width=3D"355" valign=3D"top">
+                    	<table cellspacing=3D"0" cellpadding=3D"0" width=3D"35=
+5" style=3D"border-collapse:collapse;">
+<tr>
+                                <td style=3D"border-collapse:collapse; bord=
+er-bottom:1px solid #f0f0f0; margin-bottom:10px;"><table cellpadding=3D"0" =
+cellspacing=3D"0" border=3D"0" bordercolor=3D"" width=3D"100%" bgcolor=3D""=
+><tr><td><table  width=3D"100%" bgcolor=3D"" border=3D"0" bordercolor=3D"" =
+cellpadding=3D"0" cellspacing=3D"0"><tr><td style=3D"font-family:Arial; fon=
+t-size:13px"><table style=3D"border-collapse: collapse; border-bottom-width=
+: 1px; border-bottom-style: solid; border-bottom-color: #f0f0f0; margin-bot=
+tom: 10px;" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"355">=
+
+	<tbody>
+		<tr>
+			<td style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 14px;=
+ color: #e31206; margin-bottom: 20px;"><font style=3D"font-family: Arial, H=
+elvetica, sans-serif; font-size: 15px; color: #e31206; font-weight: bold;">=
+Americas view                         
+			</font></td>
+		</tr>
+		<tr>
+			<td style=3D"font-family: Georgia, 'Times New Roman', Times, serif; font=
+-size: 24px; color: #4a4a4a;" height=3D"30" valign=3D"middle"><font style=
+=3D"font-family: Georgia, 'Times New Roman', Times, serif; font-size: 24px;=
+ color: #4a4a4a;"><a href=3D"http://click=2Ealerts=2Eeconomist=2Ecom/?qs=3D=
+d6abad3c7fed6cf822ffc6032354b10329b47a0fc74df2d5a0dd88b6519302a3dccfc36fc17=
+93bd6"  style=3D"color: #000000">Your money or your locks</a></font></td>
+		</tr>
+		<tr>
+			<td style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 14px;=
+ color: #4a4a4a; margin-bottom: 20px;">
+			<table style=3D"border-collapse: collapse;" border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0">
+				<tbody>
+					<tr>
+						<td style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 14=
+px; color: #4a4a4a; margin-bottom: 20px;">: 
+						<table style=3D"border-collapse: collapse;" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0">
+							<tbody>
+								<tr>
+									<td><img src=3D"http://cdn=2Estatic-economist=2Ecom/sites/default/=
+files/imagecache/full-width/images/2014/01/blogs/americas-view/panama=2Ejpg=
+" style=3D"margin-right: 10px; margin-bottom: 20px;" align=3D"left" height=
+=3D"75" width=3D"133"></td>
+									<td><font style=3D"font-family: Arial, Helvetica, sans-serif; font=
+-size: 15px; color: #4a4a4a;">A row erupts over cost overruns on a project =
+to expand the Panama Canal<br>
+									<a href=3D"http://click=2Ealerts=2Eeconomist=2Ecom/?qs=3Dd6abad3c7=
+fed6cf822ffc6032354b10329b47a0fc74df2d5a0dd88b6519302a3dccfc36fc1793bd6" st=
+yle=3D"font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-wei=
+ght: bold; color: #4a4a4a; text-decoration: none; line-height: 30px; margin=
+-bottom: 20px;">READ MORE <font style=3D"font-size: 20px;">&raquo;</font></=
+a>
+									</font>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table></td></tr></table></td></tr></table></td>
+							</tr>
+                            <tr>
+                                <td style=3D"border-collapse:collapse; bord=
+er-bottom:1px solid #f0f0f0; margin-bottom:10px; margin-top:10px;"><table c=
+ellpadding=3D"0" cellspacing=3D"0" border=3D"0" bordercolor=3D"" width=3D"1=
+00%" bgcolor=3D""><tr><td><table  width=3D"100%" bgcolor=3D"" border=3D"0" =
+bordercolor=3D"" cellpadding=3D"0" cellspacing=3D"0"><tr><td style=3D"font-=
+family:Arial; font-size:13px"><table style=3D"border-collapse: collapse; bo=
+rder-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #f=
+0f0f0; margin-bottom: 10px;" border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0" width=3D"355">
+	<tbody>
+		<tr>
+			<td style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 14px;=
+ color: #e31206; margin-bottom: 20px;"><font style=3D"font-family: Arial, H=
+elvetica, sans-serif; font-size: 15px; color: #e31206; font-weight: bold;">=
+Schumpeter  </font>                            
+			</td>
+		</tr>
+		<tr>
+			<td style=3D"font-family: Georgia, 'Times New Roman', Times, serif; font=
+-size: 24px; color: #4a4a4a;" height=3D"30" valign=3D"middle"><font style=
+=3D"font-family: Georgia, 'Times New Roman', Times, serif; font-size: 24px;=
+ color: #4a4a4a;"><a href=3D"http://click=2Ealerts=2Eeconomist=2Ecom/?qs=3D=
+d6abad3c7fed6cf83447bec46a7c299f5ee965b4b905a059158313a79884f15cb6dd7638b9b=
+2909f"  style=3D"color: #000000">Gadget hangover</a></font></td>
+		</tr>
+		<tr>
+			<td style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 14px;=
+ color: #4a4a4a; margin-bottom: 20px;">
+			<table style=3D"border-collapse: collapse;" border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0">
+				<tbody>
+					<tr>
+						<td><font style=3D"font-family: Arial, Helvetica, sans-serif; font-si=
+ze: 15px; color: #4a4a4a;">This year's International Consumer Electronics S=
+how is not expected to launch a stellar new product category
+						<br>
+						<a href=3D"http://click=2Ealerts=2Eeconomist=2Ecom/?qs=3Dd6abad3c7fed=
+6cf83447bec46a7c299f5ee965b4b905a059158313a79884f15cb6dd7638b9b2909f" style=
+=3D"font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight=
+: bold; color: #4a4a4a; text-decoration: none; line-height: 30px; margin-bo=
+ttom: 20px;">READ MORE <font style=3D"font-size: 20px;">&raquo;</font></a>
+=
+
+						</font>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table></td></tr></table></td></tr></table></td>
+							</tr>
+                            <tr>
+                                <td style=3D"border-collapse:collapse; marg=
+in-bottom:10px; margin-top:10px;"><table cellpadding=3D"0" cellspacing=3D"0=
+" border=3D"0" bordercolor=3D"" width=3D"100%" bgcolor=3D""><tr><td><table =
+ width=3D"100%" bgcolor=3D"" border=3D"0" bordercolor=3D"" cellpadding=3D"0=
+" cellspacing=3D"0"><tr><td style=3D"font-family:Arial; font-size:13px"><ta=
+ble style=3D"border-collapse: collapse; border-bottom-width: 1px; border-bo=
+ttom-style: solid; border-bottom-color: #f0f0f0; margin-bottom: 10px;" bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"355">
+	<tbody>
+		<tr>
+			<td style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 14px;=
+ color: #e31206; margin-bottom: 20px;"><font style=3D"font-family: Arial, H=
+elvetica, sans-serif; font-size: 15px; color: #e31206; font-weight: bold;">=
+Graphic detail</font></td>
+		</tr>
+		<tr>
+			<td style=3D"font-family: Georgia, 'Times New Roman', Times, serif; font=
+-size: 24px; color: #4a4a4a;" height=3D"30" valign=3D"middle"><font style=
+=3D"font-family: Georgia, 'Times New Roman', Times, serif; font-size: 24px;=
+ color: #4a4a4a;"><a href=3D"http://click=2Ealerts=2Eeconomist=2Ecom/?qs=3D=
+d6abad3c7fed6cf8415fe25a60ab17dc22e870f7b7cc1293441a0ad6f5c49681fd35ebd07cd=
+ccd73"  style=3D"color: #000000">The 2014 ballot boxes</a></font></td>
+		</tr>
+		<tr>
+			<td style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 14px;=
+ color: #4a4a4a; margin-bottom: 20px;">
+			<table style=3D"border-collapse: collapse;" border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0">
+				<tbody>
+					<tr>
+						<td><img src=3D"http://cdn=2Estatic-economist=2Ecom/sites/default/fil=
+es/images/blog_sites/_0000s_0003_daily-chart=2Epng?1328719161" style=3D"mar=
+gin-right: 10px; margin-bottom: 20px;" align=3D"left" height=3D"61" width=
+=3D"133"></td>
+						<td><font style=3D"font-family: Arial, Helvetica, sans-serif; font-si=
+ze: 15px; color: #4a4a4a;">Our infographic of the major elections taking pl=
+ace around the world this year<br>
+						<a href=3D"http://click=2Ealerts=2Eeconomist=2Ecom/?qs=3Dd6abad3c7fed=
+6cf8415fe25a60ab17dc22e870f7b7cc1293441a0ad6f5c49681fd35ebd07cdccd73" style=
+=3D"font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight=
+: bold; color: #4a4a4a; text-decoration: none; line-height: 30px; margin-bo=
+ttom: 20px;">READ MORE <font style=3D"font-size: 20px;">&#187;</font></a>
+						</font>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table></td></tr></table></td></tr></table></td>
+							</tr>
+                            <tr>
+                                <td style=3D"border-collapse:collapse; marg=
+in-bottom:10px; margin-top:10px;"><table cellpadding=3D"0" cellspacing=3D"0=
+" border=3D"0" bordercolor=3D"" width=3D"100%" bgcolor=3D""><tr><td><table =
+ width=3D"100%" bgcolor=3D"" border=3D"0" bordercolor=3D"" cellpadding=3D"0=
+" cellspacing=3D"0"><tr><td style=3D"font-family:Arial; font-size:13px"><ta=
+ble style=3D"border-collapse: collapse; border-bottom-width: 1px; border-bo=
+ttom-style: solid; border-bottom-color: #f0f0f0; margin-bottom: 10px;" bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"355">
+	<tbody>
+		<tr>
+			<td style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 14px;=
+ color: #e31206; margin-bottom: 20px;"><font style=3D"font-family: Arial, H=
+elvetica, sans-serif; font-size: 15px; color: #e31206; font-weight: bold;">=
+Babbage</font> 
+			</td>
+		</tr>
+		<tr>
+			<td style=3D"font-family: Georgia, 'Times New Roman', Times, serif; font=
+-size: 24px; color: #4a4a4a;" height=3D"30" valign=3D"middle"><font style=
+=3D"font-family: Georgia, 'Times New Roman', Times, serif; font-size: 24px;=
+ color: #4a4a4a;"><a href=3D"http://click=2Ealerts=2Eeconomist=2Ecom/?qs=3D=
+d6abad3c7fed6cf8776b55b57e5d5f923f99e411cd4c1517415fbf6c7bc1599006fd6d72ea8=
+e5b28"  style=3D"color: #000000">In the eye of the beholder</a></font></td>=
+
+		</tr>
+		<tr>
+			<td style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 14px;=
+ color: #4a4a4a; margin-bottom: 20px;">
+			<table style=3D"border-collapse: collapse;" border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0">
+				<tbody>
+					<tr>
+						<td><font style=3D"font-family: Arial, Helvetica, sans-serif; font-si=
+ze: 15px; color: #4a4a4a;">High-resolution digital cameras reveal recognisa=
+ble images of other people in the reflections on a person's cornea<br>
+						<a href=3D"http://click=2Ealerts=2Eeconomist=2Ecom/?qs=3Dd6abad3c7fed=
+6cf8776b55b57e5d5f923f99e411cd4c1517415fbf6c7bc1599006fd6d72ea8e5b28" style=
+=3D"font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight=
+: bold; color: #4a4a4a; text-decoration: none; line-height: 30px; margin-bo=
+ttom: 20px;">READ MORE <font style=3D"font-size: 20px;">&raquo;</font></a>
+=
+
+						</font>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table></td></tr></table></td></tr></table></td>
+							</tr>
+                            <tr>
+                                <td style=3D"border-collapse:collapse; marg=
+in-bottom:10px; margin-top:10px;"><table cellpadding=3D"0" cellspacing=3D"0=
+" border=3D"0" bordercolor=3D"" width=3D"100%" bgcolor=3D""><tr><td><table =
+ width=3D"100%" bgcolor=3D"" border=3D"0" bordercolor=3D"" cellpadding=3D"0=
+" cellspacing=3D"0"><tr><td style=3D"font-family:Arial; font-size:13px"><ta=
+ble style=3D"border-collapse: collapse; border-bottom-width: 1px; border-bo=
+ttom-style: solid; border-bottom-color: #f0f0f0; margin-bottom: 10px;" bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"355">
+	<tbody>
+		<tr>
+			<td style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 14px;=
+ color: #e31206; margin-bottom: 20px;"><font style=3D"font-family: Arial, H=
+elvetica, sans-serif; font-size: 15px; color: #e31206; font-weight: bold;">=
+Democracy in America</font> 
+			</td>
+		</tr>
+		<tr>
+			<td style=3D"font-family: Georgia, 'Times New Roman', Times, serif; font=
+-size: 24px; color: #4a4a4a;" height=3D"30" valign=3D"middle"><font style=
+=3D"font-family: Georgia, 'Times New Roman', Times, serif; font-size: 24px;=
+ color: #4a4a4a;"><a href=3D"http://click=2Ealerts=2Eeconomist=2Ecom/?qs=3D=
+d6abad3c7fed6cf83f1cd55d1ae0d449365d537f0d39f572d2550ce910be21371dd42bbabab=
+8c6c2"  style=3D"color: #000000">Religious objections to Obamacare</a></fon=
+t></td>
+		</tr>
+		<tr>
+			<td style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 14px;=
+ color: #4a4a4a; margin-bottom: 20px;">
+			<table style=3D"border-collapse: collapse;" border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0">
+				<tbody>
+					<tr>
+						<td><img src=3D"http://cdn=2Estatic-economist=2Ecom/sites/default/fil=
+es/images/blog_sites/_0000s_0011_democracy-in-america=2Epng?1328719123" sty=
+le=3D"margin-right: 10px; margin-bottom: 20px;" align=3D"left" height=3D"54=
+" width=3D"133"></td>
+						<td></td>
+						<td style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 14=
+px; color: #4a4a4a; margin-bottom: 20px;">
+						<table style=3D"border-collapse: collapse;" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0">
+							<tbody>
+								<tr>
+									<td><font style=3D"font-family: Arial, Helvetica, sans-serif; font=
+-size: 15px; color: #4a4a4a;">Some religious groups are not satisfied with =
+their exemption from
+									Obamacare's contraceptive mandate<br>
+									<a href=3D"http://click=2Ealerts=2Eeconomist=2Ecom/?qs=3Dd6abad3c7=
+fed6cf83f1cd55d1ae0d449365d537f0d39f572d2550ce910be21371dd42bbabab8c6c2" st=
+yle=3D"font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-wei=
+ght: bold; color: #4a4a4a; text-decoration: none; line-height: 30px; margin=
+-bottom: 20px;">READ MORE <font style=3D"font-size: 20px;">&#187;</font></a=
+>
+									</font>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table></td></tr></table></td></tr></table></td>
+							</tr>
+						</table>
+                      
+ 						<!-- START The Economist Events -->
+                        <table cellspacing=3D"0" cellpadding=3D"0" border=
+=3D"0" width=3D"355" height=3D"155" style=3D"border-collapse:collapse; marg=
+in-bottom:30px;" bgcolor=3D"#f0f0f0">
+                            <tr>
+                            	<td align=3D"center" valign=3D"middle">
+                                	<center><table cellspacing=3D"0" cellpaddi=
+ng=3D"0" border=3D"0" width=3D"355" style=3D"border-collapse:collapse;">
+    <tr>
+    	<td width=3D"27"></td>
+        <td align=3D"center" valign=3D"middle" width=3D"300"><table  width=
+=3D"100%" bgcolor=3D"" border=3D"0" bordercolor=3D"" cellpadding=3D"0" cell=
+spacing=3D"0"><tr><td style=3D"font-family:Arial; font-size:13px">
+<a href=3D"http://ad=2Edoubleclick=2Enet/N5605/jump/teg=2Eoqmk/e09d;sect=3D=
+e09d;sz=3D300x100;tile=3D3;dcove=3Dr;ord=3D7442035146838422?" target=3D"_bl=
+ank"><img src=3D"http://ad=2Edoubleclick=2Enet/N5605/ad/teg=2Eoqmk/e09d;sec=
+t=3De09d;sz=3D300x100;tile=3D3;dcove=3Dr;ord=3D7442035146838422?" border=3D=
+"0" alt=3D"Click Here!" align=3D"absMiddle" hspace=3D"0" vspace=3D"0"></a><=
+/td></tr></table></td>
+        <td width=3D"28"></td>
+    </tr>
+</table></center>
+                                </td>
+                            </tr>
+                        </table>
+                        <!-- END The Economist Events -->                  =
+      
+<!-- START The Economist debates -->
+                        <table cellspacing=3D"0" cellpadding=3D"0" width=3D=
+"355" style=3D"border-top:3px solid #4a4a4a; border-collapse:collapse; marg=
+in-bottom:3px;" bgcolor=3D"#f0f0f0">
+                            <tr>
+                                <td height=3D"30" valign=3D"middle" style=
+=3D"padding-left:8px; font-family:Georgia, 'Times New Roman', Times, serif;=
+ font-size:16px; color:#4a4a4a;"><font style=3D"font-family:Georgia, 'Times=
+ New Roman', Times, serif; font-size:16px; color:#4a4a4a;"><table cellpaddi=
+ng=3D"0" cellspacing=3D"0" border=3D"0" bordercolor=3D"" width=3D"100%" bgc=
+olor=3D""><tr><td><table  width=3D"100%" bgcolor=3D"" border=3D"0" borderco=
+lor=3D"" cellpadding=3D"0" cellspacing=3D"0"><tr><td style=3D"font-family:A=
+rial; font-size:13px"><font style=3D"font-family:Georgia, 'Times New Roman'=
+, Times, serif; font-size:16px; color:#4a4a4a;"><i>The Economist</i> Debate=
+s Series</font></td></tr></table></td></tr></table></font></td>
+							</tr>
+						</table>
+                        <table cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0" bordercolor=3D"" width=3D"100%" bgcolor=3D""><tr><td><table  width=
+=3D"100%" bgcolor=3D"" border=3D"0" bordercolor=3D"" cellpadding=3D"0" cell=
+spacing=3D"0"><tr><td style=3D"font-family:Arial; font-size:13px"></td></tr=
+></table></td></tr></table>
+                        <!-- END The Economist debates -->
+                        <!-- START Sponsor Area -->
+                        <table cellspacing=3D"0" cellpadding=3D"0" border=
+=3D"0" width=3D"355" style=3D"border-collapse:collapse; margin-top:10px; ma=
+rgin-bottom:10px;">
+                            <tr>
+                                <td>
+                                	<table cellpadding=3D"0" cellspacing=3D"0"=
+ border=3D"0" bordercolor=3D"" width=3D"100%" bgcolor=3D""><tr><td><table  =
+width=3D"100%" bgcolor=3D"" border=3D"0" bordercolor=3D"" cellpadding=3D"0"=
+ cellspacing=3D"0"><tr><td style=3D"font-family:Arial; font-size:13px"><tab=
+le cellspacing=3D"0" cellpadding=3D"0" border=3D"0" width=3D"300" style=3D"=
+border-collapse:collapse; margin-top:20px; margin-bottom:20px;">
+	<tbody>
+		<tr>
+			<td><font style=3D"font-family:Georgia, 'Times New Roman', Times, serif;=
+ font-size:24px; color:#4a4a4a;">Upcoming debate</font><br>
+			<font style=3D"font-family:Arial, Helvetica, sans-serif; font-size:14px;=
+ color:#4a4a4a;">Tune in for our 2014&nbsp;<a href=3D"http://click=2Ealerts=
+=2Eeconomist=2Ecom/?qs=3Dd6abad3c7fed6cf8a6550d405bb66c261a21b29775fbb3704d=
+657383e91d2cd8ed701420c719514f" target=3D"Blank">debate</a> on "Are worries=
+ about the health of democracy today overblown?" moderated by "World In 201=
+4" editor, Daniel Franklin=2E
+			<br>
+			<br>
+			"The World in 2014" is <i>The Economist</i>'s annual forecast of the eve=
+nts and trends that will shape the year ahead=2E Contributors include journ=
+alists from <i>The Economist</i> and luminaries from the world of politics,=
+ business, art and technology, including Ed Miliband and Virginia Rometty=
+=2E Available in print, audio and app=2E<br>
+			<a href=3D"http://click=2Ealerts=2Eeconomist=2Ecom/?qs=3Dd6abad3c7fed6cf=
+899f7bd1da68101528090db8713d93233c8418c0362eb08cddde9e9fb694005bc" style=3D=
+"color: rgb(74, 74, 74); font-weight: bold; text-decoration: none; line-hei=
+ght: 30px;">BUY NOW <font style=3D"font-size:20px;">&#187;</font></a>
+			<p>
+			</p>
+			</font></td>
+		</tr>
+	</tbody>
+</table></td></tr></table></td></tr></table>
+                                </td>
+                            </tr>
+                        </table>
+							
+                        <!-- END End Sponsor Area -->
+                    </td>
+                    <td width=3D"23"></td>
+                    <td width=3D"300" valign=3D"top">
+ 						<!-- START Subscription module -->
+							<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" bordercolor=
+=3D"" width=3D"100%" bgcolor=3D""><tr><td><table  width=3D"100%" bgcolor=3D=
+"" border=3D"0" bordercolor=3D"" cellpadding=3D"0" cellspacing=3D"0"><tr><t=
+d style=3D"font-family:Arial; font-size:13px"><table style=3D"border-top:3p=
+x solid #4a4a4a; border-collapse:collapse; margin-bottom:3px;" bgcolor=3D"#=
+f0f0f0" cellpadding=3D"0" cellspacing=3D"0" width=3D"300">
+	<tbody>
+		<tr>
+			<td style=3D"padding-left:8px; font-family:Georgia, 'Times New Roman', T=
+imes, serif; font-size:16px; color:#4a4a4a;" height=3D"30" valign=3D"middle=
+"><font style=3D"font-family:Georgia, 'Times New Roman', Times, serif; font=
+-size:16px; color:#4a4a4a;">Subscribe</font></td>
+		</tr>
+	</tbody>
+</table>
+<table style=3D"border-collapse:collapse; margin-bottom:20px;" bgcolor=3D"#=
+f0f0f0" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"300">
+	<tbody>
+		<tr>
+			<td style=3D"padding-left:8px; padding-top:10px; font-family:Arial, Helv=
+etica, sans-serif; font-size:12px; color:#4a4a4a;"><font style=3D"font-fami=
+ly:Arial, Helvetica, sans-serif; font-size:12px; color:#4a4a4a;">Subscriber=
+s can enjoy each week's full issue of <i>The Economist</i> in print, at Eco=
+nomist=2Ecom or via <i>The Economist</i> apps=2E <br>
+			<a href=3D"http://click=2Ealerts=2Eeconomist=2Ecom/?qs=3D18116383902d972=
+ceb49d50588d313da893c6383d518d65463942604eb1291f6b28a6c57324da0a0" style=3D=
+"font-family:Arial, Helvetica, sans-serif; font-size:14px; color:#4a4a4a; f=
+ont-weight:bold; text-decoration:none; line-height:30px;">Subscription offe=
+rs <font style=3D"font-size:20px;">&raquo;</font></a>
+			</font>
+			</td>
+			<td style=3D"padding-top:10px;" align=3D"center" valign=3D"top" width=3D=
+"90"><img src=3D"http://image=2Ealerts=2Eeconomist=2Ecom/lib/fe8d1570706d05=
+747c/m/1/registered-reader=2Epng" height=3D"85" width=3D"85">
+			</td>
+		</tr>
+	</tbody>
+</table></td></tr></table></td></tr></table>
+                        <!-- END Subscription module -->
+
+ 						<!-- START Share module -->
+						<table cellspacing=3D"0" cellpadding=3D"0" width=3D"300" style=3D"bor=
+der-top:3px solid #4a4a4a; border-collapse:collapse; margin-bottom:3px;" bg=
+color=3D"#f0f0f0">
+                            <tr>
+                                <td height=3D"30" valign=3D"middle" style=
+=3D"padding-left:8px; font-family:Georgia, 'Times New Roman', Times, serif;=
+ font-size:16px; color:#4a4a4a;"><font style=3D"font-family:Georgia, 'Times=
+ New Roman', Times, serif; font-size:16px; color:#4a4a4a;">Follow <i>The Ec=
+onomist</i></font></td>
+							</tr>
+
+						</table>
+                        <table cellspacing=3D"0" cellpadding=3D"0" border=
+=3D"0" width=3D"300" style=3D"border-collapse:collapse; margin-bottom:20px;=
+" bgcolor=3D"#f0f0f0">
+                            <tr>
+                                <td style=3D"padding-left:8px; font-family:=
+Arial, Helvetica, sans-serif; font-size:12px; color:#4a4a4a;" valign=3D"mid=
+dle" height=3D"62">
+				<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" bordercolor=3D"=
+" width=3D"100%" bgcolor=3D""><tr><td><table  width=3D"100%" bgcolor=3D"" b=
+order=3D"0" bordercolor=3D"" cellpadding=3D"0" cellspacing=3D"0"><tr><td st=
+yle=3D"font-family:Arial; font-size:13px"><a href=3D"http://click=2Ealerts=
+=2Eeconomist=2Ecom/?qs=3Dd6abad3c7fed6cf834e7250b36332f59606bf9bdc7422699e2=
+406557ca782c13e22017c8f35d1943"><img src=3D"http://image=2Ealerts=2Eeconomi=
+st=2Ecom/lib/fe8d1570706d05747c/m/1/facebook=2Ejpg" width=3D"25" height=3D"=
+25" alt=3D"facebook" style=3D"padding-right:4px;" border=3D"0"></a>
+<a href=3D"http://click=2Ealerts=2Eeconomist=2Ecom/?qs=3Dd6abad3c7fed6cf86f=
+d928f6d4cebad66140a3fdbd9c6a3c62e4e6ab399bd8eba22cf873c15e611a"><img src=3D=
+"http://image=2Ealerts=2Eeconomist=2Ecom/lib/fe8d1570706d05747c/m/1/twitter=
+=2Ejpg" width=3D"25" height=3D"25" alt=3D"twitter" style=3D"padding-right:4=
+px;" border=3D"0"></a>
+<a href=3D"http://click=2Ealerts=2Eeconomist=2Ecom/?qs=3Dd6abad3c7fed6cf877=
+87611d19708b1035298cc85eeaab42bd9b4c8c0b675be9f82773c10e360813"><img src=3D=
+"http://image=2Ealerts=2Eeconomist=2Ecom/lib/fe8d1570706d05747c/m/1/linkedi=
+n=2Ejpg" width=3D"25" height=3D"25" alt=3D"linkedin" style=3D"padding-right=
+:4px;" border=3D"0"></a>
+<a href=3D"http://click=2Ealerts=2Eeconomist=2Ecom/?qs=3Dd6abad3c7fed6cf820=
+f870c13168f953a68534f5320ec1a1dce50f8b14ef96b2922fc587030f6730"><img src=3D=
+"http://image=2Ealerts=2Eeconomist=2Ecom/lib/fe8d1570706d05747c/m/1/googlep=
+lus=2Ejpg" width=3D"25" height=3D"25" alt=3D"google+" style=3D"padding-righ=
+t:4px;" border=3D"0"></a>
+<a href=3D"http://click=2Ealerts=2Eeconomist=2Ecom/?qs=3Dd6abad3c7fed6cf871=
+9719b61885e189d83af36a12ce89894251b586353b4683f68850579cff8dd4"><img src=3D=
+"http://image=2Ealerts=2Eeconomist=2Ecom/lib/fe8d1570706d05747c/m/1/tumblr=
+=2Ejpg" width=3D"25" height=3D"25" alt=3D"tumblr" style=3D"padding-right:4p=
+x;" border=3D"0"></a>
+<a href=3D"http://click=2Ealerts=2Eeconomist=2Ecom/?qs=3Dd6abad3c7fed6cf826=
+1c9a593696fd6f43e6b08952436046a6e447523ffeb763caecdb2ece5f1616"><img src=3D=
+"http://image=2Ealerts=2Eeconomist=2Ecom/lib/fe8d1570706d05747c/m/1/pintres=
+t=2Ejpg" width=3D"25" height=3D"25" alt=3D"pintrest" style=3D"padding-right=
+:4px;" border=3D"0"></a>
+<a href=3D"http://click=2Ealerts=2Eeconomist=2Ecom/?qs=3Dd6abad3c7fed6cf8d4=
+a38b2314600547d9d3426dfc2b59847a8380b590e1cd418fbb9fe327312995"><img src=3D=
+"http://image=2Ealerts=2Eeconomist=2Ecom/lib/fe8d1570706d05747c/m/1/youtube=
+=2Ejpg" width=3D"25" height=3D"25" alt=3D"youtube" style=3D"padding-right:4=
+px;" border=3D"0"></a>
+<a href=3D"http://click=2Ealerts=2Eeconomist=2Ecom/?qs=3Dd6abad3c7fed6cf8f4=
+201a305bb32493dabf12098e45d140288fd8f6acfce75388a007f65fba8cbc"><img src=3D=
+"http://image=2Ealerts=2Eeconomist=2Ecom/lib/fe8d1570706d05747c/m/1/rssfeed=
+=2Ejpg" width=3D"25" height=3D"25" alt=3D"rss" style=3D"padding-right:4px;"=
+ border=3D"0"></a>
+<a href=3D"http://click=2Ealerts=2Eeconomist=2Ecom/?qs=3Dd6abad3c7fed6cf8f2=
+7650a6998d15d3418ef011e42a701f675d93b7f87d4f2ac957d59c8a9f083d"><img src=3D=
+"http://image=2Ealerts=2Eeconomist=2Ecom/lib/fe8d1570706d05747c/m/1/email=
+=2Ejpg" width=3D"25" height=3D"25" alt=3D"email" border=3D"0"></a></td></tr=
+></table></td></tr></table>
+				</td>
+                            </tr>
+                        </table>
+                        <!-- END Share module -->
+
+ 						<!-- START MPU unit 300 x 250 -->
+                        <table cellspacing=3D"0" cellpadding=3D"0" border=
+=3D"0" width=3D"300" height=3D"250" style=3D"border-collapse:collapse; marg=
+in-top:30px; margin-bottom:30px;">
+                            <tr>
+                                <td width=3D"300" height=3D"250">
+                                	<table  width=3D"100%" bgcolor=3D"" border=
+=3D"0" bordercolor=3D"" cellpadding=3D"0" cellspacing=3D"0"><tr><td style=
+=3D"font-family:Arial; font-size:13px">
+<a href=3D"http://ad=2Edoubleclick=2Enet/N5605/jump/teg=2Eoqmk/e09d;pos=3Dm=
+pu_top;sect=3De09d;sz=3D300x250;tile=3D2;dcove=3Dr;ord=3D7442035146838422?"=
+ target=3D"_blank"><img src=3D"http://ad=2Edoubleclick=2Enet/N5605/ad/teg=
+=2Eoqmk/e09d;pos=3Dmpu_top;sect=3De09d;sz=3D300x250;tile=3D2;dcove=3Dr;ord=
+=3D7442035146838422?" border=3D"0" alt=3D"Click Here!" align=3D"absMiddle" =
+hspace=3D"0" vspace=3D"0"></a></td></tr></table>
+                                </td>
+                            </tr>
+                        </table>
+                        <!-- END MPU unit 300 x 250 -->
+						<!-- START Multimedia -->
+                        <table cellspacing=3D"0" cellpadding=3D"0" width=3D=
+"300" style=3D"border-top:3px solid #4a4a4a; border-collapse:collapse; marg=
+in-bottom:3px;" bgcolor=3D"#f0f0f0">
+                            <tr>
+                                <td height=3D"30" valign=3D"middle" style=
+=3D"padding-left:8px; font-family:Georgia, 'Times New Roman', Times, serif;=
+ font-size:16px; color:#4a4a4a;"><font style=3D"font-family:Georgia, 'Times=
+ New Roman', Times, serif; font-size:16px; color:#4a4a4a;">Latest Multimedi=
+a</font></td>
+							</tr>
+						</table>
+                        <table cellspacing=3D"0" cellpadding=3D"0" width=3D=
+"300" style=3D"border-collapse:collapse;">
+                            <tr>
+                                <td><table cellpadding=3D"0" cellspacing=3D=
+"0" border=3D"0" bordercolor=3D"" width=3D"100%" bgcolor=3D""><tr><td><tabl=
+e  width=3D"100%" bgcolor=3D"" border=3D"0" bordercolor=3D"" cellpadding=3D=
+"0" cellspacing=3D"0"><tr><td style=3D"font-family:Arial; font-size:13px"><=
+table style=3D"border-collapse: collapse; border-bottom-width: 1px; border-=
+bottom-style: solid; border-bottom-color: #f0f0f0; margin-bottom: 10px;" bo=
+rder=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"300">
+	<tbody>
+		<tr>
+			<td style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 14px;=
+ color: #e31206; margin-bottom: 20px;"><font style=3D"font-family: Arial, H=
+elvetica, sans-serif; font-size: 15px; color: #e31206; font-weight: bold;">=
+Video</font>                            
+			</td>
+		</tr>
+		<tr>
+			<td style=3D"font-family: Georgia, 'Times New Roman', Times, serif; font=
+-size: 24px; color: #4a4a4a;" height=3D"30" valign=3D"middle"><font style=
+=3D"font-family: Georgia, 'Times New Roman', Times, serif; font-size: 24px;=
+ color: #4a4a4a;"><a href=3D"http://click=2Ealerts=2Eeconomist=2Ecom/?qs=3D=
+d6abad3c7fed6cf88907a476b3f3bb3a505d0a25d7a873248fb538dc118e7f9310f3a4df3f5=
+84a3e"  style=3D"color: #000000">Brazil's big year</a></font></td>
+		</tr>
+		<tr>
+			<td style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 14px;=
+ color: #4a4a4a; margin-bottom: 20px;">
+			<table style=3D"border-collapse: collapse;" border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0">
+				<tbody>
+					<tr>
+						<td><font style=3D"font-family: Arial, Helvetica, sans-serif; font-si=
+ze: 15px; color: #4a4a4a;">In 2014 Brazil will host a World Cup and hold an=
+ election=2E Our correspondents discuss the challenges President Dilma Rous=
+seff faces<br>
+						<a href=3D"http://click=2Ealerts=2Eeconomist=2Ecom/?qs=3Dd6abad3c7fed=
+6cf88907a476b3f3bb3a505d0a25d7a873248fb538dc118e7f9310f3a4df3f584a3e" style=
+=3D"font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight=
+: bold; color: #4a4a4a; text-decoration: none; line-height: 30px; margin-bo=
+ttom: 20px;">WATCH <font style=3D"font-size: 20px;">&#187;</font></a>
+						</font>
+						</td>
+						<td><img src=3D"http://brightcove01=2Ebrightcove=2Ecom/5/115319151000=
+1/201401/826/1153191510001_3002295780001_video-still-for-video-300231828400=
+1=2Ejpg" style=3D"margin-right: 10px; margin-bottom: 20px;" align=3D"left" =
+height=3D"75" width=3D"132"></td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table></td></tr></table></td></tr></table></td>
+							</tr>
+                            <tr>
+                                <td><table cellpadding=3D"0" cellspacing=3D=
+"0" border=3D"0" bordercolor=3D"" width=3D"100%" bgcolor=3D""><tr><td><tabl=
+e  width=3D"100%" bgcolor=3D"" border=3D"0" bordercolor=3D"" cellpadding=3D=
+"0" cellspacing=3D"0"><tr><td style=3D"font-family:Arial; font-size:13px"><=
+table style=3D"border-collapse: collapse; border-bottom-width: 1px; border-=
+bottom-style: solid; border-bottom-color: #f0f0f0; margin-bottom: 10px;" bo=
+rder=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"300">
+	<tbody>
+		<tr>
+			<td style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 14px;=
+ color: #e31206; margin-bottom: 20px;"><font style=3D"font-family: Arial, H=
+elvetica, sans-serif; font-size: 15px; color: #e31206; font-weight: bold;">=
+Video</font>                            
+			</td>
+		</tr>
+		<tr>
+			<td style=3D"font-family: Georgia, 'Times New Roman', Times, serif; font=
+-size: 24px; color: #4a4a4a;" height=3D"30" valign=3D"middle"><a href=3D"ht=
+tp://click=2Ealerts=2Eeconomist=2Ecom/?qs=3Dd6abad3c7fed6cf883107444805d474=
+543580ad50d5311e8356f717f5a588e773ea52c2b347220ba"  style=3D"color: #000000=
+">NAFTA turns 20</a></td>
+		</tr>
+		<tr>
+			<td style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 14px;=
+ color: #4a4a4a; margin-bottom: 20px;">
+			<table style=3D"border-collapse: collapse;" border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0">
+				<tbody>
+					<tr>
+						<td><font style=3D"font-family: Arial, Helvetica, sans-serif; font-si=
+ze: 15px; color: #4a4a4a;">We assess the impact of the North American Free-=
+Trade Agreement over the past two decades, and discuss how it might be rein=
+vigorated<br>
+						<a href=3D"http://click=2Ealerts=2Eeconomist=2Ecom/?qs=3Dd6abad3c7fed=
+6cf883107444805d474543580ad50d5311e8356f717f5a588e773ea52c2b347220ba" "=3D"=
+" style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 12px; font=
+-weight: bold; color: #4a4a4a; text-decoration: none; line-height: 30px; ma=
+rgin-bottom: 20px;">WATCH <font style=3D"font-size: 20px;">&#187;</font></a=
+>
+						</font>
+						</td>
+						<td><img src=3D"http://brightcove01=2Ebrightcove=2Ecom/5/115319151000=
+1/201401/3590/1153191510001_3002473112001_20140102-nafta-raw=2Ejpg" style=
+=3D"margin-right: 10px; margin-bottom: 20px;" align=3D"left" height=3D"75" =
+width=3D"132"></td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table></td></tr></table></td></tr></table></td>
+							</tr>
+                            <tr>
+                                <td><table cellpadding=3D"0" cellspacing=3D=
+"0" border=3D"0" bordercolor=3D"" width=3D"100%" bgcolor=3D""><tr><td><tabl=
+e  width=3D"100%" bgcolor=3D"" border=3D"0" bordercolor=3D"" cellpadding=3D=
+"0" cellspacing=3D"0"><tr><td style=3D"font-family:Arial; font-size:13px"><=
+a href=3D"http://click=2Ealerts=2Eeconomist=2Ecom/?qs=3Dd6abad3c7fed6cf8c0f=
+2f2e9ac8301b72c8084e67c906988413053e3eed2e074b1cec2f03965ae84" style=3D"fon=
+t-family:Arial, Helvetica, sans-serif; font-size:12px; font-weight:bold; co=
+lor:#4a4a4a; text-decoration:none; line-height:30px; margin-bottom:20px;">M=
+ORE IN MULTIMEDIA <font style=3D"font-size:20px;">&raquo;</font></a></td></=
+tr></table></td></tr></table></td>
+							</tr>
+                        </table>
+                        <!-- END The Economist debates -->
+                    </td>
+                    <td width=3D"25"></td>
+                </tr>
+            </table>
+            <table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" width=
+=3D"728" style=3D"border-collapse:collapse;" align=3D"center">
+                <tr>
+                    <td height=3D"66"><table cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0" bordercolor=3D"" width=3D"100%" bgcolor=3D""><tr><td><t=
+able  width=3D"100%" bgcolor=3D"" border=3D"0" bordercolor=3D"" cellpadding=
+=3D"0" cellspacing=3D"0"><tr><td style=3D"font-family:Arial; font-size:13px=
+"><div align=3D"center"><font color=3D"red"><b>- ADVERTISEMENT -</b></font>=
+</div><br><div style=3D"text-align: center;"><strong style=3D"font-family: =
+arial; font-size: 12px;"><i>The Economist</i>'s Which MBA? Online Fair</str=
+ong></div><strong style=3D"font-family: arial; font-size: 12px;"><div style=
+=3D"text-align: center;"><strong>February 5th, 6th and 8th 2014</strong></d=
+iv></strong>Thinking about an MBA? Meet dozens of business schools from aro=
+und the world at the Which MBA? Online Fair=2E Chat with admissions officer=
+s, engage with live webinars and download resources=2E Visit five or more s=
+chool booths for your chance to win a free iPad Air=2E&nbsp;<a href=3D"http=
+://click=2Ealerts=2Eeconomist=2Ecom/?qs=3Dd6abad3c7fed6cf8a43a36f29a4741ec9=
+25d1f63ff9b580a2a21d68c707892bb714f3cbe611d2a8a" target=3D"Blank">Sign up f=
+ree or learn more</a></td></tr></table></td></tr></table></td>
+                </tr>
+            </table>          
+            <!-- END Newsletter content-->
+			<table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" width=3D"728" st=
+yle=3D"border-collapse:collapse; margin-top:22px;">
+                <tr>
+                    <td width=3D"23" bgcolor=3D"#f0f0f0"></td>
+                    <td height=3D"62" bgcolor=3D"#f0f0f0" style=3D"font-fam=
+ily:Georgia, 'Times New Roman', Times, serif; font-size:18px; color:#4a4a4a=
+;" valign=3D"middle"><img src=3D"http://image=2Ealerts=2Eeconomist=2Ecom/li=
+b/fe8d1570706d05747c/m/1/economist-footer=2Ejpg" width=3D"76" height=3D"38"=
+ align=3D"absmiddle"> <a href=3D"http://click=2Ealerts=2Eeconomist=2Ecom/?q=
+s=3Dd6abad3c7fed6cf85dcfe5805970a2ddbc501719498798f6ec59e97476dd41e2ee5bb40=
+c903c2dc7" style=3D"font-family:Georgia, 'Times New Roman', Times, serif; f=
+ont-size:18px; color:#4a4a4a; text-decoration:none;">Go to Economist=2Ecom<=
+/a></td>
+                </tr>
+                <tr>
+                    <td width=3D"23" bgcolor=3D"#f0f0f0"></td>
+                    <td bgcolor=3D"#f0f0f0" style=3D"font-family: Arial, He=
+lvetica, sans-serif; font-size:10px; color:#4a4a4a;"><table cellpadding=3D"=
+0" cellspacing=3D"0" border=3D"0" bordercolor=3D"" width=3D"100%" bgcolor=
+=3D""><tr><td><table  width=3D"100%" bgcolor=3D"" border=3D"0" bordercolor=
+=3D"" cellpadding=3D"0" cellspacing=3D"0"><tr><td style=3D"font-family:Aria=
+l; font-size:13px"><font style=3D"font-family: Arial, Helvetica, sans-serif=
+; font-size:10px; color:#4a4a4a;">
+This e-mail has been sent to: <b>erictessenow@web=2Ede</b><br>
+If you'd like to update your details please <a href=3D"http://click=2Ealert=
+s=2Eeconomist=2Ecom/?qs=3Dd6abad3c7fed6cf87e01b13ee9b834773b7255c4494f5a6df=
+4062c08f1f550cbf48a94f6376cbbe1" target=3D"_blank" style=3D"color:#000000;"=
+><b>click here</b></a>, (you may need to log in)=2E<br>
+Questions? Comments? Please <a href=3D"http://click=2Ealerts=2Eeconomist=2E=
+com/?qs=3Dd6abad3c7fed6cf8ec84aaaf1ffd6a4b22e6041b0eb9970bfb8c6b34934a15e8b=
+861940714020759" target=3D"_blank" style=3D"color:#000000;"><b>contact us</=
+b></a>=2E Replies to this e-mail will not reach us=2E
+<br>
+<br>
+Copyright &copy; The Economist Newspaper Limited 2014=2E All rights reserve=
+d=2E<br>
+<a href=3D"http://click=2Ealerts=2Eeconomist=2Ecom/?qs=3Dd6abad3c7fed6cf862=
+570e30c15a28919d42e5bf8a8e57e893f185dbcebb8dca6485b52e4870bb88" style=3D"fo=
+nt-family: Arial, Helvetica, sans-serif; font-size:10px; color:#4a4a4a; tex=
+t-decoration:none;">Advertising info</a> | 
+<a href=3D"http://click=2Ealerts=2Eeconomist=2Ecom/?qs=3Dd6abad3c7fed6cf850=
+4e1a1054e495188b601a7e9aaa0df16ed7928b5c2ad5c7fe0b80495872c8f5" style=3D"fo=
+nt-family: Arial, Helvetica, sans-serif; font-size:10px; color:#4a4a4a; tex=
+t-decoration:none;">Privacy Policy</a> | 
+<a href=3D"http://click=2Ealerts=2Eeconomist=2Ecom/?qs=3Dd6abad3c7fed6cf83e=
+0dca7aed3b9886aca01d374fdf1c9c46b18285cfb151a395640fe59a3fbc24" style=3D"fo=
+nt-family: Arial, Helvetica, sans-serif; font-size:10px; color:#4a4a4a; tex=
+t-decoration:none;">Terms & Conditions</a> | 
+<a href=3D"http://click=2Ealerts=2Eeconomist=2Ecom/?qs=3Dd6abad3c7fed6cf881=
+09ffeb0714ca70073657ae71b37766b0103d2bea8c9c060ca6c13b9d348783" style=3D"fo=
+nt-family: Arial, Helvetica, sans-serif; font-size:10px; color:#4a4a4a; tex=
+t-decoration:none;">Help</a> | 
+<a href=3D"http://click=2Ealerts=2Eeconomist=2Ecom/?qs=3Dd6abad3c7fed6cf81e=
+6f262d019df415b00d9b45a075b862c61494c582432b10d84041f0d516e753" style=3D"fo=
+nt-family: Arial, Helvetica, sans-serif; font-size:10px; color:#4a4a4a; tex=
+t-decoration:none;">Unsubscribe</a>
+<br>
+<br>
+Registered in England and Wales=2E No=2E236383, VAT no: GB 340 436 876<br>
+=
+
+Registered office: 25 St James's Street, London, SW1A 1HG<br>
+<br>
+</font></td></tr></table></td></tr></table>
+</td>
+                </tr>
+            </table>
+			<table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" width=3D"728" st=
+yle=3D"border-collapse:collapse; margin-top:22px;">
+				 <tr>
+                    <td width=3D"25"></td>
+                    <td style=3D"font-family: Arial, Helvetica, sans-serif;=
+ font-size:10px; color:#000000;">
+						
+					</td>
+                    <td width=3D"25"></td>
+                </tr>
+			</table>
+		</td>
+	</tr>
+</table>
+</center>
+<img src=3D"http://click=2Ealerts=2Eeconomist=2Ecom/open=2Easpx?ffcb10-fe96=
+13747166047e70-fdf215787062027c73157472-fe8d1570706d05747c-ff2b12747360-fe2=
+91574736c0775711672-ff2f15797562&d=3D40024" width=3D"1" height=3D"1">
+<br>
+<br>
+
+
+
+
+
+
+
+</body></html>
+
+--7cMyUlzBf8L2=_?:--
+

@@ -1,0 +1,100 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.140.156.21 with SMTP id c21csp150861qhc;
+        Fri, 5 Sep 2014 23:24:14 -0700 (PDT)
+X-Received: by 10.140.92.235 with SMTP id b98mr75823qge.97.1409984652557;
+        Fri, 05 Sep 2014 23:24:12 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 38qcKVBUKDBMBv074tAt4xACB-67Ax84Hz77z4x.v75xA1vCxBBx67FFxu.wx@scholar-alerts.bounces.google.com designates 209.85.216.201 as permitted sender) smtp.mail=38qcKVBUKDBMBv074tAt4xACB-67Ax84Hz77z4x.v75xA1vCxBBx67FFxu.wx@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 38qcKVBUKDBMBv074tAt4xACB-67Ax84Hz77z4x.v75xA1vCxBBx67FFxu.wx@scholar-alerts.bounces.google.com designates 209.85.216.201 as permitted sender) client-ip=209.85.216.201;
+Received: by 10.140.92.117 with POP3 id a108mf108834qge.21;
+        Fri, 05 Sep 2014 23:24:12 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 38qcKVBUKDBMBv074tAt4xACB-67Ax84Hz77z4x.v75xA1vCxBBx67FFxu.wx@scholar-alerts.bounces.google.com
+Received: from mail-qc0-f201.google.com ([209.85.216.201]) by mx-ha.web.de
+ (mxweb102) with ESMTPS (Nemesis) id 0MJRyR-1XNgGu1e1r-0037Zu for
+ <erictessenow@web.de>; Sat, 06 Sep 2014 08:21:39 +0200
+Received: by mail-qc0-f201.google.com with SMTP id c9so1427277qcz.4
+        for <erictessenow@web.de>; Fri, 05 Sep 2014 23:21:38 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=mpmdngXFIfX554mAc1fODlJjXd1V4J7bDHNv3epSf4Q=;
+        b=YQ/LsmE57eM1pDVbH0bMB2Vk0iuAOnCSYAV3PASKYhMRl95mrpWZTe461KzdwTYCdk
+         doUYhBUEXpl4h1mZc0lzKz1SbmqJqTYVVCjgDrDfKi69z4co4NhhuW5FCa1u29gS13xA
+         RlEax8kOsCWlIDo1fQ+c1yWQuWmnWUeUrVTULwe+/NMMiodRP4qHbn92DJhMpgIncZ4I
+         FlpcsCA11owhamHzwIr8Hv0X+oa2bxOf6bexLJ1XEUhxe+xXqa1jBrvLO/k8da7AMlyi
+         tptLRe0zcHZHgF7i2czaV62qsmi/BziajDLR79o+XJiEYxc7utPR2fy5/5doK4M432tX
+         JNIA==
+MIME-Version: 1.0
+X-Received: by 10.236.149.115 with SMTP id w79mr1237475yhj.30.1409984498336;
+ Fri, 05 Sep 2014 23:21:38 -0700 (PDT)
+Message-ID: <20cf303a34ab29851205025f99c6@google.com>
+Date: Sat, 06 Sep 2014 06:21:38 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:u0GCSU2DgrY=:o3F/RkNWle+9PEeqA9Rj2qlskb
+ 7YjJ/v5PGUMu7oatrLgQnxkCsBPTR8y5YBFyyEO7dd0ZRtBVxrKOVAYPhmdcAudae5oa/FSya
+ gRXp58fMEALSff6DXsFvMAuiPJyE0NUrLLIC1mVd7PwNYhW+O9CnOTsrzoigGI6X4fHwKi8nB
+ V8eV15/7HNTka9ZMNHd93BiorTYwInblQkflx4cWtUbSvzcC+/D/ACMk0g1XChMNKwjXkjCyM
+ 6GpPqTrDNLqDJRqKC+b3QC+DnLHyPGEef4qaJKCoA5v/VFZQQTuL/KDBSuJ3MOjzzLeLwcp3K
+ 2WDBpVwoW/9Fr5BNikIAsuHJEk5zam0DjLAXStYsZDva2krj7AUbuUO0NqbjkfT+4SDJpz5JB
+ 2+HO2kyWsvXFRImzztdqOHy8/mdYF1JY5B2pt8zhbU2jYe0LXoqnbDarJ8Bc9uAIQDh0kTrvr
+ YfR/thGrrb9bFPS68i/zFYwI1wOSA8hk46hs+wIiAVf2wB/zkfQb0VLErePtt5d0NXi8Dqaca
+ dMNsFsdjsh8Rac9+4IWg3P+CfcgszNKeYombJlHflVPFAN9igEOqYWzzxbk1ADlwfVZv6NKIS
+ GVbz1qxEau0In7BQ18HPCxPvZ2ganRvciMtrZT84HLKNhoJy9QXpMKK1x2Q3Rd4bIDjZi6b06
+ 3lzUC0go/lIGhgz5KWvfzw4rlWnh+2UAdP0TTDJoqrSjC+phMW0tNlCu8rmBkW6Xki2tKTYnu
+ JtIqj7vTsfNiplPwqcZRn6Ud0jDJR+H5MfgTpaFNS99kiAeYUvGDliJ7lAEuKyvI7+Hy4WeIs
+ g+HA5SWp1qg2YDCsqT3DuuQS6I0X4tR0cj3oTy/Ie2dTfE/ytMb6WjCNQlMtDbJQwt0h0EHRs
+ WsKZtBY2b1mCL6e+w2GL7ZcqdpVPHuQHi6zEzJ+TSfmHfwxJzvyKuAcbfWVTp+rRGi9uxS9cz
+ Wj/nLxsvsmWoKiXw5qrr+yQ5ksjX0wfa2OwPf1piKkDnpivB+dT+/+6JRSaayKdHcwdKh8MlU
+ 9V7n+0sGCF9RQ/yjnP11o3JwdGhxvXYGhYTAebEfp0y7xcMqa90OMvCuvi3NlxHJuqzLD28ie
+ zVRKOA3qk5qQB1WxHCa7xbhmaKUGMgoQhqiSB4J6gO7pkKuxoFf9GwUb02Fldo51YGYAi+SSt
+ fHN1pGNzPpeAeDdSA+eoFmT1VjOYZYutt40Kzy5TZFbIOsdAL1T3C27cp/m4uQksQJr5cMV9i
+ jIkJRdPuxLBMXMX/uL/lh9NQsKKAHN5DDoD3wqLVi1gyY0AY83V/wdmtTeM5gGDSpMAt4Izyn
+ lSdpOHLKPBd9Y8Zn55AvySQcSZXXtWuSNEpwWorOu0OGvNi2V6e5ZrXhbRTeU1HixkXF394m6
+ 3l+AUNFU5O9wlws5OPmeFqSPPveU2XIOCisSKiGxSl3ZK3aLrFmz0l2XNWL0tIRGeexlNkZzw
+ UVFw0qzI7sjselfP4v4F4GveLioyjomqGoCCJ5XX3C/snPORzA
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://search.ieice.org/=
+bin/summary.php%3Fid%3De97-d_9_2522&amp;sa=3DX&amp;scisig=3DAAGBfm1rIFamYFh=
+SZut77OxsrPqE0jFYsw&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab st=
+yle=3D"text-decoration:underline">Semi-Supervised Feature Selection with Un=
+iversum Based on Linked Social Media Data</font></a></h3><div><font size=3D=
+2 color=3D#006621>QIU Junyang, W Yibing, PAN Zhisong, JIA Bo - IEICE TRANSA=
+CTIONS on Information &hellip;, 2014</font></div><div><font size=3D2 color=
+=3D#222222><b>...</b> data. Ow- ing to its favorable performance, we propos=
+e an algorithm called U-SSLFS,<br>
+which integrates Universum regularization with the optimization object to s=
+elect<br>
+features on the <b>linked</b> <b>data</b> in a semi-supervised scenario. <b=
+>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://db.csail.mit.edu/=
+birte2014/files/paper9.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm0WHzymsAVf_B-Qd7id=
+vvmAiKxtQA&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"te=
+xt-decoration:underline">Towards Exploratory OLAP over Linked Open Data=E2=
+=80=93A Case Study</font></a></h3><div><font size=3D2 color=3D#006621>D Ibr=
+agimov, K Hose, TB Pedersen, E Zim=C3=A1nyi</font></div><div><font size=3D2=
+ color=3D#222222><b>...</b> converting the Web of Documents into the Web of=
+ Data. According to the stan- dards, to facilitate<br>
+a discovery of the published data, these data should comply with <b>Linked<=
+/b> <b>Data</b> principles [31].<br>
+RDF was chosen as a standard model for data interchange on the Web [33]. <b=
+>...</b>=20
+</font></div><br><p><hr noshade size=3D1><font size=3D2 color=3D#222222>Die=
+ser Google Scholar-Alert wird Ihnen von Google zur Verf=C3=BCgung gestellt.=
+<br><br><a href=3D"http://scholar.google.de/scholar_alerts?view_op=3Dcancel=
+_alert_options&amp;email_for_op=3Derictessenow%40web.de&amp;alert_id=3DAIfe=
+vv3NkPcJ&amp;hl=3Dde"><font color=3D#1a0dab>Alert stornieren</font></a><br>=
+</font></div></body></html>

@@ -1,0 +1,108 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.112.221.138 with SMTP id qe10csp98103lbc;
+        Sat, 26 Jul 2014 07:01:58 -0700 (PDT)
+X-Received: by 10.112.158.199 with SMTP id ww7mr8612327lbb.71.1406383316481;
+        Sat, 26 Jul 2014 07:01:56 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3q7TTUxUKDAg0kpwtizitmz10-vwzmxt6owwotm.kwumzqk1m00mvw44mj.lm@scholar-alerts.bounces.google.com designates 209.85.219.74 as permitted sender) smtp.mail=3q7TTUxUKDAg0kpwtizitmz10-vwzmxt6owwotm.kwumzqk1m00mvw44mj.lm@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3q7TTUxUKDAg0kpwtizitmz10-vwzmxt6owwotm.kwumzqk1m00mvw44mj.lm@scholar-alerts.bounces.google.com designates 209.85.219.74 as permitted sender) client-ip=209.85.219.74;
+Received: by 10.152.149.84 with POP3 id ty20mf2526202lab.14;
+        Sat, 26 Jul 2014 07:01:56 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3q7TTUxUKDAg0kpwtizitmz10-vwzmxt6owwotm.kwumzqk1m00mvw44mj.lm@scholar-alerts.bounces.google.com
+Received: from mail-oa0-f74.google.com ([209.85.219.74]) by mx-ha.web.de
+ (mxweb108) with ESMTPS (Nemesis) id 0M4G6h-1WJLv51kw7-00rnIT for
+ <erictessenow@web.de>; Sat, 26 Jul 2014 16:01:16 +0200
+Received: by mail-oa0-f74.google.com with SMTP id eb12so1575754oac.3
+        for <erictessenow@web.de>; Sat, 26 Jul 2014 07:01:15 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=e0KExuQIVqBBJPzauXyXXshEs5QFSBpMJ1/dQ2PLRzw=;
+        b=nf1x31TuhPn9IgzVmyf8sE3GeRyYsEg//qYflI1AqJ/BEL9D0HXb1gxcdXYkKTm7ws
+         rdvXOKtgF3T/vmEN5CT3AY2lcwNpv5crIOzY2GBu7DYCR/f1iciBDga0YHJJu/qnzOr/
+         Kehax5VuNKSXn8VC8TURvB8dLfOa9daElMN2oRduqEqs6O3lkCxOvzaXqtQ7uOw7ZgGl
+         a3/CDCxwtKjkjHf90mR1tYA+OBEmT0fJsNteN2ctyNO0zO5xi6BvV2tLkquSLEPTCdNQ
+         mO2vXmg4JC8en8t7v8eoCo8w68DZU70X68lTM0YVfItxUQHVu6tkVkeizBvFBkESGkpM
+         26jA==
+MIME-Version: 1.0
+X-Received: by 10.182.43.196 with SMTP id y4mr10221512obl.35.1406383275153;
+ Sat, 26 Jul 2014 07:01:15 -0700 (PDT)
+Message-ID: <001a11c324f4889b1804ff191fca@google.com>
+Date: Sat, 26 Jul 2014 14:01:15 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:ZlZ6qIN4obY=:5fCNQ1Tc1vhb050NGOnZTjFklZ
+ c+L3iw/jBASzA5BF9C6Zt6yDGMcOfD1L+qSC2iHj8jmE2AM8nQtXS+H/NRgv9Sg2I/7p6TDPO
+ M50YL9Pj17H5llCOqgTLV8fGIriiFD3Tdn6Loi59iXs+kkDiqSl9/n1XnoH5sFAGIVTB7SILT
+ B78QvySmG3M8Ui0CMUBhocVmP/2lJr8fhpPBgl/udnGlyXqnnE9LhHXXF3VFiTOhOO6+2FafP
+ Bj7oDolei2SdNgcgyLRozivOKYigmhcaZzAGIK6v5F2J2TXMOURSCG5gOdtWmq7mkJHvQ0Dgj
+ d6dRAqs+32LJFePXshddfCJGC7TUTtMy3SlZo3q/qjFr2modkqLJEATVc8i7G4LxbaVwhGH2Q
+ 7fyLRemJZMN9jRIXT0zjLfSJiAhixpmoF6lC4KSTXcfxLEGVq8PqnJBLcawuxpgRJDHXkCHDM
+ W2m2/iA5c1mf7CHo0FkrU7W/oHOxYRUVouqcgBEZeF4k3v6KmtHtzstsOtEHmLA2N/BDktbmr
+ sSAigpMh5FWWHB6qUzJTqhtAKj356ZBM8lbYevbiMVcKIbzlVdoTp/KwsCaRkMqk3b2FDaRLK
+ usSJjwDQpw1PQINj2uo9PjLw8okJY+b1PV59VJoN9J60hz03YjkcsaNS6yrfMm75KzHCv2AOv
+ f3/+NafMLjPSKR8Gapu4DnRjk90Ne1mfnXEvA5bNug4NhLZyDjBCyreRIX7IXBAnjKRS+ybGE
+ 1Acrjzsc8kC/RUHrhGlQD1x4PueyoIqpFrhA5n2dnngV6MNbdjiyn/Ih9ZXOL4ePQvpWeBE0h
+ C14sbrJrbVcFcVctnnzMf6g+UJI/3MfN/VwSuLZcnYfxRtqSJ1uPOZd8gsmY7Rfi5QMDRQJA1
+ VCsUZvngE8KcFY74TT/nWuQaW8Y7B8sHOe2YYOLAxG0E390eaLqfYPLw8uPg16nT4LudUDwob
+ HXVV72fdSuQAP47nefJbq70CtjRR7clcdZnkVasW3AmZLih5dv28MTB+POayVQXbPiWSwY8uc
+ WgonYmLRlyA49GzCFnNkL2ntHKNcRa8T/Eo0szzr/fDWPFdxSmyQ7KB20AuwpIANypBAUXXem
+ ummPOlQdhVJc4Q0Am8iklTAiaWcPqHHqQ/WY1Dl/F5FeemkD2ALdP4ZqpN1vIhbRIfuFRHqHw
+ 2TQawL2h3KJR6vTTzkjZwG5As+MmUBPRE3lLM39wOl3UERvNhhsBmwkj4YG6YTExjKx8rHTEf
+ CPFt1esFUyOPg6xKARJyiRWDmsvDt5xQtdJ+RxGElZ4eGePAjKASMrgUJteWjWo2QteF2MmO2
+ kWi5
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://onlinelibrary.wil=
+ey.com/doi/10.1002/bjs.9568/full&amp;sa=3DX&amp;scisig=3DAAGBfm0CbpzuNi57jV=
+Vx8N5YUrZgHeZL0Q&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=
+=3D"text-decoration:underline">Outcomes after endovascular or open repair f=
+or degenerative descending thoracic aortic aneurysm using linked hospital d=
+ata</font></a></h3><div><font size=3D2 color=3D#009933>RS von Allmen, A Anj=
+um, JT Powell - British Journal of Surgery, 2014</font></div><div><font siz=
+e=3D2 color=3D#222222><b>...</b> Identification of patients who had undergo=
+ne descending thoracic aortic aneurysm repair.<br>
+The <b>linked</b> <b>data</b> set provided by HES contained all episodes wi=
+th the diagnosis codes for<br>
+thoracic aortic aneurysm between 1 January 1999 and 31 March 2011. <b>...</=
+b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://semantic-web-jour=
+nal.net/system/files/swj714.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm08d9-WXbrpi5i=
+ws4kEzlVAINM1-w&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=
+=3D"text-decoration:underline">ADERIS-Hybrid: A Distributed SPARQL Query Pr=
+ocessor for Querying the Web of <b>Linked Data</b></font></a></h3><div><fon=
+t size=3D2 color=3D#009933>S Lynden, A Matono, A Nakamura, H Ogawa, M Yui&h=
+ellip;</font></div><div><font size=3D2 color=3D#222222>Abstract. Integratin=
+g distributed RDF data is facilitated by <b>Linked Data </b>and shared <br>=
+ontologies, however executing queries over distributed SPARQL services can =
+be costly, time <br>consuming operations. Querying the Web of <b>Linked Dat=
+a </b>is further complicated due to the <b> ...</b></font></div><br><h3 sty=
+le=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a hre=
+f=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://researchba=
+nk.rmit.edu.au/view/rmit:160797&amp;sa=3DX&amp;scisig=3DAAGBfm1g3JpBPaKidyD=
+fMQHI2u0qcTjYHA&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=
+=3D"text-decoration:underline">User interfaces supporting entity search for=
+ <b>linked data</b></font></a></h3><div><font size=3D2 color=3D#009933>F Al=
+ahmari</font></div><div><font size=3D2 color=3D#222222>Abstract One of the =
+main goals of semantic search is to retrieve and connect information <br>re=
+lated to queries, offering users rich structured information about a topic =
+instead of a set of <br>documents relevant to the topic. Previous work repo=
+rts that searching for information about <b> ...</b></font></div><br><p><hr=
+ noshade size=3D1><font size=3D2 color=3D#222222>Dieser Google Scholar-Aler=
+t wird Ihnen von Google zur Verf=C3=BCgung gestellt.<br><br><a href=3D"http=
+://scholar.google.de/scholar_alerts?view_op=3Dcancel_alert_options&amp;emai=
+l_for_op=3Derictessenow%40web.de&amp;alert_id=3DAIfevv3NkPcJ&amp;hl=3Dde"><=
+font color=3D#1122cc>Alert stornieren</font></a><br></font></div></body></h=
+tml>

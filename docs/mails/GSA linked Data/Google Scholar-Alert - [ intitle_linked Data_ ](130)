@@ -1,0 +1,140 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.140.237.204 with SMTP id i195csp641987qhc;
+        Thu, 12 Mar 2015 22:38:53 -0700 (PDT)
+X-Received: by 10.140.43.11 with SMTP id d11mr56639758qga.95.1426225131765;
+        Thu, 12 Mar 2015 22:38:51 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3vGsCVRUKDEs5pu1yn4nyr465-014r2yBt11tyr.p1zr4vp6r55r0199ro.qr@scholar-alerts.bounces.google.com designates 209.85.160.201 as permitted sender) smtp.mail=3vGsCVRUKDEs5pu1yn4nyr465-014r2yBt11tyr.p1zr4vp6r55r0199ro.qr@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3vGsCVRUKDEs5pu1yn4nyr465-014r2yBt11tyr.p1zr4vp6r55r0199ro.qr@scholar-alerts.bounces.google.com designates 209.85.160.201 as permitted sender) client-ip=209.85.160.201;
+Received: by 10.140.87.116 with POP3 id q107mf6552373qgd.29;
+        Thu, 12 Mar 2015 22:38:51 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3vGsCVRUKDEs5pu1yn4nyr465-014r2yBt11tyr.p1zr4vp6r55r0199ro.qr@scholar-alerts.bounces.google.com
+Received: from mail-yk0-f201.google.com ([209.85.160.201]) by mx-ha.web.de
+ (mxweb105) with ESMTPS (Nemesis) id 0MXb34-1Z1Xsh0jiQ-00WVyL for
+ <erictessenow@web.de>; Fri, 13 Mar 2015 05:46:53 +0100
+Received: by ykp131 with SMTP id 131so3426028ykp.0
+        for <erictessenow@web.de>; Thu, 12 Mar 2015 21:46:52 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=twqTKfXQTr06of1ql9fmvzK6W/9h4qJI97nnZa4Q+yk=;
+        b=C0efFQh3LZw2qQ23d7nXN0SJX3ezqw1N0YJ78SR3bXPISF5Q4r1qRtyX2ogCO46S8s
+         jQHx4sDWTs33eDaG7iIbS1Yjy/MZ4zSB3CTKDmtEgt9FUuo31DiNUhacn4OiWXIyQMpu
+         pkEnacw7CTkYI+kY8i9HyBZSkqhmJ8s4N3VpmIwIYYhkgEhhLdPIbR4LUnf6PqEMc6c5
+         5ZCrcT/65YBcrUqFs7rPdVBK77CJdActlCSe9/+6GVEqtdaYaPxRkeK/RNQ5EtUcn1vL
+         OFeWzSIdsHCotr71SmWzm+xShqtRkZQdNlIzMRdCAqhxA6B/JVPBP0333SlNf6vwH2bj
+         m3Zg==
+MIME-Version: 1.0
+X-Received: by 10.140.149.130 with SMTP id 124mr24122822qhv.0.1426222012108;
+ Thu, 12 Mar 2015 21:46:52 -0700 (PDT)
+Message-ID: <001a1136feb6670fb605112430ff@google.com>
+Date: Fri, 13 Mar 2015 04:46:52 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:YUXduv3RC/s=:fo8Glqne5GSKy+YafihNN7fEmv
+ +m7RNPdaa/xmj8g+5WWYGWWm5c5MkREZ5i/OHFq+XQt9bGxljAZ3TP7G/CeXNqNKRrkRfdWs9
+ QEZdbJHBllhwujhgAefqckW0tsHVmlptJ5Un7rYrU7qS6QczBZWkxPvjfl7Nx4/LW9EjEqlYA
+ VRuMUfkY+21RXZPsfYxNdIx8PjpdWcv3uIgKvfTe9wv1HdbUFkEFGObXi6h6/68yIBVdb9wBO
+ FkQ26XmU4K5k0HBbyZtal12pmsnQeAs8inirIYceXFJ9NxQ42CMARMGn3E6lszzuFVJ0ozxji
+ mUAh5bJhcetEHfUH+hzVQVy41wHf6BRoTx6OhcVLiwsjcM8tnzIKnE8fQZrpa+UnOEwR6C7sd
+ g1sAhU2uA2QKriugZS4PDgQseQ/jFvJaLWCKhLpIygbu/r9yR32mkN9gUDhqohtJBlIwJ8vHl
+ 5/MyuobrkbapHLqaZXhgkssA2BON8iAtGbIm46g+NjkE3DR1yaOQfQ7LDk6WO503EJkujoYnE
+ DJvXSJigDiV3w4smddP7nQxUV2WSOKSXzMmcFvYBRUegL7EvZdMWL3dC2e486PBGvqw/MmpJt
+ 4C7QOQVSnjFjFk+HdDvEEL9GCG0widvHcyHX0RYi+nlnlq1L+mc5UL/GYSsTEOXawv63ZbUZo
+ oaRNIYMS/+leHjfVrePDnwN2D7YfZqwpkeQSkO93wQ/vFS29TAzdO2s+K7WN66ry9f3nNoCBO
+ W/8qc64lW4KToOics8b3S5tD6QIpQZVpPdNOoc7/OKARdztTbGGKjyc5apqjBQ3ZM4OWPQqFk
+ XsBHdwOVTqSWKXPFOAnt9o4K9Dq32Z3roElg3v9Sa5XbphX8vpe/KTInkz2lpSF5voi102Zbc
+ /AhrH9A/iAVx2xm9Q3oyjxaYydG3bcqleJdijvO8k12z+fJ+RGcP1H54PJ2zikbFxdHTNAA+L
+ jB0lcU9GgaO9+ZyqRvf1rigK6TBv480krG+wlqcgrgbzc0u1gy+Gt+UnlE0sEL6nIMtKvtar+
+ iwBwjFktmBsZEvmijuzvkwOpKP8a+PHwNW8jTc0LlrFXBnk6yt2bVgFyr7YMeDLpeJZ1Gidu+
+ J6SjM1rYpw+JWRWlaGytMxfc6ShYt58VJrowDLKySlst405uqHI7OjMXYIZl/LbG4uksknn78
+ 0aP3AbuSNscO6ldUVk9akJ9xqtUbzVGgjMSUNaUyjriEScFG/I5sF6WIcneKbrmemqORjEogJ
+ OSBsIFZRoTN4TIEwBLbCtprsHWyVMZsKU6+jvLqSESyXyy7P7vUTtwm8UWzhuYpwUF4I64WLF
+ 8TmN
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D=
+2 color=3D#1a0dab>[HTML]</font> <a href=3D"http://scholar.google.de/scholar=
+_url?url=3Dhttp://dx.plos.org/10.1371/journal.pone.0118599&amp;hl=3Dde&amp;=
+sa=3DX&amp;scisig=3DAAGBfm2C6CQUx5GubhEas57xj9YP42LlxQ&amp;nossl=3D1&amp;oi=
+=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:und=
+erline">The Relationship between Body Mass Index and Hospitalisation Rates,=
+ Days in Hospital and Costs: Findings from a Large Prospective <b>Linked Da=
+ta </b>Study.</font></a></h3><div><font size=3D2 color=3D#006621>RJ Korda, =
+G Joshy, E Paige, JR Butler, LR Jorm, B Liu&hellip; - PloS one, 2015</font>=
+</div><div><font size=3D2 color=3D#222222>Background Internationally there =
+is limited empirical evidence on the impact of overweight <br>and obesity o=
+n health service use and costs. We estimate the burden of hospitalisation=
+=E2=80=94<br>admissions, days and costs=E2=80=94associated with above-norma=
+l BMI. Methods Population-<b> ...</b></font></div><br><h3 style=3D"font-wei=
+ght:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"http://sc=
+holar.google.de/scholar_url?url=3Dhttp://dspace.ucuenca.edu.ec/handle/12345=
+6789/21392&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm203CdPqZiQuUT8UyWELyEh=
+WoiHAg&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab s=
+tyle=3D"text-decoration:underline">Una aproximaci=C3=B3n basada en <b>Linke=
+d Data </b>para la detecci=C3=B3n de potenciales redes de colaboraci=C3=B3n=
+ cient=C3=ADfica a partir de la anotaci=C3=B3n sem=C3=A1ntica de producci=
+=C3=B3n  &hellip;</font></a></h3><div><font size=3D2 color=3D#006621>N Pied=
+ra, J Chicaiza, E Cadme, R Guaya - 2014</font></div><div><font size=3D2 col=
+or=3D#222222>In this paper, a framework based on semantic Web technologies =
+is presented to detect <br>potential collaboration networks. The collaborat=
+ors are identified through a semantic <br>enrichment of scientific articles=
+ produced by researchers who publish with Ecuadorian <b> ...</b></font></di=
+v><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;max-width:4=
+4.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"http://schola=
+r.google.de/scholar_url?url=3Dhttp://www.researchgate.net/profile/Benedikt_=
+Lutz/publication/273130078_Wissen_verndert._Beitrge_zu_den_Kremser_Wissensm=
+anagement-Tagen_2014/links/54f866740cf2ccffe9df150a.pdf%23page%3D45&amp;hl=
+=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm2FggL_CTqXo9BLiB9xGx8GLq2scQ&amp;nossl=
+=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-dec=
+oration:underline"><b>Linked Data</b>=E2=80=93The End of the Document?!</fo=
+nt></a></h3><div><font size=3D2 color=3D#006621>C Dirschl - Wissen ver=C3=
+=A4ndert</font></div><div><font size=3D2 color=3D#222222><b>Linked Data</b>=
+=E2=80=93The End of the Document?! Christian Dirschl Chief Content Architec=
+t, Wolters Kluwer <br>
+Deutschland GmbH cdirschl@ wolterskluwer. de 1 The truth about documents Fo=
+r centuries, <br>
+documents in books were the major distribution channel for in- formation of=
+ any kind. <b> ...</b> </font></div><br><h3 style=3D"font-weight:normal;mar=
+gin:0;font-size:medium;max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PD=
+F]</font> <a href=3D"http://scholar.google.de/scholar_url?url=3Dhttp://www.=
+iiis.org/CDs2014/CD2014SCI/IMETI_2014/PapersPdf/IA009GK.pdf&amp;hl=3Dde&amp=
+;sa=3DX&amp;scisig=3DAAGBfm1CBRf0WCbg0mLJguY7rLwUng13bQ&amp;nossl=3D1&amp;o=
+i=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:un=
+derline">Image-inspired Approach of Literal Node Identification in Linked O=
+pen Data</font></a></h3><div><font size=3D2 color=3D#006621>T Kawamura, S N=
+agano, A Ohsuga</font></div><div><font size=3D2 color=3D#222222><b>...</b> =
+Shogi 1. INTRODUCTION The goal of this paper is to connect literals (string=
+ values<br>
+without URI) of triples &lt; Resource, P roperty, V alue &gt; as much as po=
+ssible, and to<br>
+create =E2=80=9C<b>linked</b>=E2=80=9D <b>data</b> of the original meaning.=
+ DBpedia, which <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttp://www.semantic-web-journal.ne=
+t/system/files/swj1038.pdf&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm2v8BCd=
+A0y4lXYp2LotKvAq0RItOQ&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 c=
+olor=3D#1a0dab style=3D"text-decoration:underline">The debates of the Europ=
+ean Parliament as Linked Open Data</font></a></h3><div><font size=3D2 color=
+=3D#006621>A van Aggelen, L Hollink, M Kemman, M Kleppe&hellip;</font></div=
+><div><font size=3D2 color=3D#222222>Page 1. Undefined 1 (2014) 1=E2=80=935=
+ 1 IOS Press The debates of the European Parliament<br>
+as Linked Open Data Astrid van Aggelena, Laura Hollinka, Max Kemmanb, Marti=
+jn<br>
+Kleppec, and Henri Beundersc a Department of Computer <b>...</b>=20
+</font></div><br><p><hr noshade size=3D1><font size=3D2 color=3D#222222>Die=
+ser Google Scholar-Alert wird Ihnen von Google zur Verf=C3=BCgung gestellt.=
+<br><br><a href=3D"http://scholar.google.de/scholar_alerts?view_op=3Dcancel=
+_alert_options&amp;email_for_op=3Derictessenow%40web.de&amp;alert_id=3DAIfe=
+vv3NkPcJ&amp;hl=3Dde"><font color=3D#1a0dab>Alert stornieren</font></a><br>=
+</font></div></body></html>

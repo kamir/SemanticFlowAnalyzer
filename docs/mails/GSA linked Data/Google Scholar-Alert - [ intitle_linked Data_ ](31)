@@ -1,0 +1,87 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.64.31.33 with SMTP id x1csp398359ieh;
+        Sat, 21 Jun 2014 04:23:07 -0700 (PDT)
+X-Received: by 10.42.111.135 with SMTP id u7mr1359507icp.80.1403349787022;
+        Sat, 21 Jun 2014 04:23:07 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3lWqlUxUKDKIUEJQNCTCNGTVU-PQTGRNaIQQING.EQOGTKEVGUUGPQYYGD.FG@scholar-alerts.bounces.google.com designates 209.85.223.202 as permitted sender) smtp.mail=3lWqlUxUKDKIUEJQNCTCNGTVU-PQTGRNaIQQING.EQOGTKEVGUUGPQYYGD.FG@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3lWqlUxUKDKIUEJQNCTCNGTVU-PQTGRNaIQQING.EQOGTKEVGUUGPQYYGD.FG@scholar-alerts.bounces.google.com designates 209.85.223.202 as permitted sender) client-ip=209.85.223.202;
+Received: by 10.64.148.102 with POP3 id tr6mf1682360ieb.4;
+        Sat, 21 Jun 2014 04:23:06 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3lWqlUxUKDKIUEJQNCTCNGTVU-PQTGRNaIQQING.EQOGTKEVGUUGPQYYGD.FG@scholar-alerts.bounces.google.com
+Received: from mail-ie0-f202.google.com ([209.85.223.202]) by mx-ha.web.de
+ (mxweb001) with ESMTPS (Nemesis) id 0Ma0dT-1XHD9F3GD1-00LnO1 for
+ <erictessenow@web.de>; Sat, 21 Jun 2014 13:20:55 +0200
+Received: by mail-ie0-f202.google.com with SMTP id tr6so1170348ieb.3
+        for <erictessenow@web.de>; Sat, 21 Jun 2014 04:20:53 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=PCkXJYILV78pIwxft+JpJsLTHvDXQqRDbWR898DOR00=;
+        b=ihQEMHqPsvRB+RErvUYDZ40qUOQL4Mqbit0+jhJIPB0YTWfrvquP8JaY9jsZ8A+HSP
+         acAd7ngz1wl8yAjnvUv7xqmco1VwOlnhZUOm6YrNv5WXGWaNN7wUKkdvHBQ4cLLwFwaZ
+         0U7LUH648HFBVif+rHmgLQnRV4cK4bxnm3NwwGAxgp5trFrXTE+YCtrhvbos3+9X/y+H
+         gsDgQUJlcNVNqE/9aKazW/RHIxt1P0UXNgbU7jl5R+Mv+3B9F+p031LtH7BZHoUxV2u4
+         qvyGLkugrOITB16n2XbvQRmheQwD+4B5zO38fbFPa+0u9nlTjoNirqbmMmT8bSF8cCCE
+         vUTw==
+MIME-Version: 1.0
+X-Received: by 10.182.29.1 with SMTP id f1mr4053268obh.23.1403349653575; Sat,
+ 21 Jun 2014 04:20:53 -0700 (PDT)
+Message-ID: <001a11c2c29898d73804fc56cd3a@google.com>
+Date: Sat, 21 Jun 2014 11:20:53 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:3mubtQCbbc8=:AAJa0vBX1ONIwzroAid/wbweh6
+ QOwjIudRpUfI++1zkXAtbJ45VE0GrhooVnOXVbCGnxlBF8INhwvkfpZDtR9ddcp0mo0+Yydtm
+ g8tIqnEHt62kumZhGWfHbAmSrvMKVf0dME/13+x3MgceyAzHz8dbQn8BIA+EF0bAwpRL1lI+8
+ wnIu78pAYjjL4pwQR348oqu36AhD2jWYTI5wEVy6wWX/uirTvcJ35vcWV4yeCRhldxEjpmgf6
+ CSMQGOfX+tC1JifqLgNKTsN34qJ6g0JIijEg/RQvlty8O6sLyA9vAk2G9bSyfN0/nLofnYdhx
+ U0av7IvosAtRjDUehL6ypdwDPQa70s2rjNYau8Svv9dzVscwPOC/Wh2N1klpk4UjuKPI+4NJq
+ NfVsh/bDfHWtxa6zmxsAaAYngY3TTADBUYjQsex20/5MmEnhCqqAjQ9kTg+UGm5P3DIBhzZTR
+ 1yQBC8NTawLyGxqIOWFr1sA4Olzf0GVqFcQ7qrPOMkOVdf10DnIPhBwsjIfC8XWkPfc9GmtwZ
+ 0JSVQ5N27KM5+iCtGJRCxkGVLdOhYd59IouIsAjfklvaMlCV7xXxg/26p4LwhfPEDSVHmhoC6
+ OrqPXKUvCH3H887VRYay37lPnfMcECcrk7YGYjNzxClmX4IFfwfztn+yboVfwKtFGt+Ly6jWr
+ B1aAx1bPbe3tnmbrrRp+UdWq/PBtCK0qnRuYlbZTgzOBPtJ6fMZLUZOl0whDMcTjECDykzLGy
+ DUU2rYCrHwn6VV0/QIkBVWszugKslx+zdkXT0Oj1G2V2FLlWNYyZWiueDDHzh0Ul00YQOaTrN
+ H2dYduul3d5ofFcpYZrNAApyOhj9jan6iDJJIPUy9uzVJP+ktWhOqGtCENfytnHZ9mq65KK10
+ nM4PB3pZjyFmVsU0RCXx55GHl6bqye4QUeqOKGLy6EALfiNwgJ0VmD4jcjt7hNGZMeqqgeQlQ
+ g1qQQDGC6Lyc+PnWuTdpFFDP5UpW3+GkjJPU0tg5xlMVKl0DHlDurswGPLUVvvSBShiobx7qW
+ WDjaB8m4y2xHwA1G/kqZ1iBxE5VomPtnSh48B/RfBdWxq2TNwuEEXRckJQDzZK+2/w/+LbBEG
+ oVLsa9LaMka8aDUydbJ3ozDllg3T/Xt+5HgT1YChSOy7jwqzI0rOD92IbojcdaaLf33aTM0eJ
+ XvITOnAeJ7ok26ZdczPQj2/3LT/AXtHFrqpKcs8WlktnXSA/saSiwNgB4Hn6L9gfVsLBtSIHA
+ 63/7Trk83Vdl/772m3ZkznG39/MOQqGGWRNf0WnYsHNN7rDdQNXusceWiKgK27Hh7dltEt7fB
+ kOfylr7i5UcQPQO9NVk0nERxBOP8q7qTRDmo4oaWc5W3BaUWfWna0EPoiIILQFDT2roF6zNAE
+ xyAudxsn/eRvD1fStY0KsiVuc7aD0pwLQJyw5xqncYdUUUJqQ3JMFCfSVE/VaFmndQRu7HFRw
+ nFbrks/BuMPjvdQUjMMTlorVaNUM5yyJKLUPkoWwTbfZxHZEOw
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://onlinelibrary.wil=
+ey.com/doi/10.1111/birt.12114/full&amp;sa=3DX&amp;scisig=3DAAGBfm1-GMbHQYMR=
+Ro6I8-qyhzJSQ_A0ng&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc sty=
+le=3D"text-decoration:underline">Maternal Morbidity of Women Receiving Birt=
+h Center Care in New South Wales: A Matched=E2=80=90Pair Analysis Using Lin=
+ked Health Data</font></a></h3><div><font size=3D2 color=3D#009933>PJ Laws,=
+ F Xu, A Welsh, SK Tracy, EA Sullivan - Birth, 2014</font></div><div><font =
+size=3D2 color=3D#222222><b>...</b> The comprehensive <b>linked</b> <b>data=
+</b> set allowed for examination of safety, in terms of morbidity factors,<=
+br>
+and for control of several factors not examined in previous analyses [4], s=
+uch as socioeconomic<br>
+status, and institutional factors including co-location, date of the birth,=
+ and staffing <b>...</b>=20
+</font></div><br><p><hr noshade size=3D1><font size=3D2 color=3D#222222>Die=
+ser Google Scholar-Alert wird Ihnen von Google zur Verf=C3=BCgung gestellt.=
+<br><br><a href=3D"http://scholar.google.de/scholar_alerts?view_op=3Dcancel=
+_alert_options&amp;email_for_op=3Derictessenow%40web.de&amp;alert_id=3DAIfe=
+vv3NkPcJ&amp;hl=3Dde"><font color=3D#1122cc>Alert stornieren</font></a><br>=
+</font></div></body></html>

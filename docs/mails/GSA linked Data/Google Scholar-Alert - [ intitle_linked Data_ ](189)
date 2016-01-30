@@ -1,0 +1,164 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.182.191.37 with SMTP id gv5csp2154865obc;
+        Tue, 15 Dec 2015 01:24:22 -0800 (PST)
+X-Received: by 10.182.97.138 with SMTP id ea10mr28316885obb.54.1450171456836;
+        Tue, 15 Dec 2015 01:24:16 -0800 (PST)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 32dtvVhUKDAo2mryvk1kvo132-xy1ozv8qyyqvo.mywo1sm3o22oxy66ol.no@scholar-alerts.bounces.google.com designates 209.85.192.202 as permitted sender) smtp.mailfrom=32dtvVhUKDAo2mryvk1kvo132-xy1ozv8qyyqvo.mywo1sm3o22oxy66ol.no@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 32dtvVhUKDAo2mryvk1kvo132-xy1ozv8qyyqvo.mywo1sm3o22oxy66ol.no@scholar-alerts.bounces.google.com designates 209.85.192.202 as permitted sender) client-ip=209.85.192.202;
+Received: by 10.202.65.130 with POP3 id o124mf539346oia.2;
+        Tue, 15 Dec 2015 01:24:16 -0800 (PST)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: <32dtvVhUKDAo2mryvk1kvo132-xy1ozv8qyyqvo.mywo1sm3o22oxy66ol.no@scholar-alerts.bounces.google.com>
+Received: from mail-pf0-f202.google.com ([209.85.192.202]) by mx-ha.web.de
+ (mxweb109) with ESMTPS (Nemesis) id 0MDByq-1a15FP2Xme-00GcJq for
+ <erictessenow@web.de>; Tue, 15 Dec 2015 10:22:36 +0100
+Received: by mail-pf0-f202.google.com with SMTP id n128so173684pfn.1
+        for <erictessenow@web.de>; Tue, 15 Dec 2015 01:22:35 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=0CvYqRubA9PRh+tHIGbjLFpOGQUqoKqJzitE8wS44CQ=;
+        b=LuTOIJ7SSz3QXwugXrKVOxWvbkAFIMSCkKWrK33Jaa3C2c9DHpJMs+TSTSC5cmJOwI
+         xtO8cGvM9vmwbK6pEfjuOB+HQlouJ7QYDEgYCymzPWT9nL1Nr8Jv7Q4LO6hE1YAqWjVe
+         GT572HJ2c21irx1WRYgP0nBu9iRJokE92YiX0hLLQDsCGQ/CFdEaJdqtDRfUokgnHFC4
+         H4T+5oTdI+r5oxWDyAcb4LnJSk2nqz9MkC9Cf762qIi0egrvv134mB5t4YI4VzRFU+qp
+         1hE9uwV0NBrJIwRygPLD37y31VEldCggMSRh8VmeTw7b0TpVrjL69drJbvQlEi/1KCXi
+         7wTw==
+MIME-Version: 1.0
+X-Received: by 10.98.80.196 with SMTP id g65mr24920452pfj.14.1450171353798;
+ Tue, 15 Dec 2015 01:22:33 -0800 (PST)
+Message-ID: <001a114619446819a50526ec5412@google.com>
+Date: Tue, 15 Dec 2015 09:22:33 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:4oXv1TRU9aU=:GhThd0cL9wIui1JBUDSDYT3N6x
+ 8db/iOeAHzWpPujPAXxLeCun1vu8wo5A5MgBBos1Prc3PBJpuS2qSyGiqATEDiTbZRb/FXP5t
+ 83VtERscnbhcEW+nqaA3ff2FNNBs7J+AAxSfm/KoWQtlWH74dnaKqKfotijvJp0gd15I4+bC3
+ Lm9f4WjjbhoDK/CMx63zifI0rjac427gWaiFOWgLX3G3dpeIil42fJKGnQgiglGElA6LyWAsv
+ xN3yg8eWeB7b7iZEQ83SWyoCLS9sz+Ryd29/F53OvThNmbwW47E8wp+0I1HwnH7MIfS2Dyger
+ 7eNliOBy19LjoYkBUDyuYx9Bw3xlisHMolNQ2Kw9c7xH26awX12rRHG2DOIWSN2umX7A6aGIV
+ qPeXh+AnN/en5EBL7uLWpfy8yHUeVHMOzUyAVjK4QfQyvOmwgamwb2v9hhElHH2n1TJQmLr+Z
+ e7Xl6CerMZeCJ0KTasCMeUc5S8CGeHA8Uj0FqE5jXUV/J/FtG/sJKpzH0mNDhDhUgFp8nYsYX
+ SmOSz8r30zpYMQG6fcPakTmt6FtyEnzvq08N02OUIuxMxvpjPMHPQ711I8HAexbHNjB+Q06Y7
+ Eini5r2vIQhvi9ihFgu60cUSDI5pDTccOqVKGrz8EF9isfSc5kMF1wuwu7/4x1cCgnCyCqGIe
+ VdZUJgj8GzkR4Lz6MQVYcGJ2MgrAjVguKYPyQboX+4E/Qzp/U+qzMKvZrKKQI9aoR7NImuYTd
+ iHOK9rjpviujTY5UFPgBIzvSJ6p44nZH+hG6yNUNAkzikB4cTuIAbtKyTc0PtJcX+oZU610y4
+ f+PNMNiZw6bwfLuVz6Q0JThhdTrapR009NZ4sJkqSwC1vJRdBOdRYKuMlFt+wb/52z4WlZp9+
+ DGM1pQ/ZIl4/3hiiYkqBMfc4usQSpcnC0hiKQEMj/OI7ZhagF09zRjv0Jr2ujRy5MgPCApjAr
+ +x6GbTxbexr3+THElIawDm4I1lY6uoNbPsGocruVCoBP4VvZaRTEX7njkVLxxuFKnyydEBKrY
+ PqDx9dyE0S76+bE/1ENarU22WSpO/AbUjB4RDnuga0EHySJoe6vdW7QMJBO3UJdKc9gkpUbLQ
+ P9zbpPTU1bqV3xq5cO6ZUUPTDp5UlsAfFMB30oZsm7tZKAZJwx6m0WsPyMseHVO8rhNwoD9Lp
+ 7zLYLhk2r3sGTOSJi43bnA41RzL6P2AuVRquvlgoMaqr0Ag+jRmr6WAt55ep7xBWXA5fEDORt
+ 7umnAB+Bt4MucJo9FUZf0pY8GnDdl1DP3+oNaMs1Ck/88Vs56RBsLDECR/O1yYjixXUzqgous
+ LVROknM/4U4dDGBrzEg3pq69Vyy3g/HCCoZiYZ+MeZFfqKY=
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D=
+2 color=3D#1a0dab>[HTML]</font> <a href=3D"http://scholar.google.de/scholar=
+_url?url=3Dhttp://link.springer.com/article/10.1186/s40360-015-0035-8&amp;h=
+l=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm278v3S42QawjaHMrlCpdWA_ldjLQ&amp;nossl=
+=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-dec=
+oration:underline">Use of prescription stimulant for Attention Deficit Hype=
+ractivity Disorder in Aboriginal children and adolescents: a <b>linked data=
+ </b>cohort study</font></a></h3><div><font size=3D2 color=3D#006621>M Ghos=
+h, CDAJ Holman, DB Preen - BMC Pharmacology and Toxicology, 2015</font></di=
+v><div><font size=3D2 color=3D#222222>Background Increasing recognition of =
+Attention Deficit Hyperactivity Disorder (ADHD) <br>among Aboriginal childr=
+en, adolescents and young adults is a public health challenge. We <br>inves=
+tigated the pattern of prescription stimulants for ADHD among Aboriginal in=
+dividuals <b> ...</b></font></div><br><h3 style=3D"font-weight:normal;margi=
+n:0;font-size:medium;max-width:44.5em"><font size=3D2 color=3D#1a0dab>[HTML=
+]</font> <a href=3D"http://scholar.google.de/scholar_url?url=3Dhttps://peer=
+j.com/articles/cs-37&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm0mVjYRDp7iuA=
+B2rWp5pU-YtSJqxA&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=
+=3D#1a0dab style=3D"text-decoration:underline">Semantic representation of s=
+cientific literature: bringing claims, contributions and named entities ont=
+o the Linked Open Data cloud</font></a></h3><div><font size=3D2 color=3D#00=
+6621>B Sateli, R Witte - PeerJ Computer Science, 2015</font></div><div><fon=
+t size=3D2 color=3D#222222><b>...</b> specific entities, like an algorithm.=
+ For example, a user might want to ask the question<br>
+=E2=80=9CShow me all full papers from the SePublica workshops, which contai=
+n a contribution<br>
+involving &#39;<b>linked</b> <b>data</b>.&#39;=E2=80=9D. This diagram shows=
+ our visionary <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttp://arxiv.org/pdf/1512.02898&am=
+p;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm2ngVZMkfDBokaNcWVGOygQSxb6KA&amp;no=
+ssl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-=
+decoration:underline">Well-Stratified <b>Linked Data </b>for Well-Behaved D=
+ata Citation</font></a></h3><div><font size=3D2 color=3D#006621>D De Nart, =
+D Degl&#39;Innocenti, M Peressotti - arXiv preprint arXiv:1512.02898, 2015<=
+/font></div><div><font size=3D2 color=3D#222222>Abstract: In this paper we =
+analyse the functional requirements of <b>linked data </b>citation and <br>=
+identify a minimal set of operations and primitives needed to realize such =
+task. Citing <b>linked </b><br><b>data </b>implies solving a series of data=
+ provenance issues and finding a way to identify data <b> ...</b></font></d=
+iv><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;max-width:=
+44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"http://schol=
+ar.google.de/scholar_url?url=3Dhttp://www.swat4ls.org/wp-content/uploads/20=
+15/10/SWAT4LS_2015_paper_41.pdf&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm1=
+EF0zExGzpNmOzvbaMmvrsYYYBSg&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=
+=3D3 color=3D#1a0dab style=3D"text-decoration:underline">VacSeen: A <b>Link=
+ed Data</b>-Based Information Architecture to Track Vaccines Using Barcode =
+Scan Authentication</font></a></h3><div><font size=3D2 color=3D#006621>PS B=
+hattacharjee, M Solanki, R Bhattacharyya&hellip;</font></div><div><font siz=
+e=3D2 color=3D#222222>Abstract. Renewed global efforts to deploy Automatic =
+Identification and Data Capture (AIDC) <br>technologies, such as barcodes, =
+on vaccine packaging in developing countries are currently <br>underway. An=
+ opportunity to evaluate <b>Linked Data </b>technologies for generating an =
+<b> ...</b></font></div><br><h3 style=3D"font-weight:normal;margin:0;font-s=
+ize:medium;max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a=
+ href=3D"http://scholar.google.de/scholar_url?url=3Dhttp://www.swat4ls.org/=
+wp-content/uploads/2015/10/SWAT4LS_2015_paper_20.pdf&amp;hl=3Dde&amp;sa=3DX=
+&amp;scisig=3DAAGBfm1SytMjgKLelTeaThrgG-pE_CzIQA&amp;nossl=3D1&amp;oi=3Dsch=
+olaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:underline=
+">Finding novel associations across domains using <b>linked data</b>: a cas=
+e study on genetic variants disrupting transcription start sites</font></a>=
+</h3><div><font size=3D2 color=3D#006621>E van der Horst, R Kaliyaperumal, =
+Z Tatum&hellip;</font></div><div><font size=3D2 color=3D#222222>Abstract. W=
+ith the widespread use of Next Generation Sequencing technologies, the prim=
+ary <br>bottleneck of genetic research has shifted from data production to =
+data analysis. However, <br>heterogeneous data sets makes comparisons and i=
+ntegration challenging and time <b> ...</b></font></div><br><h3 style=3D"fo=
+nt-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D2=
+ color=3D#1a0dab>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_u=
+rl?url=3Dhttp://www.swat4ls.org/wp-content/uploads/2015/10/SWAT4LS_2015_pap=
+er_5.pdf&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm0EXBApkoYBeGmg0O3luzXdXI=
+ZxCg&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab sty=
+le=3D"text-decoration:underline">Suggesting valid pharmacogenes by mining <=
+b>linked data</b></font></a></h3><div><font size=3D2 color=3D#006621>K Dall=
+eau, NC Ndiaye, A Coulet</font></div><div><font size=3D2 color=3D#222222>Ab=
+stract. A standard task in pharmacogenomics research is identifying genes t=
+hat may be <br>involved in drug response variability, ie, pharmacogenes. Be=
+cause genomic experiments <br>tended to generate many false positives, comp=
+utational approaches based on the use of <b> ...</b></font></div><br><h3 st=
+yle=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font=
+ size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"http://scholar.google.de/=
+scholar_url?url=3Dhttps://www.researchgate.net/profile/Oguz_Dikenelli/publi=
+cation/283477561_Federated_query_processing_on_linked_data_a_qualitative_su=
+rvey_and_open_challenges/links/5666d7eb08ae4d38f7abfc31.pdf&amp;hl=3Dde&amp=
+;sa=3DX&amp;scisig=3DAAGBfm2zTrcmhOOjNJEiMAUr7JHWuF4ADg&amp;nossl=3D1&amp;o=
+i=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:un=
+derline">Federated Query Processing on <b>Linked Data</b>: A Qualitative Su=
+rvey and Open Challenges</font></a></h3><div><font size=3D2 color=3D#006621=
+>D OGUZ123, B ERGENC, S YIN, O DIKENELLI&hellip;</font></div><div><font siz=
+e=3D2 color=3D#222222>Abstract A large number of data providers publish and=
+ connect their structured data on the <br>web as <b>linked data</b>. Thus, =
+the web of data becomes a global data space. In this paper, we <br>initiall=
+y give an overview of query processing approaches used in this interlinked =
+and <b> ...</b></font></div><br><p><hr noshade size=3D1><font size=3D2 colo=
+r=3D#222222>Dieser Google Scholar-Alert wird Ihnen von Google zur Verf=C3=
+=BCgung gestellt.<br><br><a href=3D"http://scholar.google.de/scholar_alerts=
+?view_op=3Dcancel_alert_options&amp;email_for_op=3Derictessenow%40web.de&am=
+p;alert_id=3DAIfevv3NkPcJ&amp;hl=3Dde"><font color=3D#1a0dab>Alert stornier=
+en</font></a><br></font></div></body></html>

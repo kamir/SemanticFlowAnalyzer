@@ -1,0 +1,208 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.140.156.21 with SMTP id c21csp238715qhc;
+        Tue, 9 Sep 2014 02:03:01 -0700 (PDT)
+X-Received: by 10.224.103.65 with SMTP id j1mr49946420qao.17.1410253378522;
+        Tue, 09 Sep 2014 02:02:58 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3g70OVBUKDN4SCHOLARALERTS-NOREPLYGOOGLE.COMERICTESSENOWWEB.DE@scholar-alerts.bounces.google.com designates 209.85.220.74 as permitted sender) smtp.mail=3g70OVBUKDN4SCHOLARALERTS-NOREPLYGOOGLE.COMERICTESSENOWWEB.DE@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3g70OVBUKDN4SCHOLARALERTS-NOREPLYGOOGLE.COMERICTESSENOWWEB.DE@scholar-alerts.bounces.google.com designates 209.85.220.74 as permitted sender) client-ip=209.85.220.74;
+Received: by 10.224.185.18 with POP3 id cm18mf725679qab.4;
+        Tue, 09 Sep 2014 02:02:58 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3g70OVBUKDN4SCHOLARALERTS-NOREPLYGOOGLE.COMERICTESSENOWWEB.DE@scholar-alerts.bounces.google.com
+Received: from mail-pa0-f74.google.com ([209.85.220.74]) by mx-ha.web.de
+ (mxweb002) with ESMTPS (Nemesis) id 0LbbtT-1Y6cFa1Z8t-00lEJF for
+ <erictessenow@web.de>; Tue, 09 Sep 2014 10:42:45 +0200
+Received: by mail-pa0-f74.google.com with SMTP id lj1so604388pab.3
+        for <erictessenow@web.de>; Tue, 09 Sep 2014 01:42:43 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=iwlC1trospr9Q9ty5ScwTIIZNvuwMcIl870EUwi9F7Y=;
+        b=NjZGRhOSkqJAwdlkVwG0YOYaGoK3UKb6AJkLqOFgIi1YGmq7kd4rqwSd54LlbqzZn8
+         IKdkFrVCJTqR/9tNz392DTnKTGofsr5smt0kr2Y1r0Z0bfQyj6/T6yl62GJ4iltRvPls
+         71H2ihkm9f72dFN5MM0IQsvkccUpWS6pXnxOXINQvRXQPsRRl+EeY5WCMLhwfQjwDv45
+         0qFdUUxolMEFiKUEjow5GZbiDxi51BzQhDei47XL1DPO5e/1bcSMHccaNc8bURK9JPOM
+         p0PuWHta30sP05uSKhIuo09uH3BCoahqF/Le5Ya5pM0yyEmDZQ5pj1iB7ImjWCTg+V66
+         MrWA==
+MIME-Version: 1.0
+X-Received: by 10.66.65.75 with SMTP id v11mr20842523pas.30.1410252163742;
+ Tue, 09 Sep 2014 01:42:43 -0700 (PDT)
+Message-ID: <001a11362ef0437c9e05029deb5b@google.com>
+Date: Tue, 09 Sep 2014 08:42:43 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:op3rq3qskCc=:VZXk/L70s+L34fOsAwI8zRvYU2
+ jxnn/EurTIswodgEjp2U+X7+9bkQbkhNZyCENhaRFMv5FCDDz4t65aOmGU1PIiEetshkv3DJq
+ U1pcl990ml1MiFY4aLVtVfHfW1VRDUGikcFmA7McvkCD+kamCYoav1JS1uan2J9INisT54OaP
+ 3Swvcn7LKVb9DZ0VcE4F4l5mzprQfgkFUeotsVECHtcRq6yYWSuFxiIr58twouhlfpBows2EQ
+ Snj2Kfdmm3yGDjGPkX10+PtkTMrouhUq9JzGeqSzNCWCe9eWvquuFxrJr5CFFMfJv2ogcllrn
+ 9Ylt7QzvLuBw1mQTib4Ieo5PlaiRSS8oQPs2hewlUkR5W1k/PYQwDtN3TS/uDCtIy/HvhgRn7
+ opW4Up+NngHQr2XdhwT20pLs2PyBywoZBy5BIKvnPUp5UkZmHb9sf02bfkz5V0Dqh2w2Pn24y
+ lM+5REs646p1zqkgz1xLZdUKisclvIvg8l5p2SVcyVgvkBphlozpylG/h39NUETIJzk8rgYJt
+ s+hbWdc3yRwGIF96Ws+anIn7GrBMgWcmr00uLGcB6Ul2BfFgHFyTu8EddPP9RtE3qhHK7nFXr
+ mCqUrIvJawOsNgNGUH3ys2/s2JiTVpvLGybVDvC6I2Wn+SYXu3A+I1oA4ry1lYVq+qRKLbuDP
+ FUJJq9PXlYa69qyk0FiZkT0plit+oUaI+FDK3NVMTNqStimtJK8Rni0XnKWSNSBClioVTlTXU
+ mrnugmdGI49YlcYnjgvH6NcwOrKRSTt25LwfhxN1dJIABVbLgPfm73y4bTVAepiasPe2BrBqL
+ uijodiSlyTwdRHy8+LVq1PgkS6ZweCeS2H9Ftl66qHnp307UH0zeKo9DNmcv44lZ4aKJ204BD
+ aJw5gf4cGF9qMzRi3RVOvdcZpIBJOyxDjBW7p7s3l4zuudIODpQBQZ9x9cB45TbEXWhiLM5Te
+ KPU9Nzyg/EProLc1GxKuAufQyBEZqNZQBP+wAv1kCkrP+S6cfnqhYjj19A9KgbA0nY3f0mko/
+ 0MYzuC5fCcSyub5R9aN1L4XQZac3feJZyjv0pFT2hoJRl7GHWg57f1JfYaHamZyhL51UdYzeR
+ VPRpjbLK0NKBGNuC5z66tTUWK+S/xVRO5Cora6Tuq7V7iE9yjVdqbmBZeLRi+7n8rj4rBPgT4
+ ksv+3loxpdhnYvy6SRJL3hRIoyjNY2vlJT4gePgVYzbohWpr2lNaD75lQa5J/bqig2yEYfY1c
+ ajMWHwoFLvHJfGGK4KzTn6bqGQrvpE0JItIeIwwTkPtqod14XfB8xjJB7XYt2rxYXKKjNhbOH
+ 1oMZOtjTLC7xI41wtGnNggCXXkCzTLxqdbsjlJkktebG+jQEBCvSyCNNFUq+Ubda9j0Fvx801
+ 3lBX6HyBp3llFXURKI46TlLqoqqzecaQWD/5lQWq5ZAue+66hzvz0mAiElaCODDK3aQK6krg7
+ tBZ96TdXPaXz0qlQeKCPIMsUsAJ5x5BSWWKFQ9enauoN6SpqUy
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D=
+2 color=3D#1a0dab>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_=
+url?hl=3Dde&amp;q=3Dhttp://www.stats.govt.nz/~/media/Statistics/surveys-and=
+-methods/methods/research-papers/topss/evaluating-potential-linked-data-sou=
+rces.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm3MZ_frJ4WGuNV4o54YKcgV6_xG1A&amp;oi=
+=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:und=
+erline">Evaluating the potential of <b>linked data </b>sources for populati=
+on estimates: The Integrated Data Infrastructure as an example</font></a></=
+h3><div><font size=3D2 color=3D#006621>S Gibb, E Shrosbree - 2014</font></d=
+iv><div><font size=3D2 color=3D#222222>Estimates of population size and str=
+ucture underpin almost all social and economic statistics <br>(United Natio=
+ns, 2008). The five-yearly New Zealand Census of Population and Dwellings <=
+br>forms the basis for official population estimates. A key aim of the Cens=
+us Transformation <b> ...</b></font></div><br><h3 style=3D"font-weight:norm=
+al;margin:0;font-size:medium;max-width:44.5em"><font size=3D2 color=3D#1a0d=
+ab>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp=
+;q=3Dhttp://hal.inria.fr/docs/01/05/70/35/PDF/Linked_data_based_exploration=
+_a_state-of-the-art_camera-ready.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm16aNXDsR=
+37fhVctoLDysIbaqAgIA&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab s=
+tyle=3D"text-decoration:underline">Survey of <b>linked data </b>based explo=
+ration systems</font></a></h3><div><font size=3D2 color=3D#006621>N Marie, =
+F Gandon - IESD 2014-Intelligent Exploitation of Semantic Data, 2015</font>=
+</div><div><font size=3D2 color=3D#222222>R=C3=A9sum=C3=A9: Linked datasets=
+ now constitute a valuable background knowledge for supporting <br>explorat=
+ion and discovery objectives through browsers, recommenders and exploratory=
+ <br>search systems in particular. Today there is a need to look at the ach=
+ievements and <b> ...</b></font></div><br><h3 style=3D"font-weight:normal;m=
+argin:0;font-size:medium;max-width:44.5em"><font size=3D2 color=3D#1a0dab>[=
+PDF]</font> <a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=
+=3Dhttp://digitalcommons.usu.edu/cgi/viewcontent.cgi%3Farticle%3D1047%26con=
+text%3Dwesternarchives&amp;sa=3DX&amp;scisig=3DAAGBfm34HnkyhvH-J11I7nAimoAm=
+dKTR7A&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-d=
+ecoration:underline">Deconstructing the Critical Theory Archive at UCI: An =
+Experiment with EAC-CPF and Linked Open Data</font></a></h3><div><font size=
+=3D2 color=3D#006621>SR Seltzer, AM Bisio, S Liu - Journal of Western Archi=
+ves, 2014</font></div><div><font size=3D2 color=3D#222222><b>...</b> Export=
+ing of our minimal Derrida test record, which included imported <b>linked</=
+b> <b>data</b> from VIAF,<br>
+DBpedia, and AAT, resulted in valid XML encoding; we have yet to develop an=
+d test a more<br>
+granular version of the record (see Appendix A). Access to xEAC for testing=
+ purposes was <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1a0dab>[HTML]</font> <a href=3D"h=
+ttp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://bmjopen.bmj.com/=
+content/4/9/e005768.full&amp;sa=3DX&amp;scisig=3DAAGBfm3JivlzMkGfL53Fmbe29K=
+QJj8Vhyw&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text=
+-decoration:underline">Variation in the recording of common health conditio=
+ns in routine hospital data: study using linked survey and administrative d=
+ata in New South Wales, Australia</font></a></h3><div><font size=3D2 color=
+=3D#006621>S Lujic, DE Watson, DA Randall, JM Simpson, LR Jorm - BMJ Open, =
+2014</font></div><div><font size=3D2 color=3D#222222><b>...</b> We suggest =
+that researchers who use administrative data for research into multimorbidi=
+ty should<br>
+use <b>linked</b> <b>data</b> to increase ascertainment and, if possible, s=
+upplement this information from other<br>
+data sources, such as physician claims data or self-reported data. <b>...</=
+b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&a=
+mp;q=3Dhttp://link.springer.com/chapter/10.1007/978-3-319-10422-5_23&amp;sa=
+=3DX&amp;scisig=3DAAGBfm0dzd_3n_E5tsuqhPwW1uin950UVg&amp;oi=3Dscholaralrt">=
+<font size=3D3 color=3D#1a0dab style=3D"text-decoration:underline">Semantic=
+ Information Fusion of Linked Open Data and Social Big Data for the Creatio=
+n of an Extended Corporate CRM Database</font></a></h3><div><font size=3D2 =
+color=3D#006621>AI Torre-Bastida, E Villar-Rodriguez, J Del Ser&hellip; - &=
+hellip;  Distributed Computing VIII, 2015</font></div><div><font size=3D2 c=
+olor=3D#222222><b>...</b> UGC describes the various forms of media content =
+that are publicly available and created by<br>
+end- users. On the other hand, <b>Linked</b> <b>Data</b> refers to a set of=
+ best practices for publishing and<br>
+interlinking structured data on the Web. With this definition, Bizer et al.=
+ <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttps://mospace.umsystem=
+.edu/xmlui/bitstream/handle/10355/43698/PerasaniDisRdfQue.pdf%3Fsequence%3D=
+1&amp;sa=3DX&amp;scisig=3DAAGBfm0mJgdSRunBgl7swyp_WoqhHmwCgg&amp;oi=3Dschol=
+aralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:underline">=
+Distributed RDF query processing and reasoning for big data/<b>linked data<=
+/b></font></a></h3><div><font size=3D2 color=3D#006621>A Perasani - 2014</f=
+ont></div><div><font size=3D2 color=3D#222222>The <b>Linked Data </b>Moveme=
+nt is aimed at converting unstructured and semi-structured data on <br>the =
+documents to semantically connected documents called the =E2=80=9Cweb of da=
+ta.=E2=80=9D This is based <br>on Resource Description Framework (RDF) that=
+ represents the semantic data and a <b> ...</b></font></div><br><h3 style=
+=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font si=
+ze=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"http://scholar.google.de/sch=
+olar_url?hl=3Dde&amp;q=3Dhttp://scholarcommons.sc.edu/cgi/viewcontent.cgi%3=
+Farticle%3D3867%26context%3Detd&amp;sa=3DX&amp;scisig=3DAAGBfm2em5w46FyH3Fe=
+yx9j0R7bucZx7ow&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=
+=3D"text-decoration:underline">VOCAB4ME: A TOOL THAT PROVIDES VOCABULARY RE=
+COMMENDATIONS FOR PUBLISHING <b>LINKED DATA</b></font></a></h3><div><font s=
+ize=3D2 color=3D#006621>S Nadipally - 2014</font></div><div><font size=3D2 =
+color=3D#222222>Abstract The web before <b>linked data </b>was a database o=
+f html documents. These documents <br>were meant for human consumption and =
+it was hard for machines to make sense of data in <br>html documents. The <=
+b>linked data </b>was introduced with the aim of making the web a global <b=
+> ...</b></font></div><br><h3 style=3D"font-weight:normal;margin:0;font-siz=
+e:medium;max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a h=
+ref=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://emunoz.o=
+rg/publications/files/LD4IE2014.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm3l_acrfee=
+k0msfut_6VX2WviK_PQ&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab st=
+yle=3D"text-decoration:underline">Learning Content Patterns from <b>Linked =
+Data</b></font></a></h3><div><font size=3D2 color=3D#006621>E Munoz</font><=
+/div><div><font size=3D2 color=3D#222222>Abstract. <b>Linked Data </b>(LD) =
+datasets (eg, DBpedia, Freebase) are used in many knowledge <br>extraction =
+tasks due to the high variety of domains they cover. Unfortunately, many of=
+ these <br>datasets do not provide a description for their properties and c=
+lasses, reducing the users&#39; <b> ...</b></font></div><br><h3 style=3D"fo=
+nt-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D2=
+ color=3D#1a0dab>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_u=
+rl?hl=3Dde&amp;q=3Dhttp://www.antoniomaccioni.com/files/semstats2014.pdf&am=
+p;sa=3DX&amp;scisig=3DAAGBfm3ejv8px33frkkRYja9xRrKy1xF9g&amp;oi=3Dscholaral=
+rt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:underline">Publ=
+ishing Official Classifications in Linked Open Data</font></a></h3><div><fo=
+nt size=3D2 color=3D#006621>G Lodi, A Maccioni, M Scannapieco, M Scanu, L T=
+osco</font></div><div><font size=3D2 color=3D#222222><b>...</b> The <b>Link=
+ed</b> <b>Data</b> initiative [7] is more and more affirming as the princip=
+al mean for<br>
+data interoperability, by permitting to create and interlink arbitrary Page=
+ 2. volumes<br>
+of structured data across the Web. In particular, the <b>Linked</b> <b>...<=
+/b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dftp://ceur-ws.org/pub/pu=
+blications/CEUR-WS/Vol-1219.zip&amp;sa=3DX&amp;scisig=3DAAGBfm3SJ2REQPhP0Vt=
+FsWr2V98IJ-ekLA&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=
+=3D"text-decoration:underline">Using Search Paradigms and Architecture Info=
+rmation Components to Consume <b>Linked Data</b></font></a></h3><div><font =
+size=3D2 color=3D#006621>CH Cordov=C4=B1-Garc=C4=B1a, C Hern=C3=A1ndez-Rizo=
+&hellip;</font></div><div><font size=3D2 color=3D#222222>Abstract. The succ=
+ess of the Linked Open Data Initiative has increased the amount of <br>info=
+rmation available on the Web. However, the Web content published under this=
+ initiative <br>cannot be consumed by users who are unfamiliar with Semanti=
+c Web technologies (RDF, <b> ...</b></font></div><br><p><hr noshade size=3D=
+1><font size=3D2 color=3D#222222>Dieser Google Scholar-Alert wird Ihnen von=
+ Google zur Verf=C3=BCgung gestellt.<br><br><a href=3D"http://scholar.googl=
+e.de/scholar_alerts?view_op=3Dcancel_alert_options&amp;email_for_op=3Derict=
+essenow%40web.de&amp;alert_id=3DAIfevv3NkPcJ&amp;hl=3Dde"><font color=3D#1a=
+0dab>Alert stornieren</font></a><br></font></div></body></html>

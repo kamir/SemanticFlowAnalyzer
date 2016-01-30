@@ -1,0 +1,83 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.64.67.99 with SMTP id m3csp52113iet;
+        Thu, 21 Nov 2013 16:33:49 -0800 (PST)
+X-Received: by 10.43.103.133 with SMTP id di5mr6010004icc.38.1385080425723;
+        Thu, 21 Nov 2013 16:33:45 -0800 (PST)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3E6aOUhUKDDQiSXebQhQbUhji-dehUfboWeeWbU.SecUhYSjUiiUdemmUR.TU@scholar-alerts.bounces.google.com designates 209.85.220.74 as permitted sender) smtp.mail=3E6aOUhUKDDQiSXebQhQbUhji-dehUfboWeeWbU.SecUhYSjUiiUdemmUR.TU@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3E6aOUhUKDDQiSXebQhQbUhji-dehUfboWeeWbU.SecUhYSjUiiUdemmUR.TU@scholar-alerts.bounces.google.com designates 209.85.220.74 as permitted sender) client-ip=209.85.220.74;
+Received: by 10.64.35.46 with POP3 id e14mf218973iej.2;
+        Thu, 21 Nov 2013 16:33:44 -0800 (PST)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3E6aOUhUKDDQiSXebQhQbUhji-dehUfboWeeWbU.SecUhYSjUiiUdemmUR.TU@scholar-alerts.bounces.google.com
+Received: from mail-pa0-f74.google.com ([209.85.220.74]) by mx-ha.web.de
+ (mxweb002) with ESMTPS (Nemesis) id 0LoWBm-1VBzfr2KYU-00gcGy for
+ <erictessenow@web.de>; Fri, 22 Nov 2013 01:32:21 +0100
+Received: by mail-pa0-f74.google.com with SMTP id fa1so75850pad.5
+        for <erictessenow@web.de>; Thu, 21 Nov 2013 16:32:20 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=gVjFzX068nqy+AcAMlH3hcM7R+WsLHZPcBK9yc8KYMk=;
+        b=F+NAwlrFA2vipgKbRO0eg24LIP6EJzO3hfj6gdf9AWq4V1m4OWLZ7YCS8XnLFIk0Mc
+         IR0yWc3USyxvuQ7aF2Xy2m7BWJw3gwhV3a+tC762Abvbt7crBZttg+q1f87jHvX4KHYy
+         cfJ9qzKkUioFiDeJ14gO3AHwbsLOxkk5nUhsu30G+3XWGOHFq5YN0H6mogkKBHXl1fv0
+         fGOQAL0pRcS86J0X6HTpl7AubdHWKxxRu66+onpAWHrHKavJag8HedXAWwZdoTe/h6eT
+         wOZB1uX0TqyhKzcOFRHQhizLlO2BEBkAlHFCp7vz6/mxIouvdBAEV/ZcX7/vFs7P9XAR
+         3bzQ==
+MIME-Version: 1.0
+X-Received: by 10.66.49.166 with SMTP id v6mr3115532pan.1.1385080339909; Thu,
+ 21 Nov 2013 16:32:19 -0800 (PST)
+Message-ID: <bcaec544eb3ea54e1e04ebb92592@google.com>
+Date: Fri, 22 Nov 2013 00:32:19 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:mnaYawcgnJc=:XsDJjqR1Ge14qTIXdPYTlj9D3d
+ CA9q6GPsHIhNO9Ew/15MZIm0CPp05p2rdSSHfM/zKVnsc5gRGDW8nPjFgA8VIZRBewo92y0SX
+ ZqQlWf5JYKD2VLQAzc1DTnTpm1+gzmth6qhXcIaKR9SYQiEUcGbSijuTxT/YCieeGI0538nvW
+ 4vOfKf0vZPxx1N/t+OPlLlWkRTtR6s1xA19O6w2JHkK+vCmAaiuLULpoucA/Vtpxx+79gwmAq
+ 34tLpAK8DS6Hp2mwKFqrkiKFDjeNDDScWs4Gr6dv2tTnkuSDDX652AWj3HlB5V+3HMrNTpbRm
+ xlgmTY91FU2rV5d99BBznoCuFyY8g6tYvpeJpBHIiD1kcaNtYIN5+qZel9NeFZscUd8vDJe1Z
+ jSgZ36wBStkgkFPEtMU8RThyXJhyp9NZPwOGVUwrUy0O+vP9X60JAi7AaSGaX6gNIXKoMHLdr
+ uiHnEgBtJxIphG3tFxLvI6k1/8K3LA161XZtSCTC0g1+rN/DSyv7qFSfnhHOQ3ejGB04s44AN
+ 4R0ueKr90DnTVjYekSwAIs6qaWfVlo6BwN95hBddw9UFQQH49cdytuIP9TZdxxrEu8pnvEcls
+ LbyImB3/7OHoUFX8L5xr3eFwJxChfFvnPcRUBBE85KNf2vhDdgeFOjLJZJ1rEkE5812PrhrCC
+ rVFB6oWByLQv5bTIuU+jjzaDqeOS+Q1a3AUFPQsgbILft+CLvHzvyEQThfVIYLgbA+PULAi9g
+ wVMsvbSeU93Wr7A4P7pjTarVy5HXFns5a+cRjKpPhKXx/VyNTJIsIfXlnyiUDs8a6usBSazUa
+ WSJGdN/TAWJ/TGArqI5VDAn2XfU+n3mDb9LpqNsP+mNbvR2+Gs1JLEmTEolEu80Y5drbgF8l9
+ 0ncJPTGSzVq7UH88xpQMpZtNnwRDyl7Mg3AUkHdc5ZGQ6uy20rT1SvAxLDXc64ZtGDywgje5b
+ OHaf67xha2SXtsgMZbCIW9J7PF4s7YtIAO/xN9iCXNGfIySxYQasIZqimNcsUKV6Hb1m7k0Xb
+ VIQykGdiwQifzO4aUlyDODMPFKvZ4/ccFC3sxIE2N6EgN81O+BN2ub5J2AB/CBui4jxA0DB/c
+ Tnr0cJK229x6Y4WAlZJbH31OHwg2yPu85N7lKLt084e8JbJ6IvRRAe0itb7I65tRoqAqcvAI+
+ NLMC0L9fNKba/BsaC80u8xHLWPWgILTnCb0mS2HgXoCesXXPYPDn0OBdXMFMHhfP2vXZk/v5k
+ 1lektaDtL2rWDK1gAe3Le9NQYupxFbmIE2YpG4vD6Qm80E4kaB8IJXn2axnVtaZM3BI8OTwwn
+ jTthDlV9Lcn+ZaA4qeWDH7S1v0jJNdHpmeJnYq1VOSAgDysxWr3Q+RA44aE3+iGpFm7C3vfZ3
+ OLpW3Py1jOUQl0WOw==
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D=
+2 color=3D#1122cc>[HTML]</font> <a href=3D"http://scholar.google.de/scholar=
+_url?hl=3Dde&amp;q=3Dhttp://archinfo41.hypotheses.org/261&amp;sa=3DX&amp;sc=
+isig=3DAAGBfm1RiTIoQIj0nUcoEf-XBaEe-lLeYg&amp;oi=3Dscholaralrt"><font size=
+=3D3 color=3D#1122cc style=3D"text-decoration:underline">Le projet Newton: =
+entre valorisation du patrimoine, =C3=A9dition =C3=A9lectronique et <b>link=
+ed data</b></font></a></h3><div><font size=3D2 color=3D#009933>PE Barrault =
+- 2013</font></div><div><font size=3D2 color=3D#222222>Consid=C3=A9rations =
+historiques Tout =C3=A0 la fois scientifique, philosophe et th=C3=A9ologien=
+, le <br>britannique Isaac Newton (1643-1727) a =C3=A9t=C3=A9 de ces hommes=
+ qui ont r=C3=A9volutionn=C3=A9 notre <br>mani=C3=A8re de penser et nos tec=
+hnologies. Ses plus grandes r=C3=A9ussites ont s=C3=BBrement =C3=A9t=C3=A9 =
+la <b> ...</b></font></div><br><p><hr noshade size=3D1><font size=3D2 color=
+=3D#222222>Dieser Google Scholar-Alert wird Ihnen von Google zur Verf=C3=BC=
+gung gestellt.<br><br><a href=3D"http://scholar.google.de/scholar_alerts?vi=
+ew_op=3Dcancel_alert_options&amp;email_for_op=3Derictessenow%40web.de&amp;a=
+lert_id=3DAIfevv3NkPcJ&amp;hl=3Dde"><font color=3D#1122cc>Alert stornieren<=
+/font></a><br></font></div></body></html>

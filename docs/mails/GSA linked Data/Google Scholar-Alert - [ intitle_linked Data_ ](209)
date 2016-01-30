@@ -1,0 +1,337 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.64.225.20 with SMTP id rg20csp133835iec;
+        Fri, 16 May 2014 14:16:21 -0700 (PDT)
+X-Received: by 10.50.32.3 with SMTP id e3mr81204igi.35.1400274980516;
+        Fri, 16 May 2014 14:16:20 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of m-CGOD5kVF213sfk2etGwM0bpOAnd1_ksgnCZeJB8vnCUMf-bSC7Te-wxD@bounce.linkedin.com designates 199.101.162.42 as permitted sender) smtp.mail=m-CGOD5kVF213sfk2etGwM0bpOAnd1_ksgnCZeJB8vnCUMf-bSC7Te-wxD@bounce.linkedin.com;
+       dkim=pass header.i=@linkedin.com
+Received-SPF: pass (google.com: domain of m-CGOD5kVF213sfk2etGwM0bpOAnd1_ksgnCZeJB8vnCUMf-bSC7Te-wxD@bounce.linkedin.com designates 199.101.162.42 as permitted sender) client-ip=199.101.162.42;
+Received: by 10.50.108.170 with POP3 id hl10mf803445igb.1;
+        Fri, 16 May 2014 14:16:20 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: m-CGOD5kVF213sfk2etGwM0bpOAnd1_ksgnCZeJB8vnCUMf-bSC7Te-wxD@bounce.linkedin.com
+Received: from mailb-ed.linkedin.com ([199.101.162.42]) by mx-ha.web.de
+ (mxweb109) with ESMTPS (Nemesis) id 0LjgeK-1XMw1C2ZXE-00bZ2F for
+ <erictessenow@web.de>; Fri, 16 May 2014 23:11:23 +0200
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=linkedin.com;
+	s=proddkim1024; t=1400274681;
+	bh=HGeah/VSY7pWR8FEA7l4yqnqr0lNyBoyIpcJ3HzzOc8=;
+	h=From:Subject:MIME-Version:Content-Type:To:Date:X-LinkedIn-Class:
+	 X-LinkedIn-Template:X-LinkedIn-fbl;
+	b=MB+kag8hdColbCD9NwbSwBx+sEl6JzJ/3dUP8QfJivDrroshm9mw5lgh8gdP1434k
+	 kbkKJ+Tk5m/ibj5Hf1cnAYX0BnCsDnqBADRGOibRf6y8da9ItY7XWipgGgKguH4k9/
+	 vjpAGAmBJrjJGaW5X7dc5s1nRrXg+civbvBS7994=
+From: "Thomas Dr. Kless" <messages-noreply@linkedin.com>
+Reply-To:  <DrKless@web.de>
+Message-ID: <2034304959.4525967.1400274681221.JavaMail.app@ela4-app7302.prod>
+Subject: =?UTF-8?Q?Eric_Tessenow,_bitte_f=C3=BCgen_Sie_mich_zu_Ihr?=
+ =?UTF-8?Q?em_beruflichen_Netzwerk_auf_LinkedIn_hinzu.?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_4525964_1532048295.1400274681217"
+To: Eric Tessenow <erictessenow@web.de>
+Date: Fri, 16 May 2014 21:11:21 +0000 (UTC)
+X-LinkedIn-Class: INVITE-MBR
+X-LinkedIn-Template: invite_member_28
+X-LinkedIn-fbl: m-CGOD5kVF213sfk2etGwM0bpOAnd1_ksgnCZeJB8vnCUMf-bSC7Te-wxD
+X-LinkedIn-Id: 2y7a3f-hv9zd0hd-3r
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:IRPMF/qxcR8=:BvczZsmLxMGFlSKVmheczr/XDe
+ XEy9Qv8xP0pcnaQMW8cLmObgIJ482LSMhc1uAu9x8MLDP4EvI5zLh4Q6V/OFl0wkGOqgRG82R
+ pJ/2JvVMBosiQEJk9CL12KzIH4EySqr0mzrLNkLxfwFSbamxpOhb2RvU/mP0HwBCQ+GKje6th
+ qpAjU8FlDfQlJCuzEfGB5DBRTYAllnpeQacJPfAQzAjR8CZJ+gIJguvref3zob2Jbg1PwBwBc
+ kcLl2Fv/VNkK/S5CKmzno2o1cYg+GrMXD8iA7kRPhe9wwOOm7urFbf84V7cO3UHZS6Vdu0Vn0
+ 8TcC1a291KrfAa673NGD1Nv/ABZvEHX1B/mLlR/+PoY71PO7fNN5K5nWz19JcvpXwdcEA43Om
+ S6VvdVRkJ1N3yjDRKlYBmTsU2EeYaxARmEy/+5HlBRWiuvaWeNTWiKxrbo6Xt9HfRZaLnZegy
+ QWWASC9jOVIYDJXVXjBsNyubGBe4LRKE4USFTdvQF3YaE5q0W5gGIJzE3NolC7bEKt27GBflS
+ PWw3GtunVVvJby/l5BRUoDZa40Ke62iKaXup9i3H7nkYwwFK9wPLy8uQ+gny4owG9iCxUtfiw
+ x4nVKsy2dc6fZPGFq/dmvl31SPolBV594n9AlheiBeu5B9+b5qw4L+ntsFbVJBZoP1NOfHVcv
+ 2s3bQumfT/Pa9APtb+1pWGIrW0WiJT21spqMktLlIOZJe81Nf0w7CFumPS8VoI9EcEcuxvdjN
+ 6X38WQv7I91Q2nT5dPx+pfK+Mmhyk0WEIhbDuH0tmEiNNA7CqVQp0TSgRAcm4cil+Xcv5jGw/
+ ETWEv20THzvU0ZVcpXMnaB+JL0uuuLwCzCP9gLJ9UMs8Tfae5EkAP49lG796vPl9C9tblpvCq
+ nJ1IlXiHNnY+i8uuaR5UfeWovQT9Q+iE+FU0dZyqve9yz2qRQhdYqILHE8cG8exWHpJADiT/w
+ 3AUzYy8v06/MME7oblNfgBqbcQW2Jn8IZYg6v4vMh94anfAQdkwKW2hEm1hEKDSg29IBySVd4
+ hgjOqkFvoXVh548mHCQc7X7oEA2/RD2993Hsmp8Nc4u1POYNMj3zo9nMKlsc7atzp44ejK4jp
+ n6F/hq//woXWLVnLh4ekgmkmlC+fXrofo/OSKzf+fm9e4mhlSsIb3Xl+SGD1fFeu2YSfM4A3Z
+ g+3jlQUGWHIMYwAf0u76O0Ur3PUvqy0Zydju4KqEBGKhy3Rc6bYxplnKkyBaUE2Kb+bc5UiKh
+ qy1V0KVu73XaT6zG/riqwSDZJLP25fYQ2gxMIG8BBrFEv92fIeuE2ua0=
+
+------=_Part_4525964_1532048295.1400274681217
+Content-Type: text/plain;charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-ID: text-body
+
+Eric Tessenow,
+ich m=C3=B6chte Sie gerne in mein Netzwerk auf LinkedIn einladen.
+
+Thomas Dr. Kless
+alpha Steuerberatung NL Gie=C3=9Fen
+
+Akzeptieren: http://www.linkedin.com/blink?simpleRedirect=3D1VtzlxtkpvlPRVp=
+kJApn9xq7cCc3wUe3ASc3oPd3kQdPsNcPsUdjR4imVLqnhxt6BSrCACe39vsClyrmlJnSlQqnpK=
+qjRHpipBt6BSrCBTpmUJt71BoSdxbm8JrnpKqlZJrmZzbmNJpjRDrCBHoS5Ot2pBt6BSrABOpm9=
+JpmQZoipOcORAq31AuzBSq2RCcS4Tuj8ZpjYOtyZBbSRLoOVKqmhBqSVFr2VTtTsLbPFMt7hE&m=
+sgID=3DI436962046_175&markAsRead=3D
+
+Profil von Thomas Dr. Kless anzeigen: http://www.linkedin.com/blink?simpleR=
+edirect=3D0Oc3oMdjkNcz4Zh4BOpm9JpmQCpmRxrzRBs7Bkq7hRoioRdP5vdzgMczoVdzcQilY=
+NdPAUdPcUdP4Zt71BoSd1rCZFt65QqnpKqipcjSRjfmVBqSZkq7hRoioUcBZOpm9JpmRvpnhFtC=
+VFfmJB9ClQqnpKqntBryRBrm5Kbm8JrnpKqlZJrmZzbmNJpjRDrCBHoS5Ot2pSs6UZt2pOcORAq=
+31AuzBSq2RCcS4Tuj8ZpjYOtyZBbSRLoOVKqmhBqSVFr2VTtTsLbPFMt7hE&msgID=3DI436962=
+046_175&markAsRead=3D
+
+Sie erhalten folgende E-Mails: Einladung. Hier abbestellen: http://www.link=
+edin.com/blink?simpleRedirect=3De38MhPlxoQV3m3x7kBhhq4APtlZGml0NumcPq65Ik5x=
+6qDxpu692oSRjukMVjBhdh6JlsDlSkkENnPd7mll1gk5DiCZemnwNiAhTtAthgjRAqmZI9D8Pbm=
+hEc6hWenpEbmoPojtVczRAqmkCe39vsClyrmlJnSlQqnpKqjRHpipBt6BSrCBTpmUJoDlPrDkJp=
+yRJtCVFnSRJrScJr6RBfmtKqmJzon9Q9DdRpjRQ9D8PbmhEc6hWenpEbmoPojtVczRBfP9SbSkL=
+rmZzbCVFp6lHrCBIbDtTtOYLeDdMt7hE&msgID=3DI436962046_175&markAsRead=3D
+
+Diese E-Mail war an Eric Tessenow  gerichtet (Student). Folgen Sie diesem L=
+ink, um zu erfahren, warum wir dies hinzuf=C3=BCgen. http://www.linkedin.co=
+m/blink?simpleRedirect=3De3wTd3RAimlIoSBQsC4Ce39vsClyrmlJnSlQqnpKqjRHpipIsB=
+lBoSBSsCljsClJrThPtmcZoipOcORAq31AuzBSq2RCcS4Tuj8ZpjYOtyZBbSRLoOVKqmhBqSVFr=
+2VTtTsLbPFMt7hE&msgID=3DI436962046_175&markAsRead=3D
+&copy;2014 LinkedIn Ireland Limited. In Irland als Gesellschaft mit beschr=
+=C3=A4nkter Haftung unter der Firmennummer 477441 registriert. Eingeschrieb=
+ener Sitz: 70 Sir John Roberson's Quay, Dublin 2
+------=_Part_4525964_1532048295.1400274681217
+Content-Type: text/html;charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-ID: html-body
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns=3D"http://www.w3.=
+org/1999/xhtml"><head><meta http-equiv=3D"Content-Type" content=3D"text/htm=
+l;charset=3Dutf-8" /><meta name=3D"HandheldFriendly" content=3D"true"/><met=
+a name=3D"viewport" content=3D"width=3Ddevice-width; initial-scale=3D0.6666=
+67; maximum-scale=3D0.666667; user-scalable=3D0"/><meta name=3D"viewport" c=
+ontent=3D"width=3Ddevice-width"/><title></title><style type=3D"text/css">ht=
+ml { -webkit-text-size-adjust: none; }body { background-color: #DFDFDF; pad=
+ding: 0; margin: 0; width: 100%; margin: 0 auto; }@media all and (max-width=
+: 590px){*[class].responsive{width:290px !important;}*[id]#center {width:50=
+%; margin: 0 auto; display:table;}*[class].responsive-spacer table{width: 2=
+0px !important; }*[class].vspacer{ margin-top: 10px !important; margin-bott=
+om: 15px !important; margin-left: 0 !important; }*[class].res-font14{font-s=
+ize:14px !important;}*[class].res-font16{font-size:16px !important;}*[class=
+].res-font13{font-size:13px !important;}*[class].res-font12{font-size:12px =
+!important;}*[class].res-font10{font-size:10px !important;}*[class].res-fon=
+t18{font-size:18px !important;}*[class].res-font18 span{font-size: 18px !im=
+portant;}*[class].responsive-50per{ width: 100% !important;}*[class].respon=
+sive-spacer70{ width: 70px !important; }*[class].hideIMG{ height: 0px !impo=
+rtant; width: 0px !important; }*[class].res-height30{ height: 30px !importa=
+nt; }*[class].res-height20{ height: 20px !important; }*[class].res-height20=
+ div{ height: 20px !important; }*[class].res-height10{ height: 10px !import=
+ant; }*[class].res-height10 div{ height: 10px !important; }*[class].res-hei=
+ght10.email-spacer div { height: 10px !important; min-height: 10px !importa=
+nt; line-height: 10px !important; font-size: 10px !important; }*[class].res=
+-height0 { height: 0px !important; }*[class].res-height0 div{ height: 0px !=
+important; }*[class].res-width280{ width: 280px !important; }*[class].res-w=
+idth25{ width: 25px !important; }*[class].res-width10{ width: 10px !importa=
+nt; }*[class].res-width10 table{ width: 10px !important; }*[class].res-widt=
+h120 { width: 120px !important; }*[class].res-padding{ width: 0 !important;=
+ }*[class].res-padding table{ width: 0 !important; }*[class].cellpadding-no=
+ne{ width: 0px !important; }*[class].cellpadding-none table{ border: collap=
+se !important; }*[class].cellpadding-none table td{ padding: 0 !important; =
+}*[class].display-none{ display: none !important; }*[class].display-block{ =
+display: block !important; }*[class].remove-margin{ margin: 0 !important; }=
+*[class].remove-border{ border: none !important; }*[class].res-img60{ width=
+: 60px !important; height: 60px !important; }*[class].res-img75{ width: 75p=
+x !important; height: 75px !important; }*[class].res-img100{ width: 100px !=
+important; height: 100px !important; }*[class].res-img320{ width: 320px !im=
+portant; height: auto !important; position: relative;}*[class].res-img90x63=
+{ width: 90px !important; height: 63px !important;}*[class].res-border{bord=
+er-top: 1px solid #E1E1E1 !important;}*[class].responsive2col{width: 100% !=
+important;}*[class].center-content{text-align: center !important;}*[class].=
+hide-for-mobile{ display: none !important; }*[class].show-for-mobile{ width=
+: 100% !important; max-height: none !important; visibility: visible !import=
+ant; overflow: visible !important; float: none !important; height: auto !im=
+portant; display: block !important; }*[class].responsive-table { display: t=
+able !important; }*[class].responsive-row { display: table-row !important; =
+}*[class].responsive-cell { display: table-cell !important; }*[class].fix-t=
+able-content{ table-layout: fixed; }*[class].res-padding08{ padding-top:8px=
+; }}@media all and (-webkit-min-device-pixel-ratio : 1.5) {*[id]#base-heade=
+r-logo {background-image: url(http://s.c.lnkd.licdn.com/scds/common/u/image=
+s/email/logos/logo_linkedin_tm_email_197x48_v1.png) !important;background-s=
+ize: 95px;background-repeat: no-repeat;width: 95px !important;height: 21px =
+!important;}*[id]#base-header-logo img {display: none;}*[id]#base-header-lo=
+go a {height: 21px !important;}*[id]#base-header-logo-china {background-ima=
+ge: url(http://s.c.lnkd.licdn.com/scds/common/u/images/email/logos/logo_lin=
+kedin_tm_china_email_266x42_v1.png) !important;background-size: 133px;backg=
+round-repeat: no-repeat;width: 133px !important;height: 21px !important;}*[=
+id]#base-header-logo-china img {display: none;}*[id]#base-header-logo-china=
+ a {height: 21px !important;}}</style></head><body><span class=3D"preheader=
+" style=3D"display: none !important; font-size: 1px;"></span><table border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"font-family:Helvetica,A=
+rial,sans-serif; " width=3D"100%" bgcolor=3D"#DFDFDF"><tbody><tr><td colspa=
+n=3D"3"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"fo=
+nt-family:Helvetica,Arial,sans-serif; " width=3D"1"><tbody><tr><td><div sty=
+le=3D"height:5px;font-size:5px;line-height:5px;">&nbsp;</div></td></tr></tb=
+ody></table></td></tr><tr><td align=3D"center" width=3D"100%"><table border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"font-family:Helvetica,A=
+rial,sans-serif; min-width:290px;" width=3D"600" class=3D"responsive"><tbod=
+y><tr><td style=3D"font-family:Helvetica,Arial,sans-serif;"><table width=3D=
+"1" border=3D"0" cellspacing=3D"0" cellpadding=3D"1"   class=3D"email-space=
+r"><tbody><tr><td><div style=3D"height:8px;font-size:8px;line-height:8px">&=
+nbsp;</div></td></tr></tbody></table><table border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"font-family:Helvetica,Arial,sans-serif;" width=
+=3D"100%" bgcolor=3D"#DDDDDD"><tbody><tr><td align=3D"left" valign=3D"middl=
+e" width=3D"95" height=3D"21" id=3D"base-header-logo"><a style=3D"text-deco=
+ration:none;cursor:pointer;border:none;display:block;height:21px;width:100%=
+;" href=3D'http://www.linkedin.com/blink?simpleRedirect=3D0UcBZOpm9JpmRvpnh=
+FtCVFfmJB9ClQqnpKqntBryRLpSZIbm8JrnpKqlZJrmZzbmNJpjRDrCBHoS5Ot2pMrmUZt2pOcO=
+RAq31AuzBSq2RCcS4Tuj8ZpjYOtyZBbSRLoOVKqmhBqSVFr2VTtTsLbPFMt7hE&msgID=3DI436=
+962046_175&markAsRead=3D'><img src=3D'http://s.c.lnkd.licdn.com/scds/common=
+/u/images/email/logos/logo_linkedin_tm_email_95x21_v1.png' width=3D"95" hei=
+ght=3D"21" alt=3D"LinkedIn" style=3D"border:none;text-decoration:none;"/></=
+a></td></tr></tbody></table><table width=3D"1" border=3D"0" cellspacing=3D"=
+0" cellpadding=3D"1"   class=3D"email-spacer"><tbody><tr><td><div style=3D"=
+height:8px;font-size:8px;line-height:8px">&nbsp;</div></td></tr></tbody></t=
+able><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"font-=
+family:Helvetica,Arial,sans-serif;" width=3D"100%"  bgcolor=3D"#333333"><tb=
+ody><tr><td width=3D"20" class=3D"responsive-spacer"><table width=3D"20" bo=
+rder=3D"0" cellspacing=3D"0" cellpadding=3D"1"   class=3D"email-spacer"><tb=
+ody><tr><td><div style=3D"height:0px;font-size:0px;line-height:0px">&nbsp;<=
+/div></td></tr></tbody></table></td><td width=3D"100%"><table width=3D"100%=
+" border=3D"0" cellspacing=3D"0" cellpadding=3D"1"   class=3D"email-spacer"=
+><tbody><tr><td><div style=3D"height:12px;font-size:12px;line-height:12px">=
+&nbsp;</div></td></tr></tbody></table></td><td width=3D"20"><table width=3D=
+"20" border=3D"0" cellspacing=3D"0" cellpadding=3D"1"   class=3D"email-spac=
+er"><tbody><tr><td><div style=3D"height:0px;font-size:0px;line-height:0px">=
+&nbsp;</div></td></tr></tbody></table></td></tr></tbody></table><table bord=
+er=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"font-family:Helvetica=
+,Arial,sans-serif; " width=3D"100%" bgcolor=3D"#FFFFFF"><tbody><tr><td widt=
+h=3D"20" class=3D"res-width10"><table width=3D"20px" border=3D"0" cellspaci=
+ng=3D"0" cellpadding=3D"1"   class=3D"email-spacer res-width10"><tbody><tr>=
+<td><div style=3D"height:0px;font-size:0px;line-height:0px">&nbsp;</div></t=
+d></tr></tbody></table></td><td style=3D"color: #333333; font-family: Helve=
+tica,Arial,sans-serif; font-size: 15px; line-height: 18px;" align=3D"left">=
+<table width=3D"1" border=3D"0" cellspacing=3D"0" cellpadding=3D"1"   class=
+=3D"email-spacer res-height10"><tbody><tr><td><div style=3D"height:20px;fon=
+t-size:20px;line-height:20px">&nbsp;</div></td></tr></tbody></table><table =
+border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"font-family:Helve=
+tica,Arial,sans-serif; " width=3D"100%"><tbody><tr><td width=3D"100%"><tabl=
+e border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"font-family:Hel=
+vetica,Arial,sans-serif; " width=3D"100%"><tbody><tr><td>Eric Tessenow,</td=
+></tr><tr><td><table width=3D"1" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"1"   class=3D"email-spacer res-height10"><tbody><tr><td><div style=3D"h=
+eight:20px;font-size:20px;line-height:20px">&nbsp;</div></td></tr></tbody><=
+/table></td></tr><tr><td>ich m=C3=B6chte Sie gerne in mein Netzwerk auf Lin=
+kedIn einladen.</td></tr><tr><td><table width=3D"1" border=3D"0" cellspacin=
+g=3D"0" cellpadding=3D"1"   class=3D"email-spacer res-height20"><tbody><tr>=
+<td><div style=3D"height:20px;font-size:20px;line-height:20px">&nbsp;</div>=
+</td></tr></tbody></table></td></tr><tr><td><table border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0" style=3D"font-family:Helvetica,Arial,sans-serif; "=
+ width=3D"100%"><tbody><tr><td valign=3D"top"><a href=3D"http://www.linkedi=
+n.com/blink?simpleRedirect=3D0Oc3oMdjkNcz4Zh4BOpm9JpmQCpmRxrzRBs7Bkq7hRoioR=
+dP5vdzgMczoVdzcQilYNdPAUdPcUdP4Zt71BoSd1rCZFt65QqnpKqipcjSRjfmVBqSZkq7hRoio=
+UcBZOpm9JpmRvpnhFtCVFfmJB9ClQqnpKqntBryRBrm5Kbm8JrnpKqlZJrmZzbmNJpjRDrCBHoS=
+5Ot2pSs6UZt2pOcORAq31AuzBSq2RCcS4Tuj8ZpjYOtyZBbSRLoOVKqmhBqSVFr2VTtTsLbPFMt=
+7hE&amp;msgID=3DI436962046_175&amp;markAsRead=3D" style=3D"font-size: 14px;=
+ font-weight: bold; color:#000000;text-decoration:none;">Thomas Dr. Kless</=
+a></td></tr><tr><td style=3D"color: #666666; font-size: 14px;" class=3D"res=
+-font16">alpha Steuerberatung NL Gie=C3=9Fen</td></tr></tbody></table></td>=
+</tr><tr><td><table width=3D"1" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"1"   class=3D"email-spacer res-height20"><tbody><tr><td><div style=3D"h=
+eight:20px;font-size:20px;line-height:20px">&nbsp;</div></td></tr></tbody><=
+/table></td></tr><tr><td><table border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" style=3D"font-family:Helvetica,Arial,sans-serif; " width=3D"0"><tbod=
+y><tr><td><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"=
+left"><tbody><tr><td align=3D"center" height=3D"30" valign=3D"middle" bgcol=
+or=3D"#287BBC" background=3D"http://s.c.lnkd.licdn.com/scds/common/u/img/em=
+ail/bg_btn_katy_blue_medium.png" style=3D"background:url(http://s.c.lnkd.li=
+cdn.com/scds/common/u/img/email/bg_btn_katy_blue_medium.png) repeat-x scrol=
+l bottom #287BBC;background-color:#287BBC;border:1px solid #1B5480;-moz-bor=
+der-radius:3px;-webkit-border-radius:3px;border-radius:3px; cursor: pointer=
+;"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"font-fa=
+mily:Helvetica,Arial,sans-serif; " width=3D"100%" bgcolor=3D"transparent"><=
+tbody><tr><td width=3D"13"><table width=3D"13px" border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"1"   class=3D"email-spacer"><tbody><tr><td><div style=
+=3D"height:0px;font-size:0px;line-height:0px">&nbsp;</div></td></tr></tbody=
+></table></td><td><a href=3D"http://www.linkedin.com/blink?simpleRedirect=
+=3D3kTclYSd30OdzAScPh9fkh9rmlQqipVtzlxtkpvlPRVpkJApn9xq7cCc3wUe3ASc3oPd3kQd=
+PsNcPsUdjR4imVLqnhxt6BSrCACe39vsClyrmlJnSlQqnpKqjRHpipBt6BSrCBTpmUJt71BoSdx=
+bm8JrnpKqlZJrmZzbmNJpjRDrCBHoS5Ot2pBt6BSrABQs6lzoQ5LpmMZoipOcORAq31AuzBSq2R=
+CcS4Tuj8ZpjYOtyZBbSRLoOVKqmhBqSVFr2VTtTsLbPFMt7hE&amp;msgID=3DI436962046_17=
+5&amp;markAsRead=3D" style=3D"text-decoration:none; font-size: 13px;font-fa=
+mily: Helvetica,Arial,sans-serif;font-weight: bold;color: white;white-space=
+: nowrap;display: block;" target=3D"_blank"><span style=3D"font-size: 13px;=
+font-family: Helvetica,Arial,sans-serif;font-weight: bold;color: white;whit=
+e-space: nowrap;display: block;">Akzeptieren</span></a></td><td width=3D"13=
+"><table width=3D"13px" border=3D"0" cellspacing=3D"0" cellpadding=3D"1"   =
+class=3D"email-spacer"><tbody><tr><td><div style=3D"height:0px;font-size:0p=
+x;line-height:0px">&nbsp;</div></td></tr></tbody></table></td></tr></tbody>=
+</table></td></tr></tbody></table></td><td width=3D"10px"><table width=3D"1=
+0" border=3D"0" cellspacing=3D"0" cellpadding=3D"1"   class=3D"email-spacer=
+"><tbody><tr><td><div style=3D"height:0px;font-size:0px;line-height:0px">&n=
+bsp;</div></td></tr></tbody></table></td><td><table border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" align=3D"left"><tbody><tr><td align=3D"center" he=
+ight=3D"30" valign=3D"middle" bgcolor=3D"#E0E0E0" background=3D"http://s.c.=
+lnkd.licdn.com/scds/common/u/images/email/textures/texture_button_secondary=
+_v1.png" style=3D"background:url(http://s.c.lnkd.licdn.com/scds/common/u/im=
+ages/email/textures/texture_button_secondary_v1.png) repeat-x scroll bottom=
+ #E0E0E0;background-color:#E0E0E0;border:1px solid #A7A7A7;-moz-border-radi=
+us:3px;-webkit-border-radius:3px;border-radius:3px; cursor: pointer;"><tabl=
+e border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"font-family:Hel=
+vetica,Arial,sans-serif; " width=3D"100%" bgcolor=3D"transparent"><tbody><t=
+r><td width=3D"13"><table width=3D"13px" border=3D"0" cellspacing=3D"0" cel=
+lpadding=3D"1"   class=3D"email-spacer"><tbody><tr><td><div style=3D"height=
+:0px;font-size:0px;line-height:0px">&nbsp;</div></td></tr></tbody></table><=
+/td><td><a href=3D"http://www.linkedin.com/blink?simpleRedirect=3D0Oc3oMdjk=
+Ncz4Zh4BOpm9JpmQCpmRxrzRBs7Bkq7hRoioRdP5vdzgMczoVdzcQilYNdPAUdPcUdP4Zt71BoS=
+d1rCZFt65QqnpKqipcjSRjfmVBqSZkq7hRoioUcBZOpm9JpmRvpnhFtCVFfmJB9ClQqnpKqntBr=
+yRBr6BCrT9Mbm8JrnpKqlZJrmZzbmNJpjRDrCBHoS5Ot2pSs6UZt2pOcORAq31AuzBSq2RCcS4T=
+uj8ZpjYOtyZBbSRLoOVKqmhBqSVFr2VTtTsLbPFMt7hE&amp;msgID=3DI436962046_175&amp=
+;markAsRead=3D" style=3D"text-decoration:none; font-size: 13px;font-family:=
+ Helvetica,Arial,sans-serif;font-weight: bold;color: #444444;white-space: n=
+owrap;display: block;" target=3D"_blank"><span style=3D"font-size: 13px;fon=
+t-family: Helvetica,Arial,sans-serif;font-weight: bold;color: #444444;white=
+-space: nowrap;display: block;">Profil anzeigen</span></a></td><td width=3D=
+"13"><table width=3D"13px" border=3D"0" cellspacing=3D"0" cellpadding=3D"1"=
+   class=3D"email-spacer"><tbody><tr><td><div style=3D"height:0px;font-size=
+:0px;line-height:0px">&nbsp;</div></td></tr></tbody></table></td></tr></tbo=
+dy></table></td></tr></tbody></table></td></tr></tbody></table></td></tr></=
+tbody></table></td></tr><tr><td colspan=3D"3"><table width=3D"1" border=3D"=
+0" cellspacing=3D"0" cellpadding=3D"1"   class=3D"email-spacer res-height20=
+"><tbody><tr><td><div style=3D"height:40px;font-size:40px;line-height:40px"=
+>&nbsp;</div></td></tr></tbody></table></td></tr></tbody></table></td><td w=
+idth=3D"20" class=3D"res-width10"><table width=3D"20px" border=3D"0" cellsp=
+acing=3D"0" cellpadding=3D"1"   class=3D"email-spacer res-width10"><tbody><=
+tr><td><div style=3D"height:0px;font-size:0px;line-height:0px">&nbsp;</div>=
+</td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></tab=
+le><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"font-fa=
+mily:Helvetica,Arial,sans-serif; " width=3D"600" class=3D"responsive"><tbod=
+y><tr><td align=3D"left"><table border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" style=3D"font-family:Helvetica,Arial,sans-serif; " width=3D"100%" cl=
+ass=3D"responsive"><tbody><tr><td><table width=3D"1" border=3D"0" cellspaci=
+ng=3D"0" cellpadding=3D"1"   class=3D"email-spacer"><tbody><tr><td><div sty=
+le=3D"height:10px;font-size:10px;line-height:10px">&nbsp;</div></td></tr></=
+tbody></table></td></tr><tr><td align=3D"left"><table border=3D"0" cellspac=
+ing=3D"0" cellpadding=3D"0" style=3D"font-family:Helvetica,Arial,sans-serif=
+; font-size:11px; font-family:Helvetica,Arial,sans-serif; color:#999999;" w=
+idth=3D"100%" class=3D"responsive res-font10"><tbody><tr><td>Sie erhalten f=
+olgende E-Mails: Einladung. <a style=3D"text-decoration:none;color:#0077B5;=
+" href=3D"http://www.linkedin.com/blink?simpleRedirect=3DoTBAmDhDjmxik3pInS=
+9KgmRAtB95tn9vjPl8sCJlizhpmmh8mmNFdzwUjClqhSdls54RpR1dsAUNnPd7mll1gk5Tt7F2b=
+l5niSt3cklhgjRAqmZI9D8PbmhEc6hWenpEbmoPojtVczRAqmkCe39vsClyrmlJnSlQqnpKqjRH=
+pipBt6BSrCBTpmUJoDlPrDkJpyRJtCVFnSRJrScJr6RBfmtKqmJzon9Q9DdRpjRQ9D8PbmhEc6h=
+WenpEbmoPojtVczRBfP9SbSkLrmZzbCVFp6lHrCBIbDtTtOYLeDdMt7hE&msgID=3DI43696204=
+6_175&markAsRead=3D">Abbestellen</a></td></tr><tr><td>Diese E-Mail war an E=
+ric Tessenow   gerichtet (Student). <a style=3D"text-decoration:none;color:=
+#0077B5;" href=3D"http://www.linkedin.com/blink?simpleRedirect=3De3wTd3RAim=
+lIoSBQsC4Ce39vsClyrmlJnSlQqnpKqjRHpipIsBlBoSBSsCljsClJrThPtmcZoipOcORAq31Au=
+zBSq2RCcS4Tuj8ZpjYOtyZBbSRLoOVKqmhBqSVFr2VTtTsLbPFMt7hE&msgID=3DI436962046_=
+175&markAsRead=3D">Erfahren Sie, warum wir dies hinzuf=C3=BCgen.</a></td></=
+tr><tr><td><table width=3D"1" border=3D"0" cellspacing=3D"0" cellpadding=3D=
+"1"   class=3D"email-spacer"><tbody><tr><td><div style=3D"height:10px;font-=
+size:10px;line-height:10px">&nbsp;</div></td></tr></tbody></table></td></tr=
+><tr><td>&copy;2014 LinkedIn Ireland, Gardner House, Wilton Plaza, Wilton P=
+lace, Dublin 2, Ireland</td></tr></tbody></table></td></tr><tr><td><table w=
+idth=3D"1" border=3D"0" cellspacing=3D"0" cellpadding=3D"1"   class=3D"emai=
+l-spacer"><tbody><tr><td><div style=3D"height:20px;font-size:20px;line-heig=
+ht:20px">&nbsp;</div></td></tr></tbody></table></td></tr></tbody></table></=
+td></tr></tbody></table></td></tr></tbody></table><img src=3D"http://www.li=
+nkedin.com/emimp/2y7a3f-hv9zd0hd-3r.gif" style=3D"width:1px; height:1px;"/>=
+</body></html>
+------=_Part_4525964_1532048295.1400274681217--

@@ -1,0 +1,200 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.140.156.88 with SMTP id c85csp637506qhc;
+        Wed, 5 Nov 2014 18:23:43 -0800 (PST)
+X-Received: by 10.140.105.37 with SMTP id b34mr1772433qgf.91.1415240618618;
+        Wed, 05 Nov 2014 18:23:38 -0800 (PST)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 339paVBUKDKgaKPWTIZITMZba-VWZMXTgOWWOTM.KWUMZQKbMaaMVWeeMJ.LM@scholar-alerts.bounces.google.com designates 209.85.192.201 as permitted sender) smtp.mail=339paVBUKDKgaKPWTIZITMZba-VWZMXTgOWWOTM.KWUMZQKbMaaMVWeeMJ.LM@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 339paVBUKDKgaKPWTIZITMZba-VWZMXTgOWWOTM.KWUMZQKbMaaMVWeeMJ.LM@scholar-alerts.bounces.google.com designates 209.85.192.201 as permitted sender) client-ip=209.85.192.201;
+Received: by 10.140.87.116 with POP3 id q107mf818358qgd.21;
+        Wed, 05 Nov 2014 18:23:38 -0800 (PST)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 339paVBUKDKgaKPWTIZITMZba-VWZMXTgOWWOTM.KWUMZQKbMaaMVWeeMJ.LM@scholar-alerts.bounces.google.com
+Received: from mail-pd0-f201.google.com ([209.85.192.201]) by mx-ha.web.de
+ (mxweb107) with ESMTPS (Nemesis) id 0M1UkX-1Y1fAW1Ghd-00tPan for
+ <erictessenow@web.de>; Thu, 06 Nov 2014 03:20:17 +0100
+Received: by mail-pd0-f201.google.com with SMTP id r10so30533pdi.4
+        for <erictessenow@web.de>; Wed, 05 Nov 2014 18:20:15 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=613+KZQlSmzHHAG9B1da0gnqm3BR1mDjYdQtI/Di+h0=;
+        b=DFEdr3R+WbsjlIVtcYRhpxrtoUtfcgfSfCZYeUg3vlV3lSBhzBd1MGSYJQLwN0g7+W
+         n62EuMehXGwxQeUvlMOOJ1hGqdxY/Z3svxpKYkSDSZDkZbFevu2X+VqNsbIVnMjQtmng
+         kgGPrpZ1AE+oJO8PRYI3SWPj6LVdcoRILFKkvLPjj80JNgwEZOuoh0oTM4QKxFf3Phvw
+         z5N3+xxEh3KE8YV0PA0oGGouwgy+P9z7qsGnyo6z8x40LqnMb03rp+Mn/7uBEYThFMns
+         HT9La29jBXlQIJBHQDiuZQKZQKxFeroypj88xJq3d1X9v98fFbZ8V50ZmgKwA2VMm8bP
+         91gg==
+MIME-Version: 1.0
+X-Received: by 10.66.145.232 with SMTP id sx8mr1265493pab.18.1415240415829;
+ Wed, 05 Nov 2014 18:20:15 -0800 (PST)
+Message-ID: <047d7b67876041e03005072756bf@google.com>
+Date: Thu, 06 Nov 2014 02:20:15 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:AFWX93IA+Fc=:2uxFFgQmp3EgwY/eGY+QeZfrgG
+ 6hDIYzEu3r1xQgl8t6UtlEUY8Qnf6/+HXFq+wB8mv4AUthfHnSHe0OaWerNWCKYRvOJcKQ5Cm
+ 78XhA3+OQXqDK9sIF2LASC7mYYlBWz7R0YxZ8ED8P54WRUFrk/SQ0vFZ7fq02ZtZ+5NDNLxCL
+ frwoYhYI0fUpCiSlo6Y9vsiBsfJLWTrc6MKvPCD7S3SXl3kDAhxJRS5+f4HvNupzBI6mnxFbX
+ BwPVEHGxQh87Vgs347tl3Cq7LtpIOh/dfEFQVexWBEOvJi+O98kY4+Y/KjIt8C4MJWHtZHiA/
+ 5b+NrdSSo9MTBSkFuyBKk1mCFRqFgR5TH8rIK6zpyqA4wYHXXLGav9KrUvegUAebLocXPI+YQ
+ +4AdUk5/P8hntzqEwA5BtLylC9yKzr1w5YDRs7Buq9hHZZoSgk0fk4LblTCx0O/71iL0JT/7X
+ 5KPDCi07oNOi8wVbeKTN9x8CQo8+rq5nMC1PG4T1inRoBs85kgalx/GmxpridE7ajzj70nb6v
+ vzXPjfiPc/q3i1+6OvlaZ4scz0zoD1P7SrcPlBpvQO+/lwlT/Y7P3plfTzM74qnpl/CXfIV2P
+ CIYoea7tsZdnF3qX9vjj6QktTjfU5aRJjTEV/VIwy62KaPXpcJPREkRsLNFzHdeB3+KlcbtsF
+ s6lfgT+n0yyxx69w545LVN08Xou1mwNo5J4OpGKcGpruTcMEGE0CXzg4HOxESXNjVlGglDEqL
+ mBihED08D/CF+78mQWM9FQHyy3R6cJSb8N6Idi7VZPloXCfbbwRjVeV6fiXLt2/LPsPwvp67o
+ mHdzzeRUWUxkhMUzvdpH6qXaxvdsPw8uUmTLKOikprc2kI2liErZBM9XxjMkpxJwCNNrON8Hs
+ P1+ndqKntn6Uwdpi3yfeX8Kb/AKn3T9DYI/+HGWSYZfp1sL2bW3OPYUruipsr0Q6dI86jrt6w
+ DXQxG19D9tUP5y7+nPdpy0R9+yxyEtu364RgXmcKz9/kspMK2g4vTobZdupOC6/KVIPLaVVgF
+ DGZO5MM67Con06AKnJe18OzmGl3dA4P/+E+eKnbuUDZmD0Oztyhd1IbTw1Q9Cb3G2Y6nZBBXL
+ OOvqmIjDL5jvQ6I/WjNCJLv/Lo8yB/rdC4NmgN4Klyed/OCzemsU8VLTcCLXYIemRHweSjB0g
+ OYgLQzC9uqVPPF62EhdJaOKmah9Midy7x4DR9FR7iVzfvB0Zg9hqnRkF+SEwX4dQVYw/LlOue
+ wWkJBOXIor6qSPd74Jkba2O0CapuYolS4clDOWGnDBt7rMztJkSv0PwUzDOwZfDzG3nKrDK+J
+ sZC5Cp4rjhd6jmDFI+oPlaZ6tPrih2hcoPzXE+OFq7Pkdhjavv5TNiTFWykYCEfIL5QHdPSvK
+ u9ZvyFaloD1SrkCAXTlRIfR11TAXpih8nK6Ss9inbE5cijQ+PmN8RSrdTWEwFDgrahaUyTOmp
+ HVXKMh1RAQuO57fyBNX3+dQvDD0cZlKstqMj0h4nuxtJhRnzAZ
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://www.freepatentson=
+line.com/y2014/0324915.html&amp;sa=3DX&amp;scisig=3DAAGBfm2ccfVCFGXAmTn0p8h=
+EhplG4ojevQ&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"t=
+ext-decoration:underline">GUARANTEEING ANONYMITY OF <b>LINKED DATA </b>GRAP=
+HS</font></a></h3><div><font size=3D2 color=3D#006621>A Gkoulalas-divanis, =
+S Kotoulas, V Lopez, ML Sbodio - US Patent 20,140,324,915, 2014</font></div=
+><div><font size=3D2 color=3D#222222>Abstract: A method, system and compute=
+r program product for transforming a <b>Linked Data </b><br>graph into a co=
+rresponding anonymous <b>Linked Data </b>graph, in which semantics is prese=
+rved <br>and links can be followed to expand the anonymous graph up to r ti=
+mes without breaching <b> ...</b></font></div><br><h3 style=3D"font-weight:=
+normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"http://schola=
+r.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://www.freepatentsonline.com/y2=
+014/0325666.html&amp;sa=3DX&amp;scisig=3DAAGBfm3-_ZkBGK96O0bCDgLttO3dlf_1Hw=
+&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decorat=
+ion:underline">GUARANTEEING ANONYMITY OF <b>LINKED DATA </b>GRAPHS</font></=
+a></h3><div><font size=3D2 color=3D#006621>A Gkoulalas-divanis, S Kotoulas,=
+ V Lopez, ML Sbodio - US Patent 20,140,325,666, 2014</font></div><div><font=
+ size=3D2 color=3D#222222>Abstract: A system and computer program product f=
+or transforming a <b>Linked Data </b>graph into <br>a corresponding anonymo=
+us <b>Linked Data </b>graph, in which semantics is preserved and links <br>=
+can be followed to expand the anonymous graph up to r times without breachi=
+ng <b> ...</b></font></div><br><h3 style=3D"font-weight:normal;margin:0;fon=
+t-size:medium;max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font>=
+ <a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://arx=
+iv.org/pdf/1410.7990&amp;sa=3DX&amp;scisig=3DAAGBfm34UmUUKGhfaOTKeMxL481tdZ=
+wKCA&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-dec=
+oration:underline"><b>Linked Data </b>Integration with Conflicts</font></a>=
+</h3><div><font size=3D2 color=3D#006621>J Michelfeit, T Knap, M Ne=C4=8Das=
+k=C3=BD - arXiv preprint arXiv:1410.7990, 2014</font></div><div><font size=
+=3D2 color=3D#222222>Abstract: <b>Linked Data </b>have emerged as a success=
+ful publication format and one of its main <br>strengths is its fitness for=
+ integration of data from multiple sources. This gives them a great <br>pot=
+ential both for semantic applications and the enterprise environment where =
+data <b> ...</b></font></div><br><h3 style=3D"font-weight:normal;margin:0;f=
+ont-size:medium;max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</fon=
+t> <a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://s=
+i-journal.org/index.php/JSI/article/view/213/158&amp;sa=3DX&amp;scisig=3DAA=
+GBfm2XWzI2c5k2QYWaCGdwuNzEjNwQOA&amp;oi=3Dscholaralrt"><font size=3D3 color=
+=3D#1a0dab style=3D"text-decoration:underline">Integration of public procur=
+ement data using <b>linked data</b></font></a></h3><div><font size=3D2 colo=
+r=3D#006621>J Mynarz - Journal of Systems Integration, 2014</font></div><di=
+v><font size=3D2 color=3D#222222>Abstract <b>Linked data </b>is frequently =
+casted as a technology for performing integration of <br>distributed datase=
+ts on the Web. In this paper, we propose a generic workflow for data <br>in=
+tegration based on <b>linked data </b>and semantic web technologies. The wo=
+rkflow comes out <b> ...</b></font></div><br><h3 style=3D"font-weight:norma=
+l;margin:0;font-size:medium;max-width:44.5em"><a href=3D"http://scholar.goo=
+gle.de/scholar_url?hl=3Dde&amp;q=3Dhttp://ieeexplore.ieee.org/xpls/abs_all.=
+jsp%3Farnumber%3D6936984&amp;sa=3DX&amp;scisig=3DAAGBfm2dDoCeffdjANBrS4GAMd=
+rN__hqhQ&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text=
+-decoration:underline">Events as <b>Linked Data</b>-Aggregation and classif=
+ication of published events</font></a></h3><div><font size=3D2 color=3D#006=
+621>B Franc, O Santha, A Marginean - &hellip; Communication and Processing =
+(ICCP), 2014 IEEE &hellip;, 2014</font></div><div><font size=3D2 color=3D#2=
+22222>Abstract=E2=80=94The amount of valuable information shared and hosted=
+ online is increasing with <br>an astonishing speed and the real challenge =
+now-days is to be caught up with all that is <br>happening near you from mu=
+sic festivals, concerts and operas to conferences, book <b> ...</b></font><=
+/div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;max-widt=
+h:44.5em"><a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dh=
+ttp://link.springer.com/chapter/10.1007/978-3-642-30274-9_1/fulltext.html&a=
+mp;sa=3DX&amp;scisig=3DAAGBfm2AYQscHmDmfYSIS-CmeqndofH-Ag&amp;oi=3Dscholara=
+lrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:underline">Tas=
+silo Pellegrini, Harald Sack und S=C3=B6ren Auer X. media. press Linked Ent=
+erprise Data 2014 Management und Bewirtschaftung vernetzter Unternehmensdat=
+en mit  &hellip;</font></a></h3><div><font size=3D2 color=3D#006621>A Bluma=
+uer</font></div><div><font size=3D2 color=3D#222222><b>...</b> 9_1 =C2=A9 S=
+pringer-Verlag Berlin Heidelberg 2014. 1. <b>Linked</b> <b>Data</b> in Unte=
+rnehmen.<br>
+Methodische Grundlagen und Einsatzszenarien. Andreas <b>...</b> eingegangen=
+. 1.2 <b>Linked</b><br>
+<b>Data</b>, Semantic Web, Web of Data =E2=80=93 eine Kurzdarstellung. Die =
+<b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&a=
+mp;q=3Dhttp://link.springer.com/chapter/10.1007/978-3-642-30274-9_12/fullte=
+xt.html&amp;sa=3DX&amp;scisig=3DAAGBfm1n1f20JhU58AzcLocyC_rcOOvZgQ&amp;oi=
+=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:und=
+erline">12. <b>Linked Data </b>in der Automobilindustrie: Anwendungsf=C3=A4=
+lle und Mehrwerte</font></a></h3><div><font size=3D2 color=3D#006621>M Gorr=
+iz, K Holzwei=C3=9Fig, AG Daimler</font></div><div><font size=3D2 color=3D#=
+222222>Zusammenfassung Unternehmen in der Automobilindustrie erleben gegenw=
+=C3=A4rtig einen <br>tiefgreifenden Wandel. Informationstechnologie bestimm=
+t immer mehr die Art und Weise, <br>wie Unternehmen arbeiten, und insbesond=
+ere die Entstehungsprozesse ihrer Produkte <b> ...</b></font></div><br><h3 =
+style=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a =
+href=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://link.sp=
+ringer.com/chapter/10.1007/978-3-642-30274-9_7/fulltext.html&amp;sa=3DX&amp=
+;scisig=3DAAGBfm3LQgl2RPNgH32hxbBlR2vyqDlYOQ&amp;oi=3Dscholaralrt"><font si=
+ze=3D3 color=3D#1a0dab style=3D"text-decoration:underline">Tassilo Pellegri=
+ni, Harald Sack und S=C3=B6ren Auer X. media. press Linked Enterprise Data =
+2014 Management und Bewirtschaftung vernetzter Unternehmensdaten mit  &hell=
+ip;</font></a></h3><div><font size=3D2 color=3D#006621>P Cimiano, C Unger</=
+font></div><div><font size=3D2 color=3D#222222><b>...</b> Springer-Verlag B=
+erlin Heidelberg 2014. 7. Multilingualit=C3=A4t und <b>Linked</b> <b>Data</=
+b>. Philipp Cimiano<br>
+1 und Christina Unger 1. (1) CITEC, Universit=C3=A4t Bielefeld, Inspiration=
+ 1, 33619 Bielefeld,<br>
+Deutschland. Philipp Cimiano (Korrespondenzautor). <b>...</b> 7.2 Multiling=
+ualit=C3=A4t in <b>Linked</b> <b>Data</b>. <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&a=
+mp;q=3Dhttp://link.springer.com/chapter/10.1007/978-3-642-30274-9_11/fullte=
+xt.html&amp;sa=3DX&amp;scisig=3DAAGBfm3DJyU1M_3dzZWcRib2P5Ndy7dNHA&amp;oi=
+=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:und=
+erline">11. <b>Linked Data </b>und Digitale Bibliotheken</font></a></h3><di=
+v><font size=3D2 color=3D#006621>N Friesen, C Lange</font></div><div><font =
+size=3D2 color=3D#222222>Zusammenfassung Wichtige Ziele bei der Entwicklung=
+ Digitaler Bibliotheken sind <br>Informationen leicht auffindbar zu machen,=
+ sie miteinander zu verkn=C3=BCpfen sowie die Inhalte <br>der Bibliothek f=
+=C3=BCr Mensch und Maschine nutzbar zu machen. Wir erkl=C3=A4ren, wie <b>Li=
+nked</b>-<b> ...</b></font></div><br><h3 style=3D"font-weight:normal;margin=
+:0;font-size:medium;max-width:44.5em"><a href=3D"http://scholar.google.de/s=
+cholar_url?hl=3Dde&amp;q=3Dhttp://link.springer.com/chapter/10.1007/978-3-6=
+42-30274-9_3/fulltext.html&amp;sa=3DX&amp;scisig=3DAAGBfm2ZoHLop_LqoZitLFfP=
+YbetmJNfXQ&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"te=
+xt-decoration:underline">Tassilo Pellegrini, Harald Sack und S=C3=B6ren Aue=
+r X. media. press Linked Enterprise Data 2014 Management und Bewirtschaftun=
+g vernetzter Unternehmensdaten mit  &hellip;</font></a></h3><div><font size=
+=3D2 color=3D#006621>T Pellegrini - Education</font></div><div><font size=
+=3D2 color=3D#222222><b>...</b> Springer-Verlag Berlin Heidelberg 2014. 3. =
+Die Bewirtschaftung vernetzter Daten auf Basis<br>
+von <b>Linked</b> <b>Data</b> Technologien. <b>...</b> 3.2 <b>Linked</b> <b=
+>Data</b> als technikinduzierte Innovation im<br>
+Enterprise Data Management. 3.2.1 Metadaten als Innovationsfeld. <b>...</b>=
+=20
+</font></div><br><p><hr noshade size=3D1><font size=3D2 color=3D#222222>Die=
+ser Google Scholar-Alert wird Ihnen von Google zur Verf=C3=BCgung gestellt.=
+<br><br><a href=3D"http://scholar.google.de/scholar_alerts?view_op=3Dcancel=
+_alert_options&amp;email_for_op=3Derictessenow%40web.de&amp;alert_id=3DAIfe=
+vv3NkPcJ&amp;hl=3Dde"><font color=3D#1a0dab>Alert stornieren</font></a><br>=
+</font></div></body></html>

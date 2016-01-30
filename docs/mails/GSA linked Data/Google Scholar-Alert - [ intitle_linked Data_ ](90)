@@ -1,0 +1,105 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.64.67.99 with SMTP id m3csp281956iet;
+        Wed, 27 Nov 2013 16:43:00 -0800 (PST)
+X-Received: by 10.51.15.130 with SMTP id fo2mr578144igd.28.1385599379355;
+        Wed, 27 Nov 2013 16:42:59 -0800 (PST)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 385CWUhUKDAo2mryvk1kvo132-xy1ozv8qyyqvo.mywo1sm3o22oxy66ol.no@scholar-alerts.bounces.google.com designates 209.85.213.73 as permitted sender) smtp.mail=385CWUhUKDAo2mryvk1kvo132-xy1ozv8qyyqvo.mywo1sm3o22oxy66ol.no@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 385CWUhUKDAo2mryvk1kvo132-xy1ozv8qyyqvo.mywo1sm3o22oxy66ol.no@scholar-alerts.bounces.google.com designates 209.85.213.73 as permitted sender) client-ip=209.85.213.73;
+Received: by 10.64.171.52 with POP3 id ar20mf5708442iec.0;
+        Wed, 27 Nov 2013 16:42:58 -0800 (PST)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 385CWUhUKDAo2mryvk1kvo132-xy1ozv8qyyqvo.mywo1sm3o22oxy66ol.no@scholar-alerts.bounces.google.com
+Received: from mail-yh0-f73.google.com ([209.85.213.73]) by mx-ha.web.de
+ (mxweb003) with ESMTPS (Nemesis) id 0M8Oqw-1VPCOU26iY-00vxTG for
+ <erictessenow@web.de>; Thu, 28 Nov 2013 01:40:20 +0100
+Received: by mail-yh0-f73.google.com with SMTP id f64so830859yha.2
+        for <erictessenow@web.de>; Wed, 27 Nov 2013 16:40:19 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=9LNUBs9XB1Cp2WrtsKhTVCmlNB4lkuK2jwXKFPhjkIw=;
+        b=GmQbrZlTqTEbvq69HOIrkyd8EMjs0kzz4wwasqAiX/Dj9DvcAHIyaUa/XFlMv7KWQH
+         piCSiuDyiKQvSYhb8UcEaI4dLtPP7+FTzsCMKgn//chPHVi3flm7EW38cxy4TWXW0Y2f
+         BxqR5VvG4Qj7zjrL/mkzE48LciRp8SzMC1ajhhjHtXMSZEFlrxnUWgMhQmH8pQ9GyKtq
+         QYGgrn3UIYVmfyXwjZdSKCZxmC03qHaTGHGbNSM7JJx7ZhLcqfn0exJcXrLt2MVgPiD5
+         ZIYXQdtiZjgXlDgG9J23wemrygYVVWxtzhRr5zAyNKaNrCmUolnvJR9rCJHtTCLN4DI2
+         D06A==
+MIME-Version: 1.0
+X-Received: by 10.236.135.79 with SMTP id t55mr19871840yhi.39.1385599219323;
+ Wed, 27 Nov 2013 16:40:19 -0800 (PST)
+Message-ID: <14dae9d7c16444d47604ec31f555@google.com>
+Date: Thu, 28 Nov 2013 00:40:19 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:tR6Arowt+gg=:MMkf9NGpSp2FJ5sEUhagcgdTIP
+ k5MaPtee1ASyQ2miX1jJ9fe/OklMGain15dpXUhHnet4SFkNml5sfOS/FzD6yDit5IQfjX5Kt
+ fYkLVgc14UQa72kk9lHHrTu+KDG0l8kEbCob4LgiLx83RhDK1GTyZrvtP/qIP2SvLgy/hxLn+
+ LkD0qdI/A12h1Y+r4MPvgWjPdithbCTxt69/aNCe+md5w6cnJdhb7xnuK+DE697r9M2XmFaY/
+ Prq97qoR7m/VblYsetoYDTeia7xyx7YaT1NLfw6zc9qr9DgZauBLUScBzFB0+mMb07Qa2ehDQ
+ E7w3APIUR1TaIikwyid9q/1VDw9rL2Wrp3eaJAriClsRE2nZYJ5kLw8UNb8w3PNL0ZHnzFP+S
+ XrPhuY9ZJWCxbNQve+TeOycCt2iTyoqnXt5fSRusvAnbI4pc7gfXRGzTsyxh11NkdX+qqNcvc
+ gohNsqUzD/+AP2vIuRM/ldECtMyxCEC9dq/zhV6JqL+kkNHQufsNcA7WqlGJg+aO0BA/pw2W+
+ j4sKFQrPUCNqyPJIJXnllDY+6rX5Hx5qhYeSXjClE7t+1k88B5VtJyxDCvsDrycSD32YzLc9C
+ 1XHXl7r31HeLDkG1CaWZzsl0SDbqabQQS4MQnIGCjL0aEAaLJdH+88r9Mu0WNDbGW/cjJdFUn
+ T0GaCsAnG0ZFkssrFF4tr1feKg2ZT9vPRjo9nrpTiPq+MSS1lqu/ygzvRjkHhCJ1xLQpOE/yb
+ w4J8MbdUJve0TFWyjOVOazwKX2oW6byZEsKdKdbyFOByh6TsCYHlrE+QYJ0ogj9mPOwUSxFav
+ 9c8xW0CDilqlDVpEGa6cv1YuxizOZB77xzRVn1Klw6cZ3hQJ2mXFQVBLmsMcpLE5mIC2Z0PEH
+ JLXxiRdBGD66xh02RvhYjh9bDLY2rT12XSEIaBWPL7DVzTdwmOT9Mtcdx4QKb+8LsUW3utNSs
+ 4qTtFuRoivfyZYR6Pyh7Vsm4w9VQ8+3qSlBBwf1QANfUx4DlUJQh5kHS9DZCOLkskXogB2+Aq
+ D+OXMck6reScQgHFCsSyn4ks/fIBOQwe3d3Im1PLgXV0WYI5Zu4pjwd8723vqA3zqsBtAiTXx
+ tiT10RuafgxWBtUFbnnEUmmR6zRJYAGisRzuT/iWTYjFa9BI8VlFT/aystnCJEbr+A9uhhdhd
+ orZoaFeDBSpE9OoTY7PQ638mmsDF2Jj6zbU2PndNFDN210Ll3vyEhuHzPscsU2KC8=
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://link.springer.com=
+/chapter/10.1007/978-3-642-41674-3_199&amp;sa=3DX&amp;scisig=3DAAGBfm3s-qZc=
+OeB91pvLX_x6mqsaGMvcQg&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc=
+ style=3D"text-decoration:underline"><b>Linked Data</b>-Based Service Publi=
+cation for Service Clustering</font></a></h3><div><font size=3D2 color=3D#0=
+09933>I Paik, W Chen, BTGS Kumara, T Tanaka, Z Li&hellip; - Advanced in Com=
+puter  &hellip;, 2014</font></div><div><font size=3D2 color=3D#222222>In th=
+is paper, we propose an approach to publish services based on <b>Linked dat=
+a</b> principles and <br>
+discover services by service cluster with visualization for reducing the us=
+ing thresholds. First, <br>
+we propose Linked social service which is published on the open web by foll=
+owing <b> ...</b> </font></div><br><h3 style=3D"font-weight:normal;margin:0=
+;font-size:medium;max-width:44.5em"><a href=3D"http://scholar.google.de/sch=
+olar_url?hl=3Dde&amp;q=3Dhttp://www.researchgate.net/publication/258316384_=
+Modularity_Analysis_of_Automotive_Control_Software/file/e0b49527d1f852249b.=
+pdf%23page%3D38&amp;sa=3DX&amp;scisig=3DAAGBfm2o1CnMl8ZBQVOeOcZLCyRg9PghSw&=
+amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D"text-decorati=
+on:underline">Preserving <b>Linked Data</b></font></a></h3><div><font size=
+=3D2 color=3D#009933>C Meghini, A Molino, F Borri, G Galesi - Intelligent C=
+ars</font></div><div><font size=3D2 color=3D#222222>In January 2013 the Eur=
+opean Commission launched the project PRELIDA=E2=80=93Preserving <br><b>Lin=
+ked Data</b>, a two year Coordination Action of the VII Framework Programme=
+. The main <br>goal of PRELIDA is to build bridges between the areas of <b>=
+Linked Data </b>and Digital <b> ...</b></font></div><br><h3 style=3D"font-w=
+eight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D2 col=
+or=3D#1122cc>[HTML]</font> <a href=3D"http://scholar.google.de/scholar_url?=
+hl=3Dde&amp;q=3Dhttp://responsible-innovation.org.uk/torrii/resource-detail=
+/65&amp;sa=3DX&amp;scisig=3DAAGBfm2mwkGv0RXkug9wTDd8upVYjq-b8w&amp;oi=3Dsch=
+olaralrt"><font size=3D3 color=3D#1122cc style=3D"text-decoration:underline=
+">Personal Privacy and the Web of <b>Linked Data </b>Uploader</font></a></h=
+3><div><font size=3D2 color=3D#009933>D Corsar</font></div><div><font size=
+=3D2 color=3D#222222>Abstract: This case study investigated risks and uncer=
+tainties associated with the personal <br>privacy of users in applications =
+that integrate data obtained from users, or data derived from <br>obtained =
+data, with the Web of <b>Linked Data </b>based on the dot. rural Informed R=
+ural <b> ...</b></font></div><br><p><hr noshade size=3D1><font size=3D2 col=
+or=3D#222222>Dieser Google Scholar-Alert wird Ihnen von Google zur Verf=C3=
+=BCgung gestellt.<br><br><a href=3D"http://scholar.google.de/scholar_alerts=
+?view_op=3Dcancel_alert_options&amp;email_for_op=3Derictessenow%40web.de&am=
+p;alert_id=3DAIfevv3NkPcJ&amp;hl=3Dde"><font color=3D#1122cc>Alert stornier=
+en</font></a><br></font></div></body></html>

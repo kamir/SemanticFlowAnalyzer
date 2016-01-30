@@ -1,0 +1,83 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.140.228.79 with SMTP id y76csp40046qhb;
+        Thu, 15 Jan 2015 07:17:35 -0800 (PST)
+X-Received: by 10.224.45.69 with SMTP id d5mr17211398qaf.56.1421335052064;
+        Thu, 15 Jan 2015 07:17:32 -0800 (PST)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 30Nm3VBUKDA87rw30p6p0t687-236t40Dv33v0t.r31t6xr8t77t23BBtq.st@scholar-alerts.bounces.google.com designates 209.85.213.201 as permitted sender) smtp.mail=30Nm3VBUKDA87rw30p6p0t687-236t40Dv33v0t.r31t6xr8t77t23BBtq.st@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 30Nm3VBUKDA87rw30p6p0t687-236t40Dv33v0t.r31t6xr8t77t23BBtq.st@scholar-alerts.bounces.google.com designates 209.85.213.201 as permitted sender) client-ip=209.85.213.201;
+Received: by 10.229.150.67 with POP3 id x3mf1388151qcv.5;
+        Thu, 15 Jan 2015 07:17:31 -0800 (PST)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 30Nm3VBUKDA87rw30p6p0t687-236t40Dv33v0t.r31t6xr8t77t23BBtq.st@scholar-alerts.bounces.google.com
+Received: from mail-ig0-f201.google.com ([209.85.213.201]) by mx-ha.web.de
+ (mxweb105) with ESMTPS (Nemesis) id 0Lx92D-1Xihey1Xxp-016eJy for
+ <erictessenow@web.de>; Thu, 15 Jan 2015 16:16:33 +0100
+Received: by mail-ig0-f201.google.com with SMTP id h15so2172117igd.0
+        for <erictessenow@web.de>; Thu, 15 Jan 2015 07:16:32 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=nAktqi7rMbOcqmwNMGT8R9XLVz0/xyQhx8I9PtgUxsA=;
+        b=Pupr/PxWnSsHOegl4LRvJLqWorpyCt6iTVjYCsnlc0ozLpfAJSX1FVHkY6WOR1qFKH
+         wsvyAxNDWlFxe+VhcrjeoMTL5aj+CCgxJAfQz/eQhEC0OK8flYvQh40fGaz62TbTvYyT
+         JFx3pyS9VbO6LGCM+4+/AdkhoQpQ2y2HTfWYlgUa4F3OBdBDJU1Asly2B1MJ8w4lftt6
+         UY+bIfsnDUwfbcUITvpKv6PTrv+UqJGquuajKpKbLWmh1WZlmLYOTERMb54v0z9iX79V
+         eQlQ4ZVR7JZ9EHznkMbVMEP70eogvYHAZ6RsWRe3kgyUGNf5o4hJrohkejylcn4BcbTG
+         QbLg==
+MIME-Version: 1.0
+X-Received: by 10.182.241.71 with SMTP id wg7mr8314266obc.38.1421334992161;
+ Thu, 15 Jan 2015 07:16:32 -0800 (PST)
+Message-ID: <001a11c2e0f05089fe050cb2576d@google.com>
+Date: Thu, 15 Jan 2015 15:16:32 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:6Ae1owsddKo=:x1ZdcKQaKlZQytnzMrrH5xfP2j
+ NxCf/vXTMgRbq8x/569ESLDI3Ic/CD8C1aVEhG9npsgP+flEi45AtFRgBYL5mzKjT0mVqMmZp
+ iryxEV3ExQaF1D92qVB9q1BQHe4/oAn7wmClyZbi2IVDYLJHIUFx+GYgeW0bDBbTUkS3qJ6Az
+ po99w/SoN7VFsg73iDweOY7uXQFQMsz4pGCWjRYnPag+L8UDChHoLFKpQ2jCFqKi3mXmsv5q0
+ r/aQQBdHiuBYfV8F9X8pkfdhvBZo+4T7yGjabXpf95Eskjk9iXmjFQXzyBxphVDaN4Fzs2e/0
+ XTcj9mFvrBmXBmZQPxMQfS0p3DPUu/8xtAUrfLl1GG4mZofgivZoVbqvZSYRbClKBM9wGIb/m
+ zY2E/6dyb/qgr7WiqEdyfMubi+7MkaGc3VORqudNcuuwmSyryZ8o3wswikufPSjQn8FeUTju/
+ D1wKkE8VLW0zVgFUQiqcbu+wpgoyxiIv61f/f5zIyl5ORrGd7tm48T3DW7/NbjXDdu0B/fZYN
+ vp9q830q5NLdCxP0mSlmx0g3ikU2DgVvF9iBTuFdOMbNeogjP8suHnb930cdCoyLbTJtj8Gun
+ bxDxBh/EdH3PmgqJH7gSTX2E7l08pU6XR5ZtbVxFjSLMyDoKufwHOX8he9HqhWCqfNXpJXrfZ
+ 2bUo3QM/DLMsA8AGXe7Z0Du+RPOMQXixZ/LjbkUHhlqyMEjCjbEE/s02aoC97eI/BvkDpi+mk
+ NHVUfKihU6rrwsWdnTklFHm+POf0ix6XGtkP7xNVy8Qrdax8YI2pIk6r9cspGwFSb5nOOmrrJ
+ 2LtkDu78Xy7tb2an7tgrpH4C+sMyXWXNVtAsp1Q81gA5IEEB25aWCL4P7qOVnKXFppe/P2n+N
+ YZi0wDBccwffshuqcD+Wgoco3p1WmrPsQKnLvcj6UifoQJf4DHdWwDIoMtrU4dAXj5h7tj7ix
+ D2sputKId7Mn6i1grBdpRi9DuifuuvUs5pasl+rNY8bsGTC9hYJcoialTs5msnsYIKN20HZ3s
+ p2UPdEUysqtyuwZhE69gEqudiYue27IJhlNGDzeB9IciMtKTcZY4Iy0br+xJSNe+e3w8m2a7s
+ LKwo2h0jHJ6KrVH+9QrA7PfFy9RwU1lIl6oe0jFDAggcpMFrj2pNnEThdufhuNXwqsPiY3hgu
+ kTdstDAZzMB5GhmHEboWvaKsBScwf4onFKBDexKEKiiMnTs+M2y7f6qmXneZ98IjeRcvgYI8Q
+ f9hWIoTE/8UD02i/KPzDd4536hZvCH97HVwzZyrdOOm6Er7AVgu4JzJAizLvqVuTm2wW1A0jP
+ Ffci9pro2bZdpIkCc8K4ghFAfgoKYqcdr3Lj7t2Gb0Sm2c0tszgq2T65JhANviEp+oKeRXbNY
+ 6i3hBwD4oa0xa6NycGCPMj2g2Gy3+nyxtAOhXFiuWm1T9gIIfRz26Qeuv8tePQQxrhVfujhnU
+ C/L+EVjRgKTFAkr84OlGJvIqFfMYav+QZGvsVSpaj2fyzAokpU
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttps://ideas.repec.org/p/iab/iabf=
+me/201501_en.html&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm2dEZs3sI3GFcXg4=
+DtiqvZIp8gx1w&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1=
+a0dab style=3D"text-decoration:underline">Using longitudinal wage informati=
+on in <b>linked data </b>sets: the example of ALWA-ADIAB</font></a></h3><di=
+v><font size=3D2 color=3D#006621>M Reichelt - 2014</font></div><div><font s=
+ize=3D2 color=3D#222222>&quot; Using longitudinal wage information in linke=
+d datasets such as ALWA-ADIAB is not straight-<br>forward. First, due to th=
+e upper earnings limit for social security contributions, parts of the <br>=
+wages have to be imputed. Second, although information from the ALWA survey=
+ is linked <b> ...</b></font></div><br><p><hr noshade size=3D1><font size=
+=3D2 color=3D#222222>Dieser Google Scholar-Alert wird Ihnen von Google zur =
+Verf=C3=BCgung gestellt.<br><br><a href=3D"http://scholar.google.de/scholar=
+_alerts?view_op=3Dcancel_alert_options&amp;email_for_op=3Derictessenow%40we=
+b.de&amp;alert_id=3DAIfevv3NkPcJ&amp;hl=3Dde"><font color=3D#1a0dab>Alert s=
+tornieren</font></a><br></font></div></body></html>

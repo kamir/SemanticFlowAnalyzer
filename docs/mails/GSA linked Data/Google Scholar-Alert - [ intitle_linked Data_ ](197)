@@ -1,0 +1,136 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.64.31.33 with SMTP id x1csp497199ieh;
+        Mon, 7 Jul 2014 18:33:58 -0700 (PDT)
+X-Received: by 10.50.67.7 with SMTP id j7mr254266igt.8.1404783236026;
+        Mon, 07 Jul 2014 18:33:56 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3Y0e7UxUKDIIyinurgxgrkxzy-tuxkvr4muumrk.iuskxoizkyyktu22kh.jk@scholar-alerts.bounces.google.com designates 209.85.128.201 as permitted sender) smtp.mail=3Y0e7UxUKDIIyinurgxgrkxzy-tuxkvr4muumrk.iuskxoizkyyktu22kh.jk@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3Y0e7UxUKDIIyinurgxgrkxzy-tuxkvr4muumrk.iuskxoizkyyktu22kh.jk@scholar-alerts.bounces.google.com designates 209.85.128.201 as permitted sender) client-ip=209.85.128.201;
+Received: by 10.50.151.138 with POP3 id uq10mf25624igb.16;
+        Mon, 07 Jul 2014 18:33:55 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3Y0e7UxUKDIIyinurgxgrkxzy-tuxkvr4muumrk.iuskxoizkyyktu22kh.jk@scholar-alerts.bounces.google.com
+Received: from mail-ve0-f201.google.com ([209.85.128.201]) by mx-ha.web.de
+ (mxweb108) with ESMTPS (Nemesis) id 0Lmrq4-1WPmjx03R6-00h6QN for
+ <erictessenow@web.de>; Tue, 08 Jul 2014 03:20:37 +0200
+Received: by mail-ve0-f201.google.com with SMTP id i13so54939veh.4
+        for <erictessenow@web.de>; Mon, 07 Jul 2014 18:20:35 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=s43xvIDZNlt+Zg5fU+48EaP91u3z/mkLCCamxf/Dehg=;
+        b=kCedGAZrylGr+ZIPJsyoVFxBtza/GYw1lRYZhYg2q+5kAZNOhMFGHnJvwlXpUV7qvF
+         +mYNhnJd/KsIh2UBpmlpD363af4fUfoFZSPClm74K78g727svKrWmkRRyFfgfFsPbpu8
+         VYhzwWNrOPWhzijDV2h7/gVNBuhXchja1BXsoPH7NonStntsKLCOVAOE0GXEMW3tnxDY
+         ajf+8/9GiCUqDl2hzts+aZ1aU29AwKbzYjo8/XHcMhlGxuUVogJZjQe4a+1T+fKJeeg1
+         r62ijgL8WXdvp9lRCuIh5RAsVU1q1bro45Un8gpBQgv5V1Gqu95iKPww+wCt2XCnQi5i
+         7Otw==
+MIME-Version: 1.0
+X-Received: by 10.224.13.67 with SMTP id b3mr15636812qaa.2.1404782435897; Mon,
+ 07 Jul 2014 18:20:35 -0700 (PDT)
+Message-ID: <047d7bf0f3aa140f5304fda46652@google.com>
+Date: Tue, 08 Jul 2014 01:20:35 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:Kzf/syFmg10=:rlDJj5PHODDj97+/imn+OJUatu
+ YWRF0gGKxQCITojI13Lx7gMt37fP7xiYJk9PMysGoAE1xuBtHJAm/dBdAdrAYM8dTE78o8T/L
+ TA1NX4ck2K6MqJFF/KfhmOsa1mVOWdJq7Rd0lhBJfhRSeH6e7D8MuvbKVB7dvcZx1T0QooHsW
+ /24nsXAJi2RkMXJvcIngZEtEMnYZ7KrY8+UxwwdsFG+84tCfHxTEKy5dwlUOgfc5a8XL12/vq
+ 9AmBdHgDsoqOK/9AWdV/JLlTuCpBMF+5iBuRlm8GotF0RWrSxmKzzpMXUTfJZNY3KWi7mHBs5
+ o6OJbaMVvpNowMaL8z6g84wann1/aDHZtNKVwB0pyyMcdqagmvsk/NfmuHXJf5h178nnv1D5/
+ wPQRK003eHYq8zj5J+f33Y/rac/v76ipR/wd3LpNRJFzCcIFyOFRftxbwxoBabZPfj0psUEuG
+ E3vNdVjitBPGAMA1pmGJi/lNAjm9gikQPqeN2pSPlhEV0BK1kAHyLdp4sKeyDMsBFxNR/UVj5
+ 6jgcmnxopM0+5VM6n8Lz2vLVmEyQ2qZQpAEBOuOTgmMTDyA87KlJmE4F9Bqd+EAQjqq3Tzvhy
+ tpaV8wWy2JfvzmVvR2v+twhUlGBcWHuIgFMSAYuBWWRU2c8cTMLiKy2MHXCAvhVBc0+0MypKG
+ njPX4rkn/JapP9+KqfrROzLj+wSzNLdFHPhhk8DhlAEPgs+t1tiG/4GLDVKgfiemovEhYXiR8
+ sA/HBDnq8vgXiH+z5F0RhpuVhgBuj/pQyt7dWFwOBADwoj84JvnjofHF+ZEijHz1PSBjp4jsz
+ DjZhOmCs4kh/nJ5k2kTvH3HgPil7eZzO+2GYzeORZSGrsPowfL16Pz1Vyq+ZpO68xUkjj+CoD
+ w/QmjXmzJIpFy+rzgXiXsSxie24Mq6KWHscsBpYTyHdtZ4gLpZNjV/9SKL1PuyIyb8FrrfdV6
+ xj89hnn0BPQ0/gxzP1ajS009Br4Ct4a4BSXbmJejGcyD2+83vf87jO4jdE86zey5IkcMRq2uA
+ DsZuR+RsvpXm2ZsrB75sBuISHYlGs1DY+QzC0Yo/He/BfyyfIY0TgpcaT+UkKN/dXgAKYsatm
+ 6VTUcM52Q+lVL6xLwplg/XKb24G+CawEWEcuISJRK0x3a8i8ADwX0y50XkZ2ee7cI3eRrJyS+
+ QjihT3Fq+sk+Cd9PDf86j1zLRMYO2PV+ZTMtEES5qBcfFDXnFkMyzD3ia1hQ+nNj9GP1cIGxW
+ LKQZn7FcWWPLVsraBww799Y08OBLYgkeE/YsVz9sV6DKqtHkUQguhQuYixuz4QPE5W1vvIY/7
+ mrZY0H19dbA5nxCcHZq91eelLtA7SUBFN6sF7HxZJYvn9xxgMMz3tJZTvXEncKgA7B8G359TY
+ kHqHPkTErb2wMDyi6/6HIx5h+60PHaK31ldWPI64KucKIMVU0y7wvLhIzHl/3WShnedvrshSM
+ TtaUdPmCHXWse52jRomGU6srv8PwMdNen/8G/3wPrr3MSxfgBF
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://www.ingentaconnec=
+t.com/content/ist/ac/2014/00002014/00000001/art00038&amp;sa=3DX&amp;scisig=
+=3DAAGBfm0-ql7iRu1PjaEFkw-0Qr9D_yKY-w&amp;oi=3Dscholaralrt"><font size=3D3 =
+color=3D#1122cc style=3D"text-decoration:underline">Flexible data model for=
+ linked objects in digital archives</font></a></h3><div><font size=3D2 colo=
+r=3D#009933>M Lampi, O Alm - Archiving Conference, 2014</font></div><div><f=
+ont size=3D2 color=3D#222222><b>...</b> <b>Linked</b> <b>data</b> is nothin=
+g revolutionary and has existed for some time already. <b>...</b> Projects =
+like<br>
+Europeana Open Data Pilot have inspired this work [8]. There was a need to =
+build a <b>linked</b> <b>data</b><br>
+model that would support both ELKA&#39;s and MAMK&#39;s digital archive ser=
+vices. <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&a=
+mp;q=3Dhttp://www.doria.fi/handle/10024/97586&amp;sa=3DX&amp;scisig=3DAAGBf=
+m1aZTHi0TbPt6tDHprHTcvsvUMJ8A&amp;oi=3Dscholaralrt"><font size=3D3 color=3D=
+#1122cc style=3D"text-decoration:underline">From Local Practice to Linked O=
+pen Data: Rethinking Metadata in Hydra</font></a></h3><div><font size=3D2 c=
+olor=3D#009933>T Johnson - Open Repositories 2014, 2014</font></div><div><f=
+ont size=3D2 color=3D#222222><b>...</b> These advancements expand on previo=
+us work on RDF in Hydra, allowing more robust integration<br>
+with the broader <b>Linked</b> <b>Data</b> ecosystem. <b>...</b> Avainsanat=
+: <b>Linked</b> <b>Data</b>; Hydra; Metadata; Controlled<br>
+Vocabularies; SKOS. N=C3=A4yt=C3=A4 kaikki kuvailutiedot. Viite kuuluu koko=
+elmiin: <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&a=
+mp;q=3Dhttp://www.doria.fi/handle/10024/97531&amp;sa=3DX&amp;scisig=3DAAGBf=
+m3tiGqZ-8WwG8D5T6Ak67FvSDNVog&amp;oi=3Dscholaralrt"><font size=3D3 color=3D=
+#1122cc style=3D"text-decoration:underline">It&#39;sa workflow engine. It&#=
+39;s working with <b>linked data</b>. It&#39;s repository!=E2=80=93Supporti=
+ng electronic thesis related processes in University of Helsinki library</f=
+ont></a></h3><div><font size=3D2 color=3D#009933>J Kes=C3=A4niemi - Open Re=
+positories 2014, 2014</font></div><div><font size=3D2 color=3D#222222>In re=
+pository talk, workflows are usually associated with either configurable su=
+bmission <br>forms or review steps required after the content is deposited.=
+ Since version 1.8 DSpace <br>repository software has come bundled with gen=
+eral, albeit simple, workflow engine that <b> ...</b></font></div><br><h3 s=
+tyle=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em"><fon=
+t size=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"http://scholar.google.de=
+/scholar_url?hl=3Dde&amp;q=3Dhttp://library.ifla.org/822/1/086-samiee-en.pd=
+f&amp;sa=3DX&amp;scisig=3DAAGBfm2GzPcMMtNmOHuKMqhjoe_TIj7kXQ&amp;oi=3Dschol=
+aralrt"><font size=3D3 color=3D#1122cc style=3D"text-decoration:underline">=
+<b>Linked data </b>cloud in=E2=80=9D Farsi subject headings: case study at =
+the NLAI</font></a></h3><div><font size=3D2 color=3D#009933>M Samiee, K Dav=
+allu - 2014</font></div><div><font size=3D2 color=3D#222222>The purposes pu=
+rsued in this research include the identification of some existing problems=
+ <br>in the documented records of Farsi subjects, revealing some problems p=
+robably coming up <br>during the conversion of bibliographical data and fin=
+ally establishing links in the Farsi <b> ...</b></font></div><br><h3 style=
+=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font si=
+ze=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"http://scholar.google.de/sch=
+olar_url?hl=3Dde&amp;q=3Dhttp://www.naun.org/main/NAUN/educationinformation=
+/2014/a262008-084.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm01NHb7TnsExF2lOLGROLzso=
+TInRA&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D"text-de=
+coration:underline">Mobile Learning with Linked Open Data</font></a></h3><d=
+iv><font size=3D2 color=3D#009933>M Arrigo, D Taibi, G Fulantelli</font></d=
+iv><div><font size=3D2 color=3D#222222><b>...</b> categories. In such a way=
+ the real world experience carried out by the students is<br>
+a mean to create new <b>Linked</b> <b>Data</b>:, the data produced by them =
+are actually linked<br>
+with the concepts related to the places they have visited. In <b>...</b>=20
+</font></div><br><p><hr noshade size=3D1><font size=3D2 color=3D#222222>Die=
+ser Google Scholar-Alert wird Ihnen von Google zur Verf=C3=BCgung gestellt.=
+<br><br><a href=3D"http://scholar.google.de/scholar_alerts?view_op=3Dcancel=
+_alert_options&amp;email_for_op=3Derictessenow%40web.de&amp;alert_id=3DAIfe=
+vv3NkPcJ&amp;hl=3Dde"><font color=3D#1122cc>Alert stornieren</font></a><br>=
+</font></div></body></html>

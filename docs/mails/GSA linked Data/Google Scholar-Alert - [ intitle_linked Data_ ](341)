@@ -1,0 +1,108 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.140.140.136 with SMTP id 130csp454163qhm;
+        Tue, 25 Nov 2014 07:41:57 -0800 (PST)
+X-Received: by 10.140.91.11 with SMTP id y11mr37396289qgd.52.1416930114429;
+        Tue, 25 Nov 2014 07:41:54 -0800 (PST)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3MqF0VBUKDO8jTYfcRiRcVikj-efiVgcpXffXcV.TfdViZTkVjjVefnnVS.UV@scholar-alerts.bounces.google.com designates 209.85.223.201 as permitted sender) smtp.mail=3MqF0VBUKDO8jTYfcRiRcVikj-efiVgcpXffXcV.TfdViZTkVjjVefnnVS.UV@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3MqF0VBUKDO8jTYfcRiRcVikj-efiVgcpXffXcV.TfdViZTkVjjVefnnVS.UV@scholar-alerts.bounces.google.com designates 209.85.223.201 as permitted sender) client-ip=209.85.223.201;
+Received: by 10.229.160.84 with POP3 id m20mf435726qcx.6;
+        Tue, 25 Nov 2014 07:41:54 -0800 (PST)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3MqF0VBUKDO8jTYfcRiRcVikj-efiVgcpXffXcV.TfdViZTkVjjVefnnVS.UV@scholar-alerts.bounces.google.com
+Received: from mail-ie0-f201.google.com ([209.85.223.201]) by mx-ha.web.de
+ (mxweb002) with ESMTPS (Nemesis) id 0MbOXk-1XafKa2XBc-00IjCT for
+ <erictessenow@web.de>; Tue, 25 Nov 2014 16:33:08 +0100
+Received: by mail-ie0-f201.google.com with SMTP id rp18so79292iec.4
+        for <erictessenow@web.de>; Tue, 25 Nov 2014 07:33:06 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=1yuSgiruB+VmAFqmushnSvJW30xg2PuZdmdx2jV0XDw=;
+        b=glH3OiPOGUNcLjkTkmkudiNP+dGlYwZbS6oPCj+PL3vjj8HKJ36I4WSWmuWFke8uCE
+         qRW68on29ujIkEskKFYH+D9a6w12mVp/cuMhf/Md62rSuyOzQdfgJgBsQf8U2T37bH/4
+         fGKA4cCysANs0ja9Ai/4MXVGUe7dhyeqtzCr+s3hVNIYC7c55UxOiWeay++orhlgqtGF
+         yITNI0CNuAhBK90636InRfJvTx8DVwHiu2HR1HTExEQ16Rv/L6wUQZ0vHOUXlJ1PdNuG
+         ucaovZZrbDXqmR0MnzI9kDD267JqQzTFAA9oyiEtyUaX2rADIpdUXKtX4VhhL3j82jJc
+         jVkA==
+MIME-Version: 1.0
+X-Received: by 10.42.131.130 with SMTP id z2mr10835755ics.33.1416929586871;
+ Tue, 25 Nov 2014 07:33:06 -0800 (PST)
+Message-ID: <90e6ba6135cab27f1d0508b0a061@google.com>
+Date: Tue, 25 Nov 2014 15:33:06 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:xWWP4rw6Wb4=:IkPKdt5LCxIngEKWXspykUgvC6
+ tBFNWLxeQcKxFfbxVNMzpdvQjtRxRp9l1+H6O40nmjtPhvlY1mZbUgsbBRspfts2lUH/J7QPp
+ Wny/GUmgBMSvJkUj82nYYTDSUxB0LzcTxMqnxYUr+svE2zspRhQiiQu/CJmdWThAqCKFmUtpV
+ jzvzUlsBfzUoX0r4+5VRk6hZ6L+jy5ZmT4OxbNRd3SH9TvW6lD4m1jT4RPJ0e42T94UlFocCr
+ p/mNyUDY9Mgw6XDT56nOToU4rDhzTuOIcf3cRtblanJyvmq4Gx7x+IiCTcXSc3rfsZf3Fo3N4
+ MBs0nIG6TfI5AiqDgQmzguZFuXJN5DRAGNliyhT7rMauHw8b0nD707bHmbq4HHuZ0fNf9Zw8j
+ Yc+qVv/tSWw7ZaZ+8qcYZIPsEFRvGm2fG5Lf47KeAa0ED9UmqahFXJep/zs9rB8d5J3rXOY6x
+ Fbl3Xvwku/Jf/dzXsklBj8JjkkZywxk7hQiDBHUlT9ujlRhl7uou08+/e0I8cSIEZ8Evd5mKH
+ pf1LjhNRJigPdZw4ymokDB1Tn0OG+xsn8pH5T6LzOK9Y4jI7Bhv5vGp3Hh2DfeCxSiv+Nn6/Q
+ swwIBveGEbFa+grXoHGP0i0u0yNL5E8BIyINUy9lNHhtcMl9ylR/Ah3lJeE3VNcMF8ArO0rI6
+ 2TG9X3AO/ldBHx9ymy+zLA34JeCWLO542wl298bkWeVQcKY+pc2kobO5ExibVjQm9rrBUb2Na
+ oNBTowxiuWmLEyjFWEBZRgSYJS41eFhOJ4mXb141d2SlB+tT7wCFB6RblZB0LZ3Lun/pVI0vm
+ PpSMGCC/6wFxT6UIoi0AozBg0w/A+gcyouEgRqcztWGbf0Jk1kugwqpIWHibhwJxDmjHxxic7
+ CJnPc7YxU20be2/mucXGpNWFmwiMha0JjKZOZj0CpGnDEP1rwjOxYI96ztZ7p5WC5v+FziJU5
+ ku7+jYtmqiQbCAT7hLI5b0XQ6JMT3A6IwaYM1/SrwttWfpCDr62mkCrW+pYUvdvRHtmDK8AmK
+ HlkysJUC1TT4lAqaQ3M/UMrVGuIv+6YxgzWAe4zYevzqjdJT/Dz4ogY4ZxDcZeWe8DQT+DkZe
+ JM5Hh7hipJrS193CFk8jvr3qFr9BxvT4iXa+FZLtUzSzjR6eCJp6N+IxA/xk3H++6q0u6mk9a
+ 6+nrgPAdyPTHQNpVf6kb4IQPEYIp7VC7OKBvyGBqwFby5EMSDOae6Rb6lUdYryJgNih/Kwygo
+ WH23qSd7fglYKUKOreU+Xs1UwyvRe+NPcyzYEopW74RCO3TzdNa0h1d9JAMpLlukcDS/g40RL
+ +9wKnvAHkgGp4SHLxVFG7HiHvWIkO4TKGQpphfio0knIgqyE73eIpnE/x2iZS25qyce4T/Odf
+ pTeeF9KY0KnFwjHMks2xvMiOlk+YWaJBCahlyEzgDoNlUZ9Sy9vhspnxhXCSRXZtFRLPybTs0
+ VP8vHmBZm75LUFPPlofZw/MU0DG4P0OlDwiJ9F0SRJbpbqgwlU
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://dcpapers.dublinco=
+re.org/pubs/article/view/3711&amp;sa=3DX&amp;scisig=3DAAGBfm1G1Xz6z6wgZ5thB=
+ukRxe_62B5RYw&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D=
+"text-decoration:underline">Applying a <b>linked data </b>compliant model: =
+The usage of the Europeana Data Model by the Deutsche Digitale Bibliothek</=
+font></a></h3><div><font size=3D2 color=3D#006621>S R=C3=BChle, F Schulze, =
+M B=C3=BCchner - International Conference on Dublin Core and  &hellip;, 201=
+4</font></div><div><font size=3D2 color=3D#222222>Abstract In 2013/14 the D=
+eutsche Digitale Bibliothek (DDB) switched its data model from the <br>CIDO=
+C conceptual reference model to the Europeana Data Model (EDM). This decisi=
+on was <br>taken on the background of two major mandates the DDB has to ful=
+fill: The DDB is as a <b> ...</b></font></div><br><h3 style=3D"font-weight:=
+normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"http://schola=
+r.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://www.tandfonline.com/doi/abs/=
+10.1080/00049670.2014.974004&amp;sa=3DX&amp;scisig=3DAAGBfm0oLDjnahoTo7T7HG=
+R0pBdx2JRmxg&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"=
+text-decoration:underline"><b>Linked data</b>: what is it and why should yo=
+u care? 1</font></a></h3><div><font size=3D2 color=3D#006621>P Neish - The =
+Australian Library Journal, 2014</font></div><div><font size=3D2 color=3D#2=
+22222>The semantic web and <b>linked data </b>technologies show great promi=
+se for organising and <br>integrating information on the Web. As custodians=
+ of bibliographic information, libraries are <br>ideally placed to play a l=
+eading role by providing authoritative information in this domain. <b> ...<=
+/b></font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medi=
+um;max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D=
+"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://users.ics.fort=
+h.gr/~fafalios/files/pubs/fafalios_2015_ijsc.pdf&amp;sa=3DX&amp;scisig=3DAA=
+GBfm11DbEGnJSj0flE_5y1DbhFSw-6mQ&amp;oi=3Dscholaralrt"><font size=3D3 color=
+=3D#1a0dab style=3D"text-decoration:underline">Enriching Textual Search Res=
+ults at Query Time using Entity Mining, <b>Linked Data </b>and Link Analysi=
+s</font></a></h3><div><font size=3D2 color=3D#006621>P FAFALIOS, P PAPADAKO=
+S, Y TZITZIKAS</font></div><div><font size=3D2 color=3D#222222>The integrat=
+ion of the classical Web (of documents) with the emerging Web of Data is a =
+<br>challenging vision. In this paper we focus on an integration approach d=
+uring searching <br>which aims at enriching the responses of non-semantic s=
+earch systems with semantic <b> ...</b></font></div><br><p><hr noshade size=
+=3D1><font size=3D2 color=3D#222222>Dieser Google Scholar-Alert wird Ihnen =
+von Google zur Verf=C3=BCgung gestellt.<br><br><a href=3D"http://scholar.go=
+ogle.de/scholar_alerts?view_op=3Dcancel_alert_options&amp;email_for_op=3Der=
+ictessenow%40web.de&amp;alert_id=3DAIfevv3NkPcJ&amp;hl=3Dde"><font color=3D=
+#1a0dab>Alert stornieren</font></a><br></font></div></body></html>

@@ -1,0 +1,197 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.55.19.134 with SMTP id 6csp173111qkt;
+        Fri, 30 Oct 2015 20:43:27 -0700 (PDT)
+X-Received: by 10.55.79.214 with SMTP id d205mr14819113qkb.22.1446263005613;
+        Fri, 30 Oct 2015 20:43:25 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 34So0VhUKDL4wglspevepivxw-rsvitp2ksskpi.gsqivmgxiwwirs00if.hi@scholar-alerts.bounces.google.com designates 209.85.213.73 as permitted sender) smtp.mailfrom=34So0VhUKDL4wglspevepivxw-rsvitp2ksskpi.gsqivmgxiwwirs00if.hi@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 34So0VhUKDL4wglspevepivxw-rsvitp2ksskpi.gsqivmgxiwwirs00if.hi@scholar-alerts.bounces.google.com designates 209.85.213.73 as permitted sender) client-ip=209.85.213.73;
+Received: by 10.140.43.10 with POP3 id d10mf11352378qga.3;
+        Fri, 30 Oct 2015 20:43:25 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: <34So0VhUKDL4wglspevepivxw-rsvitp2ksskpi.gsqivmgxiwwirs00if.hi@scholar-alerts.bounces.google.com>
+Received: from mail-vk0-f73.google.com ([209.85.213.73]) by mx-ha.web.de
+ (mxweb102) with ESMTPS (Nemesis) id 0LiEU3-1aFIYb0uv5-00nMtH for
+ <erictessenow@web.de>; Sat, 31 Oct 2015 03:43:46 +0100
+Received: by vkav128 with SMTP id v128so5202354vka.0
+        for <erictessenow@web.de>; Fri, 30 Oct 2015 19:43:45 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=ymRAbwzN8Olp5mcNHYj4HL/fQc0+Mkyzv3T68oeFCHM=;
+        b=bL7BT+ThUorYPcvmYdR4S9biKnFFF3hxpwnDiwGuQIYtWHNPOKaKgo0UfvL+puOHKx
+         XuCl7LX66Ue0YYvZpZist3MuZ2DhDranyDDViJlsbtJvY4F2A+sNGRrblA3ukunmlVbV
+         m6fcv/023WrqUERq2YdxmMqI+Fa3j70Jz99cNEvDC8XS43EEKhjwSMc9xnyktRju7qRM
+         xFg4CXJGeFjjejSteKUeCUvd+XeKCaxeJzK/N9+7KDvsnn0gFGw3oJIWWDQpCg3IErpt
+         CjbcWfsUU2Q+gNSHQEnLcl9ArCnlipHe9ZaNCCRC4DjPM7wJk9PQDsuFiHVMwO+JEocS
+         3QxQ==
+MIME-Version: 1.0
+X-Received: by 10.129.109.148 with SMTP id i142mr8717981ywc.14.1446259425083;
+ Fri, 30 Oct 2015 19:43:45 -0700 (PDT)
+Message-ID: <94eb2c05435049009905235d835a@google.com>
+Date: Sat, 31 Oct 2015 02:43:45 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:rFeL+ew/SdM=:P2wWfLK+sdZfUXF3ku1VHJG3il
+ 8mx2+SAjQUkcGlndNzOAQzML9n0w7S4U8gkj+iVb0mFmO2t8vTsrrGq+UciyhThAdy5N1N4xl
+ PIW/nXXtKU6dPTDXGJGneK2Jr+niShkmUSDDYS6DYf5zRPcQpzcgKrNKH+e90tbANq8vvAvZr
+ xTG6Cv+9oDrzxUG43gMKtF0/bqF+q+A6Lxv20w/2LxK4uI4bKG9wmZ3hlgh+YdXpGxkydAu/w
+ XWmnBaxS95j996DZASxM5lRn14XIKpPLYmduIXA07smJ9yZ+0igu3j/cIUCclX9HxKsDKw8vU
+ eKi+K9OagKmOCZGnn0/x4+MeLBOZaJ3Osw1uDxDKz8IUyQBCejS5DSppMJGY2UBRHTI0+bdl4
+ KpIxDiDl3mJJLWwvrLx8CWuhpdmI2iB4HOAvV+BMxNwQiPD2+M5gEqykh2hF9xdjDxizmGvR9
+ pyS0KPin1vPQdZm4TPQFFaIjFKoJqiUoR6pvR962ND31KDtv7jO+KfXqiHYSgEH3CsF2wF3pX
+ l4kEm5Z0r9RmJC9LQzcehAKfc5IDlLsujvVWAYXz5cvmrFK4TeY2siXBhu36hA9XoK5SYOU2R
+ /ciTiN/KX5svYJ9xJhJDpb7H5EcFkaCCUq+/KdrABH2c1+xx6WKiMk4ujP0GxoRDfWVa3DODP
+ o0sNjWD6PuyyU7S500/MMKGIDxpnx26lxRpsv4eM+K/w25AREJgVd3veaZzysZcKfKqyqmWfN
+ ygzZ9v7yByUsF5eahlQ8wY7gR9pdIG0k2eiSXhwAYcSHGjA/uCZjBR/iNiaq91WgoWkHohTCz
+ q9DwoFhzP8PLuEFQgNZ+UeuN1J4lhJJ1aa81NttSN7Q0qSM2gFz1FU0qIz/vJ2nPJeNpM2O0q
+ p2vCMJGWARaO1d9Y1uxRCL9EtfpSnj85cZKF+mZXBbCng2re0IM3Mb5ag5SsgWqyMrtl6M697
+ gKkIB+nzYVqOVJbgv7PHfRLnIiVrs7ldLworDqDBPNnazOj1+0Wv8iST97C5TsDN9AFwB7ln0
+ 8nd2U8zKe91hlL8KLAH2vEUBNlBQJ+FlM0N+bhxPWDzlQX3xbOnB8vGJALU44p1nYdtVuojms
+ L2h0gv2blmAWnIlneJKIE82/r83AGSTEwGfNugnm2avJztREtXeU19+alQ+/iVly3v6JErX5a
+ i0AAUI2xYJH4fuTonJ3/2i9HqbYWygE1Ia9Bs/MucOJ+AUZItzscQP/PfDFR8Bgrdwkfl0Ai7
+ wuoBxsE1WJN6PTVOCwdsGiagdfhP8FrFCvyu9MeCVx3NGAJqxA7gemvQ8gqdYEFmSGwmGrqki
+ EAPSWfBUDBObwOzPzLI5DHyzMMUDe/37vyEb8uRJl5nmorY=
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D=
+2 color=3D#1a0dab>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_=
+url?url=3Dhttp://digitalcommons.osgoode.yorku.ca/cgi/viewcontent.cgi%3Farti=
+cle%3D1004%26context%3Dlibrarians&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBf=
+m0l-Zl61pfjMbYExwwdwajrUasU3A&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font siz=
+e=3D3 color=3D#1a0dab style=3D"text-decoration:underline">The KF Modified <=
+b>Linked Data </b>Project</font></a></h3><div><font size=3D2 color=3D#00662=
+1>FT Knight, S Sutherland - 2015</font></div><div><font size=3D2 color=3D#2=
+22222>Abstract Libraries have a lot of legacy data to bring to the <b>linke=
+d data </b>table. As the potential <br>of the semantic web grows, it&#39;s =
+clear that controlled methods of organization will be critical <br>for its =
+success. This panel discusses two projects to take existing library catalog=
+ing and <b> ...</b></font></div><br><h3 style=3D"font-weight:normal;margin:=
+0;font-size:medium;max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</=
+font> <a href=3D"http://scholar.google.de/scholar_url?url=3Dhttp://www.demo=
+graphic-research.org/volumes/vol33/30/33-30.pdf&amp;hl=3Dde&amp;sa=3DX&amp;=
+scisig=3DAAGBfm0VMI4pO-sYUdOSEuFShmpYtVJFyQ&amp;nossl=3D1&amp;oi=3Dscholara=
+lrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:underline">Soc=
+io-economic determinants of divorce in Lithuania: Evidence from register-ba=
+sed census-<b>linked data</b></font></a></h3><div><font size=3D2 color=3D#0=
+06621>A Maslauskaite, A Jasilioniene, D Jasilionis&hellip; - Demographic Re=
+search, 2015</font></div><div><font size=3D2 color=3D#222222>Background: Mo=
+st existing evidence on the socio-economic predictors of divorce in <br>dev=
+eloped countries comes from the USA and from Western and Northern Europe. T=
+his <br>study contributes to the scarce literature about socio-economic det=
+erminants of divorce in <b> ...</b></font></div><br><h3 style=3D"font-weigh=
+t:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"http://scho=
+lar.google.de/scholar_url?url=3Dhttp://link.springer.com/chapter/10.1007/97=
+8-3-319-25007-6_7&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm3b-GClNawfapksO=
+aghW-4ZeOOs5w&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1=
+a0dab style=3D"text-decoration:underline">Networks of <b>Linked Data </b>Ed=
+dies: An Adaptive Web Query Processing Engine for RDF Data</font></a></h3><=
+div><font size=3D2 color=3D#006621>M Acosta, ME Vidal - The Semantic Web=E2=
+=80=93ISWC 2015, 2015</font></div><div><font size=3D2 color=3D#222222>Abstr=
+act Client-side query processing techniques that rely on the materializatio=
+n of <br>fragments of the original RDF dataset provide a promising solution=
+ for Web query <br>processing. However, because of unexpected data transfer=
+s, the traditional optimize-then-<b> ...</b></font></div><br><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttp://link.springer.com/chapter/1=
+0.1007/978-3-319-26190-4_14&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm0mGxi=
+XGHtylh_PO92LZb1zalfTzA&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 =
+color=3D#1a0dab style=3D"text-decoration:underline">Combining Syntactic and=
+ Semantic Evidence for Improving Matching over <b>Linked Data </b>Sources</=
+font></a></h3><div><font size=3D2 color=3D#006621>K Christodoulou, AAA Fern=
+andes, NW Paton - Web Information Systems Engineering=E2=80=93 &hellip;, 20=
+15</font></div><div><font size=3D2 color=3D#222222>Abstract In the context =
+of <b>Linked Data </b>(LD) sources, the ability to traverse links and retri=
+eve <br>further information can be exploited to harvest semantic annotation=
+s. Such annotations can, <br>in turn, underpin the inference of semantic co=
+rrespondences between sources. This paper <b> ...</b></font></div><br><h3 s=
+tyle=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a h=
+ref=3D"http://scholar.google.de/scholar_url?url=3Dhttp://link.springer.com/=
+chapter/10.1007/978-3-319-26138-6_4&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAG=
+Bfm2YHIoeEkS52cJsZV1AR5Fqz_x7dQ&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font s=
+ize=3D3 color=3D#1a0dab style=3D"text-decoration:underline">Dynamics in <b>=
+Linked Data </b>Environments</font></a></h3><div><font size=3D2 color=3D#00=
+6621>T K=C3=A4fer - On the Move to Meaningful Internet Systems: OTM  &helli=
+p;, 2015</font></div><div><font size=3D2 color=3D#222222>Abstract <b>Linked=
+ Data </b>resources represent things in the world, which change over time, =
+ie the <br>resources are dynamic. We want to address open questions in buil=
+ding complex <br>applications that consume and interact with <b>Linked Data=
+ </b>resources. Applications that <b> ...</b></font></div><br><h3 style=3D"=
+font-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"h=
+ttp://scholar.google.de/scholar_url?url=3Dhttp://link.springer.com/chapter/=
+10.1007/978-3-319-25010-6_29&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm0y7K=
+SNP6L1FyvGQH3qDL-MqcA7pA&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3=
+ color=3D#1a0dab style=3D"text-decoration:underline">Link Analysis of Life =
+Science <b>Linked Data</b></font></a></h3><div><font size=3D2 color=3D#0066=
+21>W Hu, H Qiu, M Dumontier - The Semantic Web-ISWC 2015, 2015</font></div>=
+<div><font size=3D2 color=3D#222222>Abstract Semantic Web technologies offe=
+r a promising mechanism for the representation <br>and integration of thous=
+ands of biomedical databases. Many of these databases provide <br>cross-ref=
+erences to other data sources, but they are generally incomplete and error-=
+prone. <b> ...</b></font></div><br><h3 style=3D"font-weight:normal;margin:0=
+;font-size:medium;max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</f=
+ont> <a href=3D"http://scholar.google.de/scholar_url?url=3Dhttps://ecommons=
+.cornell.edu/bitstream/handle/1813/41192/JLM%2520paper%2520repository%2520v=
+ersion.pdf%3Fsequence%3D3&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm1z0KtCr=
+oGEg0P0zs7iGyPY9olWuw&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 co=
+lor=3D#1a0dab style=3D"text-decoration:underline">Building a Platform to Ma=
+nage RDA Vocabularies and Data for an International <b>Linked Data </b>Worl=
+d</font></a></h3><div><font size=3D2 color=3D#006621>DI Hillmann, J Phipps,=
+ G Dunsire - 2015</font></div><div><font size=3D2 color=3D#222222>The manag=
+ement of vocabularies in the evolving <b>linked data </b>environment requir=
+es different <br>tools and processes than libraries and other memory instit=
+utions have used in the past. The <br>RDA Resource Description and Access s=
+tandard has taken the lead in building tools and <b> ...</b></font></div><b=
+r><h3 style=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5e=
+m"><a href=3D"http://scholar.google.de/scholar_url?url=3Dhttp://ieeexplore.=
+ieee.org/xpls/abs_all.jsp%3Farnumber%3D7300795&amp;hl=3Dde&amp;sa=3DX&amp;s=
+cisig=3DAAGBfm0RXvjYPtUozSKPiGlc2Q6YtEKucw&amp;nossl=3D1&amp;oi=3Dscholaral=
+rt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:underline">Gati=
+ca: Linked Sensed Data Enrichment and Analytics Middleware for IoT Gateways=
+</font></a></h3><div><font size=3D2 color=3D#006621>S Qanbari, N Behinaein,=
+ R Rahimzadeh, S Dustdar - Future Internet of Things and  &hellip;, 2015</f=
+ont></div><div><font size=3D2 color=3D#222222><b>...</b> interpretable. In =
+this paper, we incorporate semantic and <b>linked</b> <b>data</b> technolog=
+ies<br>
+and offer a middleware called Gatica, to dynamically inject semantics to ma=
+ke the<br>
+raw streaming data of an IoT gateway =E2=80=9DRich=E2=80=9D on the device l=
+ayer. <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><a href=3D"http://scholar.google.de/scholar_url?url=3Dhtt=
+p://link.springer.com/chapter/10.1007/978-3-319-26190-4_37&amp;hl=3Dde&amp;=
+sa=3DX&amp;scisig=3DAAGBfm3-OeoWgKtw4y-NtO4E6X8jG1qo8Q&amp;nossl=3D1&amp;oi=
+=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:und=
+erline">Adaptive Focused Crawling of <b>Linked Data</b></font></a></h3><div=
+><font size=3D2 color=3D#006621>R Yu, U Gadiraju, B Fetahu, S Dietze - Web =
+Information Systems Engineering=E2=80=93WISE  &hellip;, 2015</font></div><d=
+iv><font size=3D2 color=3D#222222>Abstract Given the evolution of publicly =
+available <b>Linked Data</b>, crawling and preservation <br>have become inc=
+reasingly important challenges. Due to the scale of available data on the <=
+br>Web, efficient focused crawling approaches which are able to capture the=
+ relevant <b> ...</b></font></div><br><h3 style=3D"font-weight:normal;margi=
+n:0;font-size:medium;max-width:44.5em"><a href=3D"http://scholar.google.de/=
+scholar_url?url=3Dhttp://link.springer.com/chapter/10.1007/978-3-319-26187-=
+4_4&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm3Q0JQlVAaPI3nAvJlsQd94-l5qvw&=
+amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D=
+"text-decoration:underline">Incorporating Cohesiveness into Keyword Search =
+on <b>Linked Data</b></font></a></h3><div><font size=3D2 color=3D#006621>A =
+Dass, A Dimitriou, C Aksoy, D Theodoratos - Web Information Systems Enginee=
+ring &hellip;, 2015</font></div><div><font size=3D2 color=3D#222222>Abstrac=
+t Keyword search is a popular technique for querying the ever increasing <b=
+r>repositories of RDF graph data because it frees the user from knowing a f=
+ormal query <br>language and the structure of the data. However, the imprec=
+ision of keyword queries <b> ...</b></font></div><br><p><hr noshade size=3D=
+1><font size=3D2 color=3D#222222>Dieser Google Scholar-Alert wird Ihnen von=
+ Google zur Verf=C3=BCgung gestellt.<br><br><a href=3D"http://scholar.googl=
+e.de/scholar_alerts?view_op=3Dcancel_alert_options&amp;email_for_op=3Derict=
+essenow%40web.de&amp;alert_id=3DAIfevv3NkPcJ&amp;hl=3Dde"><font color=3D#1a=
+0dab>Alert stornieren</font></a><br></font></div></body></html>

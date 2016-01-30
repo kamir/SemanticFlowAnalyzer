@@ -1,0 +1,97 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.64.243.69 with SMTP id ww5csp38464iec;
+        Sat, 5 Apr 2014 20:28:10 -0700 (PDT)
+X-Received: by 10.50.111.138 with SMTP id ii10mr12544197igb.34.1396754889233;
+        Sat, 05 Apr 2014 20:28:09 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3e71AUxUKDJgK49GD2J2D6JLK-FGJ6HDQ8GG8D6.4GE6JA4L6KK6FGOO63.56@scholar-alerts.bounces.google.com designates 209.85.192.201 as permitted sender) smtp.mail=3e71AUxUKDJgK49GD2J2D6JLK-FGJ6HDQ8GG8D6.4GE6JA4L6KK6FGOO63.56@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3e71AUxUKDJgK49GD2J2D6JLK-FGJ6HDQ8GG8D6.4GE6JA4L6KK6FGOO63.56@scholar-alerts.bounces.google.com designates 209.85.192.201 as permitted sender) client-ip=209.85.192.201;
+Received: by 10.64.207.164 with POP3 id lx4mf2454281iec.37;
+        Sat, 05 Apr 2014 20:28:08 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3e71AUxUKDJgK49GD2J2D6JLK-FGJ6HDQ8GG8D6.4GE6JA4L6KK6FGOO63.56@scholar-alerts.bounces.google.com
+Received: from mail-pd0-f201.google.com ([209.85.192.201]) by mx-ha.web.de
+ (mxweb001) with ESMTPS (Nemesis) id 0LijUb-1X9FT600Ef-00cwqm for
+ <erictessenow@web.de>; Sun, 06 Apr 2014 04:35:41 +0200
+Received: by mail-pd0-f201.google.com with SMTP id x10so766230pdj.2
+        for <erictessenow@web.de>; Sat, 05 Apr 2014 19:35:39 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=7QYGYZBfbEPkEMRBVHS6P8ElmDLPkaZCDRu+4VD/fyc=;
+        b=VdCGrVqXjo42kEzOJU/eeGoIHqSjZZPhbOevIKCqBveydFzEqF8Zfb9bTqmyCXfbdj
+         3JeqxXk9JWtT/P9Ns4Z1gB/KhJHLCXVQ02znTNx1tZVWlj0g9Bx77CaYm0mtRDZpCDf0
+         D35kCve1WkQtBLm/SMiKKuqwz0ZE7TMnctFayqW3nzmgttFcK2P9LdMPNpvwkCC3IOGK
+         6pvPYfHEINcfx69QHdHIOGFa5J8bcMwqqQrpEBytisy3tTTP0mrIemv9NKnoohC8YuiB
+         cZP8Q3JfedBxA4G2OPxWNcL4WH3z5YxAhkW1EF8fCJmdTxLG9Lf/gQfO8nRXwWXUj3ol
+         ylAA==
+MIME-Version: 1.0
+X-Received: by 10.66.241.8 with SMTP id we8mr13833339pac.16.1396751739558;
+ Sat, 05 Apr 2014 19:35:39 -0700 (PDT)
+Message-ID: <047d7b15a1d54699eb04f6569b00@google.com>
+Date: Sun, 06 Apr 2014 02:35:39 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:1JwcCfkpLPw=:DrlQM8W6F6Mwo/HPJe25nafrqp
+ g4WWg0fHDf9jdKVh/66NPUhM1ycRPuC6Ha8IJSyleXca7lfGk5JQHMacQhqrJw1RUPMgo0OUI
+ t2yF3A3nP3JjEw3Xu9yCV6DGQoz0+SHT6/zHBd09R6iUsZjcHdzJgSkwoN2S2/qv5uBj4dhAN
+ DKS7RGFPQHcYkmDfKNB0E9mq5zR4qsoa2SkOqMRVG4b5wyvCHEVZFGcqUd2SzngDBc6XWWbHl
+ OQUuYL1wWQFUuNc7wb05UkOt5Kkx5j/syqdATNKzGv6qA+kbpUHGQSNPxFBo4l5sPMCwHwWCS
+ wr4yb8wcPiz9pCM4D14LlCZ2FqngXheUqm1QfS2geLoNA0GImYRktMyr4VmqFGabgFdPKrolg
+ +4ho7CwyVISyZaabyYwVjHMyvOAGJQnV3v8q6QOf9C8EW3zqzB+KYFg/BimSEzc1ggFrBYZmO
+ p/zngEp2wQ0Yu9B0339xQYgjLb5H5t02mj/TtfnHSIhCCByWoSacb2E8urE406QZEqW0wf9Ie
+ a8p+rP2Ue6uAsCABf6rHjEY9L3oqHeHmEon58mO4FRnuyVk+7Mut6he4PxKg9fiHFD2fYuQuA
+ ms00MiYy4NxT1BdkNHTBkwgTdL4Qy1Dt2oqOCqVjLplT4wuAg+4vC3w8hufns9LXo9v3boHK8
+ ELO8Qe/CAmSinQQR0enBGLuP/HmX9ZZ/VqPfI9dAM9LAm285fU+tuq3q92w6SaSsnT3DDeGVv
+ yxa2NjGBcjJwT3/dk0Emm9otvdIHO20fm5JceDYbN5tYbCdfjVxjQcU3Gb8vOKYnH1c0zcsFn
+ JWWlY/MO/tCrjjDVQBwmVa0EIZCez2xHVfPg7cVic8qi+dx3/gsU1YvaZKlmXrpKnOr/Xdx35
+ zVBGQ2N8DII7L4VUxSql39cWxNgjJ3wkJKh6fcDgzORWcGPuhsuCPHk5aWJlY8QPE5Zcn+4P2
+ osqTzw4L+Z/lSnCASewBG2oaEuH5Km0AnQjXEzAcHST2rDW459LJhHvHYhuxJkJN97suHeboC
+ vjNtVvJdaheokKkkpOIYFFug2j32K8JUJ18ex5vv+aGuvJxHl3deal1DN7htp8KJDoabpEpzF
+ PDCJDMX6Bx8HUpGDU4db2ILKAZOBSPUY1ZJgmkQ2QIk2v+xMd36uk7/Wr3IFZwrRRrCkgTjT9
+ NtuWfMko7zmYuPy5ir7cPjfgByoIgygD4jhIgPxGV0PPIrjjdVbpNu1pj2SworRbK/76rxKcD
+ KWLyvxSw/0zBI4TfxWY1tYE9qmHp6OH3CE5YT4ZM4+q9l2Lj41/yORPaamkFgqMcGY1NUQjlS
+ biMhwRM5oPVoXUd2j+f/sIr49aVmFuVM0zulz83WeUXE5ABRlqC2ucKkAirXMFVOadZbk5UJj
+ s5THhSLw7A9wSrLsA==
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D=
+2 color=3D#1122cc>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_=
+url?hl=3Dde&amp;q=3Dhttp://semantic-web-journal.net/system/files/swj653.pdf=
+&amp;sa=3DX&amp;scisig=3DAAGBfm0wQXYheIsxZ1db0ReTepEU_rMKpA&amp;oi=3Dschola=
+ralrt"><font size=3D3 color=3D#1122cc style=3D"text-decoration:underline">F=
+ive Stars of <b>Linked Data </b>Vocabulary Use</font></a></h3><div><font si=
+ze=3D2 color=3D#009933>K Janowicz, P Hitzler, B Adams, D Kolas&hellip;</fon=
+t></div><div><font size=3D2 color=3D#222222>Abstract. In 2010 Tim Berners-L=
+ee introduced a 5 star rating to his <b>Linked Data </b>design <br>issues p=
+age to encourage data publishers along the road to good <b>Linked Data</b>.=
+ What makes <br>the star rating so effective is its simplicity, clarity, an=
+d a pinch of psychology=E2=80=93is your data 5 <b> ...</b></font></div><br>=
+<h3 style=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em"=
+><font size=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"http://scholar.goog=
+le.de/scholar_url?hl=3Dde&amp;q=3Dhttp://www.uni-koblenz.de/~fb4reports/201=
+4/2014_01_Arbeitsberichte.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm2BE3aKq8bH2ftpH=
+DGC64jKbkk9Mg&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D=
+"text-decoration:underline">Extended Description of the Survey on Common St=
+rategies of Vocabulary Reuse in Linked Open Data Modeling</font></a></h3><d=
+iv><font size=3D2 color=3D#009933>J Schaible, T Gottron, A Scherp</font></d=
+iv><div><font size=3D2 color=3D#222222><b>...</b> mail@ansgarscherp.net Abs=
+tract. Modeling and publishing Linked Open Data (LOD)<br>
+involves the choice of which vocabulary to use. This choice is far from tri=
+vial and<br>
+poses a challenge to a <b>Linked</b> <b>Data</b> engineer. It covers the <b=
+>...</b>=20
+</font></div><br><p><hr noshade size=3D1><font size=3D2 color=3D#222222>Die=
+ser Google Scholar-Alert wird Ihnen von Google zur Verf=C3=BCgung gestellt.=
+<br><br><a href=3D"http://scholar.google.de/scholar_alerts?view_op=3Dcancel=
+_alert_options&amp;email_for_op=3Derictessenow%40web.de&amp;alert_id=3DAIfe=
+vv3NkPcJ&amp;hl=3Dde"><font color=3D#1122cc>Alert stornieren</font></a><br>=
+</font></div></body></html>

@@ -1,0 +1,83 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.64.31.33 with SMTP id x1csp125335ieh;
+        Mon, 23 Jun 2014 23:25:13 -0700 (PDT)
+X-Received: by 10.42.123.204 with SMTP id t12mr25727170icr.19.1403591112384;
+        Mon, 23 Jun 2014 23:25:12 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 31RGpUxUKDEAuejqnctcngtvu-pqtgrn0iqqing.eqogtkevguugpqyygd.fg@scholar-alerts.bounces.google.com designates 209.85.223.202 as permitted sender) smtp.mail=31RGpUxUKDEAuejqnctcngtvu-pqtgrn0iqqing.eqogtkevguugpqyygd.fg@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 31RGpUxUKDEAuejqnctcngtvu-pqtgrn0iqqing.eqogtkevguugpqyygd.fg@scholar-alerts.bounces.google.com designates 209.85.223.202 as permitted sender) client-ip=209.85.223.202;
+Received: by 10.64.171.97 with POP3 id at1mf3280537iec.11;
+        Mon, 23 Jun 2014 23:25:12 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 31RGpUxUKDEAuejqnctcngtvu-pqtgrn0iqqing.eqogtkevguugpqyygd.fg@scholar-alerts.bounces.google.com
+Received: from mail-ie0-f202.google.com ([209.85.223.202]) by mx-ha.web.de
+ (mxweb004) with ESMTPS (Nemesis) id 0Lk6ji-1WOcF20udu-00c5mY for
+ <erictessenow@web.de>; Tue, 24 Jun 2014 07:51:18 +0200
+Received: by mail-ie0-f202.google.com with SMTP id tr6so1807685ieb.3
+        for <erictessenow@web.de>; Mon, 23 Jun 2014 22:51:17 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=nyXb0fxfYc2N70WUFn3VzjpAVStnkUAXVg79464Eo5o=;
+        b=Gx/vhhXLgf80bQ4wRqPLVE/Iu/y8lSpXMjjg7U4nSi93xFNFRN9aZj5CeJqd4t5rvA
+         FFe8kUl35pzYfb9r1Vm00pQ4/S685jSxVR+S4/7+gPQCZI+m/PvjP7mt0QSl868D2MIm
+         YjhuyUPzUGSFhZcM305GjpGozDOk0iXovoUgpWeD3hBFXojpY80GWlI29kvWzuXr0iYc
+         1fPXtgXS2jOAghOqDityIsOjZgKMGKkRWVxirirO/ZBVMFQbwqgkAD23CvTn2AawVPva
+         411HnbafXP6IAY91jmQpEWfBlZvZ/geKqN7iYFzakaoaWT4/Zw32MSwGF88FbZjUggA9
+         zr2Q==
+MIME-Version: 1.0
+X-Received: by 10.42.94.8 with SMTP id z8mr11317114icm.3.1403589077896; Mon,
+ 23 Jun 2014 22:51:17 -0700 (PDT)
+Message-ID: <20cf30334961660c4304fc8e8c58@google.com>
+Date: Tue, 24 Jun 2014 05:51:17 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:9w8/UdMBTx8=:cRFO5rr5ENB1OXHqVTXf87Gvek
+ kxq7j4xBRLgBSeURQbIdXe3IZOGDB6akqLWaTgyk+VOLRCe1vmv57UXdjOc2RpkcdwWWFCmIS
+ E0+C+AXMejroRlzNpAMr4/NJnSX8mo0PpM9PEsmshQePwOXNz7Ny7i5zuyzCl0wT1gythkc0z
+ tYxWT5el3KvD7J9p82xk1wAX/FlNIEr95UqPRaX1AUQZfDQ3FCJ6M5z+OtXwya1Z/iUuBo6Rr
+ f+uzp1v0HYG5pZHZ6ngrMQZ9j6V8tKwReclQgZ0GlkGU82ch0Ed1txsgYKGqMmp1BEC7xqbJ/
+ kFa13KqgGFt3uON4Q+dTA+pEZD6nBrq6aTvs/XU4anombrohtbzwyiWSrwsAGLAXQRoiXfrga
+ 0qr05qo2CXiGCydLp2Gx28HsDOObfZo55YhX+75048HQtIdLrsbj474u0hqR+16ycGBqz97Y7
+ C9O1/MDohoxyeOSNlCXDa+BoTgTbNSo1J7GwgmEGa5wumIlUwHsdk29nNl8oUgM8nXdcLwL8Q
+ OJXEPWaYMyEnXWgxLi0EqoX2I4iwgJ7h0Q6jRkV9HChtGrdXN+kCGGmUwwv/uQTr46a8VMZgz
+ WAejZdj4RDtVPd78fQ1iC3rXtwyA4iphzNWQ2XCq33o0ttBfE4caTXDDL80UDF8kT2vETWfAl
+ fd7ErZoYJShqnpm6Xq08i2OP7PD5p1WOORakOFqt2KwCSqHBlbOwEZtWgHI3aiAKQ/CwVxrVT
+ y6QE2p2ckhT7QFLDsV6ERK39wECpTbrplEwzys5dNL6wOLuF15mDVYAqB/5IWu+ZRFDvraquS
+ Phpzj2qtTWh9JaB3GeuNTVCaLDVFn9jR/2QqE2JgzQFEQ/lVnHksAT6KH4pRbibuKlFPkhhGz
+ ZM5/jUmRVw+ZCm9A7RzRrb4eaPTPDyXgIeNY8EEjrli0xDsxxTdWm0ZhsBUBZ5/VPVihtQnps
+ QHUPdklCKb/FaE3EHRItrHPgRQcTvnMaIB62mpcVNU7mUKrxGYCril8qwYsRTB68q/huzm3V1
+ aVnPllE+CyIlcmjb32aBX/IcsnxePGs38VjUw7W11ZgUgQLis3kmygX7o3uEc8kZYnd/Ty7w8
+ 7/RCKgowCUqpHcfHLcXNJ5p+pgV9yUavQARxvSCTV200SQeBNUXgMfBp4xYC0ZRospWh11PbL
+ dOGuR3WeCikLZ/3eZHjfJhiNp3TRMtQjvLJ8q0IpCf2LNgicHIRB612cmta8sjhjctOJh9WoF
+ XZMXINDOlLenLBCyR1nP3fOe6qMFbofEMyYZwiI/VswRyd55KcXwxJYibXnVCQIwzVCknkw8J
+ JyMKVyLbO4e62ilWCesGjPiPvpf97A+/V9p+jJgdJx3BNyCxHQoL6POcECoHCOL6Ksz5N9vlB
+ HDa4HmRRXuk0AyzWABLGU/oGAl+GYYDk/UJwHyf70ZipGtym7Ya+spf5YwXLKCSX/ecX3K37e
+ ZmJP/kJnal2i/m6wXfhcbMeeSbStCLfRwZFPVyRawGY3GrqQWe
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D=
+2 color=3D#1122cc>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_=
+url?hl=3Dde&amp;q=3Dhttp://lodlaundromat.org/pdf/FeelingThePulseOfLinkedDat=
+a.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm0_0WxkMkhjEjhOwrDI0DizSFFXfQ&amp;oi=3Ds=
+cholaralrt"><font size=3D3 color=3D#1122cc style=3D"text-decoration:underli=
+ne">Feeling the Pulse of <b>Linked Data</b>=E2=8B=86</font></a></h3><div><f=
+ont size=3D2 color=3D#009933>L Rietveld, R Hoekstra, S Schlobach</font></di=
+v><div><font size=3D2 color=3D#222222>Abstract. Exploring and analyzing the=
+ <b>Linked Data </b>Cloud is hard because it is often unclear <br>where the=
+ data resides, and what vocabularies and namespaces are used to express it.=
+ <br>Existing studies focus on the availability of data rather than its use=
+ in practice. To make <b> ...</b></font></div><br><p><hr noshade size=3D1><=
+font size=3D2 color=3D#222222>Dieser Google Scholar-Alert wird Ihnen von Go=
+ogle zur Verf=C3=BCgung gestellt.<br><br><a href=3D"http://scholar.google.d=
+e/scholar_alerts?view_op=3Dcancel_alert_options&amp;email_for_op=3Derictess=
+enow%40web.de&amp;alert_id=3DAIfevv3NkPcJ&amp;hl=3Dde"><font color=3D#1122c=
+c>Alert stornieren</font></a><br></font></div></body></html>

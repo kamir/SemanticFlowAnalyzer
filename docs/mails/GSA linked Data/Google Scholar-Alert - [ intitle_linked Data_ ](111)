@@ -1,0 +1,144 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.79.106.2 with SMTP id f2csp202772ivc;
+        Fri, 17 Jul 2015 20:59:36 -0700 (PDT)
+X-Received: by 10.107.167.2 with SMTP id q2mr25305293ioe.109.1437191971507;
+        Fri, 17 Jul 2015 20:59:31 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3u8apVRUKDKIUEJQNCTCNGTVU-PQTGRNaIQQING.EQOGTKEVGUUGPQYYGD.FG@scholar-alerts.bounces.google.com designates 209.85.220.74 as permitted sender) smtp.mail=3u8apVRUKDKIUEJQNCTCNGTVU-PQTGRNaIQQING.EQOGTKEVGUUGPQYYGD.FG@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3u8apVRUKDKIUEJQNCTCNGTVU-PQTGRNaIQQING.EQOGTKEVGUUGPQYYGD.FG@scholar-alerts.bounces.google.com designates 209.85.220.74 as permitted sender) client-ip=209.85.220.74;
+Received: by 10.50.171.226 with POP3 id ax2mf3320356igc.0;
+        Fri, 17 Jul 2015 20:59:31 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3u8apVRUKDKIUEJQNCTCNGTVU-PQTGRNaIQQING.EQOGTKEVGUUGPQYYGD.FG@scholar-alerts.bounces.google.com
+Received: from mail-pa0-f74.google.com ([209.85.220.74]) by mx-ha.web.de
+ (mxweb008) with ESMTPS (Nemesis) id 0MYOob-1ZTD1p49h3-00VBWH for
+ <erictessenow@web.de>; Sat, 18 Jul 2015 05:23:41 +0200
+Received: by paciu1 with SMTP id iu1so11604074pac.0
+        for <erictessenow@web.de>; Fri, 17 Jul 2015 20:23:39 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=JqofWMV/f3qXgKdFSTcXmKFpIDFgUI6xWk4Ic2KNevs=;
+        b=AUydV/sncstuLhXF4Xc2I8gLAqMAuX43gLEo0L/gJuoqbiC2mNDkxvLSRihp38E2k1
+         vrBFu+gHoKIGkWY4BFi+1iPt5bnEG2Uze1nLQoWM3YbHO5Gs+mkaZU+j5Uz2GYEmQ5hr
+         l8xoVBGKTitzGYZEmWjiwyWqXtAefksts2bOkKAEJuU0jIuXCUcXU3mLowNatdUFmnz1
+         p9IoDFHzedDOiUnP5gj1c4TP1kx6B3Cmb+VJ2UNwK+xM8QQ4RhpYefhjkaRD5ge+o//I
+         MJbgo/VQk9leM0DgMqjWUN1uJxVrJOQqRBGUvV4tWbspivAIinrEHdxoQz4/355AI0kM
+         VAOA==
+MIME-Version: 1.0
+X-Received: by 10.68.139.67 with SMTP id qw3mr19988812pbb.9.1437189819567;
+ Fri, 17 Jul 2015 20:23:39 -0700 (PDT)
+Message-ID: <001a11c34d08ab8ea4051b1dd473@google.com>
+Date: Sat, 18 Jul 2015 03:23:39 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:1ftnQnnt62I=:LOYQmaGxxFS+n9HUMiaSpavU1P
+ NWFvcS+y8RmVivdW7kFsVyaTkSy6YDFSVYPGoadgOPNknZoiNev2pUQC/OmV7yYsTzzwYgUDZ
+ ule19J9DoDT6AGzc0IZHQ6ugt8ReKVP9/hT2mhoBy09gjLsgyNS+PG5qRo/ts6tXwAtYftQLH
+ lzJM+oGOzaqy1VXvICCGW6rswL+6yG2/tn0hsv0UahxybLEKLgaR81MqN/cqwoMMRebfCoxpQ
+ xCJoKp+fP375LYMBf6vyiaCt/I0ecz4Zj0Q9DF/6xCBLUMrTBTMQK9IbMqNznw72O+GTsEf/d
+ 2XctODZ65vYi5IStffwXPRR6azIdnkeUicFYs2VS9p+BbfrmNSWZMeAFWG7gb2XA5naFJ4YT0
+ t8/cQQgmiY+jftZ6WLVe71WMLQ19QzJpdxEe3Fq+vwsFu53FvZHh6fU+QS7osf69yC1w69Kwo
+ csfJ//k7XCZZbtEpfZxUl7bdpjclq3ID5arTce2cEGV/ovseMQvUB0TAKBq1hFg4lmxil8/b5
+ NKmvOkINNqa5UIxgKBBNNYSyeHv8XijccFpNkHwX4WYVaghcE9T0FEAsQ3Xl2JidZam4qtHhu
+ wS/EayuYQBX8TaPYZZiSDVC7Q+n0M4Vbxk72P3GnCctPuS4Yx4LQCpnAPibCuVuxJmF4SmvTR
+ oDQwYWIrH4aWDGe8wGx9wXOK1btySS+Pn3uIahV/N5iOJDiyyRg7nlSD0w86zTN2nt//RJ9MA
+ E+FXtKu75XGcsgUc40Nv7pts5g8C/P4+zfv5En08RAC3B5Bg6VQBAiJWExH8t/G0aVdGw+fdD
+ njrx9OeD1JyWLRFc92z16ogacWUK2FgnT06eiyHF5djr79ka3ggBTgfUoYUbaS6DtzVWnCePh
+ d20X9PxdEhZTKANwn44NJqDv5+m5aeWsgSdHIYjMssfjaXNZmgCybiqQsHl7cLSJTFJmU5WvO
+ Y0Ow93WW0FMEEFVe5AkOym5aYB2rxxLdp6tB3Zz3JmQGIkseO6D80uoql+bwSUWrOWV6vrY2S
+ 06r/ZAXt9jvI6sZh1pm+/9rPvp22IqFhJV+5RZ4eji1sPtzlPp4htTiO6HT4zTrLvrVq+Avlq
+ H6btKuocvjXuV1LG/TGfQBh6lvQn/Kf/tbZyO3J7CgCrm8IeeJ/tmQB7BuASJKVbXnHNDzCUC
+ ho2DvZXjm5WHMVzpUM3lEkOkSwRXuk5JxcD6Zw5VnBprXFE/FO8PFXVmLAGrGC5BLR4W+OVJn
+ GOeC8wdXbtYQf2YQdKz5sZBuhLB2Dj+C56mKs7sxH76OF5FtaNbH9JY2uhtAiLD+RsZUmoAR4
+ o55t
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D=
+2 color=3D#1a0dab>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_=
+url?url=3Dhttp://eprints.soton.ac.uk/377824/1.hasCoversheetVersion/Thesis.p=
+df&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm1NXpVuKPavWCS0Zwg-JY5kMZRscQ&a=
+mp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"=
+text-decoration:underline">Media fragment semantics: the <b>linked data </b=
+>approach</font></a></h3><div><font size=3D2 color=3D#006621>Y Li - 2015</f=
+ont></div><div><font size=3D2 color=3D#222222>In the last few years, the ex=
+plosion of multimedia content on the Web has made multimedia <br>resources =
+the =E2=80=9Cfirst class citizen=E2=80=9D of the Web. While these resources=
+ are easily stored and <br>shared, it is becoming more difficult to find sp=
+ecific video/audio content, especially to <b> ...</b></font></div><br><h3 s=
+tyle=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a h=
+ref=3D"http://scholar.google.de/scholar_url?url=3Dhttp://jlc.jst.go.jp/DN/J=
+LC/20012997112%3Ffrom%3DGoogle&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm02=
+XqXmaO8a4fuV1jm7003QcYFxWA&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=
+=3D3 color=3D#1a0dab style=3D"text-decoration:underline">Web =E3=83=9A=E3=
+=83=BC=E3=82=B8=E3=81=A8=E3=81=97=E3=81=A6=E3=81=AE=E9=A1=9E=E4=BC=BC=E6=80=
+=A7=E3=82=92=E5=88=A9=E7=94=A8=E3=81=97=E3=81=9F <b>Linked Data </b>=E3=83=
+=AA=E3=83=9D=E3=82=B8=E3=83=88=E3=83=AA=E3=81=AE=E8=87=AA=E5=8B=95=E5=8F=8E=
+=E9=9B=86=E6=89=8B=E6=B3=95</font></a></h3><div><font size=3D2 color=3D#006=
+621>=E7=80=A8=E5=B0=BE=E5=B4=87=E4=B8=80=E9=83=8E=EF=BC=8C =E9=98=AA=E5=8F=
+=A3=E5=93=B2=E7=94=B7 - =E6=83=85=E5=A0=B1=E7=9F=A5=E8=AD=98=E5=AD=A6=E4=BC=
+=9A=E8=AA=8C, 2015</font></div><div><font size=3D2 color=3D#222222>=E8=BF=
+=91=E5=B9=B4, Linked Open Data =E3=81=AE=E5=8B=95=E3=81=8D=E3=81=8C=E7=9B=
+=9B=E3=82=93=E3=81=AB=E3=81=AA=E3=81=A3=E3=81=A6=E3=81=8D=E3=81=A6=E3=81=8A=
+=E3=82=8A, =E6=A7=98=E3=80=85=E3=81=AA=E6=A9=9F=E9=96=A2=E3=82=84=E5=9B=A3=
+=E4=BD=93=E3=81=8C=E8=87=AA=E3=82=89=E3=81=AE=E3=83=87=E3=83=BC=E3=82=BF=E3=
+=82=92=E6=8F=90=E4=BE=9B<br>=E3=81=99=E3=82=8B=E3=81=9F=E3=82=81=E3=81=AE <=
+b>Linked Data </b>=E3=83=AA=E3=83=9D=E3=82=B8=E3=83=88=E3=83=AA=E3=82=92=E5=
+=85=AC=E9=96=8B=E3=81=97=E3=81=A6=E3=81=84=E3=82=8B. =E6=9C=AC=E7=A0=94=E7=
+=A9=B6=E3=81=A7=E3=81=AF=E3=81=93=E3=81=AE=E3=83=AA=E3=83=9D=E3=82=B8=E3=83=
+=88=E3=83=AA=E3=82=92, SPARQL <br>Endpoint =E3=81=A8=E5=91=BC=E3=81=B0=E3=
+=82=8C=E3=82=8B Web API =E3=81=AE=E7=89=B9=E5=BE=B4=E3=82=92=E5=88=A9=E7=94=
+=A8=E3=81=97=E3=81=9F, =E6=97=A2=E5=AD=98=E6=A4=9C=E7=B4=A2=E3=82=A8=E3=83=
+=B3=E3=82=B8=E3=83=B3=E3=81=AE Web =E3=82=AF=E3=83=AD=E3=83=BC=E3=83=A9=E3=
+=82=92=E7=94=A8=E3=81=84=E3=81=9F<b> ...</b></font></div><br><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D=
+2 color=3D#1a0dab>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_=
+url?url=3Dhttp://delicias.dia.fi.upm.es/~vrodriguez/pdf/2015.07.elex.pdf&am=
+p;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm0Wpai5Xu4GcifQ1JkKOpWq6It3Bg&amp;no=
+ssl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-=
+decoration:underline">Linked Terminology: Applying <b>Linked Data </b>Princ=
+iples to Terminological Resources</font></a></h3><div><font size=3D2 color=
+=3D#006621>P Cimiano, JP McCrae, V Rodr=C3=ADguez-Doncel&hellip;</font></di=
+v><div><font size=3D2 color=3D#222222>Abstract In this paper we present an =
+approach to publishing and linking terminological <br>resources using <b>li=
+nked data </b>principles. We describe how terminologies can be represented =
+<br>in the Resource Description Framework (RDF), and as proof-of-concept we=
+ describe the <b> ...</b></font></div><br><h3 style=3D"font-weight:normal;m=
+argin:0;font-size:medium;max-width:44.5em"><font size=3D2 color=3D#1a0dab>[=
+PDF]</font> <a href=3D"http://scholar.google.de/scholar_url?url=3Dhttp://ww=
+w.kpubs.org/article/articleDownload.kpubs%3FdownType%3Dpdf%26articleANo%3DE=
+1JSCH_2015_v3n2_6&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm3nGmVaJi4N5PDog=
+p8dfWmQVONasg&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1=
+a0dab style=3D"text-decoration:underline">Deploying Linked Open Vocabulary =
+(LOV) to Enhance Library <b>Linked Data</b></font></a></h3><div><font size=
+=3D2 color=3D#006621>SG Oh, M Yi, W Jang</font></div><div><font size=3D2 co=
+lor=3D#222222>ABSTRACT Since the advent of <b>Linked Data </b>(LD) as a met=
+hod for building webs of data, <br>there have been many attempts to apply a=
+nd implement LD in various settings. Efforts have <br>been made to convert =
+bibliographic data in libraries into <b>Linked Data</b>, thereby generating=
+ <b> ...</b></font></div><br><h3 style=3D"font-weight:normal;margin:0;font-=
+size:medium;max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <=
+a href=3D"http://scholar.google.de/scholar_url?url=3Dhttp://www.jsoftware.u=
+s/vol10/82-T58.pdf&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm1jXk6D-CKW8rqe=
+8ZXCKM6KqhcrMQ&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#=
+1a0dab style=3D"text-decoration:underline">Querying Bibliography Data Based=
+ on <b>Linked Data</b></font></a></h3><div><font size=3D2 color=3D#006621>Y=
+ G=C3=BCltepe</font></div><div><font size=3D2 color=3D#222222>Abstract: Usu=
+ally, a common data model is used for creating and getting a r=C3=A9sum=C3=
+=A9 in web <br>applications. Though different web applications provide the =
+same quality r=C3=A9sum=C3=A9 <br>information, they encounter difficulties =
+in analyzing and processing data in their different <b> ...</b></font></div=
+><br><p><hr noshade size=3D1><font size=3D2 color=3D#222222>Dieser Google S=
+cholar-Alert wird Ihnen von Google zur Verf=C3=BCgung gestellt.<br><br><a h=
+ref=3D"http://scholar.google.de/scholar_alerts?view_op=3Dcancel_alert_optio=
+ns&amp;email_for_op=3Derictessenow%40web.de&amp;alert_id=3DAIfevv3NkPcJ&amp=
+;hl=3Dde"><font color=3D#1a0dab>Alert stornieren</font></a><br></font></div=
+></body></html>

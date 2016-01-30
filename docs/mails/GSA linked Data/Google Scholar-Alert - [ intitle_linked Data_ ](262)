@@ -1,0 +1,111 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.140.227.210 with SMTP id x201csp77026qhb;
+        Thu, 22 Jan 2015 06:53:10 -0800 (PST)
+X-Received: by 10.224.131.70 with SMTP id w6mr3265051qas.78.1421938387230;
+        Thu, 22 Jan 2015 06:53:07 -0800 (PST)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3pQ3BVBUKDHAgQVcZOfOZSfhg-bcfSdZmUccUZS.QcaSfWQhSggSbckkSP.RS@scholar-alerts.bounces.google.com designates 209.85.213.74 as permitted sender) smtp.mail=3pQ3BVBUKDHAgQVcZOfOZSfhg-bcfSdZmUccUZS.QcaSfWQhSggSbckkSP.RS@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3pQ3BVBUKDHAgQVcZOfOZSfhg-bcfSdZmUccUZS.QcaSfWQhSggSbckkSP.RS@scholar-alerts.bounces.google.com designates 209.85.213.74 as permitted sender) client-ip=209.85.213.74;
+Received: by 10.140.109.226 with POP3 id l89mf927381qgf.25;
+        Thu, 22 Jan 2015 06:53:07 -0800 (PST)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3pQ3BVBUKDHAgQVcZOfOZSfhg-bcfSdZmUccUZS.QcaSfWQhSggSbckkSP.RS@scholar-alerts.bounces.google.com
+Received: from mail-yh0-f74.google.com ([209.85.213.74]) by mx-ha.web.de
+ (mxweb009) with ESMTPS (Nemesis) id 0Lkmgu-1XgLD834Ee-00aWrh for
+ <erictessenow@web.de>; Thu, 22 Jan 2015 15:48:06 +0100
+Received: by mail-yh0-f74.google.com with SMTP id 29so92006yhl.1
+        for <erictessenow@web.de>; Thu, 22 Jan 2015 06:48:05 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=TJU6o7GmWcCcdYKXsck2yWbtIB8h7fkTrophPMpWSsc=;
+        b=MkfYSYZp1dL9HX+4ApNOslFOm0K5WGhkSHVNkvYf5Le4jFEjJLzEbveJuMAWFaK9qy
+         lvx2hORzkh51wwYtE+JMvcrta839F9fxBl7F0X0MH8Y9dcGFnr/USxgLfThQXKY+VW8j
+         JihQg1vBXXs8TtmAy69fcub2cCkCwPZoOzqkLooPsjor9UDH5FpZ/qwknV6WYil7AV+e
+         BIsJyHlP/X9OgltCu6MFLoEOgm513aD6ej9jgXGOxrQSL33JZurkRaqbTtAloe2KPrPx
+         R4Jvrc+qSRKOqTO92wcHWOliObP0ET0FuZXpolR0tR3NPRv2oVYKJM/mdDTAqR2ofF1n
+         RihQ==
+MIME-Version: 1.0
+X-Received: by 10.52.165.113 with SMTP id yx17mr1204472vdb.0.1421938085560;
+ Thu, 22 Jan 2015 06:48:05 -0800 (PST)
+Message-ID: <001a11c2c9347b811c050d3ec2cd@google.com>
+Date: Thu, 22 Jan 2015 14:48:05 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:vodMMy1RcgM=:TxLZUiXjIDx+z05gGMPgzgZneb
+ x4Gds1EHBUakMsevsW1th/wz4s2EDf+wI6hIOoNV4dtXe9dQxOhYri0oeFvICSHwIPijNucZp
+ B2/AFabS6fsOYfjVoJs8lNP15gQSP/bHIPulyP12uPOO7BQIXYeXNzgNM519klx3zftsHUbpk
+ bExUyb8RlfQbQiEnh4CouGFNiT+GNUaKk6HsFB6mSY5C/V+Y6RvR6bLOHmfh59y7LPELVuyue
+ zQa8ivIMTwCjuTP9NUeaFqFxLjvN4btDMzWvdeh7oF+0IRjdzUXn7pSfDUuyCaUfrdZdAbZud
+ MaDIYw315cVyxlFqXopkyr0c9F0MWLEkXpB7Wo/kqrSaJgH/CBYSF94U7AORgGKdWGg028DqD
+ YlvWhSIAefPbhaEHWNpVTFSvIVMEMl20WcdRQUK5TnOCoY2HxHnEqVstVRgU9mkZ4pxNgBJpW
+ FRbYQzN357qDDN1m8fxNn+BhNx58huAsp3FYRLLcPlSkKTCTb3RCxt70XvQQvvCxcLCFuo7Xp
+ X4T4EvST00XWyuJJ5SpGz4+UxpAUUzUrSq2s687BK9/I43PudFp/V3s8jQ5KmTSUYe9rqwAnp
+ w+p4XsasPAT6Ead3qgikUVIh/atdyJLSvSCBF55DsdmKgPsZLdNLVWF0EOR0XMG3Gss5Egv0I
+ tdqL+WQ/VWI7XvHrnhPZ14/1fOyn5si6awFuI1qvys3rfpJBPBeL04zejYjZL8HCV0DA2ayQE
+ FD8ze/QcnuVhRQBqrYA7FHaz4VY1tDNV+OWwPH0yfLNkQ3GFcdUwh0r8xyxBwTo6NWPYGAk55
+ q6oNCRk399P7YxKFCrHg7JFxHIU4sOCP6VJF+YYc7njTdq+f22y+UD4rZ/nZc58cFB/DXu/Lb
+ 8C2t9Y2+/sVh7FnAFenFZ5Jig5/J71qbZBBL8XSEH/lXv/+tAvVUqAOa2KzlyDOiCLRV5rtZM
+ pO/jCdYaWaYyE9ICm9Z1G+JoiTCnANWCnWEuJc7EJ8eL4aoXyxDw+9m8HXBFSyWcckrVYbJz4
+ 9wNg8URSeUe5pbNZcPqsx/XbOGHS4FYZm1dyv/YkEtV4XVzel9FGBWpXfxMjc+5PkGu0XamyN
+ z7KJ2ozhPiaX8sJ4QldpiRFqRxs/+U4o5Rirdw2BcN5RV6JMFB1YyYUkBYPG6Cu/kHcBiPB2D
+ opRDtLo9ooa+R/qLNQo2A6Vr9778hAKuuBBfST+IR74oYKL6zQQ06juHGg76Ai7B8oraOPBdj
+ ghW4h7gAePMrcSvPXyqHdhKSN7ct73HECLW+IoPwCWscjYR/8DdtjetJPlVxB+Hq+Ks6VGYJo
+ HN/w
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D=
+2 color=3D#1a0dab>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_=
+url?url=3Dhttp://www.nber.org/chapters/c13494.pdf&amp;hl=3Dde&amp;sa=3DX&am=
+p;scisig=3DAAGBfm3P2pvuJc7cob8oCpO8fCRcPApbpQ&amp;nossl=3D1&amp;oi=3Dschola=
+ralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:underline">N=
+ew Public Use Data to Study Entrepreneurship from Linked Employer-Employee =
+Data</font></a></h3><div><font size=3D2 color=3D#006621>C Goetz, H Hyatt, E=
+ McEntarfer, K Sandusky - Measuring Entrepreneurial Businesses: &hellip;, 2=
+015</font></div><div><font size=3D2 color=3D#222222><b>...</b> 2.1 Newly Ad=
+ded Data on the Age of National Firm Many of the new statistics we<br>
+describe here were made possible due to a recent innovation in the LEHD mic=
+rodata =E2=80=93<br>
+newly <b>linked</b> <b>data</b> on the age and size of the national firm. F=
+irm <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttp://www.aifb.kit.edu/images/c/c=
+a/CURAC_kaempgen_maerz_et_al_liver_factors_pre-final.pdf&amp;hl=3Dde&amp;sa=
+=3DX&amp;scisig=3DAAGBfm2ffp6p67WKDOcIQ3dNq8PvUOv_-A&amp;nossl=3D1&amp;oi=
+=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:und=
+erline">Challenges in Collecting Patient Characteristics for Analysis using=
+ <b>Linked Data</b></font></a></h3><div><font size=3D2 color=3D#006621>B K=
+=C3=A4mpgen, K M=C3=A4rz, M Hafezi, A Adler, P Philipp&hellip;</font></div>=
+<div><font size=3D2 color=3D#222222>Abstract: Decision support systems in m=
+edical research require a both specialized and <br>flexible knowledge repre=
+sentation to accommodate for a wide range of use cases. In this <br>short r=
+esearch paper we describe the challenges encountered when designing a suita=
+ble <b> ...</b></font></div><br><h3 style=3D"font-weight:normal;margin:0;fo=
+nt-size:medium;max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font=
+> <a href=3D"http://scholar.google.de/scholar_url?url=3Dhttp://www.research=
+gate.net/profile/Daniel_Hladky/publication/264899884_Return_on_Investment_(=
+ROI)_in_Linking_Content_to_CRM_by_Applying_the_Linked_Data_Stack/links/53f5=
+97fb0cf2fceacc6f48f7.pdf&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm1pb_zwNw=
+kINOi1GUdNLzzTlvMIgg&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 col=
+or=3D#1a0dab style=3D"text-decoration:underline">Return on Investment (ROI)=
+ in Linking Content to CRM by Applying the <b>Linked Data </b>Stack</font><=
+/a></h3><div><font size=3D2 color=3D#006621>D Hladky12, S Maltseva, D Ogoro=
+dniychuk&hellip;</font></div><div><font size=3D2 color=3D#222222>Abstract. =
+Today, decision makers in enterprises have to rely more and more on a varie=
+ty of <br>data sets that are internally but also externally available in he=
+terogeneous formats. <br>Therefore, intelligent processes are required to b=
+uild an integrated knowledge-base. <b> ...</b></font></div><br><p><hr nosha=
+de size=3D1><font size=3D2 color=3D#222222>Dieser Google Scholar-Alert wird=
+ Ihnen von Google zur Verf=C3=BCgung gestellt.<br><br><a href=3D"http://sch=
+olar.google.de/scholar_alerts?view_op=3Dcancel_alert_options&amp;email_for_=
+op=3Derictessenow%40web.de&amp;alert_id=3DAIfevv3NkPcJ&amp;hl=3Dde"><font c=
+olor=3D#1a0dab>Alert stornieren</font></a><br></font></div></body></html>

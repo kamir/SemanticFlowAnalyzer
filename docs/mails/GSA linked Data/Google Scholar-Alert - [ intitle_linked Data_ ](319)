@@ -1,0 +1,94 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.140.240.4 with SMTP id l4csp88500qhc;
+        Mon, 29 Dec 2014 21:42:53 -0800 (PST)
+X-Received: by 10.224.38.71 with SMTP id a7mr19447847qae.24.1419918170089;
+        Mon, 29 Dec 2014 21:42:50 -0800 (PST)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3aDaiVBUKDAk1lqxuj0jun021-wx0nyu7pxxpun.lxvn0rl2n11nwx55nk.mn@scholar-alerts.bounces.google.com designates 209.85.192.74 as permitted sender) smtp.mail=3aDaiVBUKDAk1lqxuj0jun021-wx0nyu7pxxpun.lxvn0rl2n11nwx55nk.mn@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3aDaiVBUKDAk1lqxuj0jun021-wx0nyu7pxxpun.lxvn0rl2n11nwx55nk.mn@scholar-alerts.bounces.google.com designates 209.85.192.74 as permitted sender) client-ip=209.85.192.74;
+Received: by 10.140.87.117 with POP3 id q108mf8309922qgd.28;
+        Mon, 29 Dec 2014 21:42:49 -0800 (PST)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3aDaiVBUKDAk1lqxuj0jun021-wx0nyu7pxxpun.lxvn0rl2n11nwx55nk.mn@scholar-alerts.bounces.google.com
+Received: from mail-qg0-f74.google.com ([209.85.192.74]) by mx-ha.web.de
+ (mxweb107) with ESMTPS (Nemesis) id 0Ma0YN-1YQWMY2Ljb-00Lkpp for
+ <erictessenow@web.de>; Tue, 30 Dec 2014 06:21:45 +0100
+Received: by mail-qg0-f74.google.com with SMTP id a108so694231qge.5
+        for <erictessenow@web.de>; Mon, 29 Dec 2014 21:21:44 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=pX8M0+5w5R+gsci8rHh3lgdeYQvC6GmZANRf30sIaDc=;
+        b=W44beaO/oq2WUmDsQoxX/oAjs4125TxF3pBACfiwfgg8GgpIUO+mDx1tXnV17WcHMC
+         x+YheU+lmVyM6oRnJdTtnWxI4hCvaIyAKpwJDvIWaQiaPIIrTlGz6U9LkMyRycS+F4f4
+         xksug54EboYltxsHFu7/lpGD+Re4ifpC+SeuNpH8ZpTJr86uuiqJCsYrqqqGmJ78Y+JC
+         UG3GagAVfYlNApJuGIgSMTjTmrgZ4vblPE4V+xSko4jg595Al4apeY8V+xBXts/ytKld
+         OYksr30rLjo7P+v+Yfr1SAZq8YEv/3O+yG2I4nCXz24OwjAvkq6qVYy2kNhgpaiDPQ86
+         rbWQ==
+MIME-Version: 1.0
+X-Received: by 10.52.26.145 with SMTP id l17mr47391235vdg.2.1419916904568;
+ Mon, 29 Dec 2014 21:21:44 -0800 (PST)
+Message-ID: <20cf307abe23b51644050b682aa2@google.com>
+Date: Tue, 30 Dec 2014 05:21:44 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:q8lItFfP4EA=:QlDh9rB5upVE+JZprVDTKJOAs3
+ 83Mmx7iUYgn0622o3NqOyJbprAo2IJcYmEDhFT1V8zGAOeyy9JpX/PcpDFBu8T2BfwpjiLe1W
+ /1D0glxON6g24YtUJKjFCWYcbam+z0oWBJzINK+TmwqfkRQXY/bU4Wp4vVYIDMmr3YTqPAL0N
+ //zR+QoC19aa45IkXI6kL8nwSatokYVQig+ystFNKOyM2Vjkgt3jY/SS/d42bRUPbRT70ko3e
+ cxMcj4t/TJZrzTd2ONf/ZYd2QPEHoee/nd7pQscQ8pRfO3UPTwT6qnwu3RKF8UxeroDkslIIt
+ vZttmKF3IbMi/4njKJiv5PvW2nI9AOV3b/wG6A+uj/ICa2QkRcioU5CL7/KNKFWh9iCko/ipb
+ YVbvJF8ilJJqRdCcP4wPYu3/eFIwhCinC95PKXYp91XRo4mlG9BDfaR2/kd9/in3GdURCr5sm
+ P/4wcWioWR08I6a5kf2l49OGJX8f04862R+TzMnhg0DjxC4dWEYD6DqLcis/rNcO6/K97p0up
+ SAPDGKARitqNLE2G4QaK/rdsNKo24TULXgMs7zC32J2XoDyJivgdoTU9B0J1Fc8d6kbwQKx46
+ l9BVqxcyJ54C0/6aDSA8QK9S0oj24CNA7T0z2Tfnvcu7G80zkgDBfahIo/QZD3xYFZtaTaaB/
+ dSoXn+T5qQpOLbrR2D5fwNs5VluoH925ushlFC7Zg5LOX/iVO/vDqdR0V8odjeQ1TZViqcjex
+ FplyD7H075ue/3rdn4ihtBN3Q8XCsf0xUby9oTHPFQxGpSeIE17hu3YdhHhSFC2yhkCk7Eyl8
+ Iis9RYsea7yXji0HKcODtRr7xSmgrqcl2GS1RRVU7r2/l8xd7phVvEleY5snUd2PI1hhZIPOF
+ ZgD38NFzlg40up8mKIcNyiLs7eaqvaCEp0xbGvWurXcdGmuyPIX+wj6UxIDTzFUOiCoo4PlOG
+ gR0yc0oaY17K2BzoYwMR/8Hz7v9XHUa1BbrnuvBVIuPR5kwatKX17Vxfrd465dMeYbr5j5pmJ
+ Xx5kqIvQz6L5LXnB2VNLKadPnQx4sczYRJW2ZDzwHaPfyqs2dSBz0d3SzKgp6lUAt5eXl1cha
+ Syl+tNviE2G5kk/clrEAXv2/RHcTDx48escP6vamHcdaP+ljVrSP296UXQ29uE5NxpzdonyY4
+ +uo0500Qcbv3ny9plvi4W+YbSNKAF4GTHPHWB2A8hxZBLTqyTHt/A/+6dk0alaF4yVR84pESO
+ nEyvZBVfvSzLR712fPd/P6GkfAG17FUbV3359/2bU8uMeU7izOfzxj5hG+1qKrObWWI7FEzdX
+ 4wxR
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D=
+2 color=3D#1a0dab>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_=
+url?url=3Dhttp://www.eurecom.fr/~troncy/Publications/Kepeklian_Troncy-bids1=
+4.pdf&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm29LF2SeQCndZO4xZREIoklkpynD=
+A&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decora=
+tion:underline">Datalift: A platform for integrating big and <b>linked data=
+</b></font></a></h3><div><font size=3D2 color=3D#006621>G Kepeklian, L Biha=
+nic, F Bezons, R Troncy - In International Conference on Big Data  &hellip;=
+, 2014</font></div><div><font size=3D2 color=3D#222222>ABSTRACT In the spac=
+e domain, all scientific and technological developments are <br>accompanied=
+ by a growth of the number of data sources. More specifically, the world of=
+ <br>observation knows this very strong acceleration and the demand for inf=
+ormation <b> ...</b></font></div><br><h3 style=3D"font-weight:normal;margin=
+:0;font-size:medium;max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]<=
+/font> <a href=3D"http://scholar.google.de/scholar_url?url=3Dhttp://doku.ia=
+b.de/fdz/reporte/2015/MR_01-15_EN.pdf&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DA=
+AGBfm3Aus796T2Wxw3ZN0RPfP2hFNSp-A&amp;oi=3Dscholaralrt"><font size=3D3 colo=
+r=3D#1a0dab style=3D"text-decoration:underline">Using longitudinal wage inf=
+ormation in <b>linked data </b>sets</font></a></h3><div><font size=3D2 colo=
+r=3D#006621>M Reichelt</font></div><div><font size=3D2 color=3D#222222>Abst=
+ract Using longitudinal wage information in linked datasets such as ALWA-AD=
+IAB is not <br>straightforward. First, due to the upper earnings limit for =
+social security contributions, parts of <br>the wages have to be imputed. S=
+econd, although information from the ALWA survey is <b> ...</b></font></div=
+><br><p><hr noshade size=3D1><font size=3D2 color=3D#222222>Dieser Google S=
+cholar-Alert wird Ihnen von Google zur Verf=C3=BCgung gestellt.<br><br><a h=
+ref=3D"http://scholar.google.de/scholar_alerts?view_op=3Dcancel_alert_optio=
+ns&amp;email_for_op=3Derictessenow%40web.de&amp;alert_id=3DAIfevv3NkPcJ&amp=
+;hl=3Dde"><font color=3D#1a0dab>Alert stornieren</font></a><br></font></div=
+></body></html>
