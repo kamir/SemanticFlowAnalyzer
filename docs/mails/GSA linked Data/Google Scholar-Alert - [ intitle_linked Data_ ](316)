@@ -1,0 +1,109 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.55.19.134 with SMTP id 6csp1352967qkt;
+        Sat, 14 Nov 2015 02:03:29 -0800 (PST)
+X-Received: by 10.140.32.4 with SMTP id g4mr26192766qgg.79.1447495408998;
+        Sat, 14 Nov 2015 02:03:28 -0800 (PST)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3G_1GVhUKDOgcMRYVKbKVObdc-XYbOZViQYYQVO.MYWObSMdOccOXYggOL.NO@scholar-alerts.bounces.google.com designates 209.85.214.201 as permitted sender) smtp.mailfrom=3G_1GVhUKDOgcMRYVKbKVObdc-XYbOZViQYYQVO.MYWObSMdOccOXYggOL.NO@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3G_1GVhUKDOgcMRYVKbKVObdc-XYbOZViQYYQVO.MYWObSMdOccOXYggOL.NO@scholar-alerts.bounces.google.com designates 209.85.214.201 as permitted sender) client-ip=209.85.214.201;
+Received: by 10.55.220.2 with POP3 id v2mf15921117qki.0;
+        Sat, 14 Nov 2015 02:03:28 -0800 (PST)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: <3G_1GVhUKDOgcMRYVKbKVObdc-XYbOZViQYYQVO.MYWObSMdOccOXYggOL.NO@scholar-alerts.bounces.google.com>
+Received: from mail-ob0-f201.google.com ([209.85.214.201]) by mx-ha.web.de
+ (mxweb002) with ESMTPS (Nemesis) id 0LqB96-1aayVQ3dCa-00dmK5 for
+ <erictessenow@web.de>; Sat, 14 Nov 2015 10:21:33 +0100
+Received: by obczm5 with SMTP id zm5so9278155obc.1
+        for <erictessenow@web.de>; Sat, 14 Nov 2015 01:21:31 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=RZS/vrM/tT/NvXRdgAxT18sVdZmONw+z+JQnKKW7Ipo=;
+        b=d25ejh8fAQJjlTAfkFRy+Layir52J/qio4zJknW60cMD1mAyO5HjJ2Zo+umdi7iJBW
+         CtUkIZFeEYCmu8FQqZWcbFzd2dhaDf0z9zoDKE6C7eEyWQlVsLQz78pLTiZ8X98psnuS
+         cndxjTgHpd3pvE6cZchZaBUiatDmjk2dohdlXZC/PU5Fa0oHk1u6JdsbAcJOmQUrGqAK
+         +s7NELDAWAvzsukVKamNPGsTvQGa1JM94ESsz7GllmyySFq6hvrgUxvmd0RPEnYyCAxF
+         za9Y0qO0peIaq8BsFZwchhET/4YMf1pK7e8yzuVaiau1XZtTY62UP6MicHWLVs7JnD7D
+         36kw==
+MIME-Version: 1.0
+X-Received: by 10.50.128.234 with SMTP id nr10mr6624370igb.12.1447492891657;
+ Sat, 14 Nov 2015 01:21:31 -0800 (PST)
+Message-ID: <047d7b10d1319f453e05247cb379@google.com>
+Date: Sat, 14 Nov 2015 09:21:31 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:iOKjukC/4g8=:v8/FRK1nmbeNieMe1WNxiCGvFe
+ BSWgO0jwCx5Gd+DUoESY7++nMNWXqnCezLV4g3tKH+8hqh89nSEYNQbu5qf6SMYW89ubwjM2y
+ mFKoyRyY6E6lUCImlaVFjr3g9OCIB0Dee++xSy70OobepnRSKR5xwouMVgSwXn2ahzF68PFax
+ eIlBuf0xxuZNU60Y9D0hcZCf/rlWyUSkKgCxFmQImFrx12SCvBRmzl3oE6fVZBY0kW3tMfUfS
+ 3/hY4jESjQdfBs5ti1t9M//jXT8DA0iPQz1TA5WhlzFALHJ2zroIgjP8A9e8lqBbmQv+9ckhE
+ 2pJWA/CLmYegmLAG8bGxTDfshnYdvBVEkHEzqendFGHcMLx6IrNFAZEW0shBrouQ+/gsf07f1
+ xm1c39O7sGSgOjujN5zTFopAoJUtlXzBYASiDxi+tXJCSetyu9wnQujRCr46aDY8IF5BkuAcr
+ W/3atBJUFGADauwH1mxGPSz8kzA9wTSlEo6lr+Fhl1y++mMknyk5hAfhQj7xiFO4ERXVyPiKG
+ zR/E8viDPCTo84Z027F8rxurV3yuE4twh8nud8Rl6Dx8OAGLRO7GI5Lom8FKmrlyGZCuqzvqp
+ f/TeIcsRHIekXHbf353BVPPy7UWL6VpdC1l8tlnvrcYjoWCEY+yv3JRY9kxZn4DU/hPtA2RzF
+ 4fxAbSqt/pgKKjKNVcTCFy/PSRsrC5E3P4hjd978Dc8CjlNyn+xes7FXfq/twcJ1/zH83Lecz
+ p34OqfeHDn+PKcIQwf3LaO3QvThyUWbHogGgWv25NnJK3+/SrENK3qk6vN+3iaA4ZNaeiUpTo
+ R0aqDtzQi5xqDMyueyT4zxJF2mLHtvSplrmsEu+cVmIKIwKEAAnemaQDxX573h/3MAFFQ1hiy
+ /XAk9FDXL13hCYzt/dGBUveoJFSl2qD4V6GS3XXNbAcfvmqgIdwY/ZLLV64+qCQq0jClnj2iO
+ P7aHf0KQR6D1q6YDwU+xQPM9frSjbqHhWWyZ6JM0QIFKm6ZwxC6i4fm9t9OrWJh//Bx9GRu3X
+ TPl2XUpPrfto7hRn7nWxmFxOHnrm+nQY0XUIHzAPou0oloF9+/YLhcSlJuII39yFxiEi6FRH9
+ pTA+uc1m18pY0y5d9gbxecU8acimOzSqqjkfj1o68TKBppmLHIHevtN2qiBeqW+wFp4sPMbrl
+ pgouBvmdG1QJTsJeWFjILLvKPDyDuILEf7RUG4AOK0KG3e81K5sFjKmJURcL+BIqtPSUvuA+s
+ W7+BLFtj6T3+rMzdXA6tu2Jf4GV7/cSz4lCgGZey75K8W6ksvcvLkNdBcK9gfQ8c00NCuNvj/
+ jp56Ckd73SykfysESEKQ9yQgbjS3BA60bKxThLimfvUHFhU=
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D=
+2 color=3D#1a0dab>[HTML]</font> <a href=3D"http://scholar.google.de/scholar=
+_url?url=3Dhttp://www.sciencedirect.com/science/article/pii/S22143173150004=
+87&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm1uw4syhGicz6X8d7OtkKkc9LqytA&a=
+mp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"=
+text-decoration:underline">Exposing Vocabularies for Soil as Linked Open Da=
+ta</font></a></h3><div><font size=3D2 color=3D#006621>G L&#39;Abate, C Cara=
+cciolo, V Pesce, G Geser&hellip; - Information Processing in  &hellip;, 201=
+5</font></div><div><font size=3D2 color=3D#222222><b>...</b> This paper rev=
+iews standards for describing soil data and reports on the work done within=
+<br>
+the EC funded agINFRA project to apply <b>Linked</b> <b>Data</b> technologi=
+es to existing standards<br>
+and data in order to improve the interoperability of soil datasets. <b>...<=
+/b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttp://eis.iai.uni-bonn.de/blog/wp=
+-content/uploads/2015/10/WWW2016_paper_968.pdf&amp;hl=3Dde&amp;sa=3DX&amp;s=
+cisig=3DAAGBfm3WM9kuQnIJgY7YBkOPAHWZlHoDsw&amp;nossl=3D1&amp;oi=3Dscholaral=
+rt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:underline">Impr=
+oving <b>Linked Data </b>Quality using Outlier Detection</font></a></h3><di=
+v><font size=3D2 color=3D#006621>J Debattista, C Lange, S Auer</font></div>=
+<div><font size=3D2 color=3D#222222>ABSTRACT With more and more data being =
+published on the Web as <b>Linked Data</b>, Web <br>Data quality is increas=
+ingly important. While quite some work has been done with regard to <br>qua=
+lity assessment of <b>Linked Data</b>, only few works have addressed qualit=
+y improvement. <b> ...</b></font></div><br><h3 style=3D"font-weight:normal;=
+margin:0;font-size:medium;max-width:44.5em"><font size=3D2 color=3D#1a0dab>=
+[PDF]</font> <a href=3D"http://scholar.google.de/scholar_url?url=3Dhttp://e=
+is.iai.uni-bonn.de/upload/paper/sm2sa_MAIN.pdf&amp;hl=3Dde&amp;sa=3DX&amp;s=
+cisig=3DAAGBfm3b8xy6LjoyED94xRuGZ_Rv51wPJA&amp;nossl=3D1&amp;oi=3Dscholaral=
+rt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:underline"><b>L=
+inked Data</b>-based Social Media Analysis for Stock Market Tracking</font>=
+</a></h3><div><font size=3D2 color=3D#006621>P Dank, S Scerri, A Khalili</f=
+ont></div><div><font size=3D2 color=3D#222222>Abstract=E2=80=94The rising d=
+emand of social media and ensuing activities provide a rich data <br>source=
+ for opinion mining. The efforts reported in this paper analyze a popular m=
+icro-<br>blogging social network for one of the important application domai=
+ns, ie, stock market <b> ...</b></font></div><br><p><hr noshade size=3D1><f=
+ont size=3D2 color=3D#222222>Dieser Google Scholar-Alert wird Ihnen von Goo=
+gle zur Verf=C3=BCgung gestellt.<br><br><a href=3D"http://scholar.google.de=
+/scholar_alerts?view_op=3Dcancel_alert_options&amp;email_for_op=3Derictesse=
+now%40web.de&amp;alert_id=3DAIfevv3NkPcJ&amp;hl=3Dde"><font color=3D#1a0dab=
+>Alert stornieren</font></a><br></font></div></body></html>

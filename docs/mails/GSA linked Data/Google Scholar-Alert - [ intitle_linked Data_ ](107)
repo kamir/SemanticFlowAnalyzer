@@ -1,0 +1,93 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.43.99.134 with SMTP id cs6csp74581icc;
+        Fri, 23 Aug 2013 18:34:01 -0700 (PDT)
+X-Received: by 10.50.44.83 with SMTP id c19mr54266igm.2.1377308040116;
+        Fri, 23 Aug 2013 18:34:00 -0700 (PDT)
+DomainKey-Status: good
+Received-SPF: pass (google.com: domain of 3JAYYUhUKDCcVFKRODUDOHUWV-QRUHSObJRRJOH.FRPHULFWHVVHQRZZHE.GH@scholar-alerts.bounces.google.com designates 209.85.212.74 as permitted sender) client-ip=209.85.212.74;
+Received: by 10.64.9.205 with POP3 id c13mf398089ieb.36;
+        Fri, 23 Aug 2013 18:33:58 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3JAYYUhUKDCcVFKRODUDOHUWV-QRUHSObJRRJOH.FRPHULFWHVVHQRZZHE.GH@scholar-alerts.bounces.google.com
+Received:  from mail-vb0-f74.google.com ([209.85.212.74]) by mx-ha.web.de
+ (mxweb004) with ESMTPS (Nemesis) id 0MNaME-1V70dr1ilG-007Cvk for
+ <erictessenow@web.de>; Sat, 24 Aug 2013 03:02:29 +0200
+Received: by mail-vb0-f74.google.com with SMTP id w16so135053vbf.3
+        for <erictessenow@web.de>; Fri, 23 Aug 2013 18:02:28 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=x88tLzO6xv0FXjBdErVjg1KF7AJ311XuyTEJw+QADkE=;
+        b=CbWJlvZH0V1VuzVkmigLxcKop6yWoda9D2LLOF4c9+MACwCWIqDqjWpyDC7ZUkqHEP
+         /KX9mxD714yMghQ7HqIuYPEYvmdBthTjfBRGpItXPbS9mmYP4ud+thXhQpEh4F2zWkbR
+         UCIlc38cqBg/NfMpr8qCq7vF/wmw2SkUd2obbYUuaV7jpffUhWhxfOnIGdpfbBjrbhwD
+         2ku2633iNoHXhwc1WHQp2Q/fcr/IObcuM0fsPzIzWQSX0r/aQ4jU0KkQ3mVnHHoKOSpq
+         ysJaFUk2dzwTY2uU6rqE1GS3LqMmWfa2JzW5Y5rtbte++Ktiwape65n9PVQtYgB5tqLc
+         /SRQ==
+MIME-Version: 1.0
+X-Received: by 10.224.4.138 with SMTP id 10mr1828135qar.8.1377306148355; Fri,
+ 23 Aug 2013 18:02:28 -0700 (PDT)
+Message-ID: <001a11c245eab83fa304e4a713f4@google.com>
+Date: Sat, 24 Aug 2013 01:02:28 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:uySL0kUq7bQ=:mFUTlSN6cq+RFHD6k4wsCFqkvZ
+ t0n3pihOdLesrAkPpZXHpdno2gKftjX6GTCfy1bC0d5H1Lm2Hhfzvmw5ZfTHLkrvhb7+arTRB
+ SjGhOokZ+X3NBelYx4PX9Mt5UGfwwLRBFmv0sGl9nN741FVP4p9CZI8OM5DoiroLeJNq0xCZU
+ Fg1oM31VJpbxz+wD9EKv5XU+84LGnCP7a538uc9Igg12+LckRxvGUXech8BkAILxpjN9DBnFn
+ X8oKrrbcYm3Bj8yCUkQkhVa5y+QTgBXhQ6LpfznV4Dri1U1kGlo3DIVWvgMG4NztmC1fA/nX2
+ Qo479HwJzaSJ8H388+Xd3Krp+x3TfiEWxng5pXaN4x4U3mjp9AgEP8+Jr2w9ya5MbPtPPnFF1
+ FBNaVfBfsr8QTyK1BWzBjxPe16RIedO7K7DYnMbWyGLa3Nnd+tx3SK/S51ASrfiI//aNHL1Ca
+ PJ4mHOtCNZ7SWBq0v3H1VBYh3JUQieJifk9c3NzJ56EZaIg4fe7NR+dnVMH5rHvxcH7yNPNX4
+ tH9BHR8jy0ACRgfdw6l+dB8LKc6KaHKYaa5/fiQo2sWH+rL85EuUZm6gkTdzYFQa4Ix/qDQe6
+ bk4l9Vt3uN8WKAYNbtkcjMiBBgAt1P+mIgEiOUQrQs8Cg0UFeeXbojY6MllVCUBWmhVXPwEyL
+ qiT7jqwgpve1rXWAo+CbdCE4J9k7uA0OXBI/EVFGf71amephdjx3gPThKag1emlPaHVyAZiZ3
+ bupSWltrt8KYAmuLAHJWFuHBESx+P+uEo7r1eiDHAGm+z8qTYC+p+qyhmbBQ+OLAhcgDXMszh
+ qjJCsRNLvyq2MxWpKudFP79sJ4bPWDuShnWMXYn7KFkbOS/yL9QPzOKFjiSSbbFb6B36Hk3gS
+ LBNES59MTZ7xwwUqYNsttJgQ2xM/MvaIb7akuFb6yIJkqw/fu4fDFOMjeb8nLatHgMkilSjg6
+ sMaAfMhEnUo4exBrRJJUxopE5Q5V/MvxhPpZYRdUUC/be506YitMIWJgieoOFB9xKz9au/p+Y
+ KSdmaL5PQDLn0NSt7RPJq7d5kdGOrjhS1S2O9h82eKmX0dk9unmqIRplVB4m9Jlvi3Ey6/y34
+ EJZIZNil1HfupkyMp3mhN9mKsY8Dilvp9CoWUqg+lLygQoggnWkT+2muBtZk77DxJSBjaEF/5
+ aYKwfqvwrAM/+5hzgLVl++E9nkQxY6cvlKYH/DWHDrEyjGmgTpMfZF1vE/IpNHcQdIyrDxJCt
+ 3fIsSqY9LoBFrvuexnLv6gksPBs+Pi+qDn/cPQUKM9/23K7XSL3p/abErhrYaYOStygCAzm7R
+ ruxM5Gbg+ELzO6Xwbt4GHwN6erSMT6kpFWsE4yteypcvYAucf0PmycHqMLvwaMMlcahwVVyJo
+ n99wzg9UrtnA13P2rqYZCqcvE6kfVZgzCbqGjxeYR/0bEVT2uKPU/BSHSUa
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D=
+2 color=3D#1122cc>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_=
+url?hl=3Dde&amp;q=3Dhttp://geog.ucsb.edu/~jano/LDandO.pdf&amp;sa=3DX&amp;sc=
+isig=3DAAGBfm1TrTXpZeLCU0FgT3wux_ALF4i2tA&amp;oi=3Dscholaralrt"><font size=
+=3D3 color=3D#1122cc style=3D"text-decoration:underline">Thoughts on the Co=
+mplex Relation Between <b>Linked Data</b>, Semantic Annotations, and Ontolo=
+gies</font></a></h3><div><font size=3D2 color=3D#009933>K Janowicz, P Hitzl=
+er - 2013</font></div><div><font size=3D2 color=3D#222222>ABSTRACT The rela=
+tion between data, annotations, and schemata seems straightforward at <br>f=
+irst: Data are annotated with additional meta information according to some=
+ schemata in <br>order to expose additional non-intrinsic characteristics r=
+elevant to the meaningful <b> ...</b></font></div><br><h3 style=3D"font-wei=
+ght:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D2 color=
+=3D#1122cc>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_url?hl=
+=3Dde&amp;q=3Dhttp://www.grantmckenzie.com/academics/McKenzie_Demo_ISWC2013=
+.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm0H7hnQ0rk90QawZAHXynHUFv3vGw&amp;oi=3Dsc=
+holaralrt"><font size=3D3 color=3D#1122cc style=3D"text-decoration:underlin=
+e">Linked Scientometrics: Designing Interactive Scientometrics with <b>Link=
+ed Data </b>and Semantic Web Reasoning</font></a></h3><div><font size=3D2 c=
+olor=3D#009933>G McKenzie, K Janowicz, Y Hu, K Sengupta, P Hitzler</font></=
+div><div><font size=3D2 color=3D#222222>Abstract. In this demo paper we int=
+roduce a <b>Linked Data</b>-driven, Semantically-enabled <br>Journal Portal=
+ (SEJP) that offers a variety of interactive scientometrics modules. SEJP a=
+llows <br>editors, reviewers, authors, and readers to explore and analyze (=
+meta) data published by <b> ...</b></font></div><br><p><hr noshade size=3D1=
+><font size=3D2 color=3D#222222>Dieser Google Scholar-Alert wird Ihnen von =
+Google zur Verf=C3=BCgung gestellt.<br><br><a href=3D"http://scholar.google=
+.de/scholar_alerts?view_op=3Dcancel_alert_options&amp;email_for_op=3Dericte=
+ssenow%40web.de&amp;alert_id=3DAIfevv3NkPcJ&amp;hl=3Dde"><font color=3D#112=
+2cc>Alert stornieren</font></a><br></font></div></body></html>

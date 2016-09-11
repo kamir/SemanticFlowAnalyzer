@@ -1,0 +1,142 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.140.237.205 with SMTP id i196csp1709133qhc;
+        Mon, 13 Apr 2015 22:22:27 -0700 (PDT)
+X-Received: by 10.55.52.4 with SMTP id b4mr36717045qka.37.1428988941569;
+        Mon, 13 Apr 2015 22:22:21 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3E6AsVRUKDLQmWbifUlUfYlnm-hilYjfsaiiafY.WigYlcWnYmmYhiqqYV.XY@scholar-alerts.bounces.google.com designates 209.85.192.202 as permitted sender) smtp.mail=3E6AsVRUKDLQmWbifUlUfYlnm-hilYjfsaiiafY.WigYlcWnYmmYhiqqYV.XY@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3E6AsVRUKDLQmWbifUlUfYlnm-hilYjfsaiiafY.WigYlcWnYmmYhiqqYV.XY@scholar-alerts.bounces.google.com designates 209.85.192.202 as permitted sender) client-ip=209.85.192.202;
+Received: by 10.55.98.1 with POP3 id w1mf6660972qkb.37;
+        Mon, 13 Apr 2015 22:22:21 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3E6AsVRUKDLQmWbifUlUfYlnm-hilYjfsaiiafY.WigYlcWnYmmYhiqqYV.XY@scholar-alerts.bounces.google.com
+Received: from mail-pd0-f202.google.com ([209.85.192.202]) by mx-ha.web.de
+ (mxweb102) with ESMTPS (Nemesis) id 0MeQjL-1Z1Vqk0UBz-00QAE2 for
+ <erictessenow@web.de>; Tue, 14 Apr 2015 07:05:25 +0200
+Received: by pdjg10 with SMTP id g10so7829590pdj.0
+        for <erictessenow@web.de>; Mon, 13 Apr 2015 22:05:23 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=ZnrhjoF9z1T8HA9wJQAMFCcsEpKcx6FT3JYn2q/6N/g=;
+        b=B2T7kjICwpiwQQ7fG0pLricwak3dqkgTxwY1P5isIWjTsvII45D1UoQslNNKjcsbJV
+         z0AQyzy3BG/9pvPx2zkWbo65ADjcI0d/Yb8u5+p1N8TokP+H59AqIuYiPyaWDzZDGoXP
+         Ij5mZfZHsQnd8nH7hmbNNgeEEBpGKyWE3K3GGBwf/auylFBaIEaJgLGrm3th+RHAmEBo
+         k/t2lyLsT+xrVPk6e2XZvsTWjNyZpEq/zKaMqcj0KHqeMxMmLGnpxYXNZshM2xawYtCK
+         ZCA98FWtxgSPYVt+We1PET6PnbfHchbaOQaeIoshP3BSSddWr7ahADrSYqOwWDlz3BNc
+         13PA==
+MIME-Version: 1.0
+X-Received: by 10.67.13.9 with SMTP id eu9mr23482227pad.18.1428987923658; Mon,
+ 13 Apr 2015 22:05:23 -0700 (PDT)
+Message-ID: <047d7b162bf593f5d40513a82d32@google.com>
+Date: Tue, 14 Apr 2015 05:05:23 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:PMVl5H+4t98=:KVWPTeb49JPIhvF+9Yrz/5KgUI
+ uxseXyZ3oJeHE+n4yaGdCmre3iWdPyeHAc4xb1OmQk6Rm4II3KLuhLPaxZ1nBeGefrTFVtQ55
+ Y9moe75YH9C0MwHD5MJZO9wdpdMByWZfVLWnensyRfJvnlNK7ywmZRSrfIJg88D0kNo6qKtB7
+ +ubgVus9WWWVhMsEUSvpwuHl//CsunOMPsbNkQfv1e9heOB6Vx1v1h308ZD7W6w1PMzdEtY4r
+ WH3d9kyjmYmNEy75NWaQfgTWHw925+POTR+znJV6Qbkyc34HErj6cMfUMY+Pc3UhbCQqZqH5+
+ trh0DQQMAtcR4F2BEvTUA/lLYXTQJ0fYIgz0pjEZvQngA9lYC5pY8rR1Jq7ZkseN5qmdegL1h
+ Pf4BHlIPdyc/YqLZ5Y7J8Pp74NPLprbcPLXyF9lY28f+0Qrl5KzvYuliOqQWRYPJT9PgRMU7d
+ iRgZEyOEVnInOA1s9HcZlmF3Zrqvs7QnoIG4GcnmvrqYp3y+G6QY4hJDdN6Xb0Xog3aI+Q/l8
+ Jth98mjqtBfTG799RDx8UuR2otXPqm2TMfmxqylWZLRF/f6j5WhS64e6HdYcbkWV+bNluZf7u
+ bhAnwPM8S3vwHaCusNjF8AJbiLK/9hS/dyQp/eKebv1sYMPutwr4Wl/cVMY4w+kRKPTiJeFcL
+ l/hDSHgjH9OC+WaOGxw+LZD/GNhtmOXju4P31DucYX/QTbNZscNDGCqlg8u0xY0kHrjcFadKa
+ P5YkWaLAmCTx4Ur6fFQxmw5fDjPngO2aT4wopLW9UcHjged4qNLU1X5Xl7cOKPMypT9Plfa2E
+ yeUfdpC1yG2aJlDh8PNncM0LREg+rM6/kyxbktyAmooA7W2u81wiPgnTsBtU+hHSwCZ0lDqgQ
+ 2uGaS+Z+4nxgcYCZFI6a4fWS5u8LD9YCQOc7ydoVptABp3PoDLBcVJG5jTwS74Rr0zEYNGmxT
+ p0RB07MfAH+zqMIOAC6aLeEYQNAXQRAr3LQD7O//ycbnxRfLkX++AnIt0OhIEHq1Xp1suKQra
+ 1BjFYCxANmC1qcSBih9AuoqFvw8Mp6uEbUTxByaVzsYOWeRRf2jsrPjfjBJX/Bf/8uGa0LJpW
+ E8grlNNT/Qf4XDmatf+Pudp2Tv5M/NCtFZlv7pFAXdG9gxaglQkjxcHIa3Z+nDuG5aTRjhwcQ
+ mQlVe4IpStd4mMEeoBoqE4sQFVM7n6r18YegIgQV4f+9rRF+U8DycsQKcBEniu13ffXzUH3e8
+ QYeNRogiPCk8hVJqOHMBW4VFTILFGdT0uXdd88hLTdK7ibA+/QqCZsR/l82oo/NLxmoHxJpZa
+ kGKRr0Ec93XPwTxbU/qDFvip8LnyVNeGNc4Mt4x4Pvi3I+z716Ofg2Kw0SpgtjcSjAODB8Td7
+ vGrOKQSXxamVfY0YjM+Vw6J9u7Ffd0gDDiSBHRf3vmzXuq6TntBfIcfL4KFMUer/TVsNytDXS
+ 9h/VnmyHaGjc9NPQUk5Na/pVd7DKNouLU8z96d4PANmIjPOUo7
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttp://www.emeraldinsight.com/doi/=
+abs/10.1108/IJPH-10-2013-0046&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm3cC=
+FCqZuNuROsNUk5Qt7-gE1w7tA&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D=
+3 color=3D#1a0dab style=3D"text-decoration:underline">Influence of offence =
+type and prior imprisonment on risk of death following release from prison:=
+ a whole-population <b>linked data </b>study</font></a></h3><div><font size=
+=3D2 color=3D#006621>KA Jama-Alol, E Malacova, A Ferrante, J Alan&hellip; -=
+ International Journal of  &hellip;, 2015</font></div><div><font size=3D2 c=
+olor=3D#222222>Purpose To examine the influence of offence type, prior impr=
+isonment and various socio-<br>demographic characteristics on mortality at =
+28 and 365 days following prison release. <br>Design/methodology/approach U=
+sing whole-population linked, routinely-collected <b> ...</b></font></div><=
+br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5=
+em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"http://scholar.g=
+oogle.de/scholar_url?url=3Dhttp://eprints.soton.ac.uk/375541/2/Linked%2520D=
+ata-Driven%2520Decision%2520Support%2520for%2520Accessible%2520Travelling_C=
+RV.pdf&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm2lchadgwdc3Lq9M5xhll2Dhoyx=
+kg&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=
+=3D"text-decoration:underline"><b>Linked data</b>-driven decision support f=
+or accessible travelling</font></a></h3><div><font size=3D2 color=3D#006621=
+>C Ding, M Wald, G Wills - 2015</font></div><div><font size=3D2 color=3D#22=
+2222>ABSTRACT With the aim of addressing the gap between users&#39; needs o=
+f accessible <br>travelling and complex environmental barriers of physical =
+places in the real world, this paper <br>summarizes the research of investi=
+gating the use of <b>Linked Data </b>principles for enhanced <b> ...</b></f=
+ont></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;max=
+-width:44.5em"><font size=3D2 color=3D#1a0dab>[HTML]</font> <a href=3D"http=
+://scholar.google.de/scholar_url?url=3Dhttp://ije.oxfordjournals.org/conten=
+t/early/2015/04/08/ije.dyv035.short&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAG=
+Bfm0rkPGHUU0kXlnts37GUz18_vFo7A&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font s=
+ize=3D3 color=3D#1a0dab style=3D"text-decoration:underline">Using linked ed=
+ucational attainment data to reduce bias due to missing outcome data in est=
+imates of the association between the duration of breastfeeding and IQ at  =
+&hellip;</font></a></h3><div><font size=3D2 color=3D#006621>RP Cornish, K T=
+illing, A Boyd, A Davies, J Macleod - International Journal of  &hellip;, 2=
+015</font></div><div><font size=3D2 color=3D#222222><b>...</b> They found t=
+hat when the follow-up measurements were MNAR, MI incorporating<br>
+the <b>linked</b> <b>data</b> reduced=E2=80=94but did not eliminate=E2=80=
+=94bias in blood pressure<br>
+measurements. They did not examine exposure-outcome associations. <b>...</b=
+>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttp://arxiv.org/pdf/1504.01987&am=
+p;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm3DFz8GGbAnQ6daOoNYgwqxAVoP4g&amp;no=
+ssl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-=
+decoration:underline">Designing a <b>Linked Data </b>Migrational Framework =
+for Singapore Government Datasets</font></a></h3><div><font size=3D2 color=
+=3D#006621>AS Raamkumar, MK Thangavelu - arXiv preprint arXiv:1504.01987, 2=
+015</font></div><div><font size=3D2 color=3D#222222>Abstract: The subject a=
+rea of this report is <b>Linked Data </b>and its application to the Governm=
+ent <br>domain. <b>Linked Data </b>is an alternative method of data represe=
+ntation that aims to interlink <br>data from varied sources through relatio=
+nships. Governments around the world have <b> ...</b></font></div><br><h3 s=
+tyle=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em"><fon=
+t size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"http://scholar.google.de=
+/scholar_url?url=3Dhttp://speroni.web.cs.unibo.it/publications/reforgiato-r=
+ecupero-in-press-extracting-knowledge-from.pdf&amp;hl=3Dde&amp;sa=3DX&amp;s=
+cisig=3DAAGBfm0xZ3kMtrDz6UE5lrGVZgFr3MF_VQ&amp;nossl=3D1&amp;oi=3Dscholaral=
+rt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:underline">Extr=
+acting knowledge from text using SHELDON, a Semantic Holistic framEwork for=
+ LinkeD ONtology data</font></a></h3><div><font size=3D2 color=3D#006621>DR=
+ Recupero, AG Nuzzolese, S Consoli, V Presutti&hellip;</font></div><div><fo=
+nt size=3D2 color=3D#222222><b>...</b> It extracts RDF data from text using=
+ a machine reader: the extracted RDF graphs are compliant<br>
+to Semantic Web and <b>Linked</b> <b>Data</b>. <b>...</b> A demo of SHELDON=
+ can be seen and used at<br>
+http://wit.istc.cnr. it/stlab-tools/sheldon. Keywords Semantic Web; Machine=
+ Reading; <b>Linked</b> <b>Data</b> <b>...</b>=20
+</font></div><br><p><hr noshade size=3D1><font size=3D2 color=3D#222222>Die=
+ser Google Scholar-Alert wird Ihnen von Google zur Verf=C3=BCgung gestellt.=
+<br><br><a href=3D"http://scholar.google.de/scholar_alerts?view_op=3Dcancel=
+_alert_options&amp;email_for_op=3Derictessenow%40web.de&amp;alert_id=3DAIfe=
+vv3NkPcJ&amp;hl=3Dde"><font color=3D#1a0dab>Alert stornieren</font></a><br>=
+</font></div></body></html>

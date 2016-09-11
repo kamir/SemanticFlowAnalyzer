@@ -1,0 +1,154 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.112.221.138 with SMTP id qe10csp238588lbc;
+        Wed, 13 Aug 2014 23:17:41 -0700 (PDT)
+X-Received: by 10.153.6.39 with SMTP id cr7mr2494460lad.66.1407997057521;
+        Wed, 13 Aug 2014 23:17:37 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3NUvsUxUKDCIQAFMJ8P8JCPRQ-LMPCNJWEMMEJC.AMKCPGARCQQCLMUUC9.BC@scholar-alerts.bounces.google.com designates 209.85.192.201 as permitted sender) smtp.mail=3NUvsUxUKDCIQAFMJ8P8JCPRQ-LMPCNJWEMMEJC.AMKCPGARCQQCLMUUC9.BC@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3NUvsUxUKDCIQAFMJ8P8JCPRQ-LMPCNJWEMMEJC.AMKCPGARCQQCLMUUC9.BC@scholar-alerts.bounces.google.com designates 209.85.192.201 as permitted sender) client-ip=209.85.192.201;
+Received: by 10.112.34.235 with POP3 id c11mf376024lbj.30;
+        Wed, 13 Aug 2014 23:17:37 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3NUvsUxUKDCIQAFMJ8P8JCPRQ-LMPCNJWEMMEJC.AMKCPGARCQQCLMUUC9.BC@scholar-alerts.bounces.google.com
+Received: from mail-pd0-f201.google.com ([209.85.192.201]) by mx-ha.web.de
+ (mxweb102) with ESMTPS (Nemesis) id 0MFufq-1XCuAa3i2Y-00EvOX for
+ <erictessenow@web.de>; Thu, 14 Aug 2014 07:37:59 +0200
+Received: by mail-pd0-f201.google.com with SMTP id g10so215460pdj.2
+        for <erictessenow@web.de>; Wed, 13 Aug 2014 22:37:57 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=zEh6SdZsHTxcJUcjvrn0Fzoeg20kDz+iR74gzPJlAAI=;
+        b=V/i0y048Ih3YI1XBkyiZYghNZia3wDaHGHzRO85RuC1ZjfqKCs/gX+kCGkkF9NlkXz
+         GSi3JD/tPh0JvdprtfgSXNyebN+CX4pe1CouJDM9xBT98yTfiHstbxfRu72b5sGXnAA6
+         iPQ7ier0KeArRn/vyZ15MxmXSE1xaB/vNrrFQyVvomJl6wrDj0sK4UU9IKZ6AZi9VmRx
+         CiAeVqP+mhk+YftOOpPI1RyLTWQHbAc0oK/6DWJqSDg1CsDokzvSfZBmCfsxHHlPR54t
+         PeHVkYrLCWcxaUcK24mP6OnTfDi/X2WbELfAKMGOr8wDOC9/BrNPFicPktEWLMkbGzIQ
+         HFhw==
+MIME-Version: 1.0
+X-Received: by 10.66.241.104 with SMTP id wh8mr4834044pac.33.1407994677279;
+ Wed, 13 Aug 2014 22:37:57 -0700 (PDT)
+Message-ID: <047d7b111b5995bd460500904ef7@google.com>
+Date: Thu, 14 Aug 2014 05:37:57 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:caTWO78plXA=:L6bxufRUIme4CFFQg2HN4NnPjW
+ opcTw/dnC0XN8VnuEY1AMF8kwyxtHVlJGfxbA5eGzmuEj3Zyb29mXK1rBRem2EwfpoPwhaMTP
+ nYN9Lx7beIwqgN4fr+OdfOuo4QJWOAzCU6Kmme9KP1k2Q6Gv6HM+uJTArY97zP3L8oTRaYTsf
+ CawFwoAR+OoXpYqLKIlYZDIW/rloAqDjMGYMfOXhhz4H3m6Pb1bNA5pfeF8lPHm6DRtodUlRv
+ 0TxgwQgEgSuzq94IIeUD8KU7Sw0UQl9P5Czp1qO4qIIbPnzJIwJ+Lvwj7YUn/Uy9bIFvWK3hS
+ ONSETaChDJe5jQzgz7ytcLPCWq/W4g1sRJ0n+DrZNGEuLGTl07jT7nCnfDtNx1lHNpYsy6IKr
+ 6CNWUBSAyhwXP0GKh10XAEWkb9lm9L/2WekO+EbzZqmMY74iXDhESa3/vTh8KzDvtXRwpiKqo
+ SNokvX3rhBCMwZAmPlSFh7mI8RAD+qrJCQESvxXsOtzOiQ2tbAtDLqCg76FG3ojWrT57mOQ1W
+ Mb5PsQXMZYghh/dEerdPL6Ypl9oCNLIDCqDOtJFB0mCPPpSkUQAcUBfRwZysi1qdpKu0UnU+3
+ dbcWy6ilcG07CujKZdypxEl7ev98XvhwHNEsC+hzj+9YuOlBkrRgOzuBvFgoRWPKrxevY6ggk
+ 60vo+xYswvvahT+U/SPixyZQuv6LpxPqvbeB4uYwtqIRCQYIKWvPLGI/dRdodqQAEwoaYjlRR
+ MEzMErRo640O/flDltRjwbvWEcnk9yHtuvQ+uLZ2DaoZxgaNaYJ1GrYKMAuR+EyhQj1BA73+d
+ m2iq9U1+Wapqu/gA4rqlCMmbA6EcBt1+OqRwWZj94cggKi6x0Ip73CZydILggpxLuLOdIlys+
+ K34B6+PHIGZMjZjSpnTFrUtJI6AGaI0rvotthysOBazQGw5o4v/JT2M+Zw4MXoru32LG1sU6L
+ JOICV/m/eukxGlfw9S3nc7B01ypzL/FE0RXlp0yDlnUIec/Bw1vSrZEx04nWdSRJNLHMzp0ED
+ NZdMTaOQj4oLUSJu8wquTKbooGPy3fQ4RgrQOQVc41yFY9wgSVMtVT8bMvz/XIzDZG8v4lqOi
+ Py8ERkNZvg5wi4q/91twzHJDrIZ4ltZn+aMmFZikZZLLuow4wnd8KcQR1hFhokYOEXsb9wqBd
+ Klob4F2cjMQJCPAjLsmIm6VXNOa3k1opDM7IDkPbnCfDObB5tbL+gjg6Wa3VlL9veJgwjyArM
+ 4pRaCHW1rYHbH29UIkPvbuisriY+CAzrPZzU9UaWq9BteqYJyuXZrIRf+S/+FYRaIj2qYHy2X
+ NsTLBMfmd/NUzUDjNbFygylqXhXvk7v5F8F8ceAqBmC62mLA6spD9ZCnE3RF7EBoSCkbM+P6H
+ U/kphbUyTonbAub2LFcB+77HHSuCLW82JQQoizq2hq4A4GgK2h6fb8DLvxqJVrUKNSnjlo4af
+ sL551Qh8dvG1LPJuPoaXNDrhk078wjfC0/RjOXQdC+WxVmDGgg
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://books.google.de/b=
+ooks%3Fhl%3Dde%26lr%3D%26id%3DEVMqBAAAQBAJ%26oi%3Dfnd%26pg%3DPA65%26dq%3D%2=
+522linked%2BData%2522%26ots%3DzZdI2i3vit%26sig%3Diodw3Zsj3iJA0mja-D_vN7j1Cn=
+U&amp;sa=3DX&amp;scisig=3DAAGBfm1rdRYXFvHbMcS5F-AwLLPNrVNGlQ&amp;oi=3Dschol=
+aralrt"><font size=3D3 color=3D#1122cc style=3D"text-decoration:underline">=
+Linked Logainm: Enhancing Library Metadata Using <b>Linked Data </b>of Iris=
+h Place Names</font></a></h3><div><font size=3D2 color=3D#009933>BO Raghall=
+aigh, EO Carrag=C3=A1in, S Collins, S Decker - Theory and Practice of Digit=
+al  &hellip;, 2014</font></div><div><font size=3D2 color=3D#222222>Abstract=
+. Linked Logainm is the newly created <b>Linked Data </b>version of Logainm=
+. ie, an online <br>database holding the authoritative hierarchical list of=
+ Irish and English language place <br>names in Ireland. As a use case to de=
+monstrate the benefit of <b>Linked Data </b>to the library <b> ...</b></fon=
+t></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;max-w=
+idth:44.5em"><font size=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"http://=
+scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://ifla2014-satdata.bnf.f=
+r/pdf/iflalld2014_submission_Charles_Freire_Isaac.pdf&amp;sa=3DX&amp;scisig=
+=3DAAGBfm1Lo7CiJOTl__2JAbP2_Zr982B35w&amp;oi=3Dscholaralrt"><font size=3D3 =
+color=3D#1122cc style=3D"text-decoration:underline">Links, languages and se=
+mantics: <b>linked data </b>approaches in The European Library and European=
+a.</font></a></h3><div><font size=3D2 color=3D#009933>V Charles, N Freire, =
+A Isaac - 2014</font></div><div><font size=3D2 color=3D#222222>Abstract: Th=
+e European Library and Europeana have both an extensive experience in <br>a=
+ggregating metadata for bibliographical records or digital resources from t=
+he cultural <br>heritage institutions of Europe. For both of them meeting t=
+he challenges offered by <b> ...</b></font></div><br><h3 style=3D"font-weig=
+ht:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"http://sch=
+olar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://ruben.verborgh.org/public=
+ations/verborgh_iswc_demo_2014/&amp;sa=3DX&amp;scisig=3DAAGBfm1GyBfXF9QvbFT=
+G3mwaVOLnNOoefg&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=
+=3D"text-decoration:underline">Low-Cost Queryable <b>Linked Data </b>throug=
+h Triple Pattern Fragments</font></a></h3><div><font size=3D2 color=3D#0099=
+33>R Verborgh, O Hartig, B De Meester, G Haesendonck&hellip; - Proceedings =
+of the 13th  &hellip;, 2014</font></div><div><font size=3D2 color=3D#222222=
+>For publishers of Linked Open Data, providing queryable access to their da=
+taset is costly. <br>Those that offer a public SPARQL end-point often have =
+to sacrifice high availability; others <br>merely provide non-queryable mea=
+ns of access such as data dumps. We have developed <b> ...</b></font></div>=
+<br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.=
+5em"><font size=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"http://scholar.=
+google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://ifla2014-satdata.bnf.fr/pdf/if=
+lalld2014_submission_Courtin_Minel.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm3tMO2y=
+aadTW3lr6LaUxOqZYZVCpQ&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc=
+ style=3D"text-decoration:underline">Methodological Proposals for Designing=
+ Federative Platforms in Cultural Linked Open Data: the exemple of ModRef</=
+font></a></h3><div><font size=3D2 color=3D#009933>A Courtin, JL Minel - 201=
+4</font></div><div><font size=3D2 color=3D#222222><b>...</b> Abstract: As p=
+art of the on-going Labex project =E2=80=9CPast in the present=E2=80=9D, ou=
+r proposal aims at<br>
+highlighting the organizational issues of <b>linked</b> <b>data</b> project=
+s that have to deal with<br>
+pluri-institutional contexts, among which libraries. First, we will discuss=
+ what is at stake. <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://labra.github.io/S=
+hExcala/papers/ldq2014.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm1DgfizB5jdc7GHUXZM=
+YKoEdtazwQ&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D"te=
+xt-decoration:underline">Validating and Describing <b>Linked Data </b>Porta=
+ls using RDF Shape Expressions</font></a></h3><div><font size=3D2 color=3D#=
+009933>JEL Gayo, E Prud&#39;hommeaux, H Solbrig&hellip;</font></div><div><f=
+ont size=3D2 color=3D#222222>Page 1. Validating and Describing <b>Linked</b=
+> <b>Data</b> Portals using RDF Shape Expressions <b>...</b><br>
+ABSTRACT In order to improve the quality of <b>linked</b> <b>data</b> porta=
+ls, it is necessary to have a<br>
+tool that can automatically describe and validate the RDF triples exposed. =
+<b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://www.albertmeronyo=
+.org/wp-content/uploads/2014/08/semstats2014_submission_4_A.pdf&amp;sa=3DX&=
+amp;scisig=3DAAGBfm0zpoIYdtlvpKxNoxpjChHY_Zm9JA&amp;oi=3Dscholaralrt"><font=
+ size=3D3 color=3D#1122cc style=3D"text-decoration:underline">From Flat Lis=
+ts to Taxonomies: Bottom-up Concept Scheme Generation in Linked Statistical=
+ Data</font></a></h3><div><font size=3D2 color=3D#009933>A Mero=C3=B1o-Pe=
+=C3=B1uela, A Ashkpour, C Gu=C3=A9ret</font></div><div><font size=3D2 color=
+=3D#222222><b>...</b> Unfortunately, there is hardly any tool support avail=
+able for conducting this standardization:<br>
+(a) in a purely <b>Linked</b> <b>Data</b> setting; and (b) standardizing va=
+lues after their publication as<br>
+LOD in order to preserve both orig- inal and standard values. <b>...</b>=20
+</font></div><br><p><hr noshade size=3D1><font size=3D2 color=3D#222222>Die=
+ser Google Scholar-Alert wird Ihnen von Google zur Verf=C3=BCgung gestellt.=
+<br><br><a href=3D"http://scholar.google.de/scholar_alerts?view_op=3Dcancel=
+_alert_options&amp;email_for_op=3Derictessenow%40web.de&amp;alert_id=3DAIfe=
+vv3NkPcJ&amp;hl=3Dde"><font color=3D#1122cc>Alert stornieren</font></a><br>=
+</font></div></body></html>

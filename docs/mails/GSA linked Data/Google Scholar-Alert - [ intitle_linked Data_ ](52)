@@ -1,0 +1,120 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.55.19.134 with SMTP id 6csp1793302qkt;
+        Mon, 30 Nov 2015 21:46:25 -0800 (PST)
+X-Received: by 10.141.4.67 with SMTP id g64mr14605467qhd.34.1448948782766;
+        Mon, 30 Nov 2015 21:46:22 -0800 (PST)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3NiBdVhUKDKMVFKRODUDOHUWV-QRUHSObJRRJOH.FRPHULFWHVVHQRZZHE.GH@scholar-alerts.bounces.google.com designates 209.85.223.202 as permitted sender) smtp.mailfrom=3NiBdVhUKDKMVFKRODUDOHUWV-QRUHSObJRRJOH.FRPHULFWHVVHQRZZHE.GH@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3NiBdVhUKDKMVFKRODUDOHUWV-QRUHSObJRRJOH.FRPHULFWHVVHQRZZHE.GH@scholar-alerts.bounces.google.com designates 209.85.223.202 as permitted sender) client-ip=209.85.223.202;
+Received: by 10.55.190.3 with POP3 id o3mf28539941qkf.1;
+        Mon, 30 Nov 2015 21:46:22 -0800 (PST)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: <3NiBdVhUKDKMVFKRODUDOHUWV-QRUHSObJRRJOH.FRPHULFWHVVHQRZZHE.GH@scholar-alerts.bounces.google.com>
+Received: from mail-io0-f202.google.com ([209.85.223.202]) by mx-ha.web.de
+ (mxweb009) with ESMTPS (Nemesis) id 0Lu27S-1aTe8M0CBC-011OyX for
+ <erictessenow@web.de>; Tue, 01 Dec 2015 05:21:12 +0100
+Received: by ioc74 with SMTP id 74so14622917ioc.1
+        for <erictessenow@web.de>; Mon, 30 Nov 2015 20:21:10 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=FzysCoVFB1i4PQ48Mdc2hslj7a778JlkB/bF3OJ3oSc=;
+        b=Jx9rj8IjfVXAwXxEgeHHTqv2ynCQbSlE7c4wDuIcNygc72wRj4mkARo1Hi/mpGyEu5
+         vheFXRiqwrLoLjKfGJxJH0PcllaNzRUd0Qw1t8o5VI+NtwYi09MeyFRcMMdGc0P3f/Uz
+         KrAv4OPb7trLEXKA/Y8Hkq5XKOxtbk0bOHZ27pv7xdaqT12yPuWLqDRZ/raIMIsXXwLh
+         m5GhjAQyQVO+uJcEUxsdQVuFFzAuBPSzrIXpI2A6BuLBT17RdNi3UFOBKpKyxK7YNFvB
+         UGwZ0MkD9VlPm901l/YkkP75sZppZaiQDISfyos1hHq4p1Zog7cVD9wsakhgkFoK01gf
+         sywQ==
+MIME-Version: 1.0
+X-Received: by 10.107.33.135 with SMTP id h129mr59853378ioh.12.1448943670830;
+ Mon, 30 Nov 2015 20:21:10 -0800 (PST)
+Message-ID: <001a1140f5e8cca68b0525ce7c05@google.com>
+Date: Tue, 01 Dec 2015 04:21:10 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:aUDAwvR0lCU=:lyS/gBqdBtVVTqVc8lmrUVVUuM
+ 4e2eTWECPIR9Fs5J+gqY0chW5JIF9PL/SbOFh6l5X96e11V+Xxkw0L/heeOiMCRvL/EZAgvkW
+ i8vJbO1KVskh21FmhyEoSJLVjtiR3cL0yP7vV1VKmaKRBfGgipQKyElccWjF8UOHSfmHtRFLl
+ M9YK4dDuUGZYLeHrrlNld3sGaR0aA3n+J3SQkjzf6ML6gmwm/Jz/sBGhgFxrf5rKi8VVud4D7
+ KiHuujFZDHtPQdE4Z4yF66KpjJI8WNnubl00E8XyARsN0n9I43FY3sfkzZYLuE84VrzruSjBm
+ 6hxvuyFy5vPWuUvt28z2wpduT2NdrTHwyr4BhnoUVBE0bwqmSqO3hGKF0dfs97OSSK/7+UvJX
+ iJA1tykROlpbFZp1fg6YrcyTjfA4blA94vTFsBu2g8HYE6UsduPnuUBlemSjz8A8n7iCACgqZ
+ WVgHcU0xywAAm+1dEdNi08IRXyETOPN6+KhRPDYPjVMIbDP9kl5MEsek3KUQUFOAXbdU8y1OA
+ +Svn0XZHCysaFTtCBuxmRO9ypu+kaCgKe50O6chqs+68ZFKJMf5b0fNwnXYRU69y9hRsL52Vs
+ zy8RkEhpnl89Pt5MSSvhlmEsfeppA+uvhsqkLaHJXuBkWfzijywQn40yzbPtymf4pE5VffRRF
+ GX+2exFbp7sA1fGuyVaWeIMenQ1Vx1K88ZjGUpnzCewBYDnVeCagT2WOUAgr7PtMNgeKRnJM2
+ 6Pfzl+aLVpeZdzRAFLIA/aCkYrCLnR5pU84SGPfZhTe2VEzU9uPhF8VDwt/w3xHYrrr2Dd9ru
+ rz45dIowCZk3EntQTjvrhWFGzA9eKDzyh+3EWcxBrXBXRdB6PufDChuLRptQTLXio0AMtQsjY
+ 7kOsrX8FviJb2Fk0IPCRXqm05KKIHLK4c6IMpAsptunQ4ip0dgQxXrrvGyTwJPQpG+e4YReMR
+ y2hlGbOKw5Q59kvuqXBDRTS6jgnJERXZTA2MWmwvaRTQYKppX1ct8xUwomaR3xeNfvxT4GszJ
+ Wo4p5qeR0A9Huwcs/CZgxCk5kQ8S9/qxGnAeefuVgWir6bkXW58EskhQm/e5JnBvtgLLT/GBt
+ zC5uzXuzms/9HzK9vqL7mp80LOvcboRSAA3FofviEx8W0uEFOmw0u1dDj2hMkvMoWf4tDdUd2
+ ng5WiC/CNBybM36CllCJ/FzAZuhDo9hI6CHrgbfnW7iVyZArcm7N5clKwVS2ej4l37Cn6CfpC
+ 1SO4jUfaVJEWvbUvuyvuVbqxnOx5gFOGhLve/YwyHwOJBIcI6YJJRjQFOBwbrBdiZ3vmdOOPo
+ B1JUwEYyaBs+BEkGDTjNqSnQGrZfcgfTKnBfJXRg32aTRUE=
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttps://kuscholarworks.ku.edu/hand=
+le/1808/18986&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm3xD30S9Y8WsNONT_qrn=
+HA86CXqPg&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0da=
+b style=3D"text-decoration:underline">Using <b>linked data </b>and the Worl=
+dCat Discovery API to surface timely holdings</font></a></h3><div><font siz=
+e=3D2 color=3D#006621>S Hanrath - 2015</font></div><div><font size=3D2 colo=
+r=3D#222222>DAPI Diem is an exploratory tool developed during OCLC&#39;s De=
+veloper House event in <br>December 2014 that attempts to highlight library=
+ holdings relevant for a given day. The tool <br>queries the <b>linked data=
+ </b>source DBpedia using SPARQL to discover entities with a <b> ...</b></f=
+ont></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;max=
+-width:44.5em"><a href=3D"http://scholar.google.de/scholar_url?url=3Dhttps:=
+//repositori.udl.cat/handle/10459.1/49078&amp;hl=3Dde&amp;sa=3DX&amp;scisig=
+=3DAAGBfm3xFmz8UZSJ3INJ9QGHfLF-gxs3TA&amp;nossl=3D1&amp;oi=3Dscholaralrt"><=
+font size=3D3 color=3D#1a0dab style=3D"text-decoration:underline">Developin=
+g a board game recommender engine using <b>Linked Data</b></font></a></h3><=
+div><font size=3D2 color=3D#006621>D Castell=C3=A0 Ponsarnau - 2015</font><=
+/div><div><font size=3D2 color=3D#222222>Abstract L&#39;objectiu principal =
+del treball =C3=A9s la familiaritzaci=C3=B3 amb eines de programaci=C3=B3 d=
+&#39;alt <br>nivell, l&#39;aprententatge de t=C3=A8cniques i conceptes que =
+rodegen els paradigmes de la web <br>sem=C3=A0ntica i <b>linked data </b>i =
+tamb=C3=A9 la implementaci=C3=B3 d&#39;un motor de recomanaci=C3=B3, que en=
+traria <b> ...</b></font></div><br><h3 style=3D"font-weight:normal;margin:0=
+;font-size:medium;max-width:44.5em"><a href=3D"http://scholar.google.de/sch=
+olar_url?url=3Dhttp://www.emeraldinsight.com/doi/abs/10.1108/S0732-06712015=
+0000034011&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm1kzdqCHU6rWgAw6nJh-Ep5=
+Po9-zg&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab s=
+tyle=3D"text-decoration:underline">Planning for <b>Linked Data</b>: Recruit=
+ment, Training, and Workflow Design for Resource Description and Metadata M=
+anagement</font></a></h3><div><font size=3D2 color=3D#006621>OD Allison Jai=
+ - Library Staffing for the Future (Advances in Library  &hellip;, 2015</fo=
+nt></div><div><font size=3D2 color=3D#222222>ABSTRACT This chapter helps us=
+ to understand the staffing and workflow ramifications of <br><b>Linked Dat=
+a</b>. A survey of the current state of metadata work, compared to the poss=
+ibilities <br>and intentions of <b>Linked Data </b>modeling and technology,=
+ allows us to make a needs <b> ...</b></font></div><br><h3 style=3D"font-we=
+ight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D2 colo=
+r=3D#1a0dab>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_url?ur=
+l=3Dhttp://seco.cs.aalto.fi/publications/submitted/hyvonen-et-al-warsampo.p=
+df&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm1dCYDMHXygnsbviKx1cORgkSmRVw&a=
+mp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"=
+text-decoration:underline">Publishing Second World War History as <b>Linked=
+ Data </b>Events on the Semantic Web</font></a></h3><div><font size=3D2 col=
+or=3D#006621>E Hyv=C3=B6nen, E Heino, P Leskinen, E Ikkala, M Koho&hellip;<=
+/font></div><div><font size=3D2 color=3D#222222>Abstract. Data about wars i=
+s typically heterogeneous, distributed in the data silos of the <br>fightin=
+g parties, multilingual, and often controversial depending on the political=
+ point of view. <br>It is therefore hard for the historians to get a global=
+ picture of what has actually happened, <b> ...</b></font></div><br><p><hr =
+noshade size=3D1><font size=3D2 color=3D#222222>Dieser Google Scholar-Alert=
+ wird Ihnen von Google zur Verf=C3=BCgung gestellt.<br><br><a href=3D"http:=
+//scholar.google.de/scholar_alerts?view_op=3Dcancel_alert_options&amp;email=
+_for_op=3Derictessenow%40web.de&amp;alert_id=3DAIfevv3NkPcJ&amp;hl=3Dde"><f=
+ont color=3D#1a0dab>Alert stornieren</font></a><br></font></div></body></ht=
+ml>

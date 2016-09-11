@@ -1,0 +1,166 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.182.128.163 with SMTP id np3csp2579976obb;
+        Tue, 22 Dec 2015 10:18:11 -0800 (PST)
+X-Received: by 10.60.70.236 with SMTP id p12mr12085335oeu.55.1450808285615;
+        Tue, 22 Dec 2015 10:18:05 -0800 (PST)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3CJB5VhUKDMc5pu1yn4nyr465-014r2yBt11tyr.p1zr4vp6r55r0199ro.qr@scholar-alerts.bounces.google.com designates 209.85.192.208 as permitted sender) smtp.mailfrom=3CJB5VhUKDMc5pu1yn4nyr465-014r2yBt11tyr.p1zr4vp6r55r0199ro.qr@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3CJB5VhUKDMc5pu1yn4nyr465-014r2yBt11tyr.p1zr4vp6r55r0199ro.qr@scholar-alerts.bounces.google.com designates 209.85.192.208 as permitted sender) client-ip=209.85.192.208;
+Received: by 10.182.157.39 with POP3 id wj7mf13168004obb.1;
+        Tue, 22 Dec 2015 10:18:05 -0800 (PST)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: <3CJB5VhUKDMc5pu1yn4nyr465-014r2yBt11tyr.p1zr4vp6r55r0199ro.qr@scholar-alerts.bounces.google.com>
+Received: from mail-pf0-f208.google.com ([209.85.192.208]) by mx-ha.web.de
+ (mxweb103) with ESMTPS (Nemesis) id 0LbtA8-1acq3q1KI0-00jMPH for
+ <erictessenow@web.de>; Tue, 22 Dec 2015 19:01:46 +0100
+Received: by mail-pf0-f208.google.com with SMTP id e65so89557pfe.3
+        for <erictessenow@web.de>; Tue, 22 Dec 2015 10:01:46 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=esHau4ikpBet082A+3s6pu7B/FU3v4S9towsC0sEUN0=;
+        b=egXGzY0nxkWdch2HPtlfeEuzlcHhDf0U/VaZkZn6Agul4PmQqPc3zFxUr1wx9Wp/A3
+         4Jcc5uqgPTdpuRO6Jy91XaM5YcdKSlRgc5akDXXTS60+E16ONULWC9gJxldMMUdyvtL5
+         b2jHxJmpLQRgf/ULHpcMRVd2GHtSqNuurOTVFwfN+aKSMJ1KTauD9PnnQkbQnaUiMPOg
+         J8BoGHdFsEK7ctO0cL23PsgbuydZsI8Psl+l9zQ/TiuHQmKF1L5HWnpGixpNX/p5+TRp
+         5ADWzIOYXz9sWm8frtommq7JX6G2TZH87IU+zeTdyTB3YGAlb6TWT88mSbQaJHqgggjo
+         aeTQ==
+MIME-Version: 1.0
+X-Received: by 10.66.216.74 with SMTP id oo10mr21746996pac.43.1450807304855;
+ Tue, 22 Dec 2015 10:01:44 -0800 (PST)
+Message-ID: <047d7b418afd0b1f3305278066db@google.com>
+Date: Tue, 22 Dec 2015 18:01:44 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:PwATGGOUmq8=:8iTVIKJLAxLQ/MgIg8kHbMABm6
+ R8PzhP8NLNHFb/0E/tTmjkf7KUHXcd6LWDlAA9lEw1VLDr6KMQ4OGvZKsygjmaitSCvd6bxF0
+ 0HYzEonoV4BSpZhntrsLEX8pa6WgGc24lFZaF+41j+pXNmfxVqtcODoAJUH+gFqDfbKqN+Kqc
+ oke4lIcFeOjVDr5vf70NKWCMoCN/p3FUiB6hy6SPHYIgC79Si7rdtagYys70JL0qKV0yeLZXb
+ 2xDt/GXlBTgggPT6ZV7pcAZWOFT13jFBPSBTaoFKL7ecTZUjRip7cxqRCFTreCRMW5o0R7uti
+ iWs8e8vzVUplx6kSFnFVCFSct+muW1zQhNNjJ/eA6qhTv5tsBSNz6yEQLG0/3HdW4pVQuD/P2
+ xAYTePg5scEf+tfi97Noa6Iq4FYdEHBeqer8lAOkUxMPVaTB3IFz4MRxBhyowI4/sY51Ck1v1
+ 0wG0MrMmB/kOnrdDBDkjpMTl4J3VqmqN+YWE0esYYuR2s/zx5tXuFTZc4sp/tW39nmcneHKC5
+ N/FdmAMl7Rg60t2miffhB40NbM66y0fuuk+apzA86xLfr71yc7qhP3//94Hm5feJtz54kRvF9
+ /v1fIArbnE386tyZzRvH2DzYHuz0Of7xtQkTUWfWBIiuYj+X93cQUg7aWIo2j/bxiQOWX0/ED
+ 8MCavX2okHLHaC75zWcJeiVKiHa4rVK1vC5zbcsiOvmdiK7xBRNdB98q1RYlROfIVQ2FP/suG
+ LcaHkFQSDA9FlZQ3YQc2ZK/W061CBnhPyStUiAiMETeBCawZ1wEaoqbFT+9C+MxXr+XAYQPoD
+ AFosAMS+kjW8X2GC6Z62FdhEt+MdaCrVEFOxQ5LLzUU2EG74lUZvydX2SexBoSYS9LltEXlwD
+ 0qS8tSE3qHZl3qOBqTAxJWtsCB0+eXUkZILaAsB3S9GfGDWdyafOu3wizb77/p7mRJpyjeSGP
+ nfdF2kk1CwNfR/ecJK2F4B98z8wRRzW+9sKNRQju4RG2J+1r5di+fEZg4b5iHK2LXwL0pJvhl
+ eYK0ywfUKrGDHWFhzLpdbVWYvW1jU4SY8V8MdUMHqu5sHCX8Cx9bJkWkYBaS99IID1GVXAA+j
+ PL6PMSkQaPLiWZCAv+TCfVyFAeE23n027HLF07Xbb6zGUlG2ss3G9lENLTSUiVVrZ/qkeUACL
+ OXCHfsOkWNrhzBbd6Ww/UxkeLWB/Qo0tjoa2X+G7c6l/tPEyAa2yXr5fA8XO7UzUdtRDSvNNq
+ A8FhaDUB5nplG17srW9QiPKwpu6/Vrs86DKRYQ1+AyJY8ZPm+/RMmGK63rkgIY60FJRKxmxtW
+ 4JFnZeHJm+eHGVjub6qIjpnpG6tt/+G0pmPaSun8igTfPPjMTsvIXwZBxaN5s26jgALY+k0QQ
+ /w60n9yB5OEvBeWosU5pA5rezcffdbmH7qzmDTCLpR6Wo3s+A2GFLHIiw8COc37nqiiMPCvLZ
+ 4zXGAqo1u6fIDeG9aaIt8YuQVv+whcXI1NgeXGpz3j/oRP07+gSgpoi/aWCx8EiRwwYPKcEau
+ rlTyIe1URAb80oJQvmyw=
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttp://link.springer.com/article/1=
+0.1007/s13218-015-0418-4&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm3svGozDH=
+qieT6NSNlw3fWwvEMynw&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 col=
+or=3D#1a0dab style=3D"text-decoration:underline">SEPAL: Schema Enhanced Pro=
+gramming for <b>Linked Data</b></font></a></h3><div><font size=3D2 color=3D=
+#006621>S Scheglmann, M Leinberger, T Gottron, S Staab&hellip; - KI-K=C3=BC=
+nstliche Intelligenz, 2015</font></div><div><font size=3D2 color=3D#222222>=
+Abstract The <b>linked data </b>cloud provides a large collection of interl=
+inked data and is <br>supposed to be seen as one, big data source. However,=
+ when developing applications <br>against this data source, it becomes appa=
+rent that different challenges arise in the various <b> ...</b></font></div=
+><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;max-width:44=
+.5em"><a href=3D"http://scholar.google.de/scholar_url?url=3Dhttp://ieeexplo=
+re.ieee.org/xpls/abs_all.jsp%3Farnumber%3D7347068&amp;hl=3Dde&amp;sa=3DX&am=
+p;scisig=3DAAGBfm0qY0Bhofkk3EKB1b0uyZEkfS7rxQ&amp;nossl=3D1&amp;oi=3Dschola=
+ralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:underline">D=
+ealing with family relationships in <b>linked data</b></font></a></h3><div>=
+<font size=3D2 color=3D#006621>N Herradi, F Hamdi, F Ghorbel, E Metais, N E=
+llouze&hellip; - &hellip;  Intelligence for Multimedia  &hellip;, 2015</fon=
+t></div><div><font size=3D2 color=3D#222222>ABSTRACT Many web resources req=
+uire an accurate representation of family relationships. <br>However, avail=
+able ontologies describing this kind of relationships provide only simple a=
+nd <br>rudimentary representations. In addition, the transition from one cu=
+lture/language to <b> ...</b></font></div><br><h3 style=3D"font-weight:norm=
+al;margin:0;font-size:medium;max-width:44.5em"><font size=3D2 color=3D#1a0d=
+ab>[HTML]</font> <a href=3D"http://scholar.google.de/scholar_url?url=3Dhttp=
+s://journals.ala.org/ltr/article/view/5892/7446&amp;hl=3Dde&amp;sa=3DX&amp;=
+scisig=3DAAGBfm3URMvMCpgS0YaRZ4YEymx8lb-b-Q&amp;nossl=3D1&amp;oi=3Dscholara=
+lrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:underline">. T=
+he Current State of <b>Linked Data </b>in Libraries, Archives, and Museums<=
+/font></a></h3><div><font size=3D2 color=3D#006621>ET Mitchell - Library Te=
+chnology Reports, 2015</font></div><div><font size=3D2 color=3D#222222>S in=
+ce the last issue of Library Technology Reports (LTR) on <b>Linked Data </b=
+>(LD) in July 2013, <br>the library, archive, and museum (LAM) communities =
+have put considerable work into <br>developing new LD tools, standards and =
+published vocabularies, as well as explored new <b> ...</b></font></div><br=
+><h3 style=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em=
+"><a href=3D"http://scholar.google.de/scholar_url?url=3Dhttp://www.scienced=
+irect.com/science/article/pii/S1570826815001419&amp;hl=3Dde&amp;sa=3DX&amp;=
+scisig=3DAAGBfm0LQ2zjNc1tEKmaBvBfYmYg6MlesQ&amp;nossl=3D1&amp;oi=3Dscholara=
+lrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:underline">Per=
+sonalized concept-based search on the Linked Open Data</font></a></h3><div>=
+<font size=3D2 color=3D#006621>M Sah, V Wade - Web Semantics: Science, Serv=
+ices and Agents on the  &hellip;, 2015</font></div><div><font size=3D2 colo=
+r=3D#222222><b>...</b> However, personalized search gained very little focu=
+s on the Semantic Web [15]. This could be<br>
+because of isolated and low volumes of metadata created in early <b>linked<=
+/b> <b>data</b> initiatives. As the<br>
+size of LOD increases, personalized search and interactions become more cru=
+cial. <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttp://arxiv.org/pdf/1512.05685&am=
+p;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm0YQ0_bvFAmNcwl1lg_MDHwPIROTA&amp;no=
+ssl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-=
+decoration:underline">TermPicker: Enabling the Reuse of Vocabulary Terms by=
+ Exploiting Data from the Linked Open Data Cloud-An Extended Technical Repo=
+rt</font></a></h3><div><font size=3D2 color=3D#006621>J Schaible, T Gottron=
+, A Scherp - arXiv preprint arXiv:1512.05685, 2015</font></div><div><font s=
+ize=3D2 color=3D#222222><b>...</b> Choosing too gen- eral vocabulary terms,=
+ or terms from vocabularies that are not used by<br>
+other LOD datasets, is likely to lead to a data representation, which will =
+be harder to<br>
+understand by humans and to be consumed by <b>Linked</b> <b>data</b> applic=
+ations. <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttp://delicias.dia.fi.upm.es/~vro=
+driguez/pdf/2015.12.aicol.pdf&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm0XU=
+VocZh12r9oFlA7YNOPIsvAwsg&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D=
+3 color=3D#1a0dab style=3D"text-decoration:underline">A <b>linked data </b>=
+terminology for copyright based on ontolex-lemon</font></a></h3><div><font =
+size=3D2 color=3D#006621>V RODRIGUEZ-DONCEL, A G=C3=93MEZ-P=C3=89REZ&hellip=
+;</font></div><div><font size=3D2 color=3D#222222>Abstract. Ontolex-lemon i=
+s the de facto standard to represent lexica relative to ontologies <br>and =
+it can be used to encode term banks as RDF. A multi-lingual, multijurisdict=
+ional term <br>bank of copyright-related concepts has been published as <b>=
+linked data </b>based on the <b> ...</b></font></div><br><h3 style=3D"font-=
+weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D2 co=
+lor=3D#1a0dab>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_url?=
+url=3Dhttp://ceur-ws.org/Vol-1529/paper7.pdf&amp;hl=3Dde&amp;sa=3DX&amp;sci=
+sig=3DAAGBfm1nQovnjmWolVb6GjKLN9yaXFqHiw&amp;nossl=3D1&amp;oi=3Dscholaralrt=
+"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:underline">Entity=
+-Centric Preservation for Linked Open Data: Use Cases, Requirements and Mod=
+els</font></a></h3><div><font size=3D2 color=3D#006621>E Demidova, T Risse,=
+ GB Tran, G Gossen</font></div><div><font size=3D2 color=3D#222222><b>...</=
+b> By using heuristics we can dynamically prioritize which links to follow =
+and limit the crawl to the<br>
+most relevant properties. Entity-centric crawling: Entities in <b>Linked</b=
+> <b>Data</b> Cloud can be retrieved<br>
+from SPARQL endpoints, through URI lookups or from data dumps [14]. <b>...<=
+/b>=20
+</font></div><br><p><hr noshade size=3D1><font size=3D2 color=3D#222222>Die=
+ser Google Scholar-Alert wird Ihnen von Google zur Verf=C3=BCgung gestellt.=
+<br><br><a href=3D"http://scholar.google.de/scholar_alerts?view_op=3Dcancel=
+_alert_options&amp;email_for_op=3Derictessenow%40web.de&amp;alert_id=3DAIfe=
+vv3NkPcJ&amp;hl=3Dde"><font color=3D#1a0dab>Alert stornieren</font></a><br>=
+</font></div></body></html>

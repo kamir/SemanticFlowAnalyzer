@@ -1,0 +1,97 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.55.166.132 with SMTP id p126csp34047qke;
+        Fri, 11 Sep 2015 22:09:42 -0700 (PDT)
+X-Received: by 10.140.97.7 with SMTP id l7mr3960838qge.32.1442034579149;
+        Fri, 11 Sep 2015 22:09:39 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3brPzVRUKDFkJ38FC1I1C5IKJ-EFI5GCP7FF7C5.3FD5I93K5JJ5EFNN52.45@scholar-alerts.bounces.google.com designates 209.85.192.202 as permitted sender) smtp.mailfrom=3brPzVRUKDFkJ38FC1I1C5IKJ-EFI5GCP7FF7C5.3FD5I93K5JJ5EFNN52.45@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3brPzVRUKDFkJ38FC1I1C5IKJ-EFI5GCP7FF7C5.3FD5I93K5JJ5EFNN52.45@scholar-alerts.bounces.google.com designates 209.85.192.202 as permitted sender) client-ip=209.85.192.202;
+Received: by 10.55.176.6 with POP3 id z6mf5043683qke.0;
+        Fri, 11 Sep 2015 22:09:39 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3brPzVRUKDFkJ38FC1I1C5IKJ-EFI5GCP7FF7C5.3FD5I93K5JJ5EFNN52.45@scholar-alerts.bounces.google.com
+Received: from mail-pd0-f202.google.com ([209.85.192.202]) by mx-ha.web.de
+ (mxweb001) with ESMTPS (Nemesis) id 0MPmoU-1ZVeyz3UNW-0052Uu for
+ <erictessenow@web.de>; Sat, 12 Sep 2015 07:09:04 +0200
+Received: by pdbou10 with SMTP id ou10so7461084pdb.0
+        for <erictessenow@web.de>; Fri, 11 Sep 2015 22:09:02 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=dcgPCeAZcF2a98Jj3bAnp0XfxCG7RRxzReBjcCI1VUY=;
+        b=RVAAuYfhAMixHzlFv+CwrZIKZO9/KeCvZg3yTH5elAYG3oWl2G+/6OlZ9g2bMw8Rfj
+         pc7LMQL+Ojf+EJt+u1TTIpLz8q7P12Vtr6cpBVNHv1VWP+b/0Sc6v/kC22qeLKRAw39T
+         HJNO3Yc+LED4H9nYf5VkajlZZ9d6gaBPj0tvGxuOci7qt6wvZcKBoftsgt2/U+A+55mr
+         I9roGuJpILsEb6edT1UzDZCAd6c7SiJzzA82REXIbVrHDzRAcsu40YuVfa9kEp3XZPRm
+         j8lnab0wnnpQ+/c/O4pfIGpCl3wEbOii3js6aiSqiLcexaShyIVRwWRyFN8hJR2rl60B
+         BSyw==
+MIME-Version: 1.0
+X-Received: by 10.68.220.105 with SMTP id pv9mr2382881pbc.1.1442034542346;
+ Fri, 11 Sep 2015 22:09:02 -0700 (PDT)
+Message-ID: <e89a8ff247cba68271051f85d4c9@google.com>
+Date: Sat, 12 Sep 2015 05:09:02 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:lSsIvg87DjY=:jtMb67XTgwTbbr4U6bVA2a9xCa
+ xfR3L1WdIwX2LStVuofb9EmfsE1kZAPsHGb2F2LNQ2N/34LocJ9bZbRiTpba8FPl1MsBfv/22
+ Nc/GWp/S2kJ75ItPmX0/zvcYkdWOMP1pTGs9+OeO2vbAxfVF+HGq6+vA9GdQoHLhM1+BWvoHv
+ 3/Ozmx3N+SCJ2WX4Z/w3IASNgvRjCtDMqInF4DTku9jWEmEaXbeROHcfiUujAAQpOT+B5lmj9
+ /KO6yuSMJeF4WIZS8NqKqHNSKvW0HVAv0sCC8u/MoZBjFmylFrNZMJfZ4XILWc99X5VSihUuo
+ 0HOl+Qb8d13z7wwvutyHkMCP3xgKIi0Vj64FIkov0Db/tXC6ZQRvFzjNcXLBlB9Vr47DQX+3S
+ 5u6dP8AatQDwRaobDaSdsvtgf61Ppbar6LRoG8ytPIjQqW94Rh3pKb/0NH90WjuxD5gSXGt8A
+ rbumueLhzfqQMZDYjMgLvCv/AJaQYRU3S3txWUrrjP1cLcYBnNAtc8WaGj6aoS9/QRguUiO5H
+ bJVjvO2l59tfmvTB/DUYMhO8ahy6WGT6B2UoJtQ4zk/umGrsByiciI4Yig45qLrq4bInsjtue
+ ulk4LldFMPa5nzcr1gyVmeY5DA6sHM90HmaMbJwNOoxp3vZfgyOuF0BfE3caANLOXY/iwNafB
+ Mk+vwp0mOSQ6Q9jtGSauirX7KkVZBbCEzh1pnumrcT8wsioDwspT/HZae4ctpCgFSbvoY9Q+1
+ BbToWbArMGI7C63Bf/bGHXrooyo8nxXuzTmr7vbAuvEdQ3W1NwY1dPVOvmo4M9D4jxjIytFtJ
+ KlRVlokHAWBxShbZboUPZM53ljISxZEbAaiK8Aq3h1/phu1w+fuUSNv8jQWxQZ+bNUGZ278Ex
+ UbCtv2QqcwmP8xVC4zdYlMtOGiPRO+Y4AGTcwlKrFtIcMOWKq6aGRjuO+aVwZrDgcxIa8OWM/
+ /4QbT314dD+Y9RkLnANnTJpn3XYTaynXEzpqdG6fxWgtwkwaB8Tm8OsHeeww/XaWo3cyiznpz
+ 0PchwHojWhF6lXjkBHMhj9dUT9oc3iGaCVjusyuHukEAmwUknGuMzD+uNpzL2kEw+KOQ/jC5E
+ dnhNAzhVpo//LqzCk660aWyBFkpn7PmtdZnp2cFhaJhYl3DqnnEFFJko3JL8DERTljs4+P5ne
+ I9Ega1+H9VrI7YULfBPl/2GDiiexHjjF6cHdu5FXULr1rFs/UOJ4DiUOxGXqoWWo0X+zwuGKN
+ djz9wEKs7x77U0rxqz2r0MkVz6BQIgWuIsFHzReV2+qkT12y83yh1ql2WzRRIfUOn1HWR1MkU
+ V2Ja
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D=
+2 color=3D#1a0dab>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_=
+url?url=3Dhttp://cpaindex.naturalspublishing.com/files/published/1l9g571xr0=
+m030.pdf&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm0OojU8aiFPhWO6LGXbbP1qro=
+XzjQ&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab sty=
+le=3D"text-decoration:underline">Federated SPARQL Basic Graph Pattern Optim=
+ization using Links over the Web of <b>Linked Data</b></font></a></h3><div>=
+<font size=3D2 color=3D#006621>X Li, Z Niu - Appl. Math, 2015</font></div><=
+div><font size=3D2 color=3D#222222>Abstract: The fast growth of the web of =
+<b>linked data </b>raises new challenges for distributed <br>query processi=
+ng. Different from traditional federated databases, <b>linked data </b>sour=
+ces cannot <br>cooperate with each other. Hence, sophisticated optimization=
+ techniques are necessary <b> ...</b></font></div><br><h3 style=3D"font-wei=
+ght:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D2 color=
+=3D#1a0dab>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_url?url=
+=3Dhttp://italia2015.dei.unipd.it/papers/ITALIA_2015_submission_6.pdf&amp;h=
+l=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm2lpXgz5mE3aWkt2VR6n66HcDOkGw&amp;nossl=
+=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-dec=
+oration:underline">Linked Open Data Framework for Serendipity in History of=
+ Art Research</font></a></h3><div><font size=3D2 color=3D#006621>G Silvello=
+</font></div><div><font size=3D2 color=3D#222222><b>...</b> pp. 804=E2=80=
+=93813. Association for Computational Linguistics (Jul 2011), http://dl.acm=
+.org/citation.cfm?<br>
+id=3D2145432.2145523 14. Heath, T., Bizer, C.: <b>Linked</b> <b>Data</b>: E=
+volving the Web into a Global Data<br>
+Space. Synthesis Lectures on the Semantic Web: Theory and Technology. <b>..=
+.</b>=20
+</font></div><br><p><hr noshade size=3D1><font size=3D2 color=3D#222222>Die=
+ser Google Scholar-Alert wird Ihnen von Google zur Verf=C3=BCgung gestellt.=
+<br><br><a href=3D"http://scholar.google.de/scholar_alerts?view_op=3Dcancel=
+_alert_options&amp;email_for_op=3Derictessenow%40web.de&amp;alert_id=3DAIfe=
+vv3NkPcJ&amp;hl=3Dde"><font color=3D#1a0dab>Alert stornieren</font></a><br>=
+</font></div></body></html>

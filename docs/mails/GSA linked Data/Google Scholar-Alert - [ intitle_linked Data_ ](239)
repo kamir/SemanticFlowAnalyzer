@@ -1,0 +1,82 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.64.44.105 with SMTP id d9csp13919iem;
+        Wed, 7 Aug 2013 03:55:21 -0700 (PDT)
+X-Received: by 10.60.47.76 with SMTP id b12mr1927569oen.78.1375872919819;
+        Wed, 07 Aug 2013 03:55:19 -0700 (PDT)
+DomainKey-Status: good
+Received-SPF: pass (google.com: domain of 3QicCUhUKDC8dNSZWLcLWPced-YZcPaWjRZZRWP.NZXPcTNePddPYZhhPM.OP@scholar-alerts.bounces.google.com designates 209.85.216.73 as permitted sender) client-ip=209.85.216.73;
+Received: by 10.182.146.114 with POP3 id tb18mf1467649obb.33;
+        Wed, 07 Aug 2013 03:55:18 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3QicCUhUKDC8dNSZWLcLWPced-YZcPaWjRZZRWP.NZXPcTNePddPYZhhPM.OP@scholar-alerts.bounces.google.com
+Received:  from mail-qa0-f73.google.com ([209.85.216.73]) by mx-ha.web.de
+ (mxweb009) with ESMTPS (Nemesis) id 0MN7Bg-1VDe9b24TI-006gNn for
+ <erictessenow@web.de>; Wed, 07 Aug 2013 12:53:55 +0200
+Received: by mail-qa0-f73.google.com with SMTP id f14so191504qak.2
+        for <erictessenow@web.de>; Wed, 07 Aug 2013 03:53:54 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=cVkh2F7tLWbt777QZjskec3GqvjxPSEZsi7RfXUMlS8=;
+        b=PziZUTEpyzSLLSdc3Q+OWit7FPNzK6QTDl6F8WccCgkrETJHV843Vb35Qhbrju84BQ
+         /P58n+bnhW2OeLzqebigZNVWHFuPMe2zIy0ktGynZMIEV5VMwuhgDH6RLVtWKCzgMtTW
+         K0TDJ/hb++82gsWIntXaa7J1BOcGa7Hw4uP5GwY1hDum9cah/LK5vD0h5MiCI9opXgut
+         rBAU4ywMWbwwHHfQSv1e0knqckjchVBJqNQmI03Goew2OR2jRnofj8QnpX6VZCIGvTC/
+         hWQl/EyUgdNvLnIpAIzBB31X7EWvuIw4dTXjxzER2N+XcWp1nRVfPb0g6kHsgdU4yYK8
+         Y5sQ==
+MIME-Version: 1.0
+X-Received: by 10.224.163.14 with SMTP id y14mr41753qax.3.1375872834456; Wed,
+ 07 Aug 2013 03:53:54 -0700 (PDT)
+Message-ID: <089e0158b1028dccea04e3595bed@google.com>
+Date: Wed, 07 Aug 2013 10:53:54 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:F+EQDbaN8Zs=:ZNcmz6iHvTBVL2qB2w+udCWrhp
+ AL2dk8ipaoyoF8sitKzGlPhbFgO5UXHWbayUoqVcYkRw+8M0+V++pgae+mFls43LjcreODXR8
+ l9tx8tMdp/ctIhYgwkSCx0N5RPJWWoaT6b+X6ERRAkkE/+iHXCP09rK0q4eaU0l21GsK+k8Df
+ Bs4Ftcvrty1Pmd9SnhuuZOzrdTNYkHstMFsj3u17sfdIDaZahrbQ5xantL4+LrEyJPRSy+8R0
+ e905VxxHpnVavfqrbwcXO+Cok4KjVqrWFlhIIRTQxvm1hyAEKnmxOmhlKVliiP8jQWgmRJrYo
+ X0+Z+HM9DTPCnti6xSUe3II7XWWdGWA3yXA4owHvY9hXiGnkwYBZ03qgCxPzrbpCNne/o4DRa
+ NTrelFmEqett/dQjxW0U7vCG4xKEuxV+FUuUjpI416jDWzq1TUP7K614isZ7GbNv1ioRnqFPP
+ iS2GJ+0GsHar7h3fEiAvWClUNWEHDOrT72W51f40BmOeT4jZ4Tvqosqk+VxGXBT3xuGdhmcr3
+ ALYZRAysaA0AGeQvZWwCxnMpTS9RmXJv01v4YIxmHL+NGe01WFUpOMmykzmIhqEDs5n8poozL
+ nEKl2x9EhVF+ZRPNAUaMoC0UZHvCQdrrzSBwpTFyJ6H4/5+Xu8dPcaLl1PrYJ0L9yKk8xYAmU
+ MeYv8kdj7ZjPFDWKXGJsxXhTLlsK+QVvJw8suGILxG66lFxwIXYSyMK1qiO3h3OHqDMISxPHP
+ QKiX6xZDH8uBeEvdZHkSVrES34yaCz8B2Zw+9xvsrIC0O4rSLN2q665wjJSOgtfCwmAIAhsqB
+ 0WWs1Z2PP1v0bkfagPt/xnogEQNjfLBI+bdlmyfFkm8wsp7/FwKZ9UuLqSiWE4vqlzmAkOQTR
+ IH9FE5BCFMRJ6ZmeRYeN9bcjKL8WpUsGZU/V9t9Of5CsZEKYFNmJNVlavN58CB0SUJhI3ho+t
+ l3pKuSBTK5zEzPmy/1NVw3bpNM2mSowK+bczbvJQg2BK52rdrvDkEXYCu0/gEgtNveqhT81L4
+ kI7P/EbPogSiyU4YI/JxSmZc9lNNasXWSQYo3bl0UZgAJ1WA7V5WQ8xvCOo4jjEhrc8byqjef
+ B4cn8pviekZOe0EzGFdJyumWltk8drTAEnb4GEBZpRAEg0OPLUPIKIyRmjqkMlQJ6tq98R7Cr
+ yyZj3f1ZwXluerKA4cE9jSSLcpl1bNikul/g8M+5RHNoS2md2OKYtSqWeAWznN+MQqLZVbMKJ
+ lLMnT6bUJmoca/QNz21FXwGDXLOFjUVm+TcrYuupZfNVMgvFbvToH/J+/Frz2/DadgiDAtMa3
+ pEHbpsixo8YGWUPkrE8kmrErxN0w5wLO7md/0uLVmy2xllbJb5e7Bl+Q6bT9/5yrzPWfI1eHK
+ 9b1qKuQ3LxAMsTLmX+tYNhX7DB4IfeonMBkiUyZH9UXNx2YwxJnKVIrA6ue
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D=
+2 color=3D#1122cc>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_=
+url?hl=3Dde&amp;q=3Dhttp://domino.mpi-inf.mpg.de/intranet/ag5/ag5publ.nsf/0=
+/60E4C9459DE8213AC1257BBB003DE4C9/%24file/clef2013labs_submission_77.pdf&am=
+p;sa=3DX&amp;scisig=3DAAGBfm0lPIMFTNDO_vKZY5-jvMuclT_KkQ&amp;oi=3Dscholaral=
+rt"><font size=3D3 color=3D#1122cc style=3D"text-decoration:underline">Over=
+view of the INEX 2013 <b>Linked Data </b>Track</font></a></h3><div><font si=
+ze=3D2 color=3D#009933>S Gurajada, J Kamps, A Mishra, R Schenkel&hellip;</f=
+ont></div><div><font size=3D2 color=3D#222222>Abstract. This paper provides=
+ an overview of the INEX <b>Linked Data</b> Track, which went into its <br>
+second iteration in 2013.  <b> ...</b> As in the previous year [7], the goa=
+l of the INEX <b>Linked Data</b> Track1 <br>
+was to investigate retrieval techniques over a combination of textual and h=
+ighly struc- <b> ...</b> </font></div><br><p><hr noshade size=3D1><font siz=
+e=3D2 color=3D#222222>Dieser Google Scholar-Alert wird Ihnen von Google zur=
+ Verf=C3=BCgung gestellt.<br><br><a href=3D"http://scholar.google.de/schola=
+r_alerts?view_op=3Dcancel_alert_options&amp;email_for_op=3Derictessenow%40w=
+eb.de&amp;alert_id=3DAIfevv3NkPcJ&amp;hl=3Dde"><font color=3D#1122cc>Alert =
+stornieren</font></a><br></font></div></body></html>

@@ -1,0 +1,142 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.64.243.69 with SMTP id ww5csp181402iec;
+        Mon, 24 Mar 2014 06:34:34 -0700 (PDT)
+X-Received: by 10.50.92.98 with SMTP id cl2mr11822571igb.34.1395668073039;
+        Mon, 24 Mar 2014 06:34:33 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 33zIwUxUKDKQWGLSPEVEPIVXW-RSVITPcKSSKPI.GSQIVMGXIWWIRSaaIF.HI@scholar-alerts.bounces.google.com designates 209.85.160.202 as permitted sender) smtp.mail=33zIwUxUKDKQWGLSPEVEPIVXW-RSVITPcKSSKPI.GSQIVMGXIWWIRSaaIF.HI@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 33zIwUxUKDKQWGLSPEVEPIVXW-RSVITPcKSSKPI.GSQIVMGXIWWIRSaaIF.HI@scholar-alerts.bounces.google.com designates 209.85.160.202 as permitted sender) client-ip=209.85.160.202;
+Received: by 10.64.226.50 with POP3 id rp18mf2099797iec.38;
+        Mon, 24 Mar 2014 06:34:31 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 33zIwUxUKDKQWGLSPEVEPIVXW-RSVITPcKSSKPI.GSQIVMGXIWWIRSaaIF.HI@scholar-alerts.bounces.google.com
+Received: from mail-yk0-f202.google.com ([209.85.160.202]) by mx-ha.web.de
+ (mxweb109) with ESMTPS (Nemesis) id 0Lyfs3-1X7l2u2D7X-0164wI for
+ <erictessenow@web.de>; Mon, 24 Mar 2014 14:27:59 +0100
+Received: by mail-yk0-f202.google.com with SMTP id 9so2014544ykp.1
+        for <erictessenow@web.de>; Mon, 24 Mar 2014 06:27:59 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=xY0VHgF0LOBmFGPz7I7cfClf/2RsVBwxuwbf8JBWDRU=;
+        b=eQvDO5DmmFrr7WnYmOxUenG4kfrExuQulVzazcwQrmqad2VE2n6p3+I+Go2v6HEiDr
+         4patwOYdL/4MT2rdl5RQ9BnYDo4+h9dc179E9fwXMjDnmB+0D/JkbtQhYc2138v8BHvP
+         cwTObe1W23XO3HBmfAh+e7edPFjZTqI2SDK/tbUrD3o+PYka4lWV0SVdObO9LpkMlgqZ
+         5kk35QATcnQP5Zdlcai9O0xTu9tAAQSTEOmi33J9F9W5YfumdOMPNbGXXP2c0oAhHBOc
+         0l1G7YN/JFdGAu5Ec+d4BHq0W4KurklpphSIl6y5uDIzTqAyReXK9iudfVo0Tv7dBOhK
+         sxIw==
+MIME-Version: 1.0
+X-Received: by 10.224.167.8 with SMTP id o8mr25907743qay.0.1395667679177; Mon,
+ 24 Mar 2014 06:27:59 -0700 (PDT)
+Message-ID: <089e0149c58a3dec1f04f55a34e4@google.com>
+Date: Mon, 24 Mar 2014 13:27:59 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:kP1RWUugNiA=:TfWNU5P8+Bj/aGYKRCWJxGyTWS
+ yM1ZaP4S2FAJ1u2YTRksnNbZ2ZI9Nn+htTW6s872fkjPtW2XaKkZ1gqfoMFP6WtksAsacr1Ja
+ idD9pnCDPzq1gO14GoqSR2YJOXnZ4uD1mrYb4vjm/PuphktIgmIEnr0xXwYqPl5WmeSiM2/sG
+ ZPuJladNlQmsuUgMuWFZKxliwNhjGnKtDoijmr7dpa9hxda3RfFDCiyd0y/EWCdpqjs3gmkKy
+ CwvX45cvuDDwgTxKM3IFP7htxSgIIpLFhzLSAwbISkC1ywEBPXMQK/Gol0YVRYHrOj5ME+mun
+ jwfP+yvMwx0fUgCu5eE8J+D8cIwELG98kXThoTfDjMGkAFe/YhjFFVYr0h929ClkG02qPWAOI
+ OyIwbkOYoiegEXifKu7sKjUZ7E0x8L3g9wEswG12+lTe+A07weG8x1SHi0oAHU7qZ9cbopPnW
+ trX6Dwptnh2DHw01LtbTN/LYW4fHhq6oj0fPR6/gXTuMaUW1CCSkCwDGqdFKUzyPAIbbiqHUJ
+ Otgni1UJUSuwaXQ9acZfMN9OmqByroyKnJv/I0lJQxOauScHqClUpMEB/2zgDL5S75U9L98TG
+ 4NqNy8vMliOcX556f7a9DFdu8upHVuJihdElB+sp/xiqDZPC5yZbCUS1Y3rq5/yC4/r8OVS8d
+ K4Lu5SYpl/QNAuo20jpZrGtKuec01OnBjTNDlBhBHdU3m2yap277yov0IPzlF/hzmK2JGOe/L
+ jm75tL1vis/MyhbKL8A/SSpbAZkhVo/EZkIG+hY6pKSwOst1U5gKFxa9I6DGd1kjDLaszqpEX
+ RbktnWYGAVgoznbQkNy8WRkZnif+AurO+7NsHcG77eu1VZKwLYuFrI/fA2NxlIIPJ/bue4j+N
+ AcEtFJRGDoW2YPbSC1MDXy+xhoHMSxqIPIyPajIf9uw6HDMYOzyCkbABn/3pY7rcvvaiKmFB0
+ Gffe6QOLPH2QWEKfUh/XF4+ow8oT/98oo59QV/P0nX1jbjRv0XKYzEiva1IRoC7/zGuQ2Uf+Z
+ xBMCgyE6QvLVuOmJ+SeTDo1Z69e/XqXcSV22ZOezTpHcOJheT0+FSAv0ajxZB5gbxT4Twqk6k
+ hov4Nijm+zeiy+p/+ywq6hIp2DmJqJn9cSA++BnJRwsB3P7skp4WMLkJd4qKgksUtQWKTrVQd
+ rvtR2YQSu5Dox9HsU48PNXm+pZvAMwJI1lOzk5ZmsKlg==
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://www.freepatentson=
+line.com/y2014/0076962.html&amp;sa=3DX&amp;scisig=3DAAGBfm1tD0HB4mv3LA-bCeD=
+z7TFvQxmrbQ&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D"t=
+ext-decoration:underline">NETWORK <b>LINKED DATA </b>CARRIERS FOR COLLECTIB=
+LES</font></a></h3><div><font size=3D2 color=3D#009933>BJ Lipsky, P Lee - U=
+S Patent 20,140,076,962, 2014</font></div><div><font size=3D2 color=3D#2222=
+22>Abstract: A method for sharing among a plurality of collectors certain i=
+nformation related to <br>collectable items in the form of digital audio fi=
+les in order to facilitate the reading aloud of <br>audio messages associat=
+ed with a unique data carrier on a collectible item using at least <b> ...<=
+/b></font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medi=
+um;max-width:44.5em"><font size=3D2 color=3D#1122cc>[PDF]</font> <a href=3D=
+"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://eprints.soton.=
+ac.uk/363026/1/eswc14.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm1p73zxfAN8CQc4fPVlU=
+-TwPoHvMQ&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D"tex=
+t-decoration:underline">Optimising <b>linked data </b>queries in the presen=
+ce of co-reference</font></a></h3><div><font size=3D2 color=3D#009933>X Wan=
+g, T Tiropanis, HC Davis - 2014</font></div><div><font size=3D2 color=3D#22=
+2222>Due to the distributed nature of <b>Linked Data</b>, many resources ar=
+e referred to by more than <br>one URI. This phenomenon, known as co-refere=
+nce, increases the probability of leaving out <br>implicit semantically rel=
+ated results when querying <b>Linked Data</b>. The probability of co-<b> ..=
+.</b></font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:me=
+dium;max-width:44.5em"><a href=3D"http://scholar.google.de/scholar_url?hl=
+=3Dde&amp;q=3Dhttp://eprints.rclis.org/22749/&amp;sa=3DX&amp;scisig=3DAAGBf=
+m2hIAnBsTM4yve9f_0Vek3wMztCxA&amp;oi=3Dscholaralrt"><font size=3D3 color=3D=
+#1122cc style=3D"text-decoration:underline">RDA in Library <b>Linked Data <=
+/b>Applications</font></a></h3><div><font size=3D2 color=3D#009933>G Dunsir=
+e - 2014</font></div><div><font size=3D2 color=3D#222222>RDA elements and t=
+erminologies are represented in RDF namespaces managed within the <br>Open =
+Metadata Registry. RDA is based on the conceptual models Functional Require=
+ments <br>for Bibliographic Records (FRBR) and Functional Requirements for =
+Authority Data (FRAD)<b> ...</b></font></div><br><h3 style=3D"font-weight:n=
+ormal;margin:0;font-size:medium;max-width:44.5em"><font size=3D2 color=3D#1=
+122cc>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&=
+amp;q=3Dhttp://virtual.cudi.edu.mx:8080/access/content/group/f05dabef-bf03-=
+4cfe-8eb7-b3609037f586/2014_03_14/hector_ceballos.pdf&amp;sa=3DX&amp;scisig=
+=3DAAGBfm3geeU8WKiEtCieHgEjtzxtc-jwvA&amp;oi=3Dscholaralrt"><font size=3D3 =
+color=3D#1122cc style=3D"text-decoration:underline">Linked Open Data: Datos=
+ abiertos para la Web Sem=C3=A1ntica</font></a></h3><div><font size=3D2 col=
+or=3D#009933>HG Ceballos - 2014</font></div><div><font size=3D2 color=3D#22=
+2222><b>...</b> Page 2. + Agenda =E2=88=8E Interoperabilidad en Datos Abier=
+tos =E2=88=8E Web Sem=C3=A1ntica - Web de Datos =E2=88=8E<br>
+<b>Linked</b> <b>Data</b> =E2=88=8E The Linking Open Data Cloud =E2=88=8E V=
+ocabularios (Ontolog=C3=ADas) =E2=88=8E Casos de =C3=A9xito <b>...</b> 7<br=
+>
+Page 8. + <b>Linked</b> <b>Data</b> =E2=88=8E Principios de <b>Linked</b> <=
+b>Data</b> =E2=88=8E Nombrar todas las cosas con URIs <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1122cc>[DOC]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://wiki.fiit.stuba.s=
+k/research/seminars/pewe/ontoparty-2013-2014-spring/abstracts/holub.docx&am=
+p;sa=3DX&amp;scisig=3DAAGBfm2RYJh4C_aOw0jV8Sv3bVwJFfFFJA&amp;oi=3Dscholaral=
+rt"><font size=3D3 color=3D#1122cc style=3D"text-decoration:underline">Util=
+ization of <b>Linked Data </b>in Domain Modeling Tasks</font></a></h3><div>=
+<font size=3D2 color=3D#009933>M Holub</font></div><div><font size=3D2 colo=
+r=3D#222222>The idea of Semantic Web has found many followers among the web=
+ researchers. A lot of <br>datasets publicly available use the <b>Linked Da=
+ta </b>principles. These may be a perfect source <br>for additional metadat=
+a utilizable in various tasks of web personalization, recommendation<b> ...=
+</b></font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:med=
+ium;max-width:44.5em"><font size=3D2 color=3D#1122cc>[PDF]</font> <a href=
+=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://www.l3s.de/=
+~fetahu/publications/pos136_fetahu.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm0XKpmm=
+7INq5eL5wQnDrZ9LWhdPQQ&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc=
+ style=3D"text-decoration:underline">What&#39;s all the Data about?-Creatin=
+g Structured Profiles of <b>Linked Data </b>on the Web</font></a></h3><div>=
+<font size=3D2 color=3D#009933>B Fetahu, S Dietze, BP Nunes, MA Casanova, D=
+ Taibi&hellip;</font></div><div><font size=3D2 color=3D#222222>The emergenc=
+e of the Web of Data, in particular Linked Open Data (LOD)[1], has led to a=
+n <br>abundance of data available on the Web. Data is shared as part of dat=
+asets, often containing <br>inter-dataset links [6], mostly concentrated on=
+ established datasets, such as DBpedia1. <b> ...</b></font></div><br><p><hr=
+ noshade size=3D1><font size=3D2 color=3D#222222>Dieser Google Scholar-Aler=
+t wird Ihnen von Google zur Verf=C3=BCgung gestellt.<br><br><a href=3D"http=
+://scholar.google.de/scholar_alerts?view_op=3Dcancel_alert_options&amp;emai=
+l_for_op=3Derictessenow%40web.de&amp;alert_id=3DAIfevv3NkPcJ&amp;hl=3Dde"><=
+font color=3D#1122cc>Alert stornieren</font></a><br></font></div></body></h=
+tml>

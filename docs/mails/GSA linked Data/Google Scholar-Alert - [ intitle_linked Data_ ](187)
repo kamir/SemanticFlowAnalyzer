@@ -1,0 +1,127 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.55.19.134 with SMTP id 6csp721291qkt;
+        Mon, 26 Oct 2015 23:48:58 -0700 (PDT)
+X-Received: by 10.140.133.10 with SMTP id 10mr50189144qhf.95.1445928538552;
+        Mon, 26 Oct 2015 23:48:58 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3FBEvVhUKDKkbLQXUJaJUNacb-WXaNYUhPXXPUN.LXVNaRLcNbbNWXffNK.MN@scholar-alerts.bounces.google.com designates 209.85.223.202 as permitted sender) smtp.mailfrom=3FBEvVhUKDKkbLQXUJaJUNacb-WXaNYUhPXXPUN.LXVNaRLcNbbNWXffNK.MN@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3FBEvVhUKDKkbLQXUJaJUNacb-WXaNYUhPXXPUN.LXVNaRLcNbbNWXffNK.MN@scholar-alerts.bounces.google.com designates 209.85.223.202 as permitted sender) client-ip=209.85.223.202;
+Received: by 10.140.99.3 with POP3 id p3mf27470923qge.2;
+        Mon, 26 Oct 2015 23:48:58 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: <3FBEvVhUKDKkbLQXUJaJUNacb-WXaNYUhPXXPUN.LXVNaRLcNbbNWXffNK.MN@scholar-alerts.bounces.google.com>
+Received: from mail-io0-f202.google.com ([209.85.223.202]) by mx-ha.web.de
+ (mxweb006) with ESMTPS (Nemesis) id 0LgaVZ-1aKXEu3577-00o1Gb for
+ <erictessenow@web.de>; Tue, 27 Oct 2015 06:52:21 +0100
+Received: by iofz202 with SMTP id z202so4477604iof.1
+        for <erictessenow@web.de>; Mon, 26 Oct 2015 22:52:20 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=JuH3Bhrkoj0A0J5Q/jeiZV8ghYd6Qel1bkWr6xZ+Wdo=;
+        b=af6z23Rivr1KYrifvlE51E1bqWs5PgN9V1Psvrtd15WEHZtm4ARPrMfpwe+VE6l7mg
+         asWdV2UTgr2Cy5S+tQ5mu0k4R1A/89qC5zYuS7TYQi17YgzmJIdIoETALJ+0zu6BBpw+
+         XTS+j/w4Iv0q04yh6EmhGoMgcRgdMmP9FWuBoCK4U7zlomCIxlUy2xveXEOHvD+BgXux
+         izIZkKJZCI2FrANs6+Wx4SLRDokJdNuakH6yd50KGJ1/nv9rdX3xk907H4q1mTahnILw
+         9i468DX7grzYea0tsc6T+17/LVvLqOgRevGP6sS3XN5FW/O0GzaLjnI/0FAgEAIPyCix
+         pCwA==
+MIME-Version: 1.0
+X-Received: by 10.182.236.225 with SMTP id ux1mr32262273obc.2.1445925140560;
+ Mon, 26 Oct 2015 22:52:20 -0700 (PDT)
+Message-ID: <001a11c2fad05ffc3505230faebc@google.com>
+Date: Tue, 27 Oct 2015 05:52:20 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:XIGrA6jNDWU=:YcbEuKa/RWnnxzn7eQYVWYPYx2
+ lV2S0Cap84RpzaAN5Ufpp4RcW0g3qPTNVriSQWET+hgA4L6j6hm8WWb8GfmzmUxGP4UtQwiQK
+ /yMviLP0A3Ybb6ahIFYbPP/tcoB5au25iqvnpspmeTuHHfrTtubbPTrumQAGZbxlO2tBqikA5
+ FfD2zZ58nzJv8N9dhWDs718DyvqWKpNyqJZOkLO5P0ECIFYdwPro9Tgl0+nUPZCddGZVHyOUl
+ BQtzuC/jf8lZk88MYGdSTHR87CgYifp2hyw0E03Tm9kJC51PGMYTXmaxHQAYOJPG/r/8PMman
+ 8EhfwJXK0L8sxFZgRXNiom3qD5ANpqigGJ8u466clcDhxjX9GsbTxNTT2hEgGPH1jmzeTu6Xc
+ Ck3uJbA30A1wdSGmW1jGTBx6/vwXLCWRag+qP/BproFAlj+WGlhDRBMWf11FCA/yndgIszMzs
+ /7pY7V2ornSQHEEzH/+gAdsG06FiigOlPuayDW6IrkEXy/EfpPmtXcg+fQsMhv8ik0br+jxGH
+ KgpMLPbiWiTGrfzwxf5wH/R+wdRYk6Yfgbw2I18YgMh9x/qwtanQcZ9I/WCXVp94NKIKN3C1u
+ 48szck+R1eSHxnUqFLaZXKyQ9xQ9txUwLrRVyqvRU+zwLqFIEPQYF4yJLK9iX+56PPdkp6ZBX
+ jFUaDeiOV36NwG1Z0h2MgwBJ72+61M/4vKE0nsEcDnue7Mjpu35DykYC/1UP2RvJJgO7/8UyO
+ kT4fJ6MV3SgBNcV/Dk5fEE/Sym5Sav2CG3ARpLEEpRbrly8MQ2vfCqkGyrRPIQezZIq7VtWow
+ JcPV5N1X9HuwM4GzvyoZH//pe5OvLuAV445DBe9dXT8Q8XnvkcasQfh2ZL1TV7nAe9OFs3N3g
+ WkxrRWGlcPfMHeKEPl5yNZn8qq9wta+zN3jXII72G+3bHxkPLFcHcS+MVdzQhBUMflv2VdKax
+ RgKc9+s+rnBC1bhE4ig1/EIUReo4y0gKwsRhQl8CjWur+YjxVgnhbKTooBihwWE2HMWv+rBM+
+ uSjXo4iTe1M77LkEp4ykLjagi8A/YbhPiUXJCtdKLhLYGsmSmvuMHDOVaUIYGyUSHmkAovIUx
+ ZLUSANalZL9HclnuKBCgfzIRv8tSDnv8g/zaOisyc0aEV9l1C0KKPIMbvPtSrkk5twLkZQNH2
+ rIH7Tx68drN9n1SEVgSpn1MrnebKj3FF8HPZDME1m+/ERtkR7k8+QTB2/3mWWxbb4fMll/0VM
+ kkgif9+xVO5h7victOHtFq5hHh6YawG3pn+4CyRYFea5Mc1arL2hKGoCHxdwyl4rrgzecbxOG
+ UpU5V0ZhFRVf+NGEA52N/rb7RUnHdxs0lV/lzH+xeU3g8Tj+KJRO+XvEM3MID3XQBk1mmN5bd
+ Uzh1exT6w8iXNdS8dDF3h/HJTCs3R69CMJfbXb8s6i7eg7CMnVGwh9Q3C3wSZugvs2Mcw4xRC
+ pWiacb3ThulGL5X8K+ov1z8CkwF1WRm9wqkQRm1ZQTO2Jd17jBiUqLkXOhPmp9hdiF64gjIjd
+ YQcO08YrQpCUkXbu7F5I=
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttp://europepmc.org/abstract/med/=
+26488822&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm3WM3DrqqgdDcd8bhq4Itelta=
+4cuA&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab sty=
+le=3D"text-decoration:underline">All-cause and circulatory disease-related =
+hospitalization, by generation status: Evidence from <b>linked data</b>.</f=
+ont></a></h3><div><font size=3D2 color=3D#006621>E Ng, C Sanmartin, JV Tu, =
+DG Manuel - Health reports, 2015</font></div><div><font size=3D2 color=3D#2=
+22222>Immigrants tend to have better health than the Canadian-born. However=
+, the&quot; healthy <br>immigrant&quot; effect diminishes over time and var=
+ies by source country. This study examines <br>whether lower hospitalizatio=
+n rates persist from the first (G1) to the second generation (G2<b> ...</b>=
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><a href=3D"http://scholar.google.de/scholar_url?url=3Dhtt=
+p://www.sciencedirect.com/science/article/pii/S0306437915001830&amp;hl=3Dde=
+&amp;sa=3DX&amp;scisig=3DAAGBfm3CejcQZu0HmavQcIaSgQiKMN-YWg&amp;nossl=3D1&a=
+mp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoratio=
+n:underline">Linked Open Models: Extending Linked Open Data with conceptual=
+ model information</font></a></h3><div><font size=3D2 color=3D#006621>D Kar=
+agiannis, RA Buchmann - Information Systems, 2015</font></div><div><font si=
+ze=3D2 color=3D#222222><b>...</b> The paper proposes &quot;Linked Open Mode=
+ls&quot; as a possible additional step, whose aim is to enable<br>
+users to externalize knowledge in the form of diagrammatic models =E2=80=93=
+ a type of content that is<br>
+human-readable, as well as linkable in the way promoted by the <b>Linked</b=
+> <b>Data</b> paradigm <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1a0dab>[HTML]</font> <a href=3D"h=
+ttp://scholar.google.de/scholar_url?url=3Dhttp://www.mdpi.com/2220-9964/4/4=
+/2109/htm&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm2EF4crQPrOh6X4ys03jgV6g=
+zmLaA&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab st=
+yle=3D"text-decoration:underline">Extracting Urban Land Use from Linked Ope=
+n Geospatial Data</font></a></h3><div><font size=3D2 color=3D#006621>GR Cal=
+egari, E Carlino, D Peroni, I Celino - ISPRS International Journal of Geo- =
+&hellip;, 2015</font></div><div><font size=3D2 color=3D#222222><b>...</b> T=
+he Semantic Web community, by analyzing the use of those key-value pairs, c=
+reated<br>
+LinkedGeoData (LGD [16]) by mapping the OSM characterization into an ontolo=
+gy<br>
+and re-publishing the OSM dataset as <b>linked</b> <b>data</b> [17]. <b>...=
+</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttp://www.researchgate.net/profil=
+e/Bernhard_Thull/publication/278016254_Linked_Data_im_digitalen_Tanzarchiv_=
+der_Pina_Bausch_Stiftung/links/55827f1f08ae6cf036c1854c.pdf&amp;hl=3Dde&amp=
+;sa=3DX&amp;scisig=3DAAGBfm2cddX8VsBppwqITNmivaWuPRQ35w&amp;nossl=3D1&amp;o=
+i=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:un=
+derline"><b>Linked Data </b>im digitalen Tanzarchiv der Pina Bausch Stiftun=
+g</font></a></h3><div><font size=3D2 color=3D#006621>B Thull, K Diwisch, V =
+Marz</font></div><div><font size=3D2 color=3D#222222>Zusammenfassung Die En=
+twicklung eines digitalen Tanzarchivs f=C3=BCr ein umfangreiches Werk <br>w=
+ie das von Pina Bausch stellt hohe Anforderungen an die Datenmodellierung. =
+<br>Umfangreiches und inhomogenes Material muss digitalisiert werden, mit H=
+ilfe von <b> ...</b></font></div><br><p><hr noshade size=3D1><font size=3D2=
+ color=3D#222222>Dieser Google Scholar-Alert wird Ihnen von Google zur Verf=
+=C3=BCgung gestellt.<br><br><a href=3D"http://scholar.google.de/scholar_ale=
+rts?view_op=3Dcancel_alert_options&amp;email_for_op=3Derictessenow%40web.de=
+&amp;alert_id=3DAIfevv3NkPcJ&amp;hl=3Dde"><font color=3D#1a0dab>Alert storn=
+ieren</font></a><br></font></div></body></html>

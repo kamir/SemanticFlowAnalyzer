@@ -1,0 +1,78 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.64.243.69 with SMTP id ww5csp254627iec;
+        Wed, 12 Mar 2014 21:52:40 -0700 (PDT)
+X-Received: by 10.42.88.79 with SMTP id b15mr164964icm.65.1394686359646;
+        Wed, 12 Mar 2014 21:52:39 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 32TIhUxUKDGISCHOLARALERTS-NOREPLYGOOGLE.COMERICTESSENOWWEB.DE@scholar-alerts.bounces.google.com designates 209.85.223.201 as permitted sender) smtp.mail=32TIhUxUKDGISCHOLARALERTS-NOREPLYGOOGLE.COMERICTESSENOWWEB.DE@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 32TIhUxUKDGISCHOLARALERTS-NOREPLYGOOGLE.COMERICTESSENOWWEB.DE@scholar-alerts.bounces.google.com designates 209.85.223.201 as permitted sender) client-ip=209.85.223.201;
+Received: by 10.50.13.146 with POP3 id h18mf148595igc.16;
+        Wed, 12 Mar 2014 21:52:38 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 32TIhUxUKDGISCHOLARALERTS-NOREPLYGOOGLE.COMERICTESSENOWWEB.DE@scholar-alerts.bounces.google.com
+Received: from mail-ie0-f201.google.com ([209.85.223.201]) by mx-ha.web.de
+ (mxweb101) with ESMTPS (Nemesis) id 0MTzcT-1WWVtC0gNd-00QlqB for
+ <erictessenow@web.de>; Thu, 13 Mar 2014 05:23:55 +0100
+Received: by mail-ie0-f201.google.com with SMTP id rd18so111514iec.2
+        for <erictessenow@web.de>; Wed, 12 Mar 2014 21:23:54 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=b7vz6BSI25FXPQd4hXDkMUUCrgaCJId5abi3rC37XiM=;
+        b=dDLIfVxlohr4UobS3OYBbVyFzFUrOVpPW5kgT10oMQvMwVnwVYoxuipybtoqncBKNr
+         2PfqhVtV9hd22qzvG3wmyDyhho3a9jAXlzAbHDlIVziVWBYyhy7wyxCYKaGpBU5UX20C
+         Hf1L9pO+FYFki6akhpp78vSStA6UPNXUdriv86d4hhzw7J/2kLgQf9Z8rv4Dc2iMuMH9
+         PG/Ig5ZJUJNYTrJj59qxKtLsjpQg4nh9pj+XpmGr9k/zbIrC+tILqULSH27sRBkD+h0R
+         UVjTxBPhV7CHwPbF5j1HeTex17Z6Fxa3jsJ9dDwUdYGUuWo4jn+pxDEpvg8Rv76ST1uR
+         Bi5w==
+MIME-Version: 1.0
+X-Received: by 10.50.47.6 with SMTP id z6mr964041igm.4.1394684633800; Wed, 12
+ Mar 2014 21:23:53 -0700 (PDT)
+Message-ID: <089e013cc4122bdf9704f47552b1@google.com>
+Date: Thu, 13 Mar 2014 04:23:53 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:gpviYj+xlQc=:WPnK5qVXaUu2AKRGISpvh367Ck
+ PXr/ViLPboLmDczLtvhOOYHaQojrzpP8JO/fif2OREWrnx9uvdD6Ll07l6Y4oFJ1i9VGfX0ig
+ IXaNJOnu3Xypfp5lPti5Ty1tPFIvMpzzTJwV0ZpvfDJ35kiJ8/WXA5rhEQaMhdZDT8d1IC5Ok
+ PC5fjne9OnirjvZx4/cWH/vn50NC+8uXcaBPZYyvB9gEbquNsejEJ3p28GCJY14lBGg5bJ+Wf
+ alu6yKfcVIQrfHYNH4luuFGoyjztREvD82k7oh6DBWL9boU3F1Sv0F8SC3anwTnXc+90fuGIb
+ duSuYJWIP5nEFnKGa6WWjtshHsKXHAV23gpX47sdYNutBQv6w9l+tYEptmsS2Bw6xzQdr1cux
+ Z06AOverZJZ+GQoGZdtVU3N8A1rUSl3SHiiMdj1EtAs6iTU9YevMXjx7zZOra7gxFC5wl53HJ
+ Sdju4yn1HPNlNYRTVklTrXRXZbBqKmOXFDYStk9DPKcpifBJDguHiWUcti/AYo8SpU1jNeVaY
+ RxT2vOtqk4TCcvIKEgBi1im1ooldnoMdnB8oXd7wrqXDZbGjm5q3bYJ7DeHVzPewzkC+Dy5aU
+ vHn8h+PUold1jWY6QOBVqBZPfd69sqT99W7qr5BQjpmoQHfkqyHtIWA8j6u50coNZhPcmLKpj
+ vHhykxMz1lqkCegDURuxSrNNpvWnhmcAD+cp7b5XgW+c/lcKQ5Qn2JjIPXCQU1edniKx0VBQS
+ odZ9IzaF6xtq3TTLpvWvl4KGlhA7E6L59xTxLKVANRxR5mHxJkwemiTwt5xPbu4dk1bhHv6pK
+ 3gUQLGR/fnwUzfXxGznO5R1wb6d+GQOaR2DiLqFc9gOZOdDz0v7bsB1JRuPmeTJBCLJeDJus3
+ qRj90G7F9FLAT2n1A9iRk89QW7R9tqBootF1wCs7ehS00HBPP5SxHRVcOkXuY88zJbrLEHP2a
+ ttdt3aRCgYaVIRo29t5ylvwy4PIzC2B9P+SVd/BJBeBRDZ2ZBzcC06Jd26QPK/T1fC35WanSn
+ 7LWRxXr5Zf3XjYr6Jpl504sTKSY4zmroN35uB+KNVJJyUDjYZbIlVDQhP72pJA2osUOe3A8uT
+ RPA4/g1rRqhjdLuXSM50HmIocOCQDmdmA7NKwf83SiIlNxCWlCmc/LUFx2C9RK7+vsje6WmJc
+ Yd9e1qSaAtTJZ5ysHiXGBwkBVcjighFK4cIPW5hbo6538c6eM9TGw4adRkDl1ZBYaNLT+9EwJ
+ eDyBQzPyLKsbQuNDJTzT5zEbLGOvbkL2F+5l8glUkc7VHuYGLcI2gGNZFN/gNvjRhVi8ialMM
+ MiTVp83oM+7lS8dlxBmtMWm9VU/0TxShsXsQ3uMCrm6cfzmAHSTbvrq95utX1NJnLt4YAJKes
+ chN42uQvC4fD9xkFQ==
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://www.tandfonline.c=
+om/doi/abs/10.1080/10438599.2013.871165&amp;sa=3DX&amp;scisig=3DAAGBfm1adkJ=
+0lIrodTRDWTUktOhRxLW8QQ&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122c=
+c style=3D"text-decoration:underline">The impact of new goods and service p=
+roducts on firm growth: evidence from Austrian-linked firm-level data</font=
+></a></h3><div><font size=3D2 color=3D#009933>M Falk - Economics of Innovat=
+ion and New Technology, 2014</font></div><br><p><hr noshade size=3D1><font =
+size=3D2 color=3D#222222>Dieser Google Scholar-Alert wird Ihnen von Google =
+zur Verf=C3=BCgung gestellt.<br><br><a href=3D"http://scholar.google.de/sch=
+olar_alerts?view_op=3Dcancel_alert_options&amp;email_for_op=3Derictessenow%=
+40web.de&amp;alert_id=3DAIfevv3NkPcJ&amp;hl=3Dde"><font color=3D#1122cc>Ale=
+rt stornieren</font></a><br></font></div></body></html>

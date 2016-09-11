@@ -1,0 +1,94 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.64.26.170 with SMTP id m10csp141464ieg;
+        Fri, 20 Dec 2013 21:22:35 -0800 (PST)
+X-Received: by 10.42.35.5 with SMTP id o5mr8556676icd.8.1387603352368;
+        Fri, 20 Dec 2013 21:22:32 -0800 (PST)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3pSS1UhUKDF4O8DKH6N6HANPO-JKNALHUCKKCHA.8KIANE8PAOOAJKSSA7.9A@scholar-alerts.bounces.google.com designates 209.85.220.73 as permitted sender) smtp.mail=3pSS1UhUKDF4O8DKH6N6HANPO-JKNALHUCKKCHA.8KIANE8PAOOAJKSSA7.9A@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3pSS1UhUKDF4O8DKH6N6HANPO-JKNALHUCKKCHA.8KIANE8PAOOAJKSSA7.9A@scholar-alerts.bounces.google.com designates 209.85.220.73 as permitted sender) client-ip=209.85.220.73;
+Received: by 10.64.136.236 with POP3 id qd12mf5214636ieb.15;
+        Fri, 20 Dec 2013 21:22:31 -0800 (PST)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3pSS1UhUKDF4O8DKH6N6HANPO-JKNALHUCKKCHA.8KIANE8PAOOAJKSSA7.9A@scholar-alerts.bounces.google.com
+Received: from mail-pa0-f73.google.com ([209.85.220.73]) by mx-ha.web.de
+ (mxweb102) with ESMTPS (Nemesis) id 0LczYi-1VCLTz1DhA-00iER8 for
+ <erictessenow@web.de>; Sat, 21 Dec 2013 06:18:31 +0100
+Received: by mail-pa0-f73.google.com with SMTP id kp14so201413pab.0
+        for <erictessenow@web.de>; Fri, 20 Dec 2013 21:18:29 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=qD9eLnRWnJ67hKxdM/u3GTD62PSArP8xc3tH+RWf/0I=;
+        b=dFIPwC9ahj0thpe+23xhROXyTHZBQGPGxjd4P8r5Wgws844vzjlKOJubY33ogp3GHT
+         B+SW8LIdomPY/PklpzKJEOI0rMEqpam9PXgJ5njd0Vx3pZD6O7sTifoOjGO3PScbBtkW
+         Cj9QAAQCiOl2Z4AU1qzoxzhN/9ND67eCEElbNlHIQy5JTgxCE3KMcPPxXE1b3pJLH4C4
+         gvJtXgP5FBsUhVvyynfz5Dr9Bg6u33KXZp6mxMuBo4b3yb3n5Wdw57Kx7g9wDIqdqGjj
+         Pdu1F/7/jHqpLZfWXGhHaBMwwHNQvAUSOPqxXk8AoCGL4W9S5qm/lPg4SqYU8eh/Y6F9
+         6NcQ==
+MIME-Version: 1.0
+X-Received: by 10.66.150.37 with SMTP id uf5mr5235618pab.46.1387603109715;
+ Fri, 20 Dec 2013 21:18:29 -0800 (PST)
+Message-ID: <047d7b6783da719f5604ee048683@google.com>
+Date: Sat, 21 Dec 2013 05:18:29 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:4WddcPJFTos=:wCgCIk8nS6gvrhiElDGDYOisFt
+ /F15B+ApDE4KNfeGw5m6jM0EvnGXF/IrwonrTtdacpHtFjSqn21m0cLH1p6eCiNSXHTsVSTiz
+ N0moxmOdcdCMNe7XSwtfOBUXOr3/Tw459AUpYjsNtGsobapdtzkvz51DtLJCUiQZD9UI009/w
+ YsY+jNaJce3IwZ4h/6h2Yh4gKBI5alrC89r3bREZmdiUe3iXTzfeiVYGwD5iugmEam+QRON4z
+ F84pfqBhxBys4vJJtsYR0OGMSsRwVCaeyhG14GBXkbRCDT9mPHOzK9DEhaqeWn5iLvlbj0Tqo
+ 73JyoUS1uJTltrbocc3a1j3e2QeEdlD04t98ucdUVPxa+OhGivQdL2KL9exFLDjHPB7ngelMo
+ NAwwY17WDUMyddS7f1/HGBfRpOHfcjmPNso7biSt3cCjolm0jZYPQIc3INzvK18RBvaf3VwCU
+ I3v6lP5uBDYfbNUahJFEl16x2GKXhmCKEkwpCMYpYFRGxP2WIYq5lcqpb+w1jQ/2sT/8EsWsy
+ a7UvUTuRxtsB76dLQOGXzOlD/vijI9NA0DWmli+yln2hWtsxz2p5IzH0GeIG1HeF9h5xrCuZA
+ 43E/UOuQwrqOg+Kp4QaL6kIpWeR+rNCQbEgc4SPzJdTfQ3UCAhKCW6HwXnGT+Xhqn4lXw/7XH
+ xuZ/PZbyg38pdxGIVxqS4BURgScW4GLu015LsxELE/oLH8ikHqXAvKwjynECSoIipojgAcS09
+ KpNVwvlExmxSpyox2MI3w6efvTSnYyvOkPKKr7gztagfby34eb3MyEyoqXZNctCEYJJnIGhnn
+ rqHkQgjsKA82hKIP1frShCw9cd5l+xeefTKQ019x/coUPE4/iSQ5eUsEofiLUMTABgh0Qbx+J
+ OCpPP8ur6sM70eaObZX7oEtxzumMko3M0jpjehsMY/CBnQePIiFGV4TVDGumRflwmpD55x7Jl
+ t1vmhNwykVkSpRnVSwuBDbhixuYXZtYQX5PQiQRMx22htWom7cSlASlQ8m3xV30Xj48F/5dk/
+ J5AIRVlNSPwlTzzemCf9R3RxEEpaf78t2nQHSGTqWP5VQRQegzOA4mCYGLq0k8a+vIn40AsqM
+ DF9uL7sFeplsEy3mWWjgrFooL/8DnIkmNksGs48tdyeaRmxUdl+Zr56lXBjcHRGbHUO9iJsQE
+ hpkVKp3OLYaaAF0lI8mBqK/PCdfEV4E3TtiqFhCk5zKw==
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D=
+2 color=3D#1122cc>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_=
+url?hl=3Dde&amp;q=3Dhttp://journalofdigitalhumanities.org/files/jdh_2_3.pdf=
+%23page%3D36&amp;sa=3DX&amp;scisig=3DAAGBfm08Sh8UTEfKLmAEV5sVFfcevHO7jg&amp=
+;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D"text-decoration:=
+underline">RDF: Resource Description Failures and <b>Linked Data </b>Letdow=
+ns</font></a></h3><div><font size=3D2 color=3D#009933>R SANDERSON - Local P=
+rograms, Global Audiences</font></div><div><font size=3D2 color=3D#222222>T=
+he topic of the Semantic Web, more recently rebranded as Linked (Open) Data=
+, has been <br>in discussed in digital humanities and related disciplines s=
+ince its inception. Now, more than <br>a decade later, the technology has h=
+ad more than enough time to run through the hype <b> ...</b></font></div><b=
+r><h3 style=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5e=
+m"><font size=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"http://scholar.go=
+ogle.de/scholar_url?hl=3Dde&amp;q=3Dhttp://www.hpi.uni-potsdam.de/fileadmin=
+/hpi/FG_Naumann/folien/SS13/DPDC/DPDC_09_LOD.pdf&amp;sa=3DX&amp;scisig=3DAA=
+GBfm3aILvRVJt3RQji-a7c5Z8elNY09Q&amp;oi=3Dscholaralrt"><font size=3D3 color=
+=3D#1122cc style=3D"text-decoration:underline">Profiling Linked Open Data</=
+font></a></h3><div><font size=3D2 color=3D#009933>A Jentzsch</font></div><d=
+iv><font size=3D2 color=3D#222222><b>...</b> Tim Berners-Lee, http://www.w3=
+.org/DesignIssues/LinkedData.html, 2006 3 <b>Linked</b> <b>Data</b> Princip=
+les<br>
+Page 4. <b>...</b> Page 10. Profiling Linked Open Data | HPI 2013 | Anja Je=
+ntzsch Properties of the Web<br>
+of <b>Linked</b> <b>Data</b> =E2=96=A0 Global, distributed dataspace build =
+on a simple set of standards <b>...</b>=20
+</font></div><br><p><hr noshade size=3D1><font size=3D2 color=3D#222222>Die=
+ser Google Scholar-Alert wird Ihnen von Google zur Verf=C3=BCgung gestellt.=
+<br><br><a href=3D"http://scholar.google.de/scholar_alerts?view_op=3Dcancel=
+_alert_options&amp;email_for_op=3Derictessenow%40web.de&amp;alert_id=3DAIfe=
+vv3NkPcJ&amp;hl=3Dde"><font color=3D#1122cc>Alert stornieren</font></a><br>=
+</font></div></body></html>

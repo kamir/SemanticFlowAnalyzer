@@ -1,0 +1,122 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.79.35.66 with SMTP id t63csp1299108ivf;
+        Thu, 14 May 2015 06:26:42 -0700 (PDT)
+X-Received: by 10.42.164.7 with SMTP id e7mr14516461icy.70.1431609997111;
+        Thu, 14 May 2015 06:26:37 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=temperror (google.com: error in processing during lookup of 3d5hUVRUKDKocMRYVKbKVObdc-XYbOZViQYYQVO.MYWObSMdOccOXYggOL.NO@scholar-alerts.bounces.google.com: DNS timeout) smtp.mail=3d5hUVRUKDKocMRYVKbKVObdc-XYbOZViQYYQVO.MYWObSMdOccOXYggOL.NO@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: temperror (google.com: error in processing during lookup of 3d5hUVRUKDKocMRYVKbKVObdc-XYbOZViQYYQVO.MYWObSMdOccOXYggOL.NO@scholar-alerts.bounces.google.com: DNS timeout) client-ip=209.85.220.74;
+Received: by 10.50.16.232 with POP3 id j8mf676583igd.8;
+        Thu, 14 May 2015 06:26:31 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3d5hUVRUKDKocMRYVKbKVObdc-XYbOZViQYYQVO.MYWObSMdOccOXYggOL.NO@scholar-alerts.bounces.google.com
+Received: from mail-pa0-f74.google.com ([209.85.220.74]) by mx-ha.web.de
+ (mxweb005) with ESMTPS (Nemesis) id 0Lcigh-1ZaVMU0WPP-00k680 for
+ <erictessenow@web.de>; Thu, 14 May 2015 14:43:37 +0200
+Received: by pablj1 with SMTP id lj1so5293593pab.0
+        for <erictessenow@web.de>; Thu, 14 May 2015 05:43:35 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=md7sW99khZVNuZSULkVrjZsAM5V80X37S0TDKH1h47Y=;
+        b=RnSmMKC3dw8XpkuF0AJC+pVwZe3s3xdtWptSYvmEF7OTmvpjzjpchqUDs/6Ud+VcIO
+         3wm5RGuiZzbxR8XJ2YDA03uia6ajWLXRWdVIZCkafauNyJkGbqU/uPRX/6de4Z+lGmuh
+         8hjrHUCU+CLLJsmPW028QL06Hw99ec7h6ZrBZ78uQ14nueQ5WphHPHuQBdx9Wn4ymUgr
+         1VHdFAM47Mq2hMK43ofjAmldS9OPZ7qdZvyXUHFh+a91hqXAtXH1rSAxTTcFiYQnLAG4
+         eZ0CrC34D0c0dY5jHei6qsWzarmZSgHg9QKZpdkg+zikz/XgHhoc90vnTDAEayyP1fVn
+         fUQg==
+MIME-Version: 1.0
+X-Received: by 10.66.228.129 with SMTP id si1mr5555478pac.22.1431607415645;
+ Thu, 14 May 2015 05:43:35 -0700 (PDT)
+Message-ID: <047d7b11210377a79f05160a13a3@google.com>
+Date: Thu, 14 May 2015 12:43:35 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:zCzmO9fEt38=:oI4hwASvmr2BmfN7tMp//1o4Dm
+ L2tg4G51c00a+yPZPrbnbDFkiAGgs7wRYrBa96s/wgdh+OP/CINr2m6HXO7mp89AH581RY6YN
+ L03TOx7O8SBqSX6bpPWo/CC+7PaPOCJFscwa0aW3na/nKNay6qw52WtM7B5OSRuWIMnqvpyQz
+ ojuK4cen/BAWCQJRx0LXKyE4XjWiLwWx3CIBYypqrQNpuGh8BIIDtH+zC30Djx6gJRMKJ8Nfu
+ iYgnPc05GCGIoylSD/IOvRx4Pk5mKJqg0Wmz+9dNQxX7P8O3B5ODrBp3i/Oyb8HoLvrWTj8FO
+ Cdzp1oxZKEb+vdG/TfBf4JihIzq+APdE/C1w4vyf2i2QaXHfHORalyzIeuWQ/88XcQJiOtTtx
+ AoUMUn8tNztOwT9KGZJSijmkYJKGio5inWCl+u7nJrQU5sR+hCXsz09RvGbIayABKef0cfzD4
+ FMnbDaJY/5b2PPuE1eC2T0s0sWMZtd0ZAXNUE0z4McCCqfQP0csQ3iVUcYkLTvJ+lyKF+4/cA
+ wu+dJaPAviW9WSmsc39e+VcKzUoBaqKfwS38MeR+p+qOUFuDzdTfP8oKjrnPyyyzEXDmmvbEX
+ gU/cfZNnTA7MrvQAB14TB7l1c49mJNhw0XAyZzr2ef8fj+sw9Q5jHz8/mchvvt8D1PyAXo1y4
+ zNRt3tGwZqfELMDGEPwiZ9BLITIKKAMO5cRjinp8GcchB//Ep46SKY+vAR84jSzA9ZMpDEQYx
+ wjITOEv4GW+6XaY8BHoHCn6fyDkeAqRU4o63YcyTer6I/jzt4FgHdtPEYQKucNTVs7GoAQBFX
+ 9HWuZvMNf1+FqHreBK69TPkTQWYqiJrKnp8XDLBh2DlBeN8I6ymKD3T5K1zi+9cS4jGYy+Dxj
+ avSMZqyQlyOEXKltOpQKnXP56WBFyyQm5Md54CyRnuF5sJWb/ibva8AX6HYTlU/rB1QCRYyRx
+ ElOSNrFR7ZJiMnf4STUcUpy5GrjsuZw+NjewKKTzofcg6CvDdeuR2k2MK4sfY7PHyWGSLtbKZ
+ DrYj2hHAQ4156S9tuTfSmrUxkjdCzaFWfW9p/wEBcc1K9ZjIwWmPw3tMNh0Uu6gN0c1EXyc5q
+ F40ue+QGemTzOPEWIvE2/Y17EJ/X/4FbvoJkBKdZZHweQxgZsR/sskJfg6+QeK7gr8qbpnJBo
+ 4imb8dE13tOJSPz4B/xcNfGvTNdtbsKnWIktLFNVx2CV0A79cyd1vkKk6Gj+FrmnMjehdjxD3
+ WTwjh/ZRYrVvSVPeQuxY1IrGCmna51kTru02cppBg5EZ/Q6edaC0mfn8oAZfKZCo1n/sfxxJF
+ 5MxT
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttp://www.computer.org/csdl/mags/=
+so/2015/03/mso2015030023-abs.html&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBf=
+m2L50QWMu0UXvKFJn14c9eX9AEfNQ&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font siz=
+e=3D3 color=3D#1a0dab style=3D"text-decoration:underline">Drawing Conclusio=
+ns from <b>Linked Data </b>on the Web: The EYE Reasoner</font></a></h3><div=
+><font size=3D2 color=3D#006621>R Verborgh, J De Roo - IEEE Software, 2015<=
+/font></div><div><font size=3D2 color=3D#222222>ABSTRACT <b>Linked data </b=
+>represents each piece of data as a link between two things. It lets <br>so=
+ftware reasoners arrive at conclusions in a human-like way. This column dis=
+cusses how <br>the EYE reasoner exploits <b>linked data </b>and how industr=
+y is employing EYE.</font></div><br><h3 style=3D"font-weight:normal;margin:=
+0;font-size:medium;max-width:44.5em"><a href=3D"http://scholar.google.de/sc=
+holar_url?url=3Dhttp://link.springer.com/chapter/10.1007/978-3-319-16667-4_=
+5&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm0sbbPqY0tNmillhHIsoTMcfMMM9w&am=
+p;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"t=
+ext-decoration:underline">Semantic Recommender System for Touristic Context=
+ Based on <b>Linked Data</b></font></a></h3><div><font size=3D2 color=3D#00=
+6621>LC Rivera, LM Vilches-Bl=C3=A1zquez, M Torres-Ruiz&hellip; - Informati=
+on Fusion and  &hellip;, 2015</font></div><div><font size=3D2 color=3D#2222=
+22>Abstract The lack of personalization presented in touristic itineraries =
+that are offered by travel <br>agencies involve a little flexibility. Basic=
+ally, they are designed with the points of interest <br>(POIs) that have mo=
+re relevance in the area. On the other hand, there are POIs that have <b> .=
+..</b></font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:m=
+edium;max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=
+=3D"http://scholar.google.de/scholar_url?url=3Dhttps://www.iser.essex.ac.uk=
+/research/publications/working-papers/iser/2015-10.pdf&amp;hl=3Dde&amp;sa=
+=3DX&amp;scisig=3DAAGBfm1YfvNk88Li4_QWVtvpjqp6z6oUPQ&amp;nossl=3D1&amp;oi=
+=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:und=
+erline">Tax evasion and measurement error: An econometric analysis of surve=
+y data linked with tax records</font></a></h3><div><font size=3D2 color=3D#=
+006621>A Paulus - 2015</font></div><div><font size=3D2 color=3D#222222><b>.=
+..</b> Keywords: tax compliance, measurement error, <b>linked</b> <b>data</=
+b>, Estonia JEL codes: D31,<br>
+H26, H31 =E2=88=97Acknowledgements: The paper uses Estonian Social Survey 2=
+008 linked<br>
+with administrative tax records, made available by Statistics Estonia. <b>.=
+..</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttp://www.researchgate.net/profil=
+e/Igor_Miletic/publication/275954935_Linked_data_network_approach_to_ontolo=
+gy-based_data_sharing/links/554b16b30cf29f836c966f57.pdf&amp;hl=3Dde&amp;sa=
+=3DX&amp;scisig=3DAAGBfm1feLo6mOhAZ4JpQ88bTUf9k8-qcg&amp;nossl=3D1&amp;oi=
+=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:und=
+erline"><b>Linked data </b>network approach to ontology-based data sharing<=
+/font></a></h3><div><font size=3D2 color=3D#006621>I Miletic, Z Marjanovic,=
+ M Ljubicic</font></div><div><font size=3D2 color=3D#222222>Planning system=
+s, usually keep their data isolated and not readily available to the other =
+<br>systems. When an enterprise system needs to open data for external usag=
+e, it is usually <br>done using interface tables, Web services, or some kin=
+d of data exports. These <b> ...</b></font></div><br><p><hr noshade size=3D=
+1><font size=3D2 color=3D#222222>Dieser Google Scholar-Alert wird Ihnen von=
+ Google zur Verf=C3=BCgung gestellt.<br><br><a href=3D"http://scholar.googl=
+e.de/scholar_alerts?view_op=3Dcancel_alert_options&amp;email_for_op=3Derict=
+essenow%40web.de&amp;alert_id=3DAIfevv3NkPcJ&amp;hl=3Dde"><font color=3D#1a=
+0dab>Alert stornieren</font></a><br></font></div></body></html>

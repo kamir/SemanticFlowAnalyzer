@@ -1,0 +1,128 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.79.106.2 with SMTP id f2csp2010420ivc;
+        Mon, 6 Jul 2015 22:43:15 -0700 (PDT)
+X-Received: by 10.42.167.129 with SMTP id s1mr41738310icy.54.1436247790163;
+        Mon, 06 Jul 2015 22:43:10 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 32WabVRUKDMY4ot0xm3mxq354-z03q1xAs00sxq.o0yq3uo5q44qz088qn.pq@scholar-alerts.bounces.google.com designates 209.85.220.77 as permitted sender) smtp.mail=32WabVRUKDMY4ot0xm3mxq354-z03q1xAs00sxq.o0yq3uo5q44qz088qn.pq@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 32WabVRUKDMY4ot0xm3mxq354-z03q1xAs00sxq.o0yq3uo5q44qz088qn.pq@scholar-alerts.bounces.google.com designates 209.85.220.77 as permitted sender) client-ip=209.85.220.77;
+Received: by 10.64.126.98 with POP3 id mx2mf68864850ieb.0;
+        Mon, 06 Jul 2015 22:43:10 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 32WabVRUKDMY4ot0xm3mxq354-z03q1xAs00sxq.o0yq3uo5q44qz088qn.pq@scholar-alerts.bounces.google.com
+Received: from mail-pa0-f77.google.com ([209.85.220.77]) by mx-ha.web.de
+ (mxweb009) with ESMTPS (Nemesis) id 0MIjSy-1ZA9nH1JFY-002CU1 for
+ <erictessenow@web.de>; Tue, 07 Jul 2015 07:42:51 +0200
+Received: by pacsy3 with SMTP id sy3so894671pac.3
+        for <erictessenow@web.de>; Mon, 06 Jul 2015 22:42:49 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=7F+8pf6CJG4bHBkuTsVM4Rv1F/8fEgESnxMCG6T73cM=;
+        b=ezb/wg9IVzDNJoZHLCh0L3IfqkZ/OcapKa0bxNDxNXqa+0wiFOhmnUFjqIrGL5t5cU
+         MBiDuGtv6L70Lq/R2Fhpj3jDjcTmghuRlXeZTX+PPO0/piMw7nP2jCR3my++K748tPYe
+         DX8mf83OJ02zIJwcn3epufhB0RiesSTvrRnDzMTIs+sjR1M+Irfyx87vdx6mVKlyH81V
+         p11oTNkv9h57c4TlO9DahEsjVIBcaeoHUIV52KPCC75MwuOoLUno6Cs+fJ4O0aDT07JQ
+         Q0Ai+1s5BJOHkYvZ9NMYR5IA0R94W6DN+SE0eOlmmka78kR6w5vmdPtOp4/ihjX08omF
+         tdgw==
+MIME-Version: 1.0
+X-Received: by 10.68.174.98 with SMTP id br2mr3224260pbc.8.1436247769771; Mon,
+ 06 Jul 2015 22:42:49 -0700 (PDT)
+Message-ID: <047d7b86f5ee206fec051a427e6c@google.com>
+Date: Tue, 07 Jul 2015 05:42:49 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:03PcGOSHqts=:NT1Q/yRj7pxJ9cul5r3JIrJLH9
+ HDZ1KwkLJvyCVUzapHwQ8goUleurdzCpTiF9/InJT+C8DIz90AuH4CouijGa3q01WcFc29/D+
+ ovMWsewBBTqbjk0suLFEuvcRDcrEkwrOIFwCEVOs/CrsNc6ra5GtjNoyxZwN5u78I5bpwz1Vg
+ TU0WpxGgBYA67ol1SFkDLoVRUmXUQD3F7vGDPg6g2tZ2FMQ8CbKSmAl8gnSlJSWilBMa+Rgdl
+ RAcNwPGzP46O+jhM938T9cp8hw9FMUaU3TDmVoR5CGirZjI4SZSDjZ1asdZTvZfEy6N+F/Hxd
+ vFsHIyfU81vyt3t+cPFaE1TUpnDzmmknB9SXd5fBrEKuyzH+csKOKtMD5AbHHBktHtGsj29e6
+ n71mflUAntLM3FQJQwJwCtjALMvpuTXm6Q+lNaE1680tNaOG5KZCEejZXS2yLOYoYAHAV0+cw
+ JPcoio08/zdCY29PyTk4g/LYO6PF9/JfnMQFlJxc8qrR4O8HjQJAEt3vuvVwHegSEsLZK1aWq
+ Hp4NROG83bmHIjUL82rMh7Vbt648oMFVr1eHUaxUwwAweXOpL0zS6OdEdyXLigp7l9UmQ2E7O
+ lvVTPlAwCPCa3PGIupYk7YsvuInBMhlhgaSImDwk97nf4Hp3rFe4AHfKvel8RsXSG0USkZ1i+
+ a7elQmAtBipnW/MeNhl8FVDk1cpYCMd5sw9zOo1+b3xGdtv3//KdVH/+YZUtvqPL99fWyVak9
+ ZFALXbEspTdE3PtG6cqHg3G5zZ4qslCbujzBNucLqNQpWBVN+vn3DGbiHKVCsxtPYbgm1tb6V
+ 0En3UwfGg3rOt6l5DwrctMBVthDRW8fT6pKSSzop6zv6aKm7uWRMVYI5ZvNt86fG9xePEM3xo
+ nm3k1qDwgukVJkF0q7LlcBRcaskVLp3SmJ3HE5T+3AhwiXmoTCHOTQDUOEOM6A4yETVT49CCu
+ D/d/jW2xEWLF8b8emUok6qcSy2uNCZ1RY2viRnGCTdumy1RzbL73b+YJ48NKNJwT+ccW2LFuV
+ qjGjZLtTcuMzbfz8la4VN47PLmQjqeQXGXwz0D6NLc7k1Ms7z2V0t7wpo9kYRahJ8q8cUjpaC
+ DjYLthsjtyNHBiolf7e0GRn2WVbwW/So4KTKy2tY8eZnHdXZFl1LZcUKo9QhepVFD2JsTwzN8
+ p0fYyV9PzHFGkbCUxD1vjiq7K3jp0Fv1g9YsC15fXBrdwuva4O9xV28Kas0lxYCY84m7CmGOz
+ hZ7W8UADqAoyE6aXVeMC9FHfM8aTSNVVzthyIuxUhACZlTyVZZ0Sug4ivj37AELscjpz57de3
+ 3J50/89P2Db+bctP/uGQZ8NucLYqyzbMe7Y1xAWw0lUZz3MuMfqgfmel9l35CXW5eEmpCyLAg
+ 4tuSyYHTIQAQYFu+AOLbHj0JQsxHZC/G566iCLwUCHLOWZFtuugdzLX1IEcjRWNpXYKzNztrz
+ QTPyFuquXxGq00nzr9+Gu73lYHRoirapAsQ9ECj6Oeq06iKOs3
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttp://injuryprevention.bmj.com/co=
+ntent/early/2015/07/01/injuryprev-2015-041561.short&amp;hl=3Dde&amp;sa=3DX&=
+amp;scisig=3DAAGBfm2eMFwWwp3EQlxg4ULvLA60hGWVyQ&amp;nossl=3D1&amp;oi=3Dscho=
+laralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:underline"=
+>Identification of incident poisoning, fracture and burn events using linke=
+d primary care, secondary care and mortality data from England: implication=
+s for research and  &hellip;</font></a></h3><div><font size=3D2 color=3D#00=
+6621>R Baker, LJ Tata, D Kendrick, E Orton - Injury Prevention, 2015</font>=
+</div><div><font size=3D2 color=3D#222222><b>...</b> With recent linkage of=
+ a large primary care database, the Clinical Practice Research Datalink<br>
+(CPRD), with secondary care and mortality data, we aimed to assess the util=
+ity of <b>linked</b> <b>data</b><br>
+for injury research and surveillance by examining recording patterns and co=
+mparing <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><a href=3D"http://scholar.google.de/scholar_url?url=3Dhtt=
+p://jucs.org/jucs_21_5/seeking_open_educational_resources/jucs_21_05_0679_0=
+711_piedra.pdf&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm11s0fV7LPjo8821Omm=
+YDT2nDgHpw&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0d=
+ab style=3D"text-decoration:underline">Seeking Open Educational Resources t=
+o Compose Massive Open Online Courses in Engineering Education An Approach =
+based on Linked Open Data</font></a></h3><div><font size=3D2 color=3D#00662=
+1>N Piedra, J Chicaiza, J L=C3=B3pez, E Tovar - Journal of Universal Comput=
+er Science, 2015</font></div><div><font size=3D2 color=3D#222222><b>...</b>=
+ The potential of this vast amount of resources is enormous. In this paper =
+an architecture<br>
+based on Semantic Web technologies and the <b>Linked</b> <b>Data</b> guidel=
+ines to support the<br>
+inclusion of open materials in massive online courses is presented. <b>...<=
+/b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><a href=3D"http://scholar.google.de/scholar_url?url=3Dhtt=
+p://dl.acm.org/citation.cfm%3Fid%3D2791364&amp;hl=3Dde&amp;sa=3DX&amp;scisi=
+g=3DAAGBfm2vmEzFB-7Cwid9rAchFEYAsDhY1Q&amp;nossl=3D1&amp;oi=3Dscholaralrt">=
+<font size=3D3 color=3D#1a0dab style=3D"text-decoration:underline">Batch ma=
+tching of conjunctive triple patterns over <b>linked data </b>streams in th=
+e internet of things</font></a></h3><div><font size=3D2 color=3D#006621>Y Q=
+in, QZ Sheng, NJG Falkner, A Shemshadi, E Curry - Proceedings of the 27th  =
+&hellip;, 2015</font></div><div><font size=3D2 color=3D#222222>Abstract The=
+ Internet of Things (IoT) envisions smart objects collecting and sharing da=
+ta at a <br>global scale via the Internet. One challenging issue is how to =
+disseminate data to relevant <br>consumers efficiently. This paper leverage=
+s semantic technologies, such as <b>Linked Data</b>, <b> ...</b></font></di=
+v><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;max-width:4=
+4.5em"><a href=3D"http://scholar.google.de/scholar_url?url=3Dhttp://ijpg.or=
+g/index.php/IJACSci/article/view/676&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAA=
+GBfm1RL-mUXc3PuxZc6kuVchuTQXybjA&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font =
+size=3D3 color=3D#1a0dab style=3D"text-decoration:underline">An Innovation =
+Strategy for Virtual Factories based on Open Innovation, Mobile Technology =
+and <b>Linked Data</b></font></a></h3><div><font size=3D2 color=3D#006621>R=
+ Willfort - International Journal of Advanced Computer Science, 2015</font>=
+</div><div><font size=3D2 color=3D#222222>Abstract The pace of technologica=
+l and social change profoundly impacts the manufacturing <br>and service in=
+dustry and determines an important driver for competitiveness. The EU Proje=
+ct <br>ComVantage aims at addressing the limitations of the existing manufa=
+cturing ICT <b> ...</b></font></div><br><p><hr noshade size=3D1><font size=
+=3D2 color=3D#222222>Dieser Google Scholar-Alert wird Ihnen von Google zur =
+Verf=C3=BCgung gestellt.<br><br><a href=3D"http://scholar.google.de/scholar=
+_alerts?view_op=3Dcancel_alert_options&amp;email_for_op=3Derictessenow%40we=
+b.de&amp;alert_id=3DAIfevv3NkPcJ&amp;hl=3Dde"><font color=3D#1a0dab>Alert s=
+tornieren</font></a><br></font></div></body></html>

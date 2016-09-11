@@ -1,0 +1,124 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.64.243.69 with SMTP id ww5csp122050iec;
+        Fri, 18 Apr 2014 21:09:17 -0700 (PDT)
+X-Received: by 10.50.61.146 with SMTP id p18mr8039302igr.38.1397880553844;
+        Fri, 18 Apr 2014 21:09:13 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 30exRUxUKDJIEy3A7wDw70DFE-9AD0B7K2AA270.yA80D4yF0EE09AII0x.z0@scholar-alerts.bounces.google.com designates 209.85.192.202 as permitted sender) smtp.mail=30exRUxUKDJIEy3A7wDw70DFE-9AD0B7K2AA270.yA80D4yF0EE09AII0x.z0@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 30exRUxUKDJIEy3A7wDw70DFE-9AD0B7K2AA270.yA80D4yF0EE09AII0x.z0@scholar-alerts.bounces.google.com designates 209.85.192.202 as permitted sender) client-ip=209.85.192.202;
+Received: by 10.50.56.193 with POP3 id c1mf660329igq.3;
+        Fri, 18 Apr 2014 21:09:12 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 30exRUxUKDJIEy3A7wDw70DFE-9AD0B7K2AA270.yA80D4yF0EE09AII0x.z0@scholar-alerts.bounces.google.com
+Received: from mail-pd0-f202.google.com ([209.85.192.202]) by mx-ha.web.de
+ (mxweb106) with ESMTPS (Nemesis) id 0LjHTX-1XDyer2TLL-00dW3L for
+ <erictessenow@web.de>; Sat, 19 Apr 2014 05:26:10 +0200
+Received: by mail-pd0-f202.google.com with SMTP id fp1so301214pdb.3
+        for <erictessenow@web.de>; Fri, 18 Apr 2014 20:26:09 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=I6JEkMfUwOoi0fzclbgSrQt8XRKY1Z5rvkR1tFvSA48=;
+        b=hek5iz55+ky/Mho3cpWAio92+u6YFLT3OFodO2qurjba8E4pKYnzp2T7r4k9e1DjcD
+         FHF2G7+tFf402TtmaYXIWGM4KBjVg2O1qG7Pf7qrlJIxRhgHXw8+YEUwEe0RGkCXaihe
+         2SiGGDJLItEU4swier8dkqVkZP9ASUtLfQbMaTJrarn74xXFtXCt4i+Pdw0kgIC6Qowr
+         fN0I9+9Q2ZGWXCsTEMmd4h5XZD0frJmX1JlfjUiV3Mdb9VNVLJ/0hiGmWFsxhWtx5dMo
+         jYLUfADJU/MugCljwuyg3s0IxJhUCdcnj7jA9sK8ahbh/LmnmuOEPq7Yw2IXt9B46bS0
+         f3OQ==
+MIME-Version: 1.0
+X-Received: by 10.66.102.36 with SMTP id fl4mr11962372pab.20.1397877969143;
+ Fri, 18 Apr 2014 20:26:09 -0700 (PDT)
+Message-ID: <047d7bd909d2ca492704f75cd33c@google.com>
+Date: Sat, 19 Apr 2014 03:26:09 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:Iem4pZY/zHg=:x+Slvx8aAiRJPAGjderMUri49U
+ yP2E2VtAHdvylvW8g3G8NqHiKav1GnpgYdLW6BfUyFrFbhIcLq97E2ybD1S4mWKn7Jv1hC1vI
+ 0qyyO1CDLxK3ZFAB6JHl8bgD2vYqktsp6Jk7FLmy4pPtIZkjYuZAyz3TGM9YpV6PjQpedkiYC
+ j9mvcyMxc+dZZTxvZUffbVLRXICIOYIRWSi1Y1kCtDYWrdXBC4FgZs1nImWCFD0bgx9ecELv+
+ u+4mXoW2S6NclfTKoIpVSewswMRz8pe3jw7sA+Nfwv8uwRXiq4SIdevy+0OaAC5Mz7od1Qgu5
+ moTSGN7ghXGqpVwmcrDZtuYv0xQxxKoBXfmdPjIiCTguOWK3LX/dVbDbz9tEuSbpTqxOKKhNQ
+ OzPOarlQYcBfMxSWB68bt6GMO1x5UXf6DqAEswZ9N0bpHFkPAh+MzaJz/VTkRpIuPfMLKNUnc
+ 3IVMgnUX8YeT16s6ndspTO5BRyeAFhVZ12HVQXbEWtOwBZxfqO7axpGHdYlwrifc2ixjeJcsk
+ kYMapqXNvE0gtfk6YYCIy7fJMKWy2o563NKDHcQf7v4Uixm5Txi9igbDHr2KEjL+zxBAUJlfj
+ 0PM3rr7l2ftayfyjMFJx9uJUXlSO1hJCZ+y/C8DU6S2bcfo/Q4/0zBY8s0BJ/hDrAo8SpkX16
+ Cma8vrHOK8Og2lecg0+jic1vOpaVXKAuiXPo8sKZ1AtGWIXtUWUFYY1vXn0LavVNFy+lP+qCk
+ 9go2wAvAU4OfbFmKnCn73G6xQ1fcmVVc46erAwPvDgUpR0srxJYUr/w4nW+2ANw37df5SiBPv
+ V9mwxVgbmvouVHCERdzjNLrdrfXsSTifKhDUwuV9oFehuNJos3wJJ9xw4mSl3UgXkFjz/PtMD
+ Cxb3U9FC84pO7q0zfA3AskQ5+p2ahQFo8gW3CI03JVF/9WoOl+gQjeNSPLBx670GGajjfDcqk
+ n6pvRJGQzQERgUnAzVMKVakrtmD52eIwpljoRJHQBlpEOcbRGV/DE1wGSTSMxLpOU0urWWmqI
+ BxoSPWOTRLugCNcdRTbHkEVQfsZm+u5jKS8LxYJnP4DDA4/O+lHQ1NdhfRnfGuAUcBux/WbSv
+ 5a5i56sL2NzpbPK7k6REdp/Bv5z8xD/TXwVjY8fFtR0lQ6461qPJ4xyKMXQro+Wq5LbwKv1HU
+ CBo/K0HjVM3uD3nxsPNh3pmO6bEAPQfa7r6+2bVxhvIxwEkLolMsZFgfkmzV8cg5ototOxKFW
+ NEoKxNz2o8veiNLclvknxbdvwix6Lm+zAhAv3jrXP/8NR6IFql7tXghNGzs/jzK7E3yLtRO0D
+ ABUz+wsRpG0iZ+D1A9+uFvHSfS+kED032WK7QEkUOAU25b5FMoAIdg2A2I6z32J213jy6dmC3
+ iNX+y26wSFRjN2TVw==
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D=
+2 color=3D#1122cc>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_=
+url?hl=3Dde&amp;q=3Dhttp://www.ics.forth.gr/isl/X-Link/files/fafalios_2014_=
+wims.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm0Du6NV-ccJAH6y8b13_2t2LgrKlw&amp;oi=
+=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D"text-decoration:und=
+erline">Configuring Named Entity Extraction through Real-Time Exploitation =
+of <b>Linked Data</b></font></a></h3><div><font size=3D2 color=3D#009933>P =
+Fafalios, M Baritakis, Y Tzitzikas - 2014</font></div><div><font size=3D2 c=
+olor=3D#222222>ABSTRACT Named Entity Extraction is the process of identifyi=
+ng entities (like persons, <br>locations, organizations, etc.) in texts and=
+ linking them to related semantic resources. This <br>task is useful in sev=
+eral applications, eg for question answering, annotating documents, <b> ...=
+</b></font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:med=
+ium;max-width:44.5em"><a href=3D"http://scholar.google.de/scholar_url?hl=3D=
+de&amp;q=3Dhttp://ci.nii.ac.jp/naid/110009752428/&amp;sa=3DX&amp;scisig=3DA=
+AGBfm0oP5o7jsR-YuKq-dtf3rDnBnIdyQ&amp;oi=3Dscholaralrt"><font size=3D3 colo=
+r=3D#1122cc style=3D"text-decoration:underline">Music Recommender Adapting =
+Implicit Context Usingrenso&#39;Relation among <b>Linked Data </b>(Preprint=
+)</font></a></h3><div><font size=3D2 color=3D#009933>W Mian, K Takahiro, S =
+Yuichi, N Hiroyuki, T Yasuyuki&hellip; - =E6=83=85=E5=A0=B1=E5=87=A6=E7=90=
+=86=E5=AD=A6=E4=BC=9A=E8=AB=96=E6=96=87=E8=AA=8C, 2014</font></div><div><fo=
+nt size=3D2 color=3D#222222>=E6=8A=84=E9=8C=B2 The existing music recommend=
+ation systems rely on user&#39;s contexts or content analysis <br>to satisf=
+y the users&#39; music playing needs. They achieved a certain degree of suc=
+cess and <br>inspired future researches to get more progress. However, a co=
+ld start problem and the <b> ...</b></font></div><br><h3 style=3D"font-weig=
+ht:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D2 color=
+=3D#1122cc>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_url?hl=
+=3Dde&amp;q=3Dhttp://www.noterik.nl/wp-content/uploads/2014/04/submission-1=
+1-version-of-feb-10-20_29.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm2kK9ooe_VuJ5SZ0=
+R_6NYLWcUFjmQ&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D=
+"text-decoration:underline">Interaction Design and User Needs for TV Broadc=
+asts Enriched with Linked Open Data</font></a></h3><div><font size=3D2 colo=
+r=3D#009933>LP Romero, M Hildebrand, LB Baltussen, L Hardman&hellip;</font>=
+</div><div><font size=3D2 color=3D#222222><b>...</b> <b>Linked</b> <b>Data<=
+/b> and semantic technologies enable broadcasters to achieve added value fo=
+r their<br>
+content at low cost through the re- use of existing metadata. <b>...</b> Fo=
+r this, LinkedTV has developed<br>
+a dedicated ontology3 and re-uses <b>Linked</b> <b>Data</b> URIs for the en=
+tity identifiers. <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://www.semantic-web-=
+journal.net/system/files/swj658.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm1SB3QXTHH=
+K1IgGRzJQylxtGyhj-g&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc st=
+yle=3D"text-decoration:underline">SISSVoc: A <b>Linked Data </b>API for SKO=
+S vocabularies</font></a></h3><div><font size=3D2 color=3D#009933>SJD Coxa,=
+ J Yua, T Rankineb</font></div><div><font size=3D2 color=3D#222222>Abstract=
+. The Spatial Information Services Stack Vocabulary Service (SISSVoc) is a =
+<b>Linked </b><br><b>Data </b>API for publishing vocabularies. SISSVoc prov=
+ides a RESTful interface via a set of URI <br>patterns that are aligned wit=
+h SKOS. This provides a standard web interface to any <b> ...</b></font></d=
+iv><br><p><hr noshade size=3D1><font size=3D2 color=3D#222222>Dieser Google=
+ Scholar-Alert wird Ihnen von Google zur Verf=C3=BCgung gestellt.<br><br><a=
+ href=3D"http://scholar.google.de/scholar_alerts?view_op=3Dcancel_alert_opt=
+ions&amp;email_for_op=3Derictessenow%40web.de&amp;alert_id=3DAIfevv3NkPcJ&a=
+mp;hl=3Dde"><font color=3D#1122cc>Alert stornieren</font></a><br></font></d=
+iv></body></html>

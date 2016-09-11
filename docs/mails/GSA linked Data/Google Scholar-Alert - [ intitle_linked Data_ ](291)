@@ -1,0 +1,162 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.140.131.5 with SMTP id 5csp38957qhd;
+        Tue, 9 Dec 2014 03:17:04 -0800 (PST)
+X-Received: by 10.224.112.2 with SMTP id u2mr4277961qap.14.1418123822780;
+        Tue, 09 Dec 2014 03:17:02 -0800 (PST)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3idmGVBUKDAIuejqnctcngtvu-pqtgrn0iqqing.eqogtkevguugpqyygd.fg@scholar-alerts.bounces.google.com designates 209.85.216.202 as permitted sender) smtp.mail=3idmGVBUKDAIuejqnctcngtvu-pqtgrn0iqqing.eqogtkevguugpqyygd.fg@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3idmGVBUKDAIuejqnctcngtvu-pqtgrn0iqqing.eqogtkevguugpqyygd.fg@scholar-alerts.bounces.google.com designates 209.85.216.202 as permitted sender) client-ip=209.85.216.202;
+Received: by 10.229.170.73 with POP3 id c9mf9370217qcz.39;
+        Tue, 09 Dec 2014 03:17:02 -0800 (PST)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3idmGVBUKDAIuejqnctcngtvu-pqtgrn0iqqing.eqogtkevguugpqyygd.fg@scholar-alerts.bounces.google.com
+Received: from mail-qc0-f202.google.com ([209.85.216.202]) by mx-ha.web.de
+ (mxweb009) with ESMTPS (Nemesis) id 0LcmDX-1XWQij1Il5-00k68i for
+ <erictessenow@web.de>; Tue, 09 Dec 2014 12:14:18 +0100
+Received: by mail-qc0-f202.google.com with SMTP id i17so16448qcy.3
+        for <erictessenow@web.de>; Tue, 09 Dec 2014 03:14:17 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=yUysCVeFhwneN8juetxorX7eDj+Esdjyj7epMwFo93M=;
+        b=SSChcMKuSiHxRH4jUqT5FfkNn6ilBpb0OLX3Wb4yTJjlxB/X+9dQj+rr8zvYCLdjdy
+         527279gNyc8WhwPUeLlDYczjmKqGCxCAEfUt4jRdEKGI1lSeOc3E69JPOV3eoZ3Mp5Wc
+         09+68d4aZWTMV8nbslENNmaO1hRREZPhS7rY07I40DiEnjh6rbJ54vHGDzu1T5R1HoMN
+         CL7PH5puHiJmwl04XpdA/3Le8ptObtGvvky2blgheu3uN/BYL5O2Zz5ubZMBjF0Y9kxW
+         hPtXywgdFyPvpRwT2Ar9s1y9hqNu6+3FwHlluWSLcbKnsTfyynUVQWBSLbf2f5OsJ1lh
+         2AWw==
+MIME-Version: 1.0
+X-Received: by 10.236.34.161 with SMTP id s21mr33903723yha.40.1418123657047;
+ Tue, 09 Dec 2014 03:14:17 -0800 (PST)
+Message-ID: <001a11c1c22cd36de50509c6a44b@google.com>
+Date: Tue, 09 Dec 2014 11:14:17 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:U3bTADr2Xq0=:JmZMQWcRasevla+TlQu2uJUVMB
+ bLMD8mZ5+5BbAeVzrcEjew+cZjXhBGi3K7ivjFTMSrBs6PL1Yq3nZl9ym1JHVIn2AeFOPdii7
+ Fh50XBJk5P69HlLQ6RDzZUqFga4PjuYwJfQKbIoWWMyioic/Q0INfWsEDd4u4EUkL9alkntS7
+ lzficoc93kOns421enHiLycMgnBkW8ifmAaZYZF2RnFgku/xBxgs/HG3gvkd9Bi4YJOhgiUL/
+ pV2dlyOmHVoE76wTBybavlLXHu94gxo1cPNeY9R8/dKrBVmFw3eLsIWX5UPFS0TS+f/wmQjh8
+ F6ybEjD8Lnc3hqBJLsDHGMgd4Avnpbrf15p0ZL5/AulFZlmgd/4cBZfcJw9Fi98BchiOAveRI
+ gNuGm/tdocLaKajSsZFfRH4qYZmEgKy/6JdcJ81pByMY53qGIMpCdsVK1prntg9cW4QDBWkRH
+ N6uH10A5N9HokmaFtXiKA/ThMmbdNr1TzqwcEr0rV0uXHBzAS0yLdZfQSqlVKDuOt/ZG0i4e4
+ QALX45JqY6xM5uiceskfQtvbgF/mgLmAVcaUBSjVbD23GWp0D2k2BFiZJRsR63h4Jvh76uVWk
+ O2DFhf/ofGtK6EQmHnxqd0d9RMgz1jrRJVTuhK7c8QBsEpSA7avoB4cuvrtkM7oTjrCA91ril
+ +o7UGFyZTlhbMeig/K5oGJmQIeLv+qZLdAxTpjJz/x3ZxepHU21Jl3cTDEGXi5oDbjGYXwybC
+ JGEqIIas7rVqQD8rgFUC7cO3w1gQ3pOPm6Kpl8Q3QIb0HTWLXlPXeEdhiZBEJ/ToLaps7HxTW
+ 6ExV1amJBxZiWVJ+CS/H5XFQQED+wsBkkihApiKXQZ8HXPW4toa+x570Fe5TP68z6QTsC9dgR
+ DttJSJdvLjORfs19/G6mbdJOT9PK0LT1It/Ei1MDvd7SL2LLq1WNxV/8L5LE0ZiEYCVXiEilF
+ 9gnv03QYwrXgFAcDd5Z+x2NCyfj6x0A5etc5b0IMVYwQemYZnJ2F4EzZ65g8oI2g43sr0nsvC
+ QyyOYO3pSzXOcDT/1jX7LhYZXbuIdq2NdGzQriLlm6dr32hi5jBG9UEi4007WbL2w+fDUTjpU
+ fNzZC4Xeh9T5sjgmMwqvQAKWTLj+p7VODNhoHHTVPcFIC8/XL3PZAl6pqUQpZjOXWbhBZMTHL
+ YHUqDpERx+tTs1KrAIh8a0TFseqpGC1KKdgPyPFXGQcAL7CLjqBOiosAiqLSPyX3IRd8v/hIr
+ Yho3imxtmF/4Fz/DaSf/lWe1P8IeRSBmK4qUqSz3B9vCoqFrGPjU0auTtGpVqekfznDQD79nD
+ YAfY
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D=
+2 color=3D#1a0dab>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_=
+url?hl=3Dde&amp;q=3Dhttp://ldlab.ifs.tuwien.ac.at/sites/default/files/paper=
+s/DATA2014_paper.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm3C3kg8KqLZN825oAd5NUh9wM=
+NUyA&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-dec=
+oration:underline">Widget-based Exploration of Linked Statistical Data Spac=
+es</font></a></h3><div><font size=3D2 color=3D#006621>BL Do, TD Trinh, P We=
+tz, A Anjomshoaa, E Kiesling&hellip; - &hellip;  International Conference o=
+n &hellip;, 2014</font></div><div><font size=3D2 color=3D#222222><b>...</b>=
+ Keywords: Statistical Data, RDF Data Cube Vocabulary, Widget, Mashup, <b>L=
+inked</b> <b>Data</b> <b>...</b><br>
+Statistical data becomes much more useful when published as <b>Linked</b> <=
+b>Data</b>, which<br>
+can be consumed and manipulated without proprietary tools. <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&a=
+mp;q=3Dhttp://www.sciencedirect.com/science/article/pii/S0950705114004225&a=
+mp;sa=3DX&amp;scisig=3DAAGBfm3_mlODyvjhJdIkR7tAJJksTwORCA&amp;oi=3Dscholara=
+lrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:underline">Ali=
+gning ontologies with subsumption and equivalence relations in <b>linked da=
+ta</b></font></a></h3><div><font size=3D2 color=3D#006621>N Zong, S Nam, JH=
+ Eom, J Ahn, H Joe, HG Kim - Knowledge-Based Systems, 2014</font></div><div=
+><font size=3D2 color=3D#222222>Abstract With the profusion of RDF resource=
+s and <b>Linked Data</b>, ontology alignment has <br>gained significance in=
+ providing highly comprehensive knowledge embedded in disparate <br>sources=
+. Ontology alignment, however, in Linking Open Data (LOD) has traditionally=
+ <b> ...</b></font></div><br><h3 style=3D"font-weight:normal;margin:0;font-=
+size:medium;max-width:44.5em"><a href=3D"http://scholar.google.de/scholar_u=
+rl?hl=3Dde&amp;q=3Dhttp://www.archipel.uqam.ca/id/eprint/6398&amp;sa=3DX&am=
+p;scisig=3DAAGBfm3clSpRkZ2uULSFKsiokgYW4U__Ww&amp;oi=3Dscholaralrt"><font s=
+ize=3D3 color=3D#1a0dab style=3D"text-decoration:underline">Inferring missi=
+ng schema from <b>linked data </b>using formal concept analysis (FCA)</font=
+></a></h3><div><font size=3D2 color=3D#006621>R Mehri-Dehnavi - 2014</font>=
+</div><div><font size=3D2 color=3D#222222>Avec l&#39;augmentation massive d=
+e la quantit=C3=A9 de donn=C3=A9es disponibles sur le web, la d=C3=A9tectio=
+n <br>et l&#39;analyse d&#39;information dans le contenu web deviennent tr=
+=C3=A8s rentables. Le d=C3=A9ploiement <br>des donn=C3=A9es structur=C3=A9e=
+s fond=C3=A9 sur les technologies du Web s=C3=A9mantique a augment=C3=A9 de=
+ <b> ...</b></font></div><br><h3 style=3D"font-weight:normal;margin:0;font-=
+size:medium;max-width:44.5em"><a href=3D"http://scholar.google.de/scholar_u=
+rl?hl=3Dde&amp;q=3Dhttp://it-trends.kdu.edu.ua/materials/inweb.pdf%23page%3=
+D32&amp;sa=3DX&amp;scisig=3DAAGBfm1ImsPS45H9rweIGKxIr5cSHngA7g&amp;oi=3Dsch=
+olaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:underline=
+">DEVELOPMENT OF SPECIAL SEARCH SYSTEM BASED ON <b>LINKED DATA </b>APPROACH=
+</font></a></h3><div><font size=3D2 color=3D#006621>VA Tertyshnyi, SS Shche=
+rbak - First international forum =C2=ABIT-Trends: big data, artificial  &he=
+llip;, 2014</font></div><div><font size=3D2 color=3D#222222>Among the list =
+of information system users requirements, one of the most important is a <b=
+r>quick, intuitive for the user and efficient search of information resourc=
+es. Currently, it is <br>necessary to pay attention to the dynamic growth o=
+f the amount of information, data <b> ...</b></font></div><br><h3 style=3D"=
+font-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=
+=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"http://scholar.google.de/schol=
+ar_url?hl=3Dde&amp;q=3Dhttp://it-trends.kdu.edu.ua/materials/inweb.pdf%23pa=
+ge%3D26&amp;sa=3DX&amp;scisig=3DAAGBfm19kptSY_zdhOZeaiEY0B7UH4dBeg&amp;oi=
+=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:und=
+erline">ABOUT ASPECTS OF AUTOMATED NATURAL LANGUAGE PROCESSING BASED ON <b>=
+LINKED DATA </b>APPROACH</font></a></h3><div><font size=3D2 color=3D#006621=
+>YA Batanova - First international forum =C2=ABIT-Trends: big data, artific=
+ial  &hellip;, 2014</font></div><div><font size=3D2 color=3D#222222>Web con=
+tains a huge amount of information, from daily news and to the information =
+on the <br>latest ending researches. Semantic Web is an extension of the cu=
+rrent Web in which <br>information is clear, makes sense, and gives the bes=
+t possible interaction between <b> ...</b></font></div><br><h3 style=3D"fon=
+t-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"http=
+://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://search.ieice.org/bi=
+n/index.php%3Fcategory%3DD%26lang%3DE%26vol%3DJ97-D%26num%3D12%26abst%3Dj&a=
+mp;sa=3DX&amp;scisig=3DAAGBfm1hUnMmoZ9ojjwCg7wF44Ln0xgTVg&amp;oi=3Dscholara=
+lrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:underline">&he=
+llip;  of English by JapaneseDynamic Macro-based Heuristic Planning through=
+ Action Relationship AnalysisRandom Forest Algorithm for <b>Linked Data </b=
+>Using a Parallel  &hellip;</font></a></h3><div><font size=3D2 color=3D#006=
+621>H KANAMORI, T TOMOTO, Y KOMETANI, T AKAKURA</font></div><div><font size=
+=3D2 color=3D#222222><b>...</b> Sachio HIROKAWA. Summary | Full Text(in Jap=
+anese):PDF. Random Forest Algorithm<br>
+for <b>Linked</b> <b>Data</b> Using a Parallel Processing Environment Dongk=
+yu Jeon Wooju Kim.<br>
+Summary | Full Text(in Japanese):PDF. Recommender <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://www.poliba.it/Did=
+attica/docs/scorepoliba2014_submission_43.pdf&amp;sa=3DX&amp;scisig=3DAAGBf=
+m16X6_1t2JdvFIiNzR5grs2qFveXA&amp;oi=3Dscholaralrt"><font size=3D3 color=3D=
+#1a0dab style=3D"text-decoration:underline">Large Scale Content-based Recom=
+mendation with Linked Open Data</font></a></h3><div><font size=3D2 color=3D=
+#006621>VC Ostuni</font></div><div><font size=3D2 color=3D#222222><b>...</b=
+> In 7th ACM Conference on Recommender Systems (RecSys 2013). ACM, ACM Pres=
+s, 2013.<br>
+4. Vito Claudio Ostuni, Tommaso Di Noia, Roberto Mirizzi, and Eugenio Di Sc=
+iascio. A <b>linked</b><br>
+<b>data</b> recommender system using a neighborhood-based graph kernel. <b>=
+...</b>=20
+</font></div><br><p><hr noshade size=3D1><font size=3D2 color=3D#222222>Die=
+ser Google Scholar-Alert wird Ihnen von Google zur Verf=C3=BCgung gestellt.=
+<br><br><a href=3D"http://scholar.google.de/scholar_alerts?view_op=3Dcancel=
+_alert_options&amp;email_for_op=3Derictessenow%40web.de&amp;alert_id=3DAIfe=
+vv3NkPcJ&amp;hl=3Dde"><font color=3D#1a0dab>Alert stornieren</font></a><br>=
+</font></div></body></html>

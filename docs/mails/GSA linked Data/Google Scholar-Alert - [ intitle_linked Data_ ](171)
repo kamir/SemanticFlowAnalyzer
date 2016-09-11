@@ -1,0 +1,126 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.64.243.69 with SMTP id ww5csp177766iec;
+        Tue, 29 Apr 2014 03:04:51 -0700 (PDT)
+X-Received: by 10.50.28.84 with SMTP id z20mr29468004igg.0.1398765889786;
+        Tue, 29 Apr 2014 03:04:49 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3iG1fUxUKDIExhmtqfwfqjwyx-stwjuq3lttlqj.htrjwnhyjxxjst11jg.ij@scholar-alerts.bounces.google.com designates 209.85.160.202 as permitted sender) smtp.mail=3iG1fUxUKDIExhmtqfwfqjwyx-stwjuq3lttlqj.htrjwnhyjxxjst11jg.ij@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3iG1fUxUKDIExhmtqfwfqjwyx-stwjuq3lttlqj.htrjwnhyjxxjst11jg.ij@scholar-alerts.bounces.google.com designates 209.85.160.202 as permitted sender) client-ip=209.85.160.202;
+Received: by 10.64.207.164 with POP3 id lx4mf3109612iec.2;
+        Tue, 29 Apr 2014 03:04:48 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3iG1fUxUKDIExhmtqfwfqjwyx-stwjuq3lttlqj.htrjwnhyjxxjst11jg.ij@scholar-alerts.bounces.google.com
+Received: from mail-yk0-f202.google.com ([209.85.160.202]) by mx-ha.web.de
+ (mxweb102) with ESMTPS (Nemesis) id 0M4FRP-1WvuQ61dPX-00rphO for
+ <erictessenow@web.de>; Tue, 29 Apr 2014 11:14:49 +0200
+Received: by mail-yk0-f202.google.com with SMTP id 9so139713ykp.3
+        for <erictessenow@web.de>; Tue, 29 Apr 2014 02:14:48 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=j0d5yeabOcXuFBvwDYkKuuNTTJ0mgCDEbCPAQBpz61c=;
+        b=hasC/3P3sgF9MCnu+P+0CuqGtkMrOg0pqpiuWIQGjLpcfzqezAHGLE58HDlmltAmuH
+         gkps1tUxKIgY4viYdh7opYgZDqeEDf+SUERZ7K+LiHB9t5Nr410nD8b4jPm8qqYFuSb9
+         C4oaS30O8ExOk33BndYJ2jvxFbkxYPaB06x2geGHc3vcZY/jAhH9cuMk9Bd+r47bQ9wD
+         aAu0+/uwxDAMM+WIkYYgCTqVnsgVygaI14xs/i3A9X0xeDM6oVE9YXgKDZLnGdrE2i+i
+         R/ga+QPl3RdhQpswYvS8cJq2k2C1MHg0uX0d2/+yxEItIgS3mPmvyp53p7weAwXOc8g7
+         +X5g==
+MIME-Version: 1.0
+X-Received: by 10.58.141.200 with SMTP id rq8mr15893287veb.31.1398762888293;
+ Tue, 29 Apr 2014 02:14:48 -0700 (PDT)
+Message-ID: <047d7b5d322e14ee0a04f82addc8@google.com>
+Date: Tue, 29 Apr 2014 09:14:48 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:j3dWjJWj3x0=:nFPowKxPwo60CXHS3Er68cjB24
+ CT/XEJ2tgjX566R1ZPzqEubVGKDMwH9weJEfOS36MjdbKYqjpKchiyNzLT2mQU5TVdyIYGJ9c
+ 2XL9W1yuoHfIKkWVzphc2eCDPgy6Vx6rjtfwdlVri/uw3+xVX9sNo1+p9X4dNchY300kCbrK+
+ 5tQVzPKDh09e/adZF7jvKzugf6s7K1B1Y3yXyVt6ZiElUA30ishw8RUyO/FcE44dVap8dTOmS
+ w+t2sOMWucksT9DDvzSfsIVpz8Se+r9siZN02Za8Z6CgqGMiYb4lN40YgatuOifY5YBRwF4kx
+ GxNLlC/jWFawdL6/aLfSlNxhYJmCJ4ZhwKrR/Y1UYdCPS2DfX95J05ZoipOHCpb5s4BUHI2sY
+ yFKaxjIVhTzUFsPC+P5LIHpQRBd4Gmj/aISDyYtmjp1fcoEYD0hB9HvGS15C+/6jsoxIqDu2s
+ oDasWTFZG6L2AkneN9arU4V3P/QJQ/toogMuZRFImtqVH4ZTBGooITBx+rEzG/LF7BF0u5Vex
+ JTtmL1pXdr2vLYAOYWBsz2ZNSB2rpLkL3VKNUzZ1m9TgaRRDw2B36GiiAYHE0S4EC5FBmQnXP
+ SRt59kb0Q+kKY0tl4vNNMfJF/sKw6Uf2uF/PuvUnh5hkIqh02XS2JGC9bajwtzPHcocL31J7S
+ aGCtX51sBwLorYFoh59ZT8Hs84NV8Sy4n3zAM4uj0zEslQJ77cIHjQOxuIHnrEoWfmgXahJk1
+ QNJq5DJ8ScBJSxd+TqQTfNiNyRcoy5QRFHA9ok+u+l2OQktEAXcNbkhiBHsWI8PBHmKYKjlSB
+ l3AZSKBGjQyyYx3djHGKrMuLV/kMAc6DxX+fb/EE/7V7bCiKsD2Xq+iV9huKuNPQiz75KxMjl
+ 10GWC9xK2oipKL9wX0VV+eEPkgBJXa8z+MXCO+0u/ap7pU8Kyrqwy69+L2pSZ4Rrb8CWId9h4
+ 8eiPS1XeN0CGz1eLvmqRgXD2sx/hRIzAgHKFsmn95K9a2Lum8+apTS77OEwIh/MRYe6HizKAt
+ VkzBuKgaxbErqbJnMir4noZ36tLSpUpJdOyOs+iuPJYmJ1CSS1/8FtzP5pfcOUq7c50+ghrhe
+ dYBnGbwFidQZozFp3MzMlh3jWQbRyDv9SKDP/HfldoNAhG0Bk1X7we/2IF7Ng3fg/bzl+T579
+ IFqHp0Z0O7w5GnrnM5+3eexDLGMNRrWTW2YUeoRKmGnw==
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D=
+2 color=3D#1122cc>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_=
+url?hl=3Dde&amp;q=3Dhttp://openpraxis.org/index.php/OpenPraxis/article/down=
+load/122/pdf&amp;sa=3DX&amp;scisig=3DAAGBfm2caI7E13D-RQ-3_6hdTKVyarcxqA&amp=
+;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D"text-decoration:=
+underline">An Architecture based on <b>Linked Data </b>technologies for the=
+ Integration and reuse of OER in MOOCs Context</font></a></h3><div><font si=
+ze=3D2 color=3D#009933>N Piedra, JA Chicaiza, J L=C3=B3pez, E Tovar - Open =
+Praxis, 2014</font></div><div><font size=3D2 color=3D#222222>Abstract The <=
+b>Linked Data </b>initiative is considered as one of the most effective alt=
+ernatives for <br>creating global shared information spaces, it has become =
+an interesting approach for <br>discovering and enriching open educational =
+resources data, as well as achieving <b> ...</b></font></div><br><h3 style=
+=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font si=
+ze=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"http://scholar.google.de/sch=
+olar_url?hl=3Dde&amp;q=3Dhttp://www.aclweb.org/anthology/W/W14/W14-06.pdf%2=
+3page%3D19&amp;sa=3DX&amp;scisig=3DAAGBfm0WgUcECBq6t_6OJSwVt3uW5_WGyw&amp;o=
+i=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D"text-decoration:un=
+derline">How to semantically relate dialectal Dictionaries in the <b>Linked=
+ Data </b>Framework</font></a></h3><div><font size=3D2 color=3D#009933>T De=
+clerck, E Wandl-Vogt - EACL 2014, 2014</font></div><div><font size=3D2 colo=
+r=3D#222222>Abstract We describe on-going work towards publishing language =
+resources included in <br>dialectal dictionaries in the Linked Open Data (L=
+OD) cloud, and so to support wider access <br>to the diverse cultural data =
+associated with such dictionary entries, like the various <b> ...</b></font=
+></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;max-wi=
+dth:44.5em"><font size=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"http://s=
+cholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://clld.org/docs/ldl2014/m=
+ain.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm2C8MKrgGkGBLJfQb6ofYv_B_WVTw&amp;oi=
+=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D"text-decoration:und=
+erline">The Cross-Linguistic <b>Linked Data </b>project</font></a></h3><div=
+><font size=3D2 color=3D#009933>R Forkel</font></div><div><font size=3D2 co=
+lor=3D#222222>Abstract The Cross-Linguistic <b>Linked Data </b>project (CLL=
+D=E2=80=93http://clld. org) hel ps record the <br>world&#39;s language dive=
+rsity heritage by establishing an interoperable data publishing <br>infrast=
+ructure. I describe the project and the environment it operates in, with an=
+ emphasis <b> ...</b></font></div><br><h3 style=3D"font-weight:normal;margi=
+n:0;font-size:medium;max-width:44.5em"><font size=3D2 color=3D#1122cc>[PDF]=
+</font> <a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhtt=
+p://www.dblab.ntua.gr/~bikakis/papers/synopsViz.pdf&amp;sa=3DX&amp;scisig=
+=3DAAGBfm2QCyt2kLjaVq-CFoippGR9OKLKAg&amp;oi=3Dscholaralrt"><font size=3D3 =
+color=3D#1122cc style=3D"text-decoration:underline">rdf: SynopsViz=E2=80=93=
+A Framework for Hierarchical <b>Linked Data </b>Visual Exploration and Anal=
+ysis</font></a></h3><div><font size=3D2 color=3D#009933>N Bikakis, MSG Papa=
+stefanatos</font></div><div><font size=3D2 color=3D#222222>Abstract. The pu=
+rpose of data visualization is to offer intuitive ways for information perc=
+eption <br>and manipulation, especially for non-expert users. The Web of Da=
+ta has realized the <br>availability of a huge amount of datasets. However,=
+ the volume and heterogeneity of <b> ...</b></font></div><br><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://wrd.ir/Linked%252=
+0data&amp;sa=3DX&amp;scisig=3DAAGBfm0sKNDbIDd_c1mecdBnCZ9ZGiH9eQ&amp;oi=3Ds=
+cholaralrt"><font size=3D3 color=3D#1122cc style=3D"text-decoration:underli=
+ne"><b>Linked data</b></font></a></h3><div><font size=3D2 color=3D#009933>E=
+UOD Portal</font></div><div><font size=3D2 color=3D#222222>In computing, <b=
+>linked data </b>(often capitalized as <b>Linked Data</b>) describes a meth=
+od of <br>publishing structured data so that it can be interlinked and beco=
+me more useful. It builds <br>upon standard Web technologies such as HTTP, =
+RDF and URIs, but rather than using <b> ...</b></font></div><br><p><hr nosh=
+ade size=3D1><font size=3D2 color=3D#222222>Dieser Google Scholar-Alert wir=
+d Ihnen von Google zur Verf=C3=BCgung gestellt.<br><br><a href=3D"http://sc=
+holar.google.de/scholar_alerts?view_op=3Dcancel_alert_options&amp;email_for=
+_op=3Derictessenow%40web.de&amp;alert_id=3DAIfevv3NkPcJ&amp;hl=3Dde"><font =
+color=3D#1122cc>Alert stornieren</font></a><br></font></div></body></html>

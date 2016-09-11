@@ -1,0 +1,127 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.140.140.136 with SMTP id 130csp48080qhm;
+        Fri, 14 Nov 2014 23:52:01 -0800 (PST)
+X-Received: by 10.140.101.68 with SMTP id t62mr16906064qge.92.1416037919702;
+        Fri, 14 Nov 2014 23:51:59 -0800 (PST)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3av9mVBUKDK0fPUbYNeNYRegf-abeRcYlTbbTYR.PbZReVPgRffRabjjRO.QR@scholar-alerts.bounces.google.com designates 209.85.216.201 as permitted sender) smtp.mail=3av9mVBUKDK0fPUbYNeNYRegf-abeRcYlTbbTYR.PbZReVPgRffRabjjRO.QR@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3av9mVBUKDK0fPUbYNeNYRegf-abeRcYlTbbTYR.PbZReVPgRffRabjjRO.QR@scholar-alerts.bounces.google.com designates 209.85.216.201 as permitted sender) client-ip=209.85.216.201;
+Received: by 10.229.170.73 with POP3 id c9mf1060151qcz.35;
+        Fri, 14 Nov 2014 23:51:59 -0800 (PST)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3av9mVBUKDK0fPUbYNeNYRegf-abeRcYlTbbTYR.PbZReVPgRffRabjjRO.QR@scholar-alerts.bounces.google.com
+Received: from mail-qc0-f201.google.com ([209.85.216.201]) by mx-ha.web.de
+ (mxweb001) with ESMTPS (Nemesis) id 0MMl4x-1XujZM42c3-008e36 for
+ <erictessenow@web.de>; Sat, 15 Nov 2014 08:23:24 +0100
+Received: by mail-qc0-f201.google.com with SMTP id l6so1323080qcy.2
+        for <erictessenow@web.de>; Fri, 14 Nov 2014 23:23:22 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=7aadsUAG9hVNyQu8ZsuLKRjNMhMzZ+3F2/9HKaorEfE=;
+        b=SlSDwlSlZ+bD3E6Pl0oKWHuec2J12ca2qbrMurEosAtG+5hi4/QNmn9YQGuZmVyc6M
+         GlewEhJmcZFX7GwBoorwedRN8P8UkyACdl9hlgLSsOZ3yA7PWbiWWmN6k1Fjqlh41zYT
+         KDJ8LOC4rHY0MKwSU+5EWoZA/O0hv78vMCsbCqj37A6TuEVa0d1n+c2iqD0qCvsuITCz
+         YuTCnbKs3K4TKZ7lhXG0LRGZV0qqlgnm2+f9Tq3bdjaIKMVC5uH2Dlb+XJpcvkTdQfMa
+         Rh2SCAHQTWzYTAfFNu/Yf5yoYeSKrtZEM6PJirhJ5P+rcAZDtqxVP4nsXsGh0WefJStC
+         2x9Q==
+MIME-Version: 1.0
+X-Received: by 10.236.62.162 with SMTP id y22mr54438567yhc.38.1416036202918;
+ Fri, 14 Nov 2014 23:23:22 -0800 (PST)
+Message-ID: <089e0115f5c6dd31a50507e09e9d@google.com>
+Date: Sat, 15 Nov 2014 07:23:22 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:ZKPxPxETUQE=:JGKfZvKEhAVkwCsYqKefVHklIx
+ fp/qX2xgBlCOyMu3IwFdRqJHKJZJlNiv6Jlz41uzV1Hg7XuUdC+OoiVYlnuMVKPj1AozIpdLT
+ sc0hVgq6FMr+eubg1kezUOJGWkiI+2zYzz4KSuxfNwqqeUIMvEj+NmgweYOOcobBATZ+PuGro
+ ggSeb+DxzOjOmQPZAzJJ43/jxDNXzvMpiVQ+9bQ/dvyv0vNqyAkFyrW3fhMf930KCJI67fPBY
+ Oh702SqFPW6GZNUtiUZdBwiC7eyWxZ742qmZraQ/LMNG8JHYN1nTKy7HapCRH4DlMPf7IfDnO
+ 69WDB4Q80a176LMJPOepBLlCbzR1U/0n/ZOoOIX1LhkjjnJvVZlOjRYHqMjcyLIAdQERzddf7
+ F5lNMI0aYd/2aZLa8IYR+USvTB8N0dO9KaUQNSzW6jRKCRshOmoGD0Q7Cp1U7SMP9YmILGwKX
+ QCId8lfQU7mnBrOCSGQEhWCtPghEnMZhnw613iht3TTKxJoZRgShJTrOYAaHN6BKE/69qnqzY
+ IJ568OojFkdwpOtTmJfst27RCkgdJW0bRY2xXeOStAbYFy2TeKLTDlJmUIcB/gqK589kAoexu
+ /m4iAR/Je+98Rwop5O0vxCoRdfNYiaMQxE0KbqCCi76IKY/Vfqrown9eH+jdAP5FwBFSIiEup
+ yEP2MXpNLRMN137ah5L3Lw27aQ5rG0vspRxK3AhfJiply4bMCzr8TDCUrob2Dv6LopvSMoOtO
+ 4I86VvTzkJ5TOqV2CqpnVM3LTuBlSXupxj2RsS/3tD1B8tv7+DB5NjrDAa3a+yJbtCuG6Fp1A
+ 8PyAJN9bsIOI8ewYm5ymQEuCe37tsg9AK+y10erNMYes/mtq8ewhuBSh+5gSRWsLKUVqH5bJg
+ 51KLsGGTpCXW3aMGTpZNpBSYMV6SSUgKx1pohvZ7gs3Mj62hqLljCDzGwKwpwFDAsuQeDqITz
+ qX7zCqPp7nEkXrg0ocRCucRJ1IE4Qzohck3VNii/hT07Me1uBVvjYXDIjP+Qm3dpVfi4/aw5c
+ YvCg2cYWn4nLoaUs+yxvFYhxk163CGCmoM2PIkXmH8slWO4Fc5jNIXwcxbhR66Zdk3kHGXISk
+ LMiEjk1sGoFbwfzMynAcW5veQNbkosMkeCHKrdWPcuppST07C7h3ylBouIwveDmP1nXPt3BQz
+ Z4qSilztDlr5G6DPVyTfIHjc76/Ois+YYSTwTHaQJCEa63MPT90NHjDpS3GGGB7ox0W74xP5i
+ RT5GFCWucVEsTJpKULvHQ5B/JIWUEsIhXCF79CjA10+Ts4HEG7wmBkwtVCzTBVCk+ydZRJ3W8
+ IpSM
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D=
+2 color=3D#1a0dab>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_=
+url?hl=3Dde&amp;q=3Dhttps://journals.ub.uni-heidelberg.de/index.php/bibliot=
+hek/article/viewFile/16808/pdf_4&amp;sa=3DX&amp;scisig=3DAAGBfm2mpx9TL7Dkdh=
+mxIKevfg-NemFPNw&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=
+=3D"text-decoration:underline">&hellip;  Klassifikationssysteme im semantis=
+chen Web: Zu Chancen und Problemen von <b>Linked</b>-<b>Data</b>-Repr=C3=A4=
+sentationen ausgew=C3=A4hlter Klassifikationssysteme</font></a></h3><div><f=
+ont size=3D2 color=3D#006621>M Hanke - Perspektive Bibliothek, 2014</font><=
+/div><div><font size=3D2 color=3D#222222>Abstract Pflege und Anwendung von =
+Klassifikationssystemen f=C3=BCr Informationsressourcen <br>sind traditione=
+ll eine Kernkompetenz von Bibliotheken. Diese Systeme sind h=C3=A4ufig hist=
+orisch <br>gewachsen und die Ver=C3=B6ffentlichung verschiedener Systeme is=
+t in der Vergangenheit <b> ...</b></font></div><br><h3 style=3D"font-weight=
+:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"http://schol=
+ar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://lekythos.library.ucy.ac.cy/=
+handle/10797/14200&amp;sa=3DX&amp;scisig=3DAAGBfm141Dl53ZMVoKM1TsFoeSNOwIW4=
+7A&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decor=
+ation:underline">Metadata management, interoperability and <b>Linked Data <=
+/b>publishing support for Natural History Museums</font></a></h3><div><font=
+ size=3D2 color=3D#006621>=CE=93 =CE=A3=CE=BA=CE=B5=CF=85=CE=AC=CE=BA=CE=B7=
+=CF=82, =CE=9A =CE=9C=CE=B1=CE=BA=CF=81=CE=AE=CF=82, =CE=92 =CE=9A=CE=B1=CE=
+=BB=CE=BF=CE=BA=CF=8D=CF=81=CE=B7, =CE=A3 =CE=A7=CF=81=CE=B9=CF=83=CF=84=CE=
+=BF=CE=B4=CE=BF=CF=85=CE=BB=CE=AC=CE=BA=CE=B7=CF=82 - 2014</font></div><div=
+><font size=3D2 color=3D#222222>Natural history museums (NHMs) form a rich =
+source of knowledge about Earth&#39;s biodiversity <br>and natural history.=
+ However, an impressive abundance of high-quality scientific content <br>av=
+ailable in NHMs around Europe remains largely unexploited due to a number o=
+f <b> ...</b></font></div><br><h3 style=3D"font-weight:normal;margin:0;font=
+-size:medium;max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> =
+<a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://orff=
+.uc3m.es/bitstream/handle/10016/19674/avila_aplicacion_TFM_2014.pdf%3Fseque=
+nce%3D1&amp;sa=3DX&amp;scisig=3DAAGBfm1m0IZUeZnogmtu_lCnkYoMG9aacQ&amp;oi=
+=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:und=
+erline">Aplicaci=C3=B3n de los principios Linked Open Data a la lista de en=
+cabezamientos de materia de la Biblioteca de la Universidad Polit=C3=A9cnic=
+a de Madrid</font></a></h3><div><font size=3D2 color=3D#006621>R =C3=81vila=
+ Alonso - 2014</font></div><div><font size=3D2 color=3D#222222><b>...</b> L=
+eonardo da Vinci IV Page 5. RESUMEN Este proyecto se encuadra entre los<br>
+procedimientos establecidos para la gesti=C3=B3n y publicaci=C3=B3n de voca=
+bularios de valores<br>
+de bibliotecas en la Web de datos mediante tecnolog=C3=ADas <b>Linked</b> <=
+b>Data</b>. <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://sigswo.org/papers=
+/SIG-SWO-A1402/SIG-SWO-A1402-03.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm1i7fs0qRk=
+HwBZUCTW2OFLZ0pfeJw&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab st=
+yle=3D"text-decoration:underline">=E3=82=AA=E3=83=BC=E3=83=97=E3=83=B3=E3=
+=83=87=E3=83=BC=E3=82=BF=E3=81=AE <b>Linked Data </b>=E3=81=B8=E3=81=AE=E5=
+=A4=89=E6=8F=9B</font></a></h3><div><font size=3D2 color=3D#006621>=E5=B1=
+=B1=E6=A0=B9=E6=98=87=E5=B9=B3=EF=BC=8C =E9=B5=9C=E9=A3=BC=E5=AD=9D=E5=85=
+=B8</font></div><div><font size=3D2 color=3D#222222>Abstract: In converting=
+ open data which are published in form of CSV (=E2=80=9CComma Separeted <br=
+>Values=E2=80=9D) or spread sheet into <b>Linked Data</b>, especially to us=
+e the data in combination with <br>other <b>Linked Data</b>, they should be=
+ written with unified vocaburaly and include links to <b> ...</b></font></d=
+iv><br><p><hr noshade size=3D1><font size=3D2 color=3D#222222>Dieser Google=
+ Scholar-Alert wird Ihnen von Google zur Verf=C3=BCgung gestellt.<br><br><a=
+ href=3D"http://scholar.google.de/scholar_alerts?view_op=3Dcancel_alert_opt=
+ions&amp;email_for_op=3Derictessenow%40web.de&amp;alert_id=3DAIfevv3NkPcJ&a=
+mp;hl=3Dde"><font color=3D#1a0dab>Alert stornieren</font></a><br></font></d=
+iv></body></html>

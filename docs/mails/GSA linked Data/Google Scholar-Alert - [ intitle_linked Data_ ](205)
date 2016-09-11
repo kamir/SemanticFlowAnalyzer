@@ -1,0 +1,565 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.112.221.138 with SMTP id qe10csp215052lbc;
+        Sun, 17 Aug 2014 23:31:28 -0700 (PDT)
+Return-Path: <mirko.kaempf@gmail.com>
+Received-SPF: pass (google.com: domain of mirko.kaempf@gmail.com designates 10.68.130.5 as permitted sender) client-ip=10.68.130.5
+Authentication-Results: mr.google.com;
+       spf=pass (google.com: domain of mirko.kaempf@gmail.com designates 10.68.130.5 as permitted sender) smtp.mail=mirko.kaempf@gmail.com;
+       dkim=pass header.i=@gmail.com
+X-Received: from mr.google.com ([10.68.130.5])
+        by 10.68.130.5 with SMTP id oa5mr32437118pbb.4.1408343487129 (num_hops = 1);
+        Sun, 17 Aug 2014 23:31:27 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:from:date:message-id:subject:to
+         :content-type;
+        bh=DK2+bqxfkKTX082bduODSYiXSW1Ot01BdbmVvH2Hkjs=;
+        b=JGo+9n7JptD0Y1HPcgPpQSQ9vf0hb9BCHhWVkL+5qQ/txx5ddX09jy08dtWQSJIVIa
+         HVqL4SpXqaBBBSbB0YxDX6BULjMMGa+oDDV+oJe5WDNjvDNCYS0OIBxiuG5bFj+nonxS
+         sZhvBNov50OgC9izBOTH6k48N2Tqc3gNIsaNNt6G3z1ud00Q6p1AdbGshp4cWUXbjgK1
+         JsTcmMB71ngfLt4VCvBBNzbfv3k9HwGMHK+0ravYqNFLfbkRkuKt1BtM0Cq/AmfAMzYv
+         OMfIfdjH/LFIZOXgSmgaqEwu3P5zGNNQhv4IAkJqpUNTuL4SUJPNQ3dfSKp0v+sxDpdJ
+         nKbw==
+X-Received: by 10.68.130.5 with SMTP id oa5mr32437118pbb.4.1408343487124; Sun,
+ 17 Aug 2014 23:31:27 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.66.163.41 with HTTP; Sun, 17 Aug 2014 23:31:07 -0700 (PDT)
+In-Reply-To: <E5E1866A-D970-420F-8A88-1A9C9AEA974D@gmail.com>
+References: <CALKHTG_PvFBWtgaPkWjCktbz+X9fiOxnhEQSxG0KVzf1Fc=Zrw@mail.gmail.com>
+ <CALKHTG9zv6vRRSygsed1wt-zHUYBs2u7oi+KWOiLiHgud0Z5Lw@mail.gmail.com> <E5E1866A-D970-420F-8A88-1A9C9AEA974D@gmail.com>
+From: =?UTF-8?B?TWlya28gS8OkbXBm?= <mirko.kaempf@gmail.com>
+Date: Mon, 18 Aug 2014 08:31:07 +0200
+Message-ID: <CALKHTG8hcsrOk-9LMrx2=uvBJbNv-u3DmDFqT2QBOyh6UzLqQQ@mail.gmail.com>
+Subject: Re: Final Calculations
+To: Dror Kenett <drorkenett@gmail.com>
+Content-Type: multipart/alternative; boundary=e89a8ffbac0f459aa10500e1851c
+Bcc: eric.tessenow@gmail.com
+
+--e89a8ffbac0f459aa10500e1851c
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Dear Dror,
+
+I thank you for your email and I am happy with the plan to try to publish
+the work first with "Science", than "PNAS" and than with "PLOS ONE". It
+sounds clear to me now and I think we can see a final date for the initial
+submission now.
+Jan will be back this Wednesday, so I will meet him later this week as well
+to discuss the last charts I created and to find out more about his
+feelings and opinion about the draft.
+
+We can talk after your conference via Skype. Best day for me would be
+Tuesday, 26th of August, 10 am (your time in Boston). Would this work also
+for you?
+
+Now I go back to some more offline work, we prepare our new flat for the
+move this week. After the move I have a bigger office and more space for
+some more Hadoop-cluster nodes ;-)
+
+Have a nice day and see you soon.
+
+Best wishes
+Mirko
+
+
+
+2014-08-12 14:14 GMT+02:00 Dror Kenett <drorkenett@gmail.com>:
+
+> Dear Mirko,
+>
+> Thank you very much for your message and for all of your hard work.
+>
+> First, let me reiterate my interest in this work, and true feelings that
+> this is really a great work. I am very happy to be a part of it, and as f=
+ar
+> as I=E2=80=99m concerned, our collaboration is as strong as ever. I apolo=
+gize for
+> my sporadic communication over the past few days - August has a few big
+> commitments and traveling which have been keeping me busier than I would
+> like, and I have not been able to respond appropriately.
+>
+> I will be back in Boston in the middle of next week, at which point I wil=
+l
+> work on editing and polishing the text. However, I have to go to a
+> conference from the 22 to the 24, so perhaps we can schedule a meeting
+> afterwards?
+>
+> Regarding where to submit, I still think this is a really good and
+> important paper. Once we finalize this round of editing, I suggest sendin=
+g
+> to Jan and Shlomo for comments. I still think we should aim as high as
+> possible with the paper. I would still recommend first submitting to
+> Science - they have a 75-80 percent rejection rate without sending to
+> review, which is what I had meant by a gamble; however, this is usually a
+> fast (two week) process, and if it is sent to review we have good chances
+> of publication. My feeling is that, especially once we have a platform up
+> and running for this, there is no reason whey not to try - at worst we lo=
+se
+> two weeks. Perhaps after we can try with PNAS. After these two, there
+> really are not any top journals I know of that we can submit this work to=
+,
+> and we can then send to PLoS ONE. It would be easy publishing there, and =
+I
+> have many papers there, so from this regard am happy to; however, I=E2=80=
+=99m
+> concerned we will not get enough attention for our work if it is publishe=
+d
+> there=E2=80=A6 Also, we would have to pay the 1350$ publication fee. I wo=
+uld
+> recommend first trying with Science, then if it is rejected put the paper
+> on SSRN, and try with PNAS, than PLoS ONE - what do you think?
+>
+> I then look forward to continuing with the second half of this project, a=
+s
+> we have been discussing. Focusing on the financial side, there are many
+> journals I can think of where this work could be accepted.
+>
+> With warm wishes,
+>
+> Dror
+>
+>    Best regards,
+>
+> Dror Y. Kenett, Ph.D.
+> Research Scientist
+> Center for Polymer Studies and Department of Physics, Boston University
+>  590 Commonwealth Avenue, Boston, MA 02215 USA
+>
+> mobile: +1-857-294-5190
+> mail: dkenett@bu.edu, dror@tamar.tau.ac.il, drorkenett@gmail.com
+> home: http://tamar.tau.ac.il/~dror
+> skype: drorkene
+>
+> On Aug 12, 2014, at 4:01 AM, Mirko K=C3=A4mpf <mirko.kaempf@gmail.com> wr=
+ote:
+>
+> Dear Dror and Eric,
+>
+> I analyzed the link strength distributions of our correlation networks
+> before and after the jump. We still have variation in the distributions, =
+in
+> case of Hadoop, the correlation in the local neighborhood drops
+> significantly but I would not say this is a general behavior. It seems to
+> be the case for this page, but one has to find out on what scale (window
+> length) and also with what delay the correlations get maximized or
+> minimized. Such an additional advanced analysis is out of the scope of th=
+is
+> current work I think. Using the images I send last week we can argue, tha=
+t
+> there is an increase in the average correlation strength while the intere=
+st
+> in the topic increases. And before the jump of interest there is a increa=
+se
+> followed by a decrease in the link strengt distribution.
+>
+> I also attach the file with the latest results to this mail. I think we
+> can use the pages two and four for the paper. In one image, all the
+> distributions can be presented and compared.
+> But I would prepare the final figure only if there is a comment about thi=
+s
+> from reviewers.
+>
+> Because I did not see any changes in the dropbox files I merged my offlin=
+e
+> version from
+> the last trip and the new version is the one I also attached to this mail=
+.
+>
+> Dror, what are your plans now? After the comments from Prof. Havlin we di=
+d
+> not make that much progress, just the new
+> images have been processed. And I tried to make the arguments stronger.
+> Eric has not received any feedback from you.
+>
+> Now, I am thinking about the next step. Where do we try to submit the
+> paper to? Should it be really Science? Why not, but in this
+> case I would appreciate more support from your side and a bit more
+> commitment. Your comment "it is just a game" scared me a bit.
+> I do not want to gamble much. If the work gets published in PLOS ONE it
+> would also a great result I think. I would decide based
+> on what is more realistic, but if you feel, the arguments are strong and
+> if you make it even stronger, than we are with you and try the "Science
+> path".
+> If you are not convinced with what we have now I prefer to submit the
+> document to PLOS ONE. I received good feedback from "PLOS ONE" people
+> already,
+> this not a guarantee, but a good indicator.
+>
+> Eric, and Dror, please let me know about your opinion. If you think it is
+> not worth any more please let me know as well!
+>
+> Right now, I am not sure about the state of our collaboration. It seems
+> that since the comments from Prof. Havlin, the interest disappeared or
+> declined.
+> This happened as well in our last project, as Tobias did not see any
+> interesting results in our charts, and I missed the feedback which could
+> have helped
+> to improve the work.
+>
+> I prepared a list of final steps and tried to distribute the work across
+> all of us:
+>
+> Mirko
+> # Finalize the images for neighborhood correlation links
+>
+> Dror
+> # finalize the text (discuss arguments also with Mirko).
+> # finish the references (supported by Eric, especially the bibtex-part)
+> * collect about 15 more papers to cite
+>
+> Eric
+> # prepare the submission procedure
+> * create todo list and check existing documents
+>
+> Mirko, Dror & Eric
+> # submit the paper
+>
+> I look forward to a great result and wish you a nice day.
+>
+> Best wishes
+> Mirko
+>
+>
+>
+> 2014-08-08 22:01 GMT+02:00 Mirko K=C3=A4mpf <mirko.kaempf@gmail.com>:
+>
+>> Dear Dror and Eric,
+>>
+>> as I promised last week, the first thing I do after I am at home will be=
+:
+>> "running the calculations for correlation analysis in our
+>> access time series for the pages SOLR and Hadoop for years 2010 and
+>> 2011." The first part is ready. I added the images for neighborhood
+>> correlations as a first preview.
+>> Part two, the correlation networks are also under construction and can b=
+e
+>> finished on Sunday night or Monday morning.
+>> Are you both available next week to finish the draft? I plan to give it
+>> to Jan next Friday, ready for submission. He did not finally agree to be=
+ a
+>> a coauthor
+>> but based on a ready draft he can decide fast.
+>> Dror, did you improve draft this week? My changes regarding the image we
+>> spoke about on Sunday are in the document since Monday. I am not sure if
+>> Dropbox
+>> works reliable, but there are no changes since then. If you worked
+>> offline, would you please share the results as a new version with label
+>> "DK" instead of "MK".
+>> During the trip back I improved some statements about the differences to
+>> Google and also the abstract to make the result more clear.
+>> The last missing puzzles are the new images. I provide those as fast as
+>> possible.
+>> And what do you think, how long will it take to get feedback from
+>> "Science"?
+>>
+>> My day is over now.
+>>
+>> Best wishes from Halle
+>> and have a nice weekend,
+>>
+>> Cheers,
+>> Mirko
+>>
+>
+> <RESULTS.FINAL.pdf><manuscript_10_08_2014_MK.pdf>
+>
+>
+>
+
+--e89a8ffbac0f459aa10500e1851c
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Dear Dror,<div><br></div><div>I thank you for your email a=
+nd I am happy with the plan to try to publish the work first with &quot;Sci=
+ence&quot;, than &quot;PNAS&quot; and than with &quot;PLOS ONE&quot;. It so=
+unds clear to me now and I think we can see a final date for the initial su=
+bmission now.</div>
+
+<div>Jan will be back this Wednesday, so I will meet him later this week as=
+ well to discuss the last charts I created and to find out more about his f=
+eelings and opinion about the draft.=C2=A0</div><div><br></div><div>We can =
+talk after your conference via Skype. Best day for me would be Tuesday, 26t=
+h of August, 10 am (your time in Boston). Would this work also for you?</di=
+v>
+
+<div><br></div><div>Now I go back to some more offline work, we prepare our=
+ new flat for the move this week. After the move I have a bigger office and=
+ more space for some more Hadoop-cluster nodes ;-)</div><div><br></div>
+
+<div>Have a nice day and see you soon.</div><div><br></div><div>Best wishes=
+</div><div>Mirko</div><div>=C2=A0=C2=A0</div></div><div class=3D"gmail_extr=
+a"><br><br><div class=3D"gmail_quote">2014-08-12 14:14 GMT+02:00 Dror Kenet=
+t <span dir=3D"ltr">&lt;<a href=3D"mailto:drorkenett@gmail.com" target=3D"_=
+blank">drorkenett@gmail.com</a>&gt;</span>:<br>
+
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1p=
+x #ccc solid;padding-left:1ex"><div style=3D"word-wrap:break-word">Dear Mir=
+ko,<div><br></div><div>Thank you very much for your message and for all of =
+your hard work.</div>
+
+<div><br></div><div>First, let me reiterate my interest in this work, and t=
+rue feelings that this is really a great work. I am very happy to be a part=
+ of it, and as far as I=E2=80=99m concerned, our collaboration is as strong=
+ as ever. I apologize for my sporadic communication over the past few days =
+- August has a few big commitments and traveling which have been keeping me=
+ busier than I would like, and I have not been able to respond appropriatel=
+y.=C2=A0</div>
+
+<div><br></div><div>I will be back in Boston in the middle of next week, at=
+ which point I will work on editing and polishing the text. However, I have=
+ to go to a conference from the 22 to the 24, so perhaps we can schedule a =
+meeting afterwards?=C2=A0</div>
+
+<div><br></div><div>Regarding where to submit, I still think this is a real=
+ly good and important paper. Once we finalize this round of editing, I sugg=
+est sending to Jan and Shlomo for comments. I still think we should aim as =
+high as possible with the paper. I would still recommend first submitting t=
+o Science - they have a 75-80 percent rejection rate without sending to rev=
+iew, which is what I had meant by a gamble; however, this is usually a fast=
+ (two week) process, and if it is sent to review we have good chances of pu=
+blication. My feeling is that, especially once we have a platform up and ru=
+nning for this, there is no reason whey not to try - at worst we lose two w=
+eeks. Perhaps after we can try with PNAS. After these two, there really are=
+ not any top journals I know of that we can submit this work to, and we can=
+ then send to PLoS ONE. It would be easy publishing there, and I have many =
+papers there, so from this regard am happy to; however, I=E2=80=99m concern=
+ed we will not get enough attention for our work if it is published there=
+=E2=80=A6 Also, we would have to pay the 1350$ publication fee. I would rec=
+ommend first trying with Science, then if it is rejected put the paper on S=
+SRN, and try with PNAS, than PLoS ONE - what do you think?</div>
+
+<div><br></div><div>I then look forward to continuing with the second half =
+of this project, as we have been discussing. Focusing on the financial side=
+, there are many journals I can think of where this work could be accepted.=
+</div>
+
+<div><br></div><div>With warm wishes,</div><div><br></div><div>Dror</div><d=
+iv><br><div>
+<div style=3D"color:rgb(0,0,0);letter-spacing:normal;text-align:start;text-=
+indent:0px;text-transform:none;white-space:normal;word-spacing:0px;word-wra=
+p:break-word"><div style=3D"color:rgb(0,0,0);letter-spacing:normal;text-ali=
+gn:start;text-indent:0px;text-transform:none;white-space:normal;word-spacin=
+g:0px;word-wrap:break-word">
+
+<div style=3D"color:rgb(0,0,0);letter-spacing:normal;text-align:start;text-=
+indent:0px;text-transform:none;white-space:normal;word-spacing:0px;word-wra=
+p:break-word"><div style=3D"color:rgb(0,0,0);letter-spacing:normal;text-ali=
+gn:start;text-indent:0px;text-transform:none;white-space:normal;word-spacin=
+g:0px;word-wrap:break-word">
+
+<div style=3D"color:rgb(0,0,0);letter-spacing:normal;text-align:start;text-=
+indent:0px;text-transform:none;white-space:normal;word-spacing:0px;word-wra=
+p:break-word"><div style=3D"color:rgb(0,0,0);letter-spacing:normal;text-ali=
+gn:start;text-indent:0px;text-transform:none;white-space:normal;word-spacin=
+g:0px;word-wrap:break-word">
+
+<div style=3D"color:rgb(0,0,0);font-family:Helvetica;font-style:normal;font=
+-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal=
+;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:no=
+rmal;word-spacing:0px;word-wrap:break-word">
+
+<div style=3D"color:rgb(0,0,0);font-family:Helvetica;font-style:normal;font=
+-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal=
+;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:no=
+rmal;word-spacing:0px;word-wrap:break-word">
+
+<span style=3D"font-family:&#39;Comic Sans MS&#39;">Best regards,</span><br=
+ style=3D"font-family:&#39;Comic Sans MS&#39;"><br style=3D"font-family:&#3=
+9;Comic Sans MS&#39;"><span style=3D"font-family:&#39;Comic Sans MS&#39;">D=
+ror Y. Kenett, Ph.D.</span><br style=3D"font-family:&#39;Comic Sans MS&#39;=
+">
+
+<span style=3D"font-family:&#39;Comic Sans MS&#39;">Research Scientist</spa=
+n></div><div style=3D"color:rgb(0,0,0);font-family:Helvetica;font-style:nor=
+mal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-heigh=
+t:normal;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-=
+space:normal;word-spacing:0px;word-wrap:break-word">
+
+<span style=3D"font-family:&#39;Comic Sans MS&#39;">Center for Polymer Stud=
+ies and=C2=A0</span><span style=3D"font-family:&#39;Comic Sans MS&#39;">Dep=
+artment of Physics,=C2=A0</span><span style=3D"font-family:&#39;Comic Sans =
+MS&#39;;text-align:-webkit-auto">Boston=C2=A0University</span></div>
+
+<div style=3D"color:rgb(0,0,0);font-family:Helvetica;font-style:normal;font=
+-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal=
+;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:no=
+rmal;word-spacing:0px;word-wrap:break-word">
+
+<span style=3D"font-family:&#39;Comic Sans MS&#39;;text-align:-webkit-auto"=
+>590 Commonwealth=C2=A0Avenue, Boston, MA 02215 USA</span></div><div style=
+=3D"color:rgb(0,0,0);font-family:Helvetica;font-style:normal;font-variant:n=
+ormal;font-weight:normal;letter-spacing:normal;line-height:normal;text-alig=
+n:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;word-=
+spacing:0px;word-wrap:break-word">
+
+<br style=3D"font-family:&#39;Comic Sans MS&#39;"><span style=3D"font-famil=
+y:&#39;Comic Sans MS&#39;">mobile:=C2=A0<a href=3D"tel:%2B1-857-294-5190" v=
+alue=3D"+18572945190" target=3D"_blank">+1-857-294-5190</a></span><br style=
+=3D"font-family:&#39;Comic Sans MS&#39;">
+
+<span style=3D"font-family:&#39;Comic Sans MS&#39;">mail:=C2=A0<a href=3D"m=
+ailto:dkenett@bu.edu" target=3D"_blank">dkenett@bu.edu</a>,=C2=A0<a href=3D=
+"mailto:dror@tamar.tau.ac.il" target=3D"_blank">dror@tamar.tau.ac.il</a>,=
+=C2=A0<a href=3D"mailto:drorkenett@gmail.com" target=3D"_blank">drorkenett@=
+gmail.com</a></span><br style=3D"font-family:&#39;Comic Sans MS&#39;">
+
+<span style=3D"font-family:&#39;Comic Sans MS&#39;">home:=C2=A0<a href=3D"h=
+ttp://tamar.tau.ac.il/~dror" target=3D"_blank">http://tamar.tau.ac.il/~dror=
+</a></span><br style=3D"font-family:&#39;Comic Sans MS&#39;"><span style=3D=
+"font-family:&#39;Comic Sans MS&#39;">skype: drorkene</span></div>
+
+</div></div></div></div></div></div></div>
+</div>
+<br><div><div><div class=3D"h5"><div>On Aug 12, 2014, at 4:01 AM, Mirko K=
+=C3=A4mpf &lt;<a href=3D"mailto:mirko.kaempf@gmail.com" target=3D"_blank">m=
+irko.kaempf@gmail.com</a>&gt; wrote:</div><br></div></div><blockquote type=
+=3D"cite"><div>
+
+<div class=3D"h5"><div dir=3D"ltr">Dear Dror and Eric,<div><br></div><div>I=
+ analyzed the link strength distributions of our correlation networks befor=
+e and after the jump. We still have variation in the distributions, in case=
+ of Hadoop, the correlation in the local neighborhood drops significantly b=
+ut I would not say this is a general behavior. It seems to be the case for =
+this page, but one has to find out on what scale (window length) and also w=
+ith what delay the correlations get maximized or minimized. Such an additio=
+nal advanced analysis is out of the scope of this current work I think. Usi=
+ng the images I send last week we can argue, that there is an increase in t=
+he average correlation strength while the interest in the topic increases. =
+And before the jump of interest there is a increase followed by a decrease =
+in the link strengt distribution.=C2=A0</div>
+
+
+
+<div><br></div><div>I also attach the file with the latest results to this =
+mail. I think we can use the pages two and four for the paper. In one image=
+, all the distributions can be presented and compared.=C2=A0</div><div>But =
+I would prepare the final figure only if there is a comment about this from=
+ reviewers.=C2=A0</div>
+
+
+
+<div><br></div><div>Because I did not see any changes in the dropbox files =
+I merged my offline version from</div><div>the last trip and the new versio=
+n is the one I also attached to this mail.=C2=A0</div><div><br></div><div>D=
+ror, what are your plans now? After the comments from Prof. Havlin we did n=
+ot make that much progress, just the new</div>
+
+
+
+<div>images have been processed. And I tried to make the arguments stronger=
+. Eric has not received any feedback from you.=C2=A0</div><div><br></div><d=
+iv>Now, I am thinking about the next step. Where do we try to submit the pa=
+per to? Should it be really Science? Why not, but in this</div>
+
+
+
+<div>case I would appreciate more support from your side and a bit more com=
+mitment. Your comment &quot;it is just a game&quot; scared me a bit.</div><=
+div>I do not want to gamble much. If the work gets published in PLOS ONE it=
+ would also a great result I think. I would decide based</div>
+
+
+
+<div>on what is more realistic, but if you feel, the arguments are strong a=
+nd if you make it even stronger, than we are with you and try the &quot;Sci=
+ence path&quot;.=C2=A0</div><div>If you are not convinced with what we have=
+ now I prefer to submit the document to PLOS ONE. I received good feedback =
+from &quot;PLOS ONE&quot; people already,</div>
+
+
+
+<div>this not a guarantee, but a good indicator.=C2=A0</div><div><br></div>=
+<div><div>Eric, and Dror, please let me know about your opinion. If you thi=
+nk it is not worth any more please let me know as well!=C2=A0</div><div><br=
+>Right now, I am not sure about the state of our collaboration. It seems th=
+at since the comments from Prof. Havlin, the interest disappeared or declin=
+ed.=C2=A0</div>
+
+
+
+<div>This happened as well in our last project, as Tobias did not see any i=
+nteresting results in our charts, and I missed the feedback which could hav=
+e helped=C2=A0</div><div>to improve the work.</div></div><div><br></div><di=
+v>
+
+
+
+I prepared a list of final steps and tried to distribute the work across al=
+l of us:</div><div><br></div><div>Mirko</div><div># Finalize the images for=
+ neighborhood correlation links</div><div><br></div><div>Dror</div>
+
+<div># finalize the text (discuss arguments also with Mirko).</div><div># f=
+inish the references (supported by Eric, especially the bibtex-part)</div><=
+div>* collect about 15 more papers to cite</div><div><br></div><div>Eric</d=
+iv>
+
+
+
+<div># prepare the submission procedure</div><div>* create todo list and ch=
+eck existing documents</div><div><br></div><div>Mirko, Dror &amp; Eric</div=
+><div># submit the paper</div><div><br></div><div><div>I look forward to a =
+great result and wish you a nice day.</div>
+
+
+
+</div><div><br></div><div>Best wishes</div><div>Mirko</div><div><br></div><=
+/div><div class=3D"gmail_extra"><br><br><div class=3D"gmail_quote">2014-08-=
+08 22:01 GMT+02:00 Mirko K=C3=A4mpf <span dir=3D"ltr">&lt;<a href=3D"mailto=
+:mirko.kaempf@gmail.com" target=3D"_blank">mirko.kaempf@gmail.com</a>&gt;</=
+span>:<br>
+
+
+
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1p=
+x #ccc solid;padding-left:1ex"><div dir=3D"ltr"><div><div><div><div><div>De=
+ar Dror and Eric,<br><br></div>as I promised last week, the first thing I d=
+o after I am at home will be: &quot;running the calculations for correlatio=
+n analysis in our<br>
+
+
+
+access time series for the pages SOLR and Hadoop for years 2010 and 2011.&q=
+uot; The first part is ready. I added the images for neighborhood correlati=
+ons as a first preview.<br>
+</div>Part two, the correlation networks are also under construction and ca=
+n be finished on Sunday night or Monday morning.<br></div>Are you both avai=
+lable next week to finish the draft? I plan to give it to Jan next Friday, =
+ready for submission. He did not finally agree to be a a coauthor<br>
+
+
+
+
+but based on a ready draft he can decide fast.<br></div>Dror, did you impro=
+ve draft this week? My changes regarding the image we spoke about on Sunday=
+ are in the document since Monday. I am not sure if Dropbox <br>works relia=
+ble, but there are no changes since then. If you worked offline, would you =
+please share the results as a new version with label &quot;DK&quot; instead=
+ of &quot;MK&quot;.<br>
+
+
+
+
+</div>During the trip back I improved some statements about the differences=
+ to Google and also the abstract to make the result more clear.<br><div>The=
+ last missing puzzles are the new images. I provide those as fast as possib=
+le.<br>
+
+
+
+
+And what do you think, how long will it take to get feedback from &quot;Sci=
+ence&quot;?<br><br></div><div>My day is over now. <br><br>Best wishes from =
+Halle<br>and have a nice weekend,<br><br></div><div>Cheers,<br>Mirko<br>
+
+
+
+
+</div></div>
+</blockquote></div><br></div>
+</div></div><span>&lt;RESULTS.FINAL.pdf&gt;</span><span>&lt;manuscript_10_0=
+8_2014_MK.pdf&gt;</span></blockquote></div><br></div></div></blockquote></d=
+iv><br></div>
+
+--e89a8ffbac0f459aa10500e1851c--

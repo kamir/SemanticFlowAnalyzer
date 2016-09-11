@@ -1,0 +1,122 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.140.237.204 with SMTP id i195csp1960361qhc;
+        Tue, 10 Mar 2015 06:53:54 -0700 (PDT)
+X-Received: by 10.55.19.74 with SMTP id d71mr63665302qkh.92.1425995627230;
+        Tue, 10 Mar 2015 06:53:47 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3HvX-VBUKDLEjTYfcRiRcVikj-efiVgcpXffXcV.TfdViZTkVjjVefnnVS.UV@scholar-alerts.bounces.google.com designates 209.85.220.73 as permitted sender) smtp.mail=3HvX-VBUKDLEjTYfcRiRcVikj-efiVgcpXffXcV.TfdViZTkVjjVefnnVS.UV@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3HvX-VBUKDLEjTYfcRiRcVikj-efiVgcpXffXcV.TfdViZTkVjjVefnnVS.UV@scholar-alerts.bounces.google.com designates 209.85.220.73 as permitted sender) client-ip=209.85.220.73;
+Received: by 10.229.149.75 with POP3 id s11mf4367994qcv.27;
+        Tue, 10 Mar 2015 06:53:47 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3HvX-VBUKDLEjTYfcRiRcVikj-efiVgcpXffXcV.TfdViZTkVjjVefnnVS.UV@scholar-alerts.bounces.google.com
+Received: from mail-pa0-f73.google.com ([209.85.220.73]) by mx-ha.web.de
+ (mxweb101) with ESMTPS (Nemesis) id 0MEYE9-1YGA223DL7-00Fg4F for
+ <erictessenow@web.de>; Tue, 10 Mar 2015 14:44:00 +0100
+Received: by pablj1 with SMTP id lj1so450458pab.0
+        for <erictessenow@web.de>; Tue, 10 Mar 2015 06:43:58 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=PTOE/Kxlg1uTMiIyh2gDufPtrU6a8Y452q8ibjyxtQw=;
+        b=aIEVkK40Gdv+3+zXMui9awPHs/VHuFRMKLwSwL7fTDB9mzW/0ONNdW3m0gpwJs0myA
+         Umcxb9c7zl+j5sKgNWLyV7OnIW4FNXL0874Iw2QnzIb59MYvlLxP5tMRJH1I1iUT/ewA
+         4u9V58UMsak3kxxwEuL8j7w8KaUMNRoRZAB7M/SDRqCBr6sn4FShWZdMOU+otnf1ZkMQ
+         vcmYgcbYB2blr4EsysG9cC/K+/GECjCRNCEd9w9EWDbRwHYjNRgaSivS9kGkyZEhhYge
+         bBKexQvyMb8NRpStzhy6Iw63hKcsgMED6wADVv5bSI8e478jMN3vbzfEdfhxH6mypZCt
+         D3Mg==
+MIME-Version: 1.0
+X-Received: by 10.66.66.196 with SMTP id h4mr32445965pat.5.1425995038105; Tue,
+ 10 Mar 2015 06:43:58 -0700 (PDT)
+Message-ID: <001a1134aeacb2a1890510ef57b0@google.com>
+Date: Tue, 10 Mar 2015 13:43:58 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:VBLPxLrvLvA=:qaUjeicvMIdprw8YunmHrmgPZ2
+ 8iK960hfq8YvMAzZteB13FmbSKRJUcv51+NtYxzq2ezY1zMHHDWfXwIUQ3fSXv1UhQBZJgTYy
+ Nk+JC9rGE5q0VMfsL9kNSvHwFYxb8IiXAaH3grIL6Q9T/1wwiG3UbmXPYyuR6xCLZUoVDJn5g
+ wf0Jfkaxvpt3HG/CvI7S4ZzaAJHs3NIbENHpsQFKhDf2XsNhLrxpgnXopsYmCAMjPbApp+Qwx
+ fpsY0NM9PLrLoMVdwel6AiFCLEfELULM6krd8gKf0l2TspOiBvfvnKoXi6jcVNscxcx8n6Rpf
+ dKXkZ1Wq2Xtc+4DUNBVXkizHZJ+H1x+ZxYLEHRTEBigXafDOjm5ii3NDI3y47sn7R42xHolUr
+ 7spsx2DQhSNaDmrsQxCz/aUt/Hh23RM8suFK5mly5oIZIHZJaLfJdV1ww11FtybxPV3NlUewA
+ O/cgdYLWlNyalFSfLMEGZ8jubs3HiCZKptrO5j31nnLWdVkGDOD0Lx1B87pFd+zbB06/1VzxJ
+ oBXI7RCMVCBt10xN1N8tViyCVUDBAaYemuwJd0VzNLk4HfBrXmMkrKTk8ZXzq8xqR/VycPius
+ odgYd+rxRHUN/Ar9Z1pGR2JfuCtKWtJT2tXiFO9P7qNNBowTCxS2mvusqdOVIe69AnipyizF4
+ U+aXPOLIJFxnf/0ZM5Mesom+577dQZc2NvO0VtbfmzAZjhSb2zHWPU9uVowjWat/beLL+qlSV
+ jqrlfDXRZUIB80T1aaKRDJyOCSQcszOjKaYbsQL8ZSnuWFU5bAepzCGB/Td1XqOepz5NR4J6m
+ UZHswmfyZOIdTzj3771g276iAGzOGf7DRwvIntBc9yXCwRub4WHVYPiJVOzaOp0ZRPeH4NrYF
+ C+9Qn7ueUpvXra51Piz9+QCWnNKEGIzGJp+iNiU7wlTppWjbCptv845BGrhBJw9UKnZkWBwO6
+ hTMqgnHgaTObsZi9t5ZEICx3ipJwoxPhJTK9f0LoipNW3Mz3RvSfbzMzKZyOfWbVm3Dc+5v+K
+ HEFBSv7nWoCxSNzLfrA8JJDAdWS1n3E1a3u/NSj+edM/OUtvWPGTAmWT3/DYDOSmM9FfkDW2A
+ D0MYJ9nTF2OFm8G/z5pOW48mbSUTRrZz0i1bPmbjvbEljWr3vuFDh8hgSrfJPleU5sdEPmp7W
+ SOdc/7HBtOkN6149wbmb8hxRQrIPieYQGeIkvPIw8/t1Ce7nuUA4CfoA/SjYcoDr2jByzunaU
+ 3K+1NJ8ie0CkWan9bGRMxlr76WKqTqRok1mbJSM/m1VNQnJjY6aPA/k6aY3zw2NBFK2rBPROZ
+ aLOo
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttp://www.sciencedirect.com/scien=
+ce/article/pii/S0747563215001363&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm=
+3tu1MlFzNrlhFNkJdKocfk3IaTaw&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=
+=3D3 color=3D#1a0dab style=3D"text-decoration:underline">Open <b>linked dat=
+a </b>and mobile devices as e-tourism tools. A practical approach to collab=
+orative e-learning</font></a></h3><div><font size=3D2 color=3D#006621>AM Fe=
+rmoso, M Mateos, ME Beato, R Berj=C3=B3n - Computers in Human Behavior, 201=
+5</font></div><div><font size=3D2 color=3D#222222><b>...</b> Cover image Co=
+ver image. Open <b>linked</b> <b>data</b> and mobile devices as e-tourism t=
+ools.<br>
+A practical approach to collaborative e-learning. <b>...</b> semantic meani=
+ng. <b>Linked</b> <b>data</b><br>
+is the technology used to link data in this Web of data. When <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><a href=3D"http://scholar.google.de/scholar_url?url=3Dhtt=
+p://www.freepatentsonline.com/y2015/0066995.html&amp;hl=3Dde&amp;sa=3DX&amp=
+;scisig=3DAAGBfm1F3blkpfYIhm9p78Rk-kY1e5Dppg&amp;nossl=3D1&amp;oi=3Dscholar=
+alrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:underline">AP=
+PARATUS AND METHOD FOR CONNECTING NOSQL DATA AND <b>LINKED DATA</b></font><=
+/a></h3><div><font size=3D2 color=3D#006621>S Kwon, D Park, H Bang - US Pat=
+ent 20,150,066,995, 2015</font></div><div><font size=3D2 color=3D#222222>Ab=
+stract: Apparatus and method for connecting NoSQL data and <b>linked data <=
+/b>are provided. <br>The method includes converting the NoSQL data into RDF=
+ data, and issuing the converted <br>RDF data as the <b>linked data</b>; co=
+llecting extended <b>linked data </b>extended by connecting the <b> ...</b>=
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttps://cs.uwaterloo.ca/~ohartig/f=
+iles/LDQL-ext.pdf&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm2VU6vxj4InqVL9n=
+MBzQIbrqgrR7g&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1=
+a0dab style=3D"text-decoration:underline">LDQL: A Language for <b>Linked Da=
+ta </b>Queries</font></a></h3><div><font size=3D2 color=3D#006621>O Hartig<=
+/font></div><div><font size=3D2 color=3D#222222>Abstract In this paper, we =
+propose LDQL, that is, a language to query <b>Linked Data </b>on the <br>We=
+b. The novelty of LDQL is that it enables a user to express separately (i) =
+patterns that <br>describe the expected query result, and (ii) Web navigati=
+on paths that select the data <b> ...</b></font></div><br><h3 style=3D"font=
+-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D2 c=
+olor=3D#1a0dab>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_url=
+?url=3Dhttp://www.temjournal.com/content/41/04/temjournal4104.pdf&amp;hl=3D=
+de&amp;sa=3DX&amp;scisig=3DAAGBfm24bMLA50e6U_77Q9Me0q3_HSqZuw&amp;nossl=3D1=
+&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decorat=
+ion:underline">Integrating linked open data in mobile augmented reality app=
+lications-a case study</font></a></h3><div><font size=3D2 color=3D#006621>S=
+ Vert, R Vasiu</font></div><div><font size=3D2 color=3D#222222><b>...</b> <=
+b>Linked</b> <b>data</b> [6], the still more practical part of the envision=
+ed Semantic Web [7], works on standards<br>
+for representing and accessing data that are flexible enough to allow addin=
+g and removing<br>
+sources of data, navigating from one source to another and processing it ac=
+cording to <b>...</b>=20
+</font></div><br><p><hr noshade size=3D1><font size=3D2 color=3D#222222>Die=
+ser Google Scholar-Alert wird Ihnen von Google zur Verf=C3=BCgung gestellt.=
+<br><br><a href=3D"http://scholar.google.de/scholar_alerts?view_op=3Dcancel=
+_alert_options&amp;email_for_op=3Derictessenow%40web.de&amp;alert_id=3DAIfe=
+vv3NkPcJ&amp;hl=3Dde"><font color=3D#1a0dab>Alert stornieren</font></a><br>=
+</font></div></body></html>

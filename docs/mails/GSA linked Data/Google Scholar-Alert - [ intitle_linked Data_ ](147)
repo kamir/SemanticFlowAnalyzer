@@ -1,0 +1,95 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.55.166.132 with SMTP id p126csp42873qke;
+        Fri, 2 Oct 2015 21:52:07 -0700 (PDT)
+X-Received: by 10.140.99.117 with SMTP id p108mr24403408qge.91.1443847927301;
+        Fri, 02 Oct 2015 21:52:07 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3oVoPVhUKDEo4ot0xm3mxq354-z03q1xAs00sxq.o0yq3uo5q44qz088qn.pq@scholar-alerts.bounces.google.com designates 209.85.220.201 as permitted sender) smtp.mailfrom=3oVoPVhUKDEo4ot0xm3mxq354-z03q1xAs00sxq.o0yq3uo5q44qz088qn.pq@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3oVoPVhUKDEo4ot0xm3mxq354-z03q1xAs00sxq.o0yq3uo5q44qz088qn.pq@scholar-alerts.bounces.google.com designates 209.85.220.201 as permitted sender) client-ip=209.85.220.201;
+Received: by 10.55.176.6 with POP3 id z6mf21157985qke.0;
+        Fri, 02 Oct 2015 21:52:07 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: <3oVoPVhUKDEo4ot0xm3mxq354-z03q1xAs00sxq.o0yq3uo5q44qz088qn.pq@scholar-alerts.bounces.google.com>
+Received: from mail-qk0-f201.google.com ([209.85.220.201]) by mx-ha.web.de
+ (mxweb105) with ESMTPS (Nemesis) id 0MTSBf-1a6fwb3xyB-00SSM5 for
+ <erictessenow@web.de>; Sat, 03 Oct 2015 06:33:39 +0200
+Received: by qkap81 with SMTP id p81so4004016qka.1
+        for <erictessenow@web.de>; Fri, 02 Oct 2015 21:33:37 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=p5WSlMUGE6psNKlKHF2tVbneMM+cUrbMT2WfWluDEio=;
+        b=YiWFwMibLVSkwfjavzo57hoFkWigyrXHrbBzEE7Utijy+exGJ2T4+lJYRs+5ctJq2n
+         P/x76Un21+ShkfiUXmU7rBSorzIr0wHYiQ0KEfZ3ZhCx5wEuRAq1Sx7Dka3OR5FXZUmC
+         dbWvHcZP2Ivv1lYIlR3E2BWuPWe4dr66GjO+C/f8gbjaaxLIidhcGFYLKFtlo5Ep8vEC
+         SFOIrmSgGqHwYBkBVPTNmssTGw5FQDTTytAWJtKpJTZ5ygvyx5p4z28BicCBOVTghp2S
+         vYEvs3yIvLeRt0kx+PEUqCM65Fq69i4vAfZESlnEUp25DPBvweyCq9lbGKkdHcYX5LZ5
+         1Qyg==
+MIME-Version: 1.0
+X-Received: by 10.13.249.198 with SMTP id j189mr15698774ywf.27.1443846817925;
+ Fri, 02 Oct 2015 21:33:37 -0700 (PDT)
+Message-ID: <94eb2c080b96b149e905212bc8b3@google.com>
+Date: Sat, 03 Oct 2015 04:33:37 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:NcbyX11Tgjk=:UetoPo+8mYTOcDYmCTS26bDxDz
+ +sKjPOmkTK4DcJS4vJxTA/Dv7FzbKrEfYeut4AgXrwkMmK6SmyEgaVV/MYLSWb12gsqvvmVc/
+ 4GJmOIjIKQ9RX0IWZ7Wnki5PyTbj/byD8VzCnb7sz75JNxj1t62sZgTaOPnnPi0g03jgKufWx
+ 3lBbVYypQQf6cWlkUwSHLM84qKu/JO7bhCAeiAl+5A8FMDVGzlISjm0GTEjLGY9ag9HVzxBJm
+ mmFLOQeMwDy266IO8XW21URSTbpukgGnJM4GyFiup6I0flM6HGhp59cJ5Ab/w70TXVrbckcns
+ drp/KLx8AlgKsuJKEVeJB43dKh3r+6ajo5DkJ8f2uq4k93Rr4itktVAopfRsCHIPX8IUXGBcQ
+ inDvmve9TszQ0w8WJtQO33p993wv4xEIqYjgxrx2Qy6npji6myfqMAJkHsQVRR0XCBJ4yjuu1
+ VDO99XMR3REiZGLmKS8iYXofACGSos4fw+XJZEbKOK1NKqpG7PRanwxAJw4M0UI302p3OdsNW
+ XwgnOPbsIHGZlWb1Lxs0D2IbuWs/hG+7cWq+9DlqpEEKJlgC6r6X+ElAzE8EDwbDziVrjhYa2
+ zH2pGBTmQaXGjU9NGTqDOx65YN8PPxz+QpEVW0Ic+3EyFZidQlEajWFvKiHCW/850baWLYZUU
+ +mXICE9iuC7TrTAp9EmGrqMNO1IPkcDJJykncuW0YqyfEqWGt7gtrfKxLMXREbzl+vwcNjhvb
+ 1uXKVw7fScvKI/bjJ5zrhj7rWsIQJqbav/hwcsC7MQlqJJYeeJLHITipDo3ss4uxAgJataV+O
+ clQAau/d5Kyj6AIT0P3umTUEBJYoc+sWIoLbcecPydBFBUy860gnQLmkYKmSFPgP/7Q/4FfvC
+ ku0VjUI0BW3JZdJyk1n8TtDhDaeSRfYAFD2xTCg2ygMCk/ZtZ0tAD5LzyCkeGHmMW556I3wxN
+ TsQ1iFZzl+gu4L3mIV58xU8Kjwx2BSBI7ENk0PTc/2kkNMLscuzZrEKWu9uVJ5uWuvUeTrcBc
+ uBPQmbW805RWVoOzRrlqIrwtqetqIoHoquSgSebN5fDcVtwTRPmMUECbURXuNRY3P1WE+P3p4
+ qOWWtHMbBKFGIPIYt4utAdc3hK6ZuDUdTTnfKMhjEmnn5O1kIUF/KVvMc//PXOhansW381ohh
+ g3m+8qboRlSwMZuuYAPIgvLeUsCbvYguuPnX70GKQP9KnQhqMVEaJgXlTM+kpgjvQE0usgtjZ
+ El3dgziw3Yt59RZBfd6ckyDLFJ1M8jfrDy0muoBzyVTumMavXtvydvgCwJuLvMO3S78VEEMSY
+ 1lrvDeoFxxeq/uNeqnmw2eg9oltnW8M3rIYG7nIL3K1sry4=
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttp://link.springer.com/chapter/1=
+0.1007/978-3-319-24592-8_8&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm3LrKdF=
+U4j4ZCiFf8_AZZrwbkMPJQ&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 c=
+olor=3D#1a0dab style=3D"text-decoration:underline">On a <b>Linked Data </b>=
+Platform for Irish Historical Vital Records</font></a></h3><div><font size=
+=3D2 color=3D#006621>C Debruyne, OD Beyan, R Grant, S Collins, S Decker - R=
+esearch and Advanced  &hellip;, 2015</font></div><div><font size=3D2 color=
+=3D#222222>Abstract The Irish Record Linkage 1864-1913 is a multi-disciplin=
+ary project aiming to create <br>a platform for analyzing events captured i=
+n historical birth, marriage and death records by <br>applying semantic tec=
+hnologies for annotating, storing and inferring information from the <b> ..=
+.</b></font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:me=
+dium;max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=
+=3D"http://scholar.google.de/scholar_url?url=3Dhttp://eprints.rclis.org/280=
+08/1/RING-paper-for-MTSR2015-camera-ready.pdf&amp;hl=3Dde&amp;sa=3DX&amp;sc=
+isig=3DAAGBfm1BkMITxnT5HYnp6-DDLOPbuZKpEQ&amp;nossl=3D1&amp;oi=3Dscholaralr=
+t"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:underline">Setti=
+ng up a Global <b>Linked Data </b>Catalog of Datasets for Agriculture</font=
+></a></h3><div><font size=3D2 color=3D#006621>V Pesce, A Maru, P Archer, T =
+Malapela, J Keizer - 2015</font></div><div><font size=3D2 color=3D#222222>T=
+he movement to share data has been on the rise in the last decade and latel=
+y in the <br>agricultural domain. Similarly platforms for publishing scient=
+ific and sta-tistical datasets have <br>sprouted and have improved visibili=
+ty and availability of datasets. Yet there are still <b> ...</b></font></di=
+v><br><p><hr noshade size=3D1><font size=3D2 color=3D#222222>Dieser Google =
+Scholar-Alert wird Ihnen von Google zur Verf=C3=BCgung gestellt.<br><br><a =
+href=3D"http://scholar.google.de/scholar_alerts?view_op=3Dcancel_alert_opti=
+ons&amp;email_for_op=3Derictessenow%40web.de&amp;alert_id=3DAIfevv3NkPcJ&am=
+p;hl=3Dde"><font color=3D#1a0dab>Alert stornieren</font></a><br></font></di=
+v></body></html>

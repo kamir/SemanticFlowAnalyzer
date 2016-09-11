@@ -1,0 +1,181 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.43.46.71 with SMTP id un7cs114776icb;
+        Tue, 11 Feb 2014 08:16:42 -0800 (PST)
+X-Received: by 10.50.154.102 with SMTP id vn6mr20307089igb.1.1392135399142;
+        Tue, 11 Feb 2014 08:16:39 -0800 (PST)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3DUz6UhUKDCwaKPWTIZITMZba-VWZMXTgOWWOTM.KWUMZQKbMaaMVWeeMJ.LM@scholar-alerts.bounces.google.com designates 209.85.216.202 as permitted sender) smtp.mail=3DUz6UhUKDCwaKPWTIZITMZba-VWZMXTgOWWOTM.KWUMZQKbMaaMVWeeMJ.LM@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3DUz6UhUKDCwaKPWTIZITMZba-VWZMXTgOWWOTM.KWUMZQKbMaaMVWeeMJ.LM@scholar-alerts.bounces.google.com designates 209.85.216.202 as permitted sender) client-ip=209.85.216.202;
+Received: by 10.50.7.129 with POP3 id j1mf901599iga.3;
+        Tue, 11 Feb 2014 08:16:38 -0800 (PST)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3DUz6UhUKDCwaKPWTIZITMZba-VWZMXTgOWWOTM.KWUMZQKbMaaMVWeeMJ.LM@scholar-alerts.bounces.google.com
+Received: from mail-qc0-f202.google.com ([209.85.216.202]) by mx-ha.web.de
+ (mxweb004) with ESMTPS (Nemesis) id 0MVNsc-1VgmTg1OwQ-00YlZf for
+ <erictessenow@web.de>; Tue, 11 Feb 2014 17:13:02 +0100
+Received: by mail-qc0-f202.google.com with SMTP id m20so990287qcx.5
+        for <erictessenow@web.de>; Tue, 11 Feb 2014 08:13:01 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=yKN/qBLjHIuPppdbyyj+MOV+95x3amUchWdu9Il/cxY=;
+        b=JLK8lW1pFfwaBjYzW2lV7PqLvUDoKdACC0fXFDv+Hettp+Yw5crLWS/q/XBDqzJDUN
+         x6+5XQ9p9FJBMTvqm9WbOB34bhcmBkPz3pPBRlt5aMJuiFgenptTdA3Ns7QByUeh4AVq
+         HkiKX7mFmYru1rglH2s34cYJ+i9SEwt5JGrvHXOeEMObqEoblpeKY0xdfLvkYr2crzKA
+         dMxBRb+E6Borkpfupvzw2YAJK5O5ExwaXrF1Df73DNO4bB9pR6EwqZfCIsxOUSSSSoZI
+         OejCABeBQvbspzfjClpRkSGKmkTFbQuICGr2PiQjOdk6hpD3aZrpgZz7+G5iSXkIlsrU
+         LDiQ==
+MIME-Version: 1.0
+X-Received: by 10.58.43.161 with SMTP id x1mr82854vel.18.1392135181264; Tue,
+ 11 Feb 2014 08:13:01 -0800 (PST)
+Message-ID: <089e0111b742f566de04f223bab1@google.com>
+Date: Tue, 11 Feb 2014 16:13:01 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:yB7+jikMQcM=:ELm7pteOsQmrAq9mE0u/IVXPF5
+ d8H0NjcTAy6HxGTG9QjXMaWRlxYFlHX2oW7FzuD04H5vLpuruONrJkpOCEK6MPEGsYGFurBB1
+ Ms29+uxEp2FY2GqYRHTpz4ZPiAzJ3+1EuCFptRbFj5xqK2BW0/qGVUC9sBOvhCU5RMESylYOB
+ DKuTHTMfJIui+n4qWOu0Jo3fgxQTRIdq0FOqUxYlgNQbANE0TxSdRbLjaSa+3VxE4n3XYXmED
+ 06G0qwbRBZsaZefX5uxU0bbWVMAoyphe8kkqyKGm0hxHHnM6JcCwlk1tQPZNd1Hc59dFmzUV8
+ ZsXHXSsL41PtQdwN22e2C+YZtj4HSZjtx+Sek8/oc59a+y2mQoRGF+Pt7xdvfP5KIAnMckcS4
+ ZqTU9yeHv9HiVP73svdYNvt3vnjn7p/Yp5N/Xr7wJMdCH477KjjPDQQ8v3gYHTo+nSV6wa/l/
+ XcLhjgcW+5SugguLXI7c9rtZadNHZ54sXX+WggsUSjfsHeI3RXW3jew1DeL8LWjmkVn79Y53B
+ dCXhukBGuFov2iCEMLj5OSzxquG0tCmnWxGUt05LZYqGsUVyIeBrmRKvO76olPZlAvj/yQYYR
+ 9vgbP7n9It93pWC5sPH0M/LV9DckBKTUWuIcyz864MP3jSHu1iJGa+2JtCVH+ba4s4jmUVYsg
+ spqRDmKq36LPRJIBhbG7MPAcVG3UWDBz4ZD3cmIV6olAw/q0VVCOLkOuqKzDKgbmV47iaCUXd
+ I3V0l+jQoc35F24EJXmO8GAHD1k6mqqypNzssVRqumKvmmqQL92QO8n8A04u1FxqCQZtwWm3Y
+ HtJrJWWsU72osdFr1CsTRCn1DXJ9g23P0OxDO2CW+jam3cPyf2kzAvrNA63U+xLx79JN5qOLH
+ pMsXk5e5eYyNw5O5/zNIzkyf6nxlVIj3GP58E7Kw3ozrNCGcYxD1U6/JL0bxIN+lPsp0gnYYL
+ wHLDuOR/j0EyV1Z4wJu2JKZ9jnM63heOd6+tG2yP8uS3Lc315RFGrsnHIlMxXSXeNYFkLB+IT
+ gItHl/gFs1Rlx7HWMvcQfwReZho2xa1evjJvGy3SnmkGSKYt/aqlo+xzv9w9el6J+RZyifDbB
+ BsqAyjpoeNfqxMhIkPJZjUIrOCQqHPNmciTehGWxNZiHheMSRlVtE4dFvlx3R6ssi0SnKxVyp
+ 4O4bDLh9hWGD/AC8bxOw5Ton81Mk82MMzacbO1mw90n+0WG2kNwXexct2ayCOyPVwAZvNiSkE
+ PCcWvvefsc8XkjcLPHwfOVxuuXG6PpTiPVxA99gCbbuEEUXAgvetI4nB3QVJc5WrCxRr+l1Kq
+ l4LqIHVfs/fwLaydOV3sdONT4iL3dsBCGdGUocZYReHLsF0Cd8hhJG96afqAlaRONOMctVozy
+ OnTnAndJ0HD6wmHAQ==
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D=
+2 color=3D#1122cc>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_=
+url?hl=3Dde&amp;q=3Dhttp://www.jbiomedsem.com/content/pdf/2041-1480-5-5.pdf=
+&amp;sa=3DX&amp;scisig=3DAAGBfm1R95m4w8vKZXY3id_XKdZLzO7aGQ&amp;oi=3Dschola=
+ralrt"><font size=3D3 color=3D#1122cc style=3D"text-decoration:underline">B=
+ioHackathon series in 2011 and 2012: penetration of ontology and <b>linked =
+data </b>in life science domains</font></a></h3><div><font size=3D2 color=
+=3D#009933>T Katayama, MD Wilkinson, KF Aoki-Kinoshita&hellip; - Journal of=
+ Biomedical  &hellip;, 2014</font></div><div><font size=3D2 color=3D#222222=
+>Abstract The application of semantic technologies to the integration of bi=
+ological data and <br>the interoperability of bioinformatics analysis and v=
+isualization tools has been the common <br>theme of a series of annual BioH=
+ackathons hosted in Japan for the past five years. Here <b> ...</b></font><=
+/div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;max-widt=
+h:44.5em"><a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dh=
+ttp://onlinelibrary.wiley.com/doi/10.1111/anzs.12052/full&amp;sa=3DX&amp;sc=
+isig=3DAAGBfm0dc5WlX-hRoYv5anSGCmWzI-kPSQ&amp;oi=3Dscholaralrt"><font size=
+=3D3 color=3D#1122cc style=3D"text-decoration:underline">Linear Regression =
+With Nested Errors Using Probability=E2=80=90<b>Linked Data</b></font></a><=
+/h3><div><font size=3D2 color=3D#009933>K Samart, R Chambers - Australian &=
+amp; New Zealand Journal of Statistics, 2014</font></div><div><font size=3D=
+2 color=3D#222222>Summary Probabilistic matching of records is widely used =
+to create <b>linked data </b>sets for use <br>in health science, epidemiolo=
+gical, economic, demographic and sociological research. <br>Clearly, this t=
+ype of matching can lead to linkage errors, which in turn can lead to bias =
+and <b> ...</b></font></div><br><h3 style=3D"font-weight:normal;margin:0;fo=
+nt-size:medium;max-width:44.5em"><a href=3D"http://scholar.google.de/schola=
+r_url?hl=3Dde&amp;q=3Dhttp://www.ijert.org/view.php%3Fid%3D6263%26title%3Dp=
+ublishing-a-querying-linked-data-case-study-student-profiles&amp;sa=3DX&amp=
+;scisig=3DAAGBfm3WUgZV_6cvMD7xgK5H5U5UUG8Kfw&amp;oi=3Dscholaralrt"><font si=
+ze=3D3 color=3D#1122cc style=3D"text-decoration:underline">Publishing &amp;=
+ Querying <b>Linked Data</b>=E2=80=93Case Study Student Profiles</font></a>=
+</h3><div><font size=3D2 color=3D#009933>A Verma, PM Jat - International Jo=
+urnal of Engineering Research and  &hellip;, 2013</font></div><div><font si=
+ze=3D2 color=3D#222222>Abstract: In this workwe have published the <b>linke=
+d data </b>of student profiles and implemented <br>the web interface to the=
+ Sparql Query that allow us to Query the <b>linked data </b>through the <br=
+>sesame server and get the desired output. Later we will also discuss the b=
+asis of selecting <b> ...</b></font></div><br><h3 style=3D"font-weight:norm=
+al;margin:0;font-size:medium;max-width:44.5em"><a href=3D"http://scholar.go=
+ogle.de/scholar_url?hl=3Dde&amp;q=3Dhttp://eprints.soton.ac.uk/361729/&amp;=
+sa=3DX&amp;scisig=3DAAGBfm0zWE3jPWxJEQ_tfKQ7L6SzL2qpPw&amp;oi=3Dscholaralrt=
+"><font size=3D3 color=3D#1122cc style=3D"text-decoration:underline">End-us=
+er data-centric interactions over <b>linked data</b></font></a></h3><div><f=
+ont size=3D2 color=3D#009933>I Popov - 2013</font></div><div><font size=3D2=
+ color=3D#222222>The ability to build tools that support gathering and quer=
+ying information from distributed <br>sources on the Web rests on the avail=
+ability of structured data. <b>Linked Data</b>, as a way for <br>publishing=
+ and linking distributed structured data sources on the Web, provides an <b=
+> ...</b></font></div><br><h3 style=3D"font-weight:normal;margin:0;font-siz=
+e:medium;max-width:44.5em"><font size=3D2 color=3D#1122cc>[PDF]</font> <a h=
+ref=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://lib.dr.i=
+astate.edu/cgi/viewcontent.cgi%3Farticle%3D4552%26context%3Detd&amp;sa=3DX&=
+amp;scisig=3DAAGBfm2WrgOZaaUUlAeU3HMPzAIMb3uWjQ&amp;oi=3Dscholaralrt"><font=
+ size=3D3 color=3D#1122cc style=3D"text-decoration:underline">Learning clas=
+sifiers from <b>linked data</b></font></a></h3><div><font size=3D2 color=3D=
+#009933>H Lin - 2013</font></div><div><font size=3D2 color=3D#222222>Abstra=
+ct The emergence of many interlinked, physically distributed, and autonomou=
+sly <br>maintained <b>linked data </b>sources amounts to the rapid growth o=
+f Linked Open Data (LOD) <br>cloud, which offers unprecedented opportunitie=
+s for predictive modeling and knowledge <b> ...</b></font></div><br><h3 sty=
+le=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font =
+size=3D2 color=3D#1122cc>[DOC]</font> <a href=3D"http://scholar.google.de/s=
+cholar_url?hl=3Dde&amp;q=3Dhttp://nolde.at/wp-content/uploads/2014/02/Pelle=
+grini_2014_Linked_Data_Licensing_cr.docx&amp;sa=3DX&amp;scisig=3DAAGBfm3MHT=
+nuiHKinuyuqJ3fgSFO7Y9LbA&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122=
+cc style=3D"text-decoration:underline"><b>Linked Data </b>Licensing=E2=80=
+=93Datenlizenzierung unter netz=C3=B6konomischen Bedingungen</font></a></h3=
+><div><font size=3D2 color=3D#009933>T Pellegrini</font></div><div><font si=
+ze=3D2 color=3D#222222>Abstract: Ausgehend vom Technologiekonzept =E2=80=9E=
+<b>Linked Data </b>=E2=80=9Cbespricht der Beitrag die <br>immaterialg=C3=BC=
+terrechtlichen Aspekte vernetzter Daten und diskutiert die Erfordernisse na=
+ch <br>einer =E2=80=9E<b>Linked Data </b>Licensing Policy =E2=80=9Cim Spann=
+ungsfeld von Urheber-und Datenbankrecht. <b> ...</b></font></div><br><h3 st=
+yle=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font=
+ size=3D2 color=3D#1122cc>[DOC]</font> <a href=3D"http://scholar.google.de/=
+scholar_url?hl=3Dde&amp;q=3Dhttp://nolde.at/wp-content/uploads/2014/02/Pell=
+egrini-Wachter-Blumauer-Paulus-2014_Linked-Data-%25C3%2596GB-Verlag.docx&am=
+p;sa=3DX&amp;scisig=3DAAGBfm0UaJZmMiJgtGfy-OH_-2QLp4zkyQ&amp;oi=3Dscholaral=
+rt"><font size=3D3 color=3D#1122cc style=3D"text-decoration:underline">VERN=
+ETZTE RECHTSINFORMATION=E2=80=93DER EINSATZ VON <b>LINKED DATA </b>TECHNOLO=
+GIEN AM BEISPIEL DES =C3=96GB-VERLAGES</font></a></h3><div><font size=3D2 c=
+olor=3D#009933>T Pellegrini, C Wachter, A Blumauer, J Paulus</font></div><d=
+iv><font size=3D2 color=3D#222222>Abstract: Viele juristische Fachverlage s=
+tehen heute vor der Herausforderung, dass in den <br>vergangenen Jahren gro=
+=C3=9Fe Mengen an (teilweise unstrukturiertem) Content angefallen sind, <br=
+>jedoch die aktuelle technische Ausstattung nur bedingt eine kosteneffizien=
+te <b> ...</b></font></div><br><h3 style=3D"font-weight:normal;margin:0;fon=
+t-size:medium;max-width:44.5em"><font size=3D2 color=3D#1122cc>[PDF]</font>=
+ <a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttps://cs=
+.uwaterloo.ca/~ohartig/files/HartigOzsu_TutorialDescrICDE2014.pdf&amp;sa=3D=
+X&amp;scisig=3DAAGBfm0VePAT8fXwrzcNF_X2niceSUV_YA&amp;oi=3Dscholaralrt"><fo=
+nt size=3D3 color=3D#1122cc style=3D"text-decoration:underline"><b>Linked D=
+ata </b>Query Processing</font></a></h3><div><font size=3D2 color=3D#009933=
+>O Hartig, MT Ozsu</font></div><div><font size=3D2 color=3D#222222>Abstract=
+=E2=80=94The publication of Linked Open Data on the Web has gained tremendo=
+us <br>momentum over the last six years. As a consequence, we currently wit=
+ness the emergence <br>of a new research area that focuses on an online exe=
+cution of <b>Linked Data </b>queries; ie, <b> ...</b></font></div><br><h3 s=
+tyle=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em"><fon=
+t size=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"http://scholar.google.de=
+/scholar_url?hl=3Dde&amp;q=3Dhttps://cs.uwaterloo.ca/~ohartig/files/Hartig_=
+ChapterOnLTBQE_LDMgmtBook2014_Preprint.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm13=
+LZ2BeacDHOXZnjb_MdM5--oyyw&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#11=
+22cc style=3D"text-decoration:underline"><b>Linked Data </b>Query Processin=
+g based on Link Traversal</font></a></h3><div><font size=3D2 color=3D#00993=
+3>O Hartig</font></div><div><font size=3D2 color=3D#222222>The execution of=
+ SPARQL queries over <b>Linked Data </b>readily available from a large numb=
+er <br>of sources provides enormous potential. Consider, for instance, the =
+following SPARQL query <br>which asks for the phone number of people who au=
+thored an ontology engineering <b> ...</b></font></div><br><p><hr noshade s=
+ize=3D1><font size=3D2 color=3D#222222>Dieser Google Scholar-Alert wird Ihn=
+en von Google zur Verf=C3=BCgung gestellt.<br><br><a href=3D"http://scholar=
+.google.de/scholar_alerts?view_op=3Dcancel_alert_options&amp;email_for_op=
+=3Derictessenow%40web.de&amp;alert_id=3DAIfevv3NkPcJ&amp;hl=3Dde"><font col=
+or=3D#1122cc>Alert stornieren</font></a><br></font></div></body></html>

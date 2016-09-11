@@ -1,0 +1,99 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.182.191.37 with SMTP id gv5csp545196obc;
+        Sat, 12 Dec 2015 01:31:32 -0800 (PST)
+X-Received: by 10.182.153.169 with SMTP id vh9mr18178510obb.83.1449912689103;
+        Sat, 12 Dec 2015 01:31:29 -0800 (PST)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3vehrVhUKDPYqafmjYpYjcprq-lmpcnjwemmejc.amkcpgarcqqclmuucZ.bc@scholar-alerts.bounces.google.com designates 209.85.213.73 as permitted sender) smtp.mailfrom=3vehrVhUKDPYqafmjYpYjcprq-lmpcnjwemmejc.amkcpgarcqqclmuucZ.bc@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3vehrVhUKDPYqafmjYpYjcprq-lmpcnjwemmejc.amkcpgarcqqclmuucZ.bc@scholar-alerts.bounces.google.com designates 209.85.213.73 as permitted sender) client-ip=209.85.213.73;
+Received: by 10.182.53.42 with POP3 id y10mf18674955obo.3;
+        Sat, 12 Dec 2015 01:31:28 -0800 (PST)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: <3vehrVhUKDPYqafmjYpYjcprq-lmpcnjwemmejc.amkcpgarcqqclmuucZ.bc@scholar-alerts.bounces.google.com>
+Received: from mail-vk0-f73.google.com ([209.85.213.73]) by mx-ha.web.de
+ (mxweb107) with ESMTPS (Nemesis) id 0LllJk-1agkBC24Ia-00ZT2M for
+ <erictessenow@web.de>; Sat, 12 Dec 2015 10:28:30 +0100
+Received: by vkha189 with SMTP id a189so18359589vkh.0
+        for <erictessenow@web.de>; Sat, 12 Dec 2015 01:28:29 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=jEjR42Cxpn5WSxMyj2HhSa6FKycGjnX4BER0XilrNbY=;
+        b=eQauAcf2qelwJF4LP7C9PqVyuTC3QDUC62D3/T0ayzBfUeBWbtrEHDlMEtsswsm1aP
+         oUfa5fn3WBmZEoVgrNvrydyQFMEmOo4hJ9A1VuCAVLux56T86MUxr2ToYBkFe4e/eR0H
+         7kb1RIa7fO0fzKePg9Uk0tbIGpSUPfzBjD7oqgHrHwgxde7p1VESUzx2HddC46aq21wv
+         Yoz0Fxt9+YhXczeaUJYUrY3Zbru1Er9VnHL1ImVecYfXtFsuqyyQ/iBgS6C0zaHh4gMP
+         IJxI2qegvH/WglAxtGfPskIgcgO9HbzPGh8PaHLLgR+rHX5zD8PoskV4iiM6LoWnYgDC
+         x7yw==
+MIME-Version: 1.0
+X-Received: by 10.129.155.67 with SMTP id s64mr11060157ywg.9.1449912509383;
+ Sat, 12 Dec 2015 01:28:29 -0800 (PST)
+Message-ID: <94eb2c0b8fbc13c2b30526b010f5@google.com>
+Date: Sat, 12 Dec 2015 09:28:29 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:G5eB2euz6Cw=:RPQd7O2zDmPkjZBVY7LKBujjaW
+ hXb5n6q3HAfnYv8RXRgh64R6LDfjIpyVcVEy2Fx3vd0d6V+s6h6G8lJxRoOPyk7YUN4jbsS2z
+ HIqepRzFi1NGeNxW+KNl7+L7fsT8cFpgT4/RuyyrOywPtcffJ4ZBmfhLeCHS1E82Iu4PdmfEB
+ WXU9r3t/2ECL50uaBUT/h2Iy54RsJKGLXm6USaq/IX9mnxysvnTUkfh7XEmMZ9YlH7hTOKsdn
+ r5BlXkff7pEbhOAsyHOr6DrXHdiBT0JjhALCQYcW6g3tBiVaRmR07h5aBF+gbDaleAzYl/+xz
+ eGW7ZswOD5M+T3DuZaqN2vYsyDDEv+cbzQuhBIdrYFtmICWw78/1fOO2hCz6EvMcDxz+mmuJe
+ etWxcRhVAEibPGa84u6SESuoDHwxnH21Bj4X1cKuuY0ge0d1cIPLKqxsezDjIE6WejuJ7Vkkt
+ m2DGY8TyEHh629uaOQUytMszK5FXGQaPm5qieNHK3Bazv1zRFIHTd9KsjW4SNCqzUYizAX41o
+ jzLBqLSrSEiOmkMkCTIoJbjmxxaw67YoyAMc9/zd/Fk+KoP5mPihfoLEpGSpvTjPZqunBgQm5
+ v5hbldttUcWb+98zcvTPSNviL4niqnXY1wktvmpC6RSYWgFAhhzBzPT59WyOp9GC7JHUpnLO1
+ 11zzM9FuM/aS9WS25qvgODLcbihuVBzmjjeQjTCvQ/4yHWIfpLbCu2DMyvLHDEj2Lm5GfMA7P
+ m1uqCkIpnOo7YB9ZibomVP1zzMr1ez0RYP60KBMKLqCEt1hlqKL4mWdGvItZQaxOLpQei2qYN
+ 0vfFkXQ20z9GmiSMhvKYG1Y1UZb0XNuEO+7yeSKmVgxtcDX2jK3NdMdvqRAurXQyOlxNjtrhj
+ 5VSOw0FSYwqo0YKJEWwzu885jh+/7IavZMBeqlvxcxIeXLrSA3MzvIuhXmscKbhxm9OV/ZvFu
+ +REVq0C9KN/+FYYje2JP6i7I32WY7zd2bL02sCQuBHaOaoUJWuwZr7YKtQa8OTCV61kID/a2I
+ j1W+VCqnVr+8clNU5qAn3PDz6s5+g59tjU/OiTd2bqSRgxvcu17xfiJ/hsb+XGoyYgsKNfmUM
+ /O3N1uP7xfB2cDJ5OAEF8mm/koq6Wmlgh+vsD1dh/ds5fQu20I4GcDLsTm7HtSNSdr08uAJ3i
+ fJLDN32cJVDRGXR53PItrEDk2PeTNEzdM57RlRUURG8fJIgXL8wuyJ6nUQSVDaGJFCOHmgsVJ
+ 3Nwd3+VQwgCvbV+JbvtvyfEFPOnPesvnNLYnrT2wmLRhWNPJd/0A4BXWEdArdxtARxFuHn8h3
+ LbiW6FHkIupTT4Wy5EJgfykACG1jPcL47iAwSLnY6imSd5kRn4hYIHR9OF8iF/bFA5og+jqu9
+ za7HnHrkeQie4Q7yiJ94GiVGOi4q3tFqwEfYZAMepDYCqzfER/PaPCYerB7AjUmEKXODnuCV0
+ eieaE3XAzx4BBLJG8yn99d5aO6SaXe3DJWPOolBT4DhY2zOQMrtltqooLs5fn9q+8K0jUOHOB
+ PQFzp7hKYqS4mc1o70bM=
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D=
+2 color=3D#1a0dab>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_=
+url?url=3Dhttp://kalampok.is/Papers/SemStats2015_preprint.pdf&amp;hl=3Dde&a=
+mp;sa=3DX&amp;scisig=3DAAGBfm2rCdzWQmkoLrddz_Kqbk--hm1g-g&amp;nossl=3D1&amp=
+;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:=
+underline">Challenges on Developing Tools for Exploiting Linked Open Data C=
+ubes</font></a></h3><div><font size=3D2 color=3D#006621>E Kalampokis, B Rob=
+erts, A Karamanou, E Tambouris&hellip;</font></div><div><font size=3D2 colo=
+r=3D#222222><b>...</b> Web. <b>Linked</b> <b>data</b> paradigm promises to =
+facilitate the realization of this vision. The <b>...</b><br>
+direction. Based on the QB vocabulary a number of data cubes are provided a=
+s <b>linked</b><br>
+<b>data</b> either by the owners of the data or by third parties. However <=
+b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttp://seco.cs.aalto.fi/publicatio=
+ns/submitted/makela-et-al-core.pdf&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGB=
+fm1ANIaql29uumFCzsggdwwHt0F3FQ&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font si=
+ze=3D3 color=3D#1a0dab style=3D"text-decoration:underline">CORE-A Contextua=
+l Reader based on <b>Linked Data</b></font></a></h3><div><font size=3D2 col=
+or=3D#006621>E M=C3=A4kel=C3=A4, T Lindquist, E Hyv=C3=B6nen</font></div><d=
+iv><font size=3D2 color=3D#222222>In a relatively recent study on the needs=
+ of humanities faculty and students in using digital <br>sources [1], two m=
+ajor issues were identified: 1) locating data relevant to a topic when onli=
+ne <br>collections are distributed across institutions and systems; and 2) =
+being able to explore <b> ...</b></font></div><br><p><hr noshade size=3D1><=
+font size=3D2 color=3D#222222>Dieser Google Scholar-Alert wird Ihnen von Go=
+ogle zur Verf=C3=BCgung gestellt.<br><br><a href=3D"http://scholar.google.d=
+e/scholar_alerts?view_op=3Dcancel_alert_options&amp;email_for_op=3Derictess=
+enow%40web.de&amp;alert_id=3DAIfevv3NkPcJ&amp;hl=3Dde"><font color=3D#1a0da=
+b>Alert stornieren</font></a><br></font></div></body></html>

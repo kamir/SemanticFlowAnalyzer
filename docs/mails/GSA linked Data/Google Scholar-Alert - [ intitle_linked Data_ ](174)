@@ -1,0 +1,203 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.55.157.10 with SMTP id g10csp585628qke;
+        Thu, 15 Oct 2015 06:16:11 -0700 (PDT)
+X-Received: by 10.141.28.21 with SMTP id f21mr12252490qhe.13.1444914859206;
+        Thu, 15 Oct 2015 06:14:19 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3qDYTVhUKDBkH16DAzGzA3GIH-CDG3EAN5DD5A3.1DB3G71I3HH3CDLL30.23@scholar-alerts.bounces.google.com designates 209.85.223.201 as permitted sender) smtp.mailfrom=3qDYTVhUKDBkH16DAzGzA3GIH-CDG3EAN5DD5A3.1DB3G71I3HH3CDLL30.23@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3qDYTVhUKDBkH16DAzGzA3GIH-CDG3EAN5DD5A3.1DB3G71I3HH3CDLL30.23@scholar-alerts.bounces.google.com designates 209.85.223.201 as permitted sender) client-ip=209.85.223.201;
+Received: by 10.140.25.178 with POP3 id 47mf12845840qgt.1;
+        Thu, 15 Oct 2015 06:14:19 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: <3qDYTVhUKDBkH16DAzGzA3GIH-CDG3EAN5DD5A3.1DB3G71I3HH3CDLL30.23@scholar-alerts.bounces.google.com>
+Received: from mail-io0-f201.google.com ([209.85.223.201]) by mx-ha.web.de
+ (mxweb107) with ESMTPS (Nemesis) id 0MSd6e-1aAp4v2r6i-00RcpY for
+ <erictessenow@web.de>; Tue, 06 Oct 2015 04:49:14 +0200
+Received: by iow1 with SMTP id 1so12153716iow.1
+        for <erictessenow@web.de>; Mon, 05 Oct 2015 19:49:12 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=z1ji307VeFQaUkO4BfKtgIX5mezePODovwzz4CUW8os=;
+        b=BC63PEIGp2m2a+vd+6ptq+Mv5ePTyI49EO863DDkUM7aMUGawsFPKbebRLtxzyt4W2
+         u1QLc/Z+qwjpesQAxaurYx2LfdnFCVQ0PHHxL+mZwr67nWKSwoK3aMV0ZElZzPNL8SgH
+         vU8tqR87NircM5E99EIEIQbva4ymW1hHbs8RvGkXGnIjBHZYBNEt95d9HpdR52sKEW/N
+         IEy8WU3uDvayAIkUUvcH16V8BXPi9yXQMEcMWJ/mfd/ugKQnciuwciDlEDBqfpx4xb5T
+         xNEAqg+n4iPKG7xVCg9oXAFMm6hMd8YyiWHMcfBc/mt3MEwMy0XSv+Hc36E+e9j4bY9y
+         53nw==
+MIME-Version: 1.0
+X-Received: by 10.107.134.150 with SMTP id q22mr29031463ioi.31.1444099752496;
+ Mon, 05 Oct 2015 19:49:12 -0700 (PDT)
+Message-ID: <001a113ebe16c48def052166ac4e@google.com>
+Date: Tue, 06 Oct 2015 02:49:12 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:RZ4weNYsiWM=:bPshlZd9Du7ZgD9Yf5XkBaXORG
+ AtcWPrIgcX6g/59XITj0joJlDtA/ea8Bxm5EN47oZTnRnyN+xR+zRj9LYpa6P3WKHfcdYpJk9
+ isugZo8uviVk0pbwvOOAf+BiwWcu6S62JVR6sBQvjGCAjK35yWvyB9igxibWsGQ6cbE+Kl50S
+ J5UJjX8AGgYVUIhWWGi08HqLScipAu611ofRs7nuR+sOX2AjNDRD47qv+YiPlyCVzu3w0sfyH
+ 0HRJBq/Ft9/LHLwMM+uKs6NNEtDFLPORwV5FBZxobgpbCXqVb/BvINTowkECYXkjPHnGVyAeC
+ K7ZTiyZyvXjkW3akKjalj/yQ66hqcyLEgJBvBVCFkpRkushrg18HvibJHWR0AIE3f2NdNNuPq
+ yML+bFrKKuyJiEtWHd5Nji4LOR9VntcJ1B0bZgQeGmMP6nRl73rzzgmgvjzDsCE98xQIK9Dm+
+ TpymSmvrNUrWOZMSlw5KAAumYPW5uSLvfBpE168+3yPXAmktCCI71xKBxZxEYGVsQADTQ+F0x
+ RLBAC9iKzw0gaZUJ5i6ZJ+8f/vfQTokNpnJkRPKzqUFtVROJKEQUXrLe5QQh5CifNhzAWHiNg
+ hqAgATmAg7W1MyymKhbTWrGxAfjb3cUsoQpbdCrxNW9gF2Vqz6AKUFt9md6xabBuAtJI0f8wU
+ utt7mjUdslIIjD46xbmAQoe4UdEcXp3VXB3X6vWQRC8OIGJgSJWGBWSyRbmr7ON0Ci91xTM+Y
+ JGpMS6lXQc7Vl/cNPlbTrmv1KvM4TW2JFdga6BXTGdZyRomlOlzSTFd0HF+PwrQjKxZ8HSg+K
+ JZXnzuvNixzqH1PWSNLNLIXurdJ1ElR/jIzeYkX78jfmYJnFFjq1NviRrmTPih2sYPV/x8g1G
+ W243VjrJbB4G2lYYhOCLNsLdWnuyyX/jkQnbHrRw2ooiwW1Vtt/V0bEoGfMkl5Ug2hEWJM5Ye
+ YMWAH3ZyWF9BiNkw5l3+RU64x3yLvbm8CcA0uYGGY8e4Zn8iT+52J2GQMXgAkVonv7UAuXQHP
+ 6v+5vJmBM2gaTprTfhClzBJ1T0zhTy8l+tyltX9ZWuP7nB1p/A1i2cnLGddcJGA8yk85JLZlc
+ ezkIJNicc8RqtXviGEJTJNAKIUIerAjWCRxS3u2BE5AY8DSPrnVwAhy+l3QkOxU+b1Oeb8xwj
+ 9cWbsA581g65IPIOG9eA2wva5W4Uho88dmL5AvzLOEm5N+dWn+5wd470OVBngxpXpSko9Od7h
+ tHatVwnHnvn9/ld5Q/YIujY1pYihq4n1PxAYwaYOJw3t68KmwNm1L1SlwaWzfKo7hrcCZqqFB
+ g/zG5AkXU/gAmUyuYLA+VsLNMme8UXilQ0LlZ4NZaMWBNT+n0gg5sMy89WJr+ZTiuqWZ0E8fR
+ 2MzGgJSaBZNln4f4Yyd7Kl6Vi0tQQEB7dj6a7F1/mE6/vhjoshQGYyGBwWv9XTLV1uJsJQ2CB
+ l7oU/CJq54qEY2ZtBtnkxPTJhSAmbS6nFYkyDABOqmnxLd00mUIL9+N4unodC+6JRAcGXooT4
+ khEKC8GRiF0paSlYNhug=
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttp://link.springer.com/chapter/1=
+0.1007/978-3-319-19620-6_61&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm2_uCA=
+tblBOE6DC9kDIsw7bzqKFvg&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 =
+color=3D#1a0dab style=3D"text-decoration:underline">Linking and Consuming A=
+gricultural Big Data with <b>Linked Data </b>and KOS</font></a></h3><div><f=
+ont size=3D2 color=3D#006621>G Xian, R Zhao, X Meng, Y Kou, L Zhu - Compute=
+r and Computing Technologies in  &hellip;, 2015</font></div><div><font size=
+=3D2 color=3D#222222>Abstract This paper gives brief introduction about the=
+ big data, <b>linked data </b>and knowledge <br>organization systems (KOS) =
+and their relationships. As the authors mainly focus on the <br>variety and=
+ value characteristics of big data, the <b>linked data </b>and KOS technolo=
+gies are <b> ...</b></font></div><br><h3 style=3D"font-weight:normal;margin=
+:0;font-size:medium;max-width:44.5em"><a href=3D"http://scholar.google.de/s=
+cholar_url?url=3Dhttp://humrep.oxfordjournals.org/content/early/2015/09/30/=
+humrep.dev247.extract&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm0mxtAX5AyWt=
+cLFQC9SirJZH_tINg&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=
+=3D#1a0dab style=3D"text-decoration:underline"><b>Linked data </b>research:=
+ a valuable tool in the ART field</font></a></h3><div><font size=3D2 color=
+=3D#006621>M Hansen, N de Klerk, L Stewart, C Bower, E Milne - Human Reprod=
+uction, 2015</font></div><div><font size=3D2 color=3D#222222>Dear Sir, A re=
+cent Editorial (&#39;The war on error&#39;(Evers et al., 2015)) and Invited=
+ Commentary <br>(Grimes, 2015) in Human Reproduction heavily criticized the=
+ use of administrative <br>databases for public health research. These comm=
+entaries were published alongside a <b> ...</b></font></div><br><h3 style=
+=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=
+=3D"http://scholar.google.de/scholar_url?url=3Dhttp://link.springer.com/cha=
+pter/10.1007/978-3-319-25518-7_5&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm=
+0Mkc5LnpGJ86j_VtoJgPVX-ghfNA&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=
+=3D3 color=3D#1a0dab style=3D"text-decoration:underline">Exploiting linked =
+open data to uncover entity types</font></a></h3><div><font size=3D2 color=
+=3D#006621>J Gao, S Mazumdar - Semantic Web Evaluation Challenges, 2015</fo=
+nt></div><div><font size=3D2 color=3D#222222><b>...</b> In this paper, we e=
+xplored the combination of the context-based techniques by the use of forma=
+l<br>
+resource (ie, <b>linked</b> <b>data</b>) in semantic level and the content-=
+based matching by the use of<br>
+terminological techniques including string metrics for lexical similar- ity=
+ and WordNet for <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><a href=3D"http://scholar.google.de/scholar_url?url=3Dhtt=
+p://ieeexplore.ieee.org/xpls/abs_all.jsp%3Farnumber%3D7281842&amp;hl=3Dde&a=
+mp;sa=3DX&amp;scisig=3DAAGBfm0itEkqj8OH1CAygIDvC3YVcLVfuA&amp;nossl=3D1&amp=
+;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:=
+underline">Data integration approach for semi-structured and structured dat=
+a (<b>Linked Data</b>)</font></a></h3><div><font size=3D2 color=3D#006621>M=
+S Kettouch, C Luca, M Hobbs, A Fatima - Industrial Informatics (INDIN), 201=
+5 IEEE  &hellip;, 2015</font></div><div><font size=3D2 color=3D#222222>Abst=
+ract=E2=80=94Researchers in the semantic web community have been designing =
+tools and <br>architectures to integrate heterogeneous data originated from=
+ distributed sources in the last <br>decade. Technologies, such as RDF, hav=
+e enabled new data spaces and concept <b> ...</b></font></div><br><h3 style=
+=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font si=
+ze=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"http://scholar.google.de/sch=
+olar_url?url=3Dhttp://www.diva-portal.org/smash/get/diva2:857602/FULLTEXT01=
+.pdf&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm0jJCrLxQhmGsqfkA3egg4OBFqh_g=
+&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=
+=3D"text-decoration:underline">Making a usable modeling tool for the distri=
+buted tool architecture promoted by a <b>Linked Data </b>approach</font></a=
+></h3><div><font size=3D2 color=3D#006621>D Zhang - 2015</font></div><div><=
+font size=3D2 color=3D#222222>1.1 Background This thesis project was conduc=
+ted at Scania Tekniskt Centrum located in <br>S=C3=B6dert=C3=A4lje, Sweden.=
+ It is a part of ESPRESSO project [1], a collaborative project between <br>=
+Scania and KTH. The ESPRESSO project aims to develop and adapt model-based =
+<b> ...</b></font></div><br><h3 style=3D"font-weight:normal;margin:0;font-s=
+ize:medium;max-width:44.5em"><a href=3D"http://scholar.google.de/scholar_ur=
+l?url=3Dhttp://dl.acm.org/citation.cfm%3Fid%3D2808467&amp;hl=3Dde&amp;sa=3D=
+X&amp;scisig=3DAAGBfm1SmYoc8fco2hkYfYWp1wr24K0I5w&amp;nossl=3D1&amp;oi=3Dsc=
+holaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:underlin=
+e"><b>Linked Data </b>Queries as Jigsaw Puzzles: a Visual Interface for SPA=
+RQL Based on Blockly Library</font></a></h3><div><font size=3D2 color=3D#00=
+6621>P Bottoni, M Ceriani - Proceedings of the 11th Biannual Conference on =
+ &hellip;, 2015</font></div><div><font size=3D2 color=3D#222222>Abstract SP=
+ARQL is a powerful query language for Semantic Web data sources but it is q=
+uite <br>complex to master. The jigsaw puzzle methaphor has been succesfull=
+y used in Blockly to <br>teach programming to kids. We discuss its applicab=
+ility to the problem of building SPARQL <b> ...</b></font></div><br><h3 sty=
+le=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a hre=
+f=3D"http://scholar.google.de/scholar_url?url=3Dhttp://link.springer.com/ch=
+apter/10.1007/978-3-319-23201-0_51&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGB=
+fm2eTTfAFXs2jAGGEb4F5mCMm0t7yA&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font si=
+ze=3D3 color=3D#1a0dab style=3D"text-decoration:underline">Disambiguation o=
+f Named Entities in Cultural Heritage Texts Using <b>Linked Data </b>Sets</=
+font></a></h3><div><font size=3D2 color=3D#006621>C Brando, F Frontini, JG =
+Ganascia - New Trends in Databases and Information  &hellip;, 2015</font></=
+div><div><font size=3D2 color=3D#222222>Abstract This paper proposes a grap=
+h-based algorithm baptized REDEN for the <br>disambiguation of authors&#39;=
+ names in French literary criticism texts and scientific essays from <br>th=
+e 19th century. It leverages knowledge from different <b>Linked Data </b>so=
+urces in order to <b> ...</b></font></div><br><h3 style=3D"font-weight:norm=
+al;margin:0;font-size:medium;max-width:44.5em"><a href=3D"http://scholar.go=
+ogle.de/scholar_url?url=3Dhttp://link.springer.com/chapter/10.1007/978-3-31=
+9-24543-0_2&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm0FIVTIXYGqb60F061i_kM=
+STt1U5w&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab =
+style=3D"text-decoration:underline">UIMA2LOD: Integrating UIMA Text Annotat=
+ions into the Linked Open Data Cloud</font></a></h3><div><font size=3D2 col=
+or=3D#006621>C Bretschneider, H Oberkampf, S Zillner - Knowledge Engineerin=
+g and Semantic  &hellip;, 2015</font></div><div><font size=3D2 color=3D#222=
+222><b>...</b> Thus, all pipeline&#39;s modules fulfill the four requiremen=
+ts imposed by the fundamental <b>Linked</b> <b>Data</b><br>
+principles formulated by Tim Berners-Lee[2] (marked in boldface): <b>...</b=
+> Second, it fails to create links<br>
+to existing datasets, thus does not add to the creation of a larger <b>link=
+ed</b> <b>data</b> cloud. <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><a href=3D"http://scholar.google.de/scholar_url?url=3Dhtt=
+p://link.springer.com/chapter/10.1007/978-3-319-23201-0_38&amp;hl=3Dde&amp;=
+sa=3DX&amp;scisig=3DAAGBfm1F7pjYshjVt0vfzYyaiDYIowB0Cw&amp;nossl=3D1&amp;oi=
+=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:und=
+erline">Mobile Co-Authoring of <b>Linked Data </b>in the Cloud</font></a></=
+h3><div><font size=3D2 color=3D#006621>MD Mechaoui, N Guetmi, A Imine - New=
+ Trends in Databases and Information  &hellip;, 2015</font></div><div><font=
+ size=3D2 color=3D#222222>Abstract The powerful evolution of hardware, soft=
+ware and data connectivity of mobile <br>devices (such as smartphones and t=
+ablets) stimulates people to publish and share their <br>personal data (lik=
+e social network information or sensor readings) independently of spatial <=
+b> ...</b></font></div><br><h3 style=3D"font-weight:normal;margin:0;font-si=
+ze:medium;max-width:44.5em"><a href=3D"http://scholar.google.de/scholar_url=
+?url=3Dhttp://link.springer.com/chapter/10.1007/978-3-319-24592-8_26&amp;hl=
+=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm0j2RNwBULJcCjPYkMmBbXU6zakyw&amp;nossl=
+=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-dec=
+oration:underline">Transformation of a Library Catalogue into RDA Linked Op=
+en Data</font></a></h3><div><font size=3D2 color=3D#006621>G Candela, P Esc=
+obar, M Marco-Such, RC Carrasco - Research and Advanced  &hellip;, 2015</fo=
+nt></div><div><font size=3D2 color=3D#222222><b>...</b> Page 2. 322 G. Cand=
+ela et al. bibliographic metadata in RDA. The process is strongly based<br>
+on the currently available open-source technology and relies on the creatio=
+n of a relational<br>
+data- base which provides controlled generation of <b>linked</b> <b>data</b=
+> in RDA. <b>...</b>=20
+</font></div><br><p><hr noshade size=3D1><font size=3D2 color=3D#222222>Die=
+ser Google Scholar-Alert wird Ihnen von Google zur Verf=C3=BCgung gestellt.=
+<br><br><a href=3D"http://scholar.google.de/scholar_alerts?view_op=3Dcancel=
+_alert_options&amp;email_for_op=3Derictessenow%40web.de&amp;alert_id=3DAIfe=
+vv3NkPcJ&amp;hl=3Dde"><font color=3D#1a0dab>Alert stornieren</font></a><br>=
+</font></div></body></html>

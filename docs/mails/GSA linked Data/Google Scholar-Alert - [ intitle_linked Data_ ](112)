@@ -1,0 +1,87 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.64.26.170 with SMTP id m10csp72969ieg;
+        Fri, 3 Jan 2014 15:23:28 -0800 (PST)
+X-Received: by 10.50.61.140 with SMTP id p12mr5461648igr.29.1388791405693;
+        Fri, 03 Jan 2014 15:23:25 -0800 (PST)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 31znHUhUKDAQwglspevepivxw-rsvitp2ksskpi.gsqivmgxiwwirs00if.hi@scholar-alerts.bounces.google.com designates 209.85.212.74 as permitted sender) smtp.mail=31znHUhUKDAQwglspevepivxw-rsvitp2ksskpi.gsqivmgxiwwirs00if.hi@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 31znHUhUKDAQwglspevepivxw-rsvitp2ksskpi.gsqivmgxiwwirs00if.hi@scholar-alerts.bounces.google.com designates 209.85.212.74 as permitted sender) client-ip=209.85.212.74;
+Received: by 10.64.148.37 with POP3 id tp5mf11987454ieb.8;
+        Fri, 03 Jan 2014 15:23:24 -0800 (PST)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 31znHUhUKDAQwglspevepivxw-rsvitp2ksskpi.gsqivmgxiwwirs00if.hi@scholar-alerts.bounces.google.com
+Received: from mail-vb0-f74.google.com ([209.85.212.74]) by mx-ha.web.de
+ (mxweb007) with ESMTPS (Nemesis) id 0MSMCh-1VroaB3gFv-00TY1P for
+ <erictessenow@web.de>; Fri, 03 Jan 2014 23:29:45 +0100
+Received: by mail-vb0-f74.google.com with SMTP id w5so1034852vbf.1
+        for <erictessenow@web.de>; Fri, 03 Jan 2014 14:29:43 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=4jOUXVMbjUiMlSJ2x8aXuOyaDbP+BWYgXnWCZvRNzuk=;
+        b=No2a2AZgYf0hlGcl3lS2PNrBcwTy78+M/fUPjkCsAFdyTSlheTedyBfFK6qw2xKaZ/
+         GyHaKj8Ng/xlpu+Q1GNmnsEM/Cpp09Ht1ILdYqnl96ilMz12/t2eYMcFkxKuNMdEuDmL
+         uAEkMFX1HQH/Dh0ZeYHrsM0kH9eBjODC7EHznJ5uNFcWkfMZExJ/5JrXVCPPyEGroZcu
+         8Kll6581uw/74y4YLRfeeXzcYtG/8X/dPAOsYVm8MsJDm3gK7HAqNElztNvo01e8pbi4
+         ThsPet9+nwZTq0BbY2DNtX8MeBrRzQvahBOel01fDInQtn9TdYcF1GKdTdxXAmMAsSM1
+         hv0g==
+MIME-Version: 1.0
+X-Received: by 10.58.39.202 with SMTP id r10mr38931614vek.12.1388788183804;
+ Fri, 03 Jan 2014 14:29:43 -0800 (PST)
+Message-ID: <089e0115fd0e5d299504ef187221@google.com>
+Date: Fri, 03 Jan 2014 22:29:43 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:0iZXwBWsqX8=:z5V3G0uMt1PoGvO0Wpiaif03vv
+ dEg5mGGiWyMJ5x7XKXc0vjxf+INOU42BwA7eyhGMp1+tXdImcnDl/nfXUcs3322Mfvc92wJgn
+ XUL1D2rrRiFL4PuSi31EB0VymYQMC866kV2v8JPQYdwWfTyBefCIhqncx2b9L8Flp13muTP8E
+ fgIgm5uQX3Z1lTTe5OJw9T0ZNEtGTu0DaDvrPEhetSmjYhME94RpuE0QKYCpfMVqt9LPHB0al
+ wDgErILDWsNQ9+Z2NERWuR4dGJrgfM75aSb9BvHMMT2TmoGzYOQXCf4ZZm7Upiv8dRYNZ7JnD
+ rXmKK9U4mOHXtqLcS+ZxcEpYnGAPC9/7nbZfPwAbeuldKR4s/x+64ssd220NPCM9nPUEptO+b
+ UiNowEg/WsowouzzwPvuFxhFjEAIrsdbiA0L5l7CX7HcvfS7qx3nS/l8HVnjMR2dgwH5hIWSh
+ ut8Xkzq0nl8+hfXuFyo4SOpF+7zOwXNzVlPygZDLlQnZzxGSX09AZ0PqmMG5/Iuir2hOFTt9i
+ mdJO08yWv6vvd2KABB0s6AXU1YorhmTVcr8QOIxlYmeLOIdRghGflfntl/BvQK5dlQw0KuAi4
+ RezlSfHzy42cbp7pR5t+Eefa0Qv4IgylI2crfqsmXdKrlrwuk+r2Kd1WtmcQ6J8tGNRyQYsIg
+ bub3J/0hz/f7bkMn1PQTvqy43cl++V+Bhq65HysNiJwxAay4zyqeSH9+HigzBuNGhkZvZpaJv
+ AggqmfJnJ9qzgW2t4YnvW8tH7xLEDli9Xi0+vzA07hlZO0z/MUi1dylsVwfLfoCFX3KWjirl+
+ wDJappJYy9FWIZWDJhal3830mCvOviLlXEUA6YNo+VJbw1FKpWI0a42AhIqHSngwHn7zkf+aL
+ QyS+xFUhc55UNOpQXSDDQPmyHfDu1zxR31+wRmZYtVZRyhtmhOG347SBQpVwAmhtil8NDJQIu
+ /MIH220I2jA+avAxcNn4VlwmpOs6+5e16isxfrm6CzxcWTcZNhBpQ0RKvnFKuXFp4sebRVH9D
+ 0Bg9NlTIakgL9vx/e0kZodwBwd+1Z8NqNBgfFXwhkp9+O0kSv/joneG7BPOoBbbF2rJ787zRo
+ 8lRb3THdPS+hjZIx8EyYnhNYUgmf5COMZK0ju97K7rLoghzY87IZRiaD4zYmiV83pRJK5o6I4
+ BWGgUBDZyLoHkWrMUiqp0REqYOqTUTkwyrQ/aHuQ1LEThoXBnDLePwfDRmTgmpAyBruSeXRj4
+ DTTJ97MK0+4mYqBHE/b1QkJ9XYfLzklI57XUE7Ztb83ozrbXbYQ2FjhnztWw82Hq/WaEYfdFE
+ /5tqsH326kRPnULxNr3eSXfqs9hl6FROgv4b6c1aH6seZv6p7Lw4DPJORORvlIPOR384VBUIA
+ +bTK+ibIVf1rkdAQA==
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D=
+2 color=3D#1122cc>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_=
+url?hl=3Dde&amp;q=3Dhttp://www.researchgate.net/publication/259327913_Learn=
+ing_tool_for_medicine_students_based_on_biomedical_named_entity_recognition=
+_and_linked_open_data/file/9c96052b0301978318.pdf&amp;sa=3DX&amp;scisig=3DA=
+AGBfm343ao3AakrmtpODcBrBFWLqkHohQ&amp;oi=3Dscholaralrt"><font size=3D3 colo=
+r=3D#1122cc style=3D"text-decoration:underline">Learning tool for medicine =
+students based on biomedical named entity recognition and linked open data<=
+/font></a></h3><div><font size=3D2 color=3D#009933>ML Prieto, E Puertas, M =
+de Buenaga</font></div><div><font size=3D2 color=3D#222222><b>...</b> topic=
+. Our architecture allows developers to build apps that can consult informa=
+tion<br>
+from many different biomedical sources on the web in an easy way, using the=
+ power<br>
+of the <b>linked</b> <b>data</b>. 3. Biomedical Named Entity Recognition <b=
+>...</b>=20
+</font></div><br><p><hr noshade size=3D1><font size=3D2 color=3D#222222>Die=
+ser Google Scholar-Alert wird Ihnen von Google zur Verf=C3=BCgung gestellt.=
+<br><br><a href=3D"http://scholar.google.de/scholar_alerts?view_op=3Dcancel=
+_alert_options&amp;email_for_op=3Derictessenow%40web.de&amp;alert_id=3DAIfe=
+vv3NkPcJ&amp;hl=3Dde"><font color=3D#1122cc>Alert stornieren</font></a><br>=
+</font></div></body></html>

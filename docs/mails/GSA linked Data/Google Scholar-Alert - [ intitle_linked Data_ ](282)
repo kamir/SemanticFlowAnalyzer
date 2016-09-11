@@ -1,0 +1,187 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.140.156.21 with SMTP id c21csp1252256qhc;
+        Tue, 16 Sep 2014 01:36:25 -0700 (PDT)
+X-Received: by 10.224.129.201 with SMTP id p9mr44772833qas.75.1410856584646;
+        Tue, 16 Sep 2014 01:36:24 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3_PMXVBUKDOkdNSZWLcLWPced-YZcPaWjRZZRWP.NZXPcTNePddPYZhhPM.OP@scholar-alerts.bounces.google.com designates 209.85.192.74 as permitted sender) smtp.mail=3_PMXVBUKDOkdNSZWLcLWPced-YZcPaWjRZZRWP.NZXPcTNePddPYZhhPM.OP@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3_PMXVBUKDOkdNSZWLcLWPced-YZcPaWjRZZRWP.NZXPcTNePddPYZhhPM.OP@scholar-alerts.bounces.google.com designates 209.85.192.74 as permitted sender) client-ip=209.85.192.74;
+Received: by 10.224.31.76 with POP3 id x12mf3198194qac.18;
+        Tue, 16 Sep 2014 01:36:24 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3_PMXVBUKDOkdNSZWLcLWPced-YZcPaWjRZZRWP.NZXPcTNePddPYZhhPM.OP@scholar-alerts.bounces.google.com
+Received: from mail-qg0-f74.google.com ([209.85.192.74]) by mx-ha.web.de
+ (mxweb005) with ESMTPS (Nemesis) id 0MWlFz-1Xr44s3hON-00Xs19 for
+ <erictessenow@web.de>; Tue, 16 Sep 2014 10:25:34 +0200
+Received: by mail-qg0-f74.google.com with SMTP id q107so527448qgd.1
+        for <erictessenow@web.de>; Tue, 16 Sep 2014 01:25:32 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=HF/LDErVqX50VoLoUByHB9uQX9xVnwgH/HCmLLT0cVQ=;
+        b=IZ5+BZiQFxyYt3MXsGAQqBz6UohG+oMVroaDGkJeXKXh2on1cncLE8pdxQCuuKBOGI
+         oi+9HIqTndADqFX3lHWfedi21uTj8KgrnTXbheruBw/VkX5JDTPkzMwC03To2eU5H4IQ
+         okdk7VhtuBWxv+UUJtyeBNAcXMTz6hI8GqnA557M/ltpwhH9dKntKASXqtKz+NwYQD/1
+         0W93G/BksrK4IlZB4VZytFqwX8qG4HB59zcSu6u71nMMQ8z4LZeilM1jbN5Ma5RGofZE
+         sDBlVPYcGrcWPUgSJPZl1hZorIcz8nM5hvPbopwbnaBFeeBPiAQnHGb+FK9L5LYZ51tq
+         p5mQ==
+MIME-Version: 1.0
+X-Received: by 10.236.59.9 with SMTP id r9mr7615973yhc.16.1410855932760; Tue,
+ 16 Sep 2014 01:25:32 -0700 (PDT)
+Message-ID: <bcaec50b513ab392f005032a7e34@google.com>
+Date: Tue, 16 Sep 2014 08:25:32 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:hCXIndxKEIw=:zL7d7xJyWKyNC8sU1mRCFXbZHA
+ rU5fC+6DdAcovXkePm8YCcM8pzU5C7V61MF/1gxaG0yaZUI7PbgdpYAgcPeTLN1VljaFjNhn0
+ 1nyRT3AXK33GiVE8gejC+Aob2X75cgaTxhaxegBdygsNop7eC+vGbrHQ+1wtSgqD4VBQze0um
+ p3B4QZ3u9bLHAuvLSA+M8mQM/0idq/ixBIr261ldZMI9ksbVhOs6VpnobLw6L6V03oRgJE6V4
+ Ep2EJDCxL8PtPPXHIYB6GHdWbBK3NHhsff8l5n4P6t6rWu2B4Xzkv7s53Vrm0Qb6whsWzOxDc
+ eB7CEig4w3TGE1wqo+HIehHjJjVtwOaWoWWCmHs1KYE6qFHQTNfpYIF4AYNb0AjayAlCOwokQ
+ Hrqtpl+xdAkSyIEKH9kj24pEzn38wDEWJbFbb+VswkQuW3XSBZ6rKn426jcb0EsMH47WLiMgx
+ beAhaiDW/CEK2O1pBOsSM1ohE83XkXHjQl0LBNYIrH0L506m3CwIHmhBVB7kvZ2hp1M2TK+Kv
+ WyS3RYYIaaNccQ9w83494OWdtMyerS0TOiVFjqd7amlZFDAdzPvVqbNaxTP2qUHFv4XINhmlf
+ t2F+MYI8YBLr1u6TpJ1EEki8hgpgByeuuS6/1+5NoJJ6myJMJdMkFHKuZmgp7w9WRMr4vQPGg
+ BluMHNX/jbSFFLH6o1odI3gpXjE6ZxlgxKEFUd9oV1w2rUrjet+QiK3fShE7x6+ngIgzsdJi6
+ wpj2saP4d4IKBBufV7XO9EBaTH59/ie3Om5A6dXHrlM3aKM0ta1oNZtD2omd0QnAr+byvikQi
+ P2OCVPOH0/1OqfTWKB4hwUpq0uSJitUXXrt2cLLi70eOrQg4cbDaiQgPH1FRWYkmzPA3kK3J/
+ k38jJJufNpJ7iTF9GHu/5bUmrBWaiPmV8MImdfkENtQjnVggJyCcKmQt1Zjhzxkvyvyb2l4Sh
+ BD0ihUEzu75F7Mm8hXlyf/xA65Hm62JO+XA1WYerRH3daVg4UJI8goxVWzxywGQevqirwadbn
+ s6dstdDv1gbXfImyDcz66/k5s5mjh94ETU8t+iIDgDw7bmKUm64Nw2rzZkM/I2qXNz8VgUiYR
+ FZm6zPLZwusZUArY0ziEvu4roN0EkO2FU29KEgFy/k55wNLo2TS9pdIue7gm2DA4yvz/csHlh
+ rkYX/6r0FR4vbZp+uum576XVFCPWb2JQnoI6V9IzgJ8pyxDOkW3e+4F51UgMYrf38QdVzMPrf
+ jPh8hZ+VT+6irLy8sFO8l7YWkNsbqsPOV/kRQP8VPycs/qKon/Ayc7g6BXezNc2Pl/hv7gSw3
+ jWtdrdI0ZYDUWCjMRDn1f5aV9KxK5vP+RRZRIcJHUiMqN8vGbhsuWRahpFaUdfISg7tKVsrAC
+ gglCSEYO5t1A/USKRg42B4IJSHwQX/YMfBxHpxvfa80uH84dq0MrZO8iG7IFfogGKyqm/daTo
+ MK4+m1k/E10h+BW4SFGBbt8QzPskU=
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://www.degruyter.com=
+/view/j/iwp.2014.65.issue-4-5/iwp-2014-0040/iwp-2014-0040.xml&amp;sa=3DX&am=
+p;scisig=3DAAGBfm3ZWISqBeV5YMsFQERoRKt2lKFqxQ&amp;oi=3Dscholaralrt"><font s=
+ize=3D3 color=3D#1a0dab style=3D"text-decoration:underline">Die Multilingua=
+l Lexical <b>Linked Data </b>Cloud: Eine m=C3=B6gliche Zugangsoptimierung?<=
+/font></a></h3><div><font size=3D2 color=3D#006621>EW De Luca, I Dahlberg -=
+ Information-Wissenschaft &amp; Praxis, 2014</font></div><div><font size=3D=
+2 color=3D#222222>Die Multilingual Lexical Linked Data Cloud: Eine m=C3=B6g=
+liche Zugangsoptimierung?The Multilingual <br>
+Lexical Linked Data Cloud: A possible semantic-based access to the Web?Le M=
+ultilingual Lexical <br>
+Linked Data Cloud: possibilit=C3=A9 d&#39;optimisation de l&#39;acc=C3=A8s?=
+  <b> ...</b> Die Multilingual Lexical <b> ...</b> </font></div><br><h3 sty=
+le=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font =
+size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"http://scholar.google.de/s=
+cholar_url?hl=3Dde&amp;q=3Dhttp://ceur-ws.org/Vol-1180/CLEF2014wn-QA-UngerE=
+t2014.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm3w_bwet1A1jIUIs6gub6vhd5OsaA&amp;oi=
+=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:und=
+erline">Question Answering over <b>Linked Data </b>(QALD-4)</font></a></h3>=
+<div><font size=3D2 color=3D#006621>C Unger, C Forascu, V Lopez, ACN Ngomo,=
+ E Cabrio&hellip; - 2014</font></div><div><font size=3D2 color=3D#222222>Wi=
+th the increasing amount of semantic data available on the web there is a s=
+trong need for <br>systems that allow common web users to access this body =
+of knowledge. Especially <br>question answering systems have received wide =
+attention, as they allow users to express <b> ...</b></font></div><br><h3 s=
+tyle=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a h=
+ref=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://www.free=
+patentsonline.com/y2014/0258340.html&amp;sa=3DX&amp;scisig=3DAAGBfm0qI80JoI=
+YG4KsblQTKshO3Akyosw&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab s=
+tyle=3D"text-decoration:underline">SYSTEMS, METHODS, AND APPARATUS FOR PREF=
+ETCHING NODE DATA FOR <b>LINKED DATA </b>STRUCTURE TRAVERSAL</font></a></h3=
+><div><font size=3D2 color=3D#006621>LL Crowthers, K Palanichamy, SP Mondal=
+, SK De - US Patent 20,140,258,340, 2014</font></div><div><font size=3D2 co=
+lor=3D#222222>Abstract: Systems, methods, and apparatus are herein disclose=
+d for prefetching node data of <br>a <b>linked data </b>structure into a pr=
+ocessor&#39;s cache so as to decrease <b>linked data </b>structure <br>trav=
+ersal latency. In particular, as the <b>linked data </b>structure is create=
+d or modified, forward <b> ...</b></font></div><br><h3 style=3D"font-weight=
+:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D2 color=3D=
+#1a0dab>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_url?hl=3Dd=
+e&amp;q=3Dhttp://ceur-ws.org/Vol-1232/LD4KD2014-complete.pdf%23page%3D17&am=
+p;sa=3DX&amp;scisig=3DAAGBfm3How5I2AjbcT4zv-VjpRI9mMjCBg&amp;oi=3Dscholaral=
+rt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:underline">Fast=
+ stepwise regression on <b>linked data</b></font></a></h3><div><font size=
+=3D2 color=3D#006621>BZ la-Siudem, S Jaroszewicz - <b>Linked Data </b>for K=
+nowledge Discovery, 2014</font></div><div><font size=3D2 color=3D#222222>Ab=
+stract. The main focus of research in machine learning and statistics is on=
+ building more <br>advanced and complex models. However, in practice it is =
+often much more important to use <br>the right variables. One may hope that=
+ recent popularity of open data would allow <b> ...</b></font></div><br><h3=
+ style=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em"><f=
+ont size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"http://scholar.google.=
+de/scholar_url?hl=3Dde&amp;q=3Dhttp://ceur-ws.org/Vol-1232/LD4KD2014-comple=
+te.pdf%23page%3D59&amp;sa=3DX&amp;scisig=3DAAGBfm0acrxv-Spp78DtuvYCilXJIDVu=
+kg&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decor=
+ation:underline">Visual Analysis of a Research Group&#39;s Performance than=
+ks to Linked Open Data</font></a></h3><div><font size=3D2 color=3D#006621>O=
+ Pena, J L=C3=A1zaro, A Almeida, P Orduna, U Aguilera&hellip; - <b>Linked D=
+ata </b>for Knowledge  &hellip;, 2014</font></div><div><font size=3D2 color=
+=3D#222222>Abstract. Managing data within a research unit is not a trivial =
+task due to the high number of <br>entities to deal with: projects, researc=
+hers, publications, attended events, etc. When all these <br>data are expos=
+ed on a public website, the need to have it updated is fundamental to avoid=
+ <b> ...</b></font></div><br><h3 style=3D"font-weight:normal;margin:0;font-=
+size:medium;max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <=
+a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://ceur-=
+ws.org/Vol-1180/CLEF2014wn-QA-ParkEt2014.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm=
+3GOBFJRH4jWkeNEjv8OnorLLeoKg&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#=
+1a0dab style=3D"text-decoration:underline">ISOFT at QALD-4: Semantic simila=
+rity-based question answering system over <b>linked data</b></font></a></h3=
+><div><font size=3D2 color=3D#006621>S Park, H Shim, GG Lee - 2014</font></=
+div><div><font size=3D2 color=3D#222222>Abstract. We present a question ans=
+wering system over <b>linked data</b>. We use natural <br>language processi=
+ng tools to extract slots and SPARQL templates from the question. Then, <br=
+>we use semantic similarity to map a natural language question to a SPARQL =
+query. We <b> ...</b></font></div><br><h3 style=3D"font-weight:normal;margi=
+n:0;font-size:medium;max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]=
+</font> <a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhtt=
+p://ceur-ws.org/Vol-1232/LD4KD2014-complete.pdf%23page%3D69&amp;sa=3DX&amp;=
+scisig=3DAAGBfm39PSEsC6M50szpJPXhV3NnRDHjcA&amp;oi=3Dscholaralrt"><font siz=
+e=3D3 color=3D#1a0dab style=3D"text-decoration:underline">Machine Learning =
+on <b>Linked Data</b>, a Position Paper</font></a></h3><div><font size=3D2 =
+color=3D#006621>P Bloem, GKD de Vries - <b>Linked Data </b>for Knowledge Di=
+scovery, 2014</font></div><div><font size=3D2 color=3D#222222>Abstract. The=
+ combination of <b>linked data </b>and machine learning is emerging as an i=
+nteresting <br>area of research. However, while both fields have seen an ex=
+ponential growth in popularity <br>in the past decade, their union has rece=
+ived relatively little attention. We suggest that the <b> ...</b></font></d=
+iv><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;max-width:=
+44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"http://schol=
+ar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://ceur-ws.org/Vol-1180/CLEF20=
+14wn-QA-Marginean2014.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm3kDVE59MlHKY_NIFVCM=
+2vipBcpMQ&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"tex=
+t-decoration:underline">GFMed: Question Answering over BioMedical <b>Linked=
+ Data </b>with Grammatical Framework</font></a></h3><div><font size=3D2 col=
+or=3D#006621>A Marginean - 2014</font></div><div><font size=3D2 color=3D#22=
+2222>Abstract. This paper reports on the participation of the system GF-Med=
+ in QALD-4 question <br>answering challenge for Biomedical interlinked data=
+. GFMed introduces grammars for a <br>controlled natural language targeted =
+towards biomedical information and the <b> ...</b></font></div><br><h3 styl=
+e=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font s=
+ize=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"http://scholar.google.de/sc=
+holar_url?hl=3Dde&amp;q=3Dhttp://arantxa.ii.uam.es/~cantador/doc/2014/sprin=
+ger-lod14.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm2CHNwJQcaXds3_f8Plraky9t2ncw&am=
+p;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration=
+:underline">Linked Open Data-enabled Recommender Systems: ESWC 2014 Challen=
+ge on Book Recommendation</font></a></h3><div><font size=3D2 color=3D#00662=
+1>T Di Noia, I Cantador, VC Ostuni</font></div><div><font size=3D2 color=3D=
+#222222><b>...</b> and diversity in content-based recommendations. Particip=
+ants were requested to<br>
+address the tasks by means of recommendation approaches that made use of <b=
+>Linked</b><br>
+<b>Data</b> and semantic technologies. In the remainder of the <b>...</b>=
+=20
+</font></div><br><p><hr noshade size=3D1><font size=3D2 color=3D#222222>Die=
+ser Google Scholar-Alert wird Ihnen von Google zur Verf=C3=BCgung gestellt.=
+<br><br><a href=3D"http://scholar.google.de/scholar_alerts?view_op=3Dcancel=
+_alert_options&amp;email_for_op=3Derictessenow%40web.de&amp;alert_id=3DAIfe=
+vv3NkPcJ&amp;hl=3Dde"><font color=3D#1a0dab>Alert stornieren</font></a><br>=
+</font></div></body></html>

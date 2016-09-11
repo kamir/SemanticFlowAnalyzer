@@ -1,0 +1,108 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.112.221.138 with SMTP id qe10csp315207lbc;
+        Thu, 24 Jul 2014 06:44:41 -0700 (PDT)
+X-Received: by 10.112.34.8 with SMTP id v8mr9103053lbi.47.1406209478640;
+        Thu, 24 Jul 2014 06:44:38 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3lgvRUxUKDJUH16DAzGzA3GIH-CDG3EAN5DD5A3.1DB3G71I3HH3CDLL30.23@scholar-alerts.bounces.google.com designates 209.85.223.201 as permitted sender) smtp.mail=3lgvRUxUKDJUH16DAzGzA3GIH-CDG3EAN5DD5A3.1DB3G71I3HH3CDLL30.23@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3lgvRUxUKDJUH16DAzGzA3GIH-CDG3EAN5DD5A3.1DB3G71I3HH3CDLL30.23@scholar-alerts.bounces.google.com designates 209.85.223.201 as permitted sender) client-ip=209.85.223.201;
+Received: by 10.152.47.176 with POP3 id e16mf1131226lan.32;
+        Thu, 24 Jul 2014 06:44:38 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3lgvRUxUKDJUH16DAzGzA3GIH-CDG3EAN5DD5A3.1DB3G71I3HH3CDLL30.23@scholar-alerts.bounces.google.com
+Received: from mail-ie0-f201.google.com ([209.85.223.201]) by mx-ha.web.de
+ (mxweb106) with ESMTPS (Nemesis) id 0MU05N-1X1Kuk1D4z-00Qg2f for
+ <erictessenow@web.de>; Thu, 24 Jul 2014 15:35:19 +0200
+Received: by mail-ie0-f201.google.com with SMTP id tr6so770323ieb.2
+        for <erictessenow@web.de>; Thu, 24 Jul 2014 06:35:18 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=vmQ6ydW5iUwdH3TLOTVwESoMUdVYAidmMgtEdNQhUeE=;
+        b=nXRRn4+a/U6PS+jY0ul+ieLPQ0gRE1XeZ/ibGkPyWwJgCJxcvVuMTF1ztfh8OSSuuA
+         xbGxLaDQg8b1ejyJIaYapdjQSaMfH8W0RCv7OzKa1oqoRcTr4SrdJNDSPsUEQK2lD55F
+         rW/rkZc/I9otn3gRQDd5S73f7vThQcRzVtHXr44zF7+Rgh9wqmxF7eOhGZgHWZ07cWcg
+         J2/Fv5L+O3OnTn7yVJDFwBJKdE40+O5sOxt8bZPtjfywIsAizTbJwKUlvqSc5FkFx4xM
+         EROGjwfzK0BHMRcsr6Ukb0zfEdz4VgUzuIoB41I/RP2p7jFEVqBQCex9FhfO+p6ri0XM
+         cqHw==
+MIME-Version: 1.0
+X-Received: by 10.42.149.131 with SMTP id w3mr4266507icv.17.1406208918101;
+ Thu, 24 Jul 2014 06:35:18 -0700 (PDT)
+Message-ID: <90e6ba61397c0b1da304fef0877f@google.com>
+Date: Thu, 24 Jul 2014 13:35:18 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:QB55AjNZAWs=:5VI8OpJvYCMqlACb+saQy5iWnA
+ wY8PeF/jWu9Ky/JdGiKITb73qDIP2l7fSG407USzuS+rQXuMvkhuBw5oda7yXlQl1HhOptouE
+ 7C7held1YXigfYcPfjjx/kWJXuHj0GxUkELaUOu1kmyUOrzNDiURGyvV1aeqJYbET1S5i7ke5
+ KbAWoX/odywWR1RWhaoXPdSkXASZstXLD4tpSuevr8MjW5SXfCrTaAj3b20GyPpxIIZipe/D6
+ gJF+o0U/FiyFwZtPg9OGWJDURR5zotS0bcscX6Iy6dOlbTeEbb23nSk7SDgbboDseth4tKC9A
+ UVZ7PoXucUWdZD/OCRba58ayAqeCF4wDMZ4w5qthzjCelxheXdWzT563zQ8UjiBe5y8BGquha
+ c8Ta5LvDJT48Cn7AdMebjVZyqJZ9zqvjHzlGW8O6waMh9hvIgLGJgO8Nl6+d5DmoFI24VPJOD
+ mP9miPnUYZOXnALWA+qDz8yqb8KiO/Ar12I0SKLDJSzJMC2uNcvSfEFPI7OoVyVOUq5SDlcKX
+ EIbuO2KApir2wcZJanlpv8i38S2p7uYXr2HkkgWRcL28lVXDFfbcN1mZTz+B0yRPuUkG3RlL/
+ Z3g0QMymE6dw2HXd5SyGZv67WBPOnGBWIB68g2al0vaAB67z0p/Ei0Q6y6TLN2LV9X0w43QSb
+ 6QA3F9y4VqpDlqjaIBla89KxNaNwUHijNqjwWkMOkkLxPwlmbjIUv4XB/oax+WzOktVZd9JDP
+ 6WV/RvHsVWi9VPtr8CIeyhJ9xeWv8sftb+Trhu9SuAViFIDrIavXb1lbh63i+2tE3Buf4gzic
+ u00YRZ+FsSh5JcAS7Qu/0TGDvl+jY8j7UedeclTdqoYwIMZyk7uVKvLLVbzm8v4ZpRm3+a0Tl
+ hG/Kn6Hny/yQ/oVhYqR9mS4M4Lnk8ZTZmkX6BiPjGD7Zt1xfkP5HXPmy/p4usztVdTMSGGS6c
+ I6O9S/SvnCI4jJOQXho1Cm7NWbUO6Z4YyLg5NKHIc6RAobgFnOaw8GloUdTD8xorZ3QFLe7KW
+ CE+ZCFcvew85vZaLl9ylX7Ilmw5D4xa5M4SVLqqMvTusWULmT5qmqW5fQlpDHjKOTE6fEHskc
+ WFENT2erMrXj7YWAiC4tjRHzTdZ6aJ7/ACgIWOybJKk/U+2uzVCwVg9BJB/b1woOqOYv9O8Ve
+ vsenNlSZ8K6f/VQv+KkzB0LUNCYwUycrGyJWIBRWMR1ETZ7hBcn5nGocFAj9BsQCZu1tYjf0S
+ yy0U+Omz2MrV59WGJ5nWbDFBCN7KlafO31FKyXCnHk8LaIgLjuRbbc9hshzUXwkR4EWlnn+3k
+ Dx/7fFqzfpMU3qia4NJpsAPkcc9YCWedZ4UPLiMIBEp2J+2FGif4hSnM/MWU+O7Fjt6M5UI66
+ ZYhiR9g6uyF2pQUWFpzEBrn472o5gu7hp5mnGWwyukdtCXKsZC5+FVtan7Yw2IdnAzF0sFJa2
+ 3BEFcU5AqwI6BzEpazfs3mmH7XMF0TeZWz4LmlbGohT7cboA1k
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D=
+2 color=3D#1122cc>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_=
+url?hl=3Dde&amp;q=3Dhttp://arxiv.org/pdf/1407.4833&amp;sa=3DX&amp;scisig=3D=
+AAGBfm11K7EBBR44AgVBQ9B5cd5za1YtcA&amp;oi=3Dscholaralrt"><font size=3D3 col=
+or=3D#1122cc style=3D"text-decoration:underline">$ OntoMath^{PRO} $ Ontolog=
+y: A <b>Linked Data </b>Hub for Mathematics</font></a></h3><div><font size=
+=3D2 color=3D#009933>O Nevzorova, N Zhiltsov, A Kirillovich, E Lipachev - a=
+rXiv preprint arXiv:1407.4833, 2014</font></div><div><font size=3D2 color=
+=3D#222222>Abstract: In this paper, we present an ontology of mathematical =
+knowledge concepts that <br>covers a wide range of the fields of mathematic=
+s and introduces a balanced representation <br>between comprehensive and se=
+nsible models. We demonstrate the applications of this <b> ...</b></font></=
+div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;max-width=
+:44.5em"><font size=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"http://scho=
+lar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://semantic-web-journal.net/s=
+ystem/files/swj748.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm0nKR1MRyXKIlG8B10YBmF1=
+E1ffzA&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D"text-d=
+ecoration:underline">Predicting Concept Drift in <b>Linked Data</b></font><=
+/a></h3><div><font size=3D2 color=3D#009933>A Mero=C3=B1o-Pe=C3=B1uela, C G=
+u=C3=A9ret</font></div><div><font size=3D2 color=3D#222222>Abstract. The de=
+velopment and maintenance of Knowledge Organization Systems (KOS) <br>such =
+as classification schemas, taxonomies and ontologies is a knowledge intensi=
+ve task <br>that requires a lot of manual effort. Librarians, historians an=
+d social scientists, among <b> ...</b></font></div><br><h3 style=3D"font-we=
+ight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D2 colo=
+r=3D#1122cc>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_url?hl=
+=3Dde&amp;q=3Dhttp://semantic-web-journal.net/system/files/swj756.pdf&amp;s=
+a=3DX&amp;scisig=3DAAGBfm2kR-stVavMSa4sDpRKv-BxxeT72Q&amp;oi=3Dscholaralrt"=
+><font size=3D3 color=3D#1122cc style=3D"text-decoration:underline">Schema-=
+Level Patterns and Learning to Rank for <b>Linked Data </b>Vocabulary Term =
+Recommendations</font></a></h3><div><font size=3D2 color=3D#009933>J Schaib=
+le, T Gottron, A Scherp</font></div><div><font size=3D2 color=3D#222222>Abs=
+tract. Deciding which vocabularies to reuse when modeling data as Linked Op=
+en Data is <br>far from trivial. It includes searching for vocabulary terms=
+, ie, classes and properties, and <br>deciding whether they are appropriate=
+ for reuse or not. We propose a novel vocabulary <b> ...</b></font></div><b=
+r><p><hr noshade size=3D1><font size=3D2 color=3D#222222>Dieser Google Scho=
+lar-Alert wird Ihnen von Google zur Verf=C3=BCgung gestellt.<br><br><a href=
+=3D"http://scholar.google.de/scholar_alerts?view_op=3Dcancel_alert_options&=
+amp;email_for_op=3Derictessenow%40web.de&amp;alert_id=3DAIfevv3NkPcJ&amp;hl=
+=3Dde"><font color=3D#1122cc>Alert stornieren</font></a><br></font></div></=
+body></html>

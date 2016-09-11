@@ -1,0 +1,141 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.79.106.2 with SMTP id f2csp2096537ivc;
+        Mon, 3 Aug 2015 22:05:51 -0700 (PDT)
+X-Received: by 10.107.167.207 with SMTP id q198mr1797666ioe.137.1438664745310;
+        Mon, 03 Aug 2015 22:05:45 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3o0HAVRUKDNoO8DKH6N6HANPO-JKNALHUCKKCHA.8KIANE8PAOOAJKSSA7.9A@scholar-alerts.bounces.google.com designates 209.85.216.78 as permitted sender) smtp.mail=3o0HAVRUKDNoO8DKH6N6HANPO-JKNALHUCKKCHA.8KIANE8PAOOAJKSSA7.9A@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3o0HAVRUKDNoO8DKH6N6HANPO-JKNALHUCKKCHA.8KIANE8PAOOAJKSSA7.9A@scholar-alerts.bounces.google.com designates 209.85.216.78 as permitted sender) client-ip=209.85.216.78;
+Received: by 10.107.153.71 with POP3 id b68mf2962152ioe.0;
+        Mon, 03 Aug 2015 22:05:45 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3o0HAVRUKDNoO8DKH6N6HANPO-JKNALHUCKKCHA.8KIANE8PAOOAJKSSA7.9A@scholar-alerts.bounces.google.com
+Received: from mail-vn0-f78.google.com ([209.85.216.78]) by mx-ha.web.de
+ (mxweb006) with ESMTPS (Nemesis) id 0LyWtq-1Ykf4c1m58-015rFU for
+ <erictessenow@web.de>; Tue, 04 Aug 2015 06:37:56 +0200
+Received: by vnbh82 with SMTP id h82so434091vnb.2
+        for <erictessenow@web.de>; Mon, 03 Aug 2015 21:37:55 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=vGPyyv7DzKcgV9GptJSC1pw2LT9ohRX5MwVwmNMpFZw=;
+        b=QbkYzjiW+PgtHKbt/UIpFGBU3b92/It5980hhpLG0SHHUGlgYnTnUdplbvl0m8vVRz
+         Hk6Fhl53sVIKrsPMlSvbkOU4865v/GabbcheShN2XqFKwVJJN3z41Z0YF0lZQcrcdA7b
+         HdREPh5ISSPaWdUzok9mxLcotnM8Wa2H2Hgm4zFtQgektnfZyA058EsghDH4fNnF4v7h
+         JItBBPBL5b00BER/pA5UmL/T/+76hDixN24HFbBfbl77TiERisV6gDicoUPt2bCuS9Nv
+         J0OKI5fVBmIr/5ml/FDQ3m+0t+beAZ1NsOIRM/s04JT4+L1WcdXg7H3eFw3J7/DV9hzg
+         D+hw==
+MIME-Version: 1.0
+X-Received: by 10.129.125.139 with SMTP id y133mr1507478ywc.33.1438663075252;
+ Mon, 03 Aug 2015 21:37:55 -0700 (PDT)
+Message-ID: <001a1149d96e8d4828051c74d986@google.com>
+Date: Tue, 04 Aug 2015 04:37:55 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:p23eEPzdyk4=:fcgHxVrzQb9QWhSbh6wLQ+3huA
+ WDwIJ3AtsQmhHsir6D5N4T0usMxUtkAYtje98DiSjhho0Q0T/nMKrHsv6Rjyn/i9LGOhS5SMl
+ d22pTViN4dftUcJxIsQniTDHwrAjzNHsDwROvF8LnrTeJIFtuuP2Js3/OvXJj4+BrpVnsYY2P
+ Z9NME0xWcaMYUmfxQD0KZmE1Oqx5Iu/74C1Z9rxCQGqBysSbiEbCk+QLEUEXJ2o4r2nwvDEGU
+ pTq03v6hAsefAoi6m4XFEya/U1j8s+qfpAssdN9Qt7lycnUrOWUU1FCXBQ8tgaIdOZ8wAfEUx
+ lN4O5BsQlHlo98L7SeU4I21N4RAzZY1H7mWixAWHDXQFyvjr0/TundeZh2Fs/XxFwOVDCSQ2e
+ TskKMo//LjVnRGaSyFAiZ1HYhQUiQdvvwD47iL0kc4P3KWCa2cTgiCoHvZo231U62YJWWNsVA
+ 8pXrwOyS1DK0qcu1mGDztt17A+WqlAp3VHjMgeWKlmBHWNso3+PLNvHM0LZuzxnMEmOzLkRmG
+ JR/EQKPI+kZOaS9m7a7wWA0smxdxpa4zJzp8H6DFULsLsMQLgNtcTNFzevoR8Uz2oxm3N0iGw
+ Gf8+PpOU4wkURSJH6l4y94ofmfSDAkBsojQWRGArts91xNnlkQF5+veKGjLmc8JtCPUfn0dO0
+ 9HcPDLs9pqv4HolpsSR/AqfKw9T4rZQ2zVfUkJAwWP/1mseoCuSnlBQb6QxspX/ThZ/hfCyz2
+ /fKAlOLLQTO7luhvFNMGrHnEjJyG3hW742u2zHHTMQbj4l3mFe7DyVxGZRMd7xEfGEab1GVGJ
+ QFaweMf2bbKxKfl/9k33Ff8gChED+fS5XUqkcnxcKXtKxFFJ1CwYcWBs6oO4UVyOIeGB9x3Jb
+ LP6TedbPBj42Tsx2hFy6HUFSRVQd7YyhJQKt7pH+lDwOFGQ2pE9tJN/aN0+t8Hcb4m1cggdP3
+ kPPthzL21lixHZ6cUa3QWRsl7QfjU6l0lmCh7/FUn5LpTiWpoDmNzdIC9eM1KVZhRhH/no/MA
+ tfwYYeBdNN1gprUn2AFG5PhyszSx/ukr5d6yeV8lee+xiuZfxwavdj47yQYhifRP6sSgJk8le
+ pw/9joOtzkX9gzcSy+GlhKA9mBH5TRzkFV/V/uoL+Kd0V6HKmI6aqbrksl2nyAxJfrIvA88yb
+ 7B3nM8g4bx6oH4liX7x46fFCX4tPrLOJpkGxjDb8tFYVAIAU/6zmjziZ0ERZX/aJwEjqhuXwr
+ 2XTGeT1Ehb2gIaY/VDVlyJCufXrtfx43on0FPN7ykGPw6qgDObcLIo0HhZb82mJKNPZcAHkza
+ xHRq
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttp://journal.frontiersin.org/art=
+icle/10.3389/fpls.2015.00625/abstract&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DA=
+AGBfm2WNrB9hJeOSwmTIbDX317lXQQO7A&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font=
+ size=3D3 color=3D#1a0dab style=3D"text-decoration:underline">ReprOlive: a =
+Database with <b>Linked Data </b>for the Olive Tree (Olea europaea L.) Repr=
+oductive Transcriptome</font></a></h3><div><font size=3D2 color=3D#006621>R=
+M Carmona, A Zafra, P Seoane, AJ Castro&hellip; - Frontiers in Plant Scienc=
+e, 2015</font></div><div><font size=3D2 color=3D#222222>Plant reproductive =
+transcriptomes have been analysed in different species due to the <br>agron=
+omical and biotechnological importance of plant reproduction. Here we prese=
+nted an <br>olive tree reproductive transcriptome database with samples fro=
+m pollen and pistil at <b> ...</b></font></div><br><h3 style=3D"font-weight=
+:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D2 color=3D=
+#1a0dab>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_url?url=3D=
+http://www.researchgate.net/profile/Fatiha_SAIS/publication/279258630_Linke=
+d_Data_Annotation_and_Fusion_driven_by_Data_Quality_Evaluation/links/559bb9=
+6508ae898ed6509a14.pdf&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm1QSivaPFlu=
+Q_K5R2psdZ-Icm5Wug&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=
+=3D#1a0dab style=3D"text-decoration:underline"><b>Linked Data </b>Annotatio=
+n and Fusion driven by Data Quality Evaluation.</font></a></h3><div><font s=
+ize=3D2 color=3D#006621>I Giannopoulou, F Sa=C3=AFs, R Thomopoulos - EGC, 2=
+015</font></div><div><font size=3D2 color=3D#222222>R=C3=A9sum=C3=A9. In th=
+is work, we are interested in exploring the problem of data fusion, startin=
+g from <br>reconciled datasets whose objects are linked with semantic sameA=
+s relations. We attempt to <br>merge the often conflicting information of t=
+hese reconciled objects in order to obtain <b> ...</b></font></div><br><h3 =
+style=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em"><fo=
+nt size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"http://scholar.google.d=
+e/scholar_url?url=3Dhttp://dspace.library.uu.nl/bitstream/handle/1874/31622=
+4/Stanislav_Ronzhin_GIMA_MSc_Thesis.pdf%3Fsequence%3D2&amp;hl=3Dde&amp;sa=
+=3DX&amp;scisig=3DAAGBfm3_zjt9n5CWDWcUi7wUcqwA3kh-iA&amp;nossl=3D1&amp;oi=
+=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:und=
+erline">Semantic enrichment of Volunteered Geographic Information using <b>=
+Linked Data</b>: a use case scenario for disaster management</font></a></h3=
+><div><font size=3D2 color=3D#006621>S Ronzhin - 2015</font></div><div><fon=
+t size=3D2 color=3D#222222>Web 2.0 data deluge provoked by the development =
+of collaborative tools has affected <br>numerous domains. In the context of=
+ the crowdsourcing of geographic information, the <br>concept of Volunteere=
+d Geographic Information (VGI) has emerged. However, the quality <b> ...</b=
+></font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium=
+;max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"h=
+ttp://scholar.google.de/scholar_url?url=3Dhttp://www.researchgate.net/profi=
+le/Marcia_Zeng/publication/279446933_If_You_Build_It_Will_They_Come__A_Disc=
+ussion_of_Use_Cases_and_Barriers_of_Using_the_Knowledge_Organization_System=
+s_(KOS)_Available_as_Linked_Open_Data_(LOD)/links/55b4ec1808aec0e5f4369b0e.=
+pdf&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm1EZtkPi3lCLFzeeux6-iLo-vCv9g&=
+amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D=
+"text-decoration:underline">If You Build It, Will They Come?=E2=80=93A Disc=
+ussion of Use Cases and Barriers of Using the Knowledge Organization System=
+s (KOS) Available as Linked Open Data (LOD)</font></a></h3><div><font size=
+=3D2 color=3D#006621>ML Zeng, O Buchel, JA Busch, M Hlava, M =C5=BDumer</fo=
+nt></div><div><font size=3D2 color=3D#222222><b>...</b> order of presentati=
+on. The presenters have been very active in the area of networked<br>
+knowledge organization systems for many years, and more recently have been =
+on<br>
+the frontline of <b>Linked</b> <b>Data</b> services. 1. NEW FUNCTIONS <b>..=
+.</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttp://www.researchgate.net/profil=
+e/Cassio_Prazeres/publication/277715707_LDaaSWS_Toward_Linked_Data_as_a_Sem=
+antic_Web_Service/links/5586982008aef58c039f02d4.pdf&amp;hl=3Dde&amp;sa=3DX=
+&amp;scisig=3DAAGBfm2_hIJkg1CipW-MGwAWH1E9Un7faA&amp;nossl=3D1&amp;oi=3Dsch=
+olaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:underline=
+">LDaaSWS: Toward <b>Linked Data </b>as a Semantic Web Service</font></a></=
+h3><div><font size=3D2 color=3D#006621>LJS Andrade, CVS Prazeres</font></di=
+v><div><font size=3D2 color=3D#222222>Abstract=E2=80=94The Web was original=
+ly created to link HTML documents. Nowadays, the Web has <br>improved its p=
+otential, and heterogeneous applications, resources, data and users can <br=
+>interact with each other. Two proposals for improvement of the current Web=
+, Semantic <b> ...</b></font></div><br><p><hr noshade size=3D1><font size=
+=3D2 color=3D#222222>Dieser Google Scholar-Alert wird Ihnen von Google zur =
+Verf=C3=BCgung gestellt.<br><br><a href=3D"http://scholar.google.de/scholar=
+_alerts?view_op=3Dcancel_alert_options&amp;email_for_op=3Derictessenow%40we=
+b.de&amp;alert_id=3DAIfevv3NkPcJ&amp;hl=3Dde"><font color=3D#1a0dab>Alert s=
+tornieren</font></a><br></font></div></body></html>

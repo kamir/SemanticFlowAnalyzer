@@ -1,0 +1,147 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.140.228.79 with SMTP id y76csp794176qhb;
+        Sun, 18 Jan 2015 02:46:45 -0800 (PST)
+X-Received: by 10.224.156.75 with SMTP id v11mr34166724qaw.58.1421578000891;
+        Sun, 18 Jan 2015 02:46:40 -0800 (PST)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3VYy7VBUKDAg0kpwtizitmz10-vwzmxt6owwotm.kwumzqk1m00mvw44mj.lm@scholar-alerts.bounces.google.com designates 209.85.218.73 as permitted sender) smtp.mail=3VYy7VBUKDAg0kpwtizitmz10-vwzmxt6owwotm.kwumzqk1m00mvw44mj.lm@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3VYy7VBUKDAg0kpwtizitmz10-vwzmxt6owwotm.kwumzqk1m00mvw44mj.lm@scholar-alerts.bounces.google.com designates 209.85.218.73 as permitted sender) client-ip=209.85.218.73;
+Received: by 10.140.91.194 with POP3 id z60mf70645qgd.19;
+        Sun, 18 Jan 2015 02:46:40 -0800 (PST)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3VYy7VBUKDAg0kpwtizitmz10-vwzmxt6owwotm.kwumzqk1m00mvw44mj.lm@scholar-alerts.bounces.google.com
+Received: from mail-oi0-f73.google.com ([209.85.218.73]) by mx-ha.web.de
+ (mxweb109) with ESMTPS (Nemesis) id 0MH2Gk-1Xz65E3Uv4-00Dsj5 for
+ <erictessenow@web.de>; Sun, 18 Jan 2015 11:35:03 +0100
+Received: by mail-oi0-f73.google.com with SMTP id u20so3624283oif.0
+        for <erictessenow@web.de>; Sun, 18 Jan 2015 02:35:01 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=I7naWfvppMa5TnUtkBPampJ/BaIqFo44/jUqSYZ+utU=;
+        b=e9GKOCZUXZVU5FwLgoLYeaWLfXAFYaQldwsuphUKCLvq4kBgCwtqON9Ceohd2Y+RJ7
+         kNjvymV52YCvhstc1WAk6E8KQYcLK3DapGhG2GBOq5+Qf7dfSUjTDQ45A0YitSRZYKQE
+         3WkPg4CcHGrWqPn1pEtBZS3voewngR7PqYXwhLjKWnWXHNTo4qMj3QyPSsLiaTaGXeLV
+         u7grbzx9j4my2/fr0btRIi30E+rDtrqurAftoW/mdase93Ungc7Q0zdVTVI39znIFVWf
+         yydqEXalPG+rs80MDxHz5Y5yE54JgylAxTmzTYQbuaTiQ6arty8KDtk0ulMQ3VP4hjz3
+         etzQ==
+MIME-Version: 1.0
+X-Received: by 10.43.80.1 with SMTP id zs1mr4945790icb.6.1421577301621; Sun,
+ 18 Jan 2015 02:35:01 -0800 (PST)
+Message-ID: <001a1133228e157c75050ceac27d@google.com>
+Date: Sun, 18 Jan 2015 10:35:01 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:6iUyYsiPKrg=:KL9is67YKWpWd8vYrsFzvYi9nm
+ uk9H932licnxjF7CHy96m44M27zcOBMyJDBoyT6BGHU2aY49ZiliB9VZiKsfjCCFTHhUVjvY+
+ B1zY+HmMOE0rt7yBwrEYNSIM7C5JImRbNiKeJP/QYB27DsmJFWVnOSJSuEktz18OQYz4YzzvV
+ iJoJnnCSK1dhzONc1gveH5hBWvhetGUqwDm/ARI/O7cVelTxwPQZjM7uPdej1qt0Rhxt79vUN
+ JSz9ds7bJxHF+plnUKzCmSlN1reSNWa3O7a3ZGRok2b1l0JHRNGmGh+EYZubrKGhqfXuCipK3
+ hcrVlcByKmH1h0kiMvi6I/AhU7ZEahhYx+PjZJ9u4FvEGSwakHSSxTbOZkBYV0DRkAkPmsS/f
+ GuVeT/hNq2VGkHOHTio63w4zFOhJg2+50BxtZCv7FXnQWuXlQyayIWewvNxajSWzy91D19x6v
+ MvkVW4ECmtmjcaE9u606lBicU/5wc7zTzJQHfxrXRCse5S5iuT1UZHLwKdsWv2PHAGH7VQy2z
+ aYqTR9gB3gj9CwUKaU9vVVxQ4EAS8NoNuOMxQxWQ0stscJEJAu1MgmtlUcCO09WcjUSrg12iZ
+ XM5hh3ESTFoEd3d2++SJ7Erb3c+j8FIiurr/rmvg1UbDy3l4DqCrNvgryklPyUtRzTSM8uwSm
+ 9bvuifasf5p5XWUpeewkJj/lLjXN6GRbk3GRNUXp6CfSK5CF6gEHVweCBoT4YwyPW0z9cxux6
+ kBHny4i29dxgw+Tuq6UwGp+/QTqVECRr66TfJIoHVRDd9wFVaWhf1J/rVdrYnXcj05hjkdWt6
+ /+XZwWlsU8F94TpCaR/H9Qoas3P3hNmMx2YC/k5Leazlqwcax084hf12O7MH7C9bJUVF/DFnS
+ 2nZ5FZaFCyt9vEe4v8Ri8VlvNUMCCIm5tb6uVwZeGAL5XyaQmGAjza/4eub536dpVj1vD9vYW
+ HDokRv2D8kURBwB8/pyV2DaeLjm29/iAhd1KoUAIkIQchEFpdaKZZ6p0vGtArxGOCLNT4u5Co
+ 7ig2T061oF6fdAqckxD9kEnHXbsbJbojXQbbSmDSJr4jC32RmN6B4cuuDZPJJFq4alijzSY5F
+ RICqcd4OP4Kbmqlh3iJ1jTC8A9jo22eAAhrr/LRXHTeEKJi/0IX+S2MRif1+xaNGvtk75c6eT
+ H7TGSFX5yTHSWR0VkRy+ahlcslWUC3tkAHjba3bDhZG+3rPOYm3bsK3VUqgn3gSMcHgIxK69G
+ HCEM84Txuk+0pqtE1BEQZdSogP8sOvT1i8iOLVrPnxgos1fJugKPxr5J/cjk2v8pKA4s0pJLh
+ 83rR/ydD26h+RSmxOZ7pZ++xE1nWfiR92SatY4mtBivDVqH8C6a9W/YCfckfjlS3GDuStzOCI
+ RlBm/hzgyXQKwo7GXTbxdwkpHE0PcUc8GF2o8WfMRqxXk60StucgQO6kCabQTuWodZv95TKzr
+ cuGDSV3JW/wK1fQdTo5OX7iozIo4mmqc/UOemIx6dz78ooJCY0
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttp://www.emeraldinsight.com/doi/=
+pdfplus/10.1108/LR-11-2014-0131&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm2=
+8RyPtGWvWcQj0ag79wxuhNLq64g&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=
+=3D3 color=3D#1a0dab style=3D"text-decoration:underline">Review of <b>linke=
+d data </b>for libraries, archives and museums: how to clean, link and publ=
+ish your metadata</font></a></h3><div><font size=3D2 color=3D#006621>B Chaw=
+ner - Library Review, 2015</font></div><div><font size=3D2 color=3D#222222>=
+In 2001, Tim Berners-Lee introduced the concept of the &#39;Semantic Web&#3=
+9;. This was a vision of <br>the web where structured data, rather than tex=
+t or images, were made available for reuse by <br>other organisations. More=
+ recently, the phrase &#39;<b>linked data</b>&#39;, or &#39;linked open dat=
+a&#39;has been <b> ...</b></font></div><br><h3 style=3D"font-weight:normal;=
+margin:0;font-size:medium;max-width:44.5em"><a href=3D"http://scholar.googl=
+e.de/scholar_url?url=3Dhttp://www.ztxb.net.cn/jtlsc/ch/reader/view_abstract=
+.aspx%3Ffile_no%3D20140407&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm2xgvg6=
+eY6qkiyRhiN2KtCdFrXunw&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 c=
+olor=3D#1a0dab style=3D"text-decoration:underline">The Realization of DDC a=
+s <b>Linked Data</b></font></a></h3><div><font size=3D2 color=3D#006621>=E8=
+=B5=B5=E6=B4=81</font></div><div><font size=3D2 color=3D#222222>=E4=B8=AD=
+=E6=96=87=E6=91=98=E8=A6=81: =E5=88=86=E7=B1=BB=E6=B3=95=E4=BD=9C=E4=B8=BA=
+=E8=A7=84=E8=8C=83=E7=9A=84=E7=9F=A5=E8=AF=86=E7=BB=84=E7=BB=87=E5=B7=A5=E5=
+=85=B7, =E5=AE=9E=E7=8E=B0=E5=85=B6=E5=85=B3=E8=81=94=E6=95=B0=E6=8D=AE=E5=
+=8C=96, =E5=AF=B9=E4=B9=A6=E7=9B=AE=E6=95=B0=E6=8D=AE=E7=9A=84=E5=BC=80=E6=
+=94=BE=E5=92=8C=E7=BD=91=E7=BB=9C=E7=9F=A5=E8=AF=86<br>=E7=BB=84=E7=BB=87=
+=E4=BD=93=E7=B3=BB=E7=9A=84=E6=9E=84=E5=BB=BA=E5=85=B7=E6=9C=89=E9=87=8D=E8=
+=A6=81=E6=84=8F=E4=B9=89.=E3=80=8A =E6=9D=9C=E5=A8=81=E5=8D=81=E8=BF=9B=E5=
+=88=86=E7=B1=BB=E6=B3=95=E3=80=8B =E6=98=AF=E5=9B=BE=E4=B9=A6=E6=83=85=E6=
+=8A=A5=E9=A2=86=E5=9F=9F=E4=BD=BF=E7=94=A8=E6=9C=80=E4=B8=BA=E5=B9=BF=E6=B3=
+=9B=E7=9A=84=E5=88=86=E7=B1=BB=E6=B3=95, <br>=E7=8E=B0=E5=B7=B2=E5=B0=86=E5=
+=85=B6=E7=B1=BB=E7=9B=AE=E4=BB=A5=E5=85=B3=E8=81=94=E6=95=B0=E6=8D=AE=E7=9A=
+=84=E5=BD=A2=E5=BC=8F=E5=8F=91=E5=B8=83. =E6=9C=AC=E6=96=87=E5=9F=BA=E4=BA=
+=8E Dewey. info =E5=B9=B3=E5=8F=B0, =E4=BB=A5 DDC =E5=85=B3=E8=81=94=E6=95=
+=B0=E6=8D=AE=E4=B8=BA=E4=BE=8B, <b> ...</b></font></div><br><h3 style=3D"fo=
+nt-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D2=
+ color=3D#1a0dab>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_u=
+rl?url=3Dhttp://www.ijser.org/researchpaper%255CLinked-Data-Generation-with=
+-Provenance-Tracking.pdf&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm2-q5dVB4=
+V-qAnInemqaDJhzF_2kA&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 col=
+or=3D#1a0dab style=3D"text-decoration:underline"><b>Linked Data </b>Generat=
+ion with Provenance Tracking: A Review of the State-of-the-Art</font></a></=
+h3><div><font size=3D2 color=3D#006621>K Sharma, U Marjit, U Biswas</font><=
+/div><div><font size=3D2 color=3D#222222>Abstract=E2=80=94Provenance of dat=
+a items plays a pivotal role during the reuse and integration of <br>data f=
+rom the diverse sources. Determination of trust and authenticity is essenti=
+al to verify <br>various data products available on the web. Over the past =
+few years, data publication in the</font></div><br><h3 style=3D"font-weight=
+:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D2 color=3D=
+#1a0dab>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_url?url=3D=
+http://www.researchgate.net/profile/Jonathan_Yu/publication/264810673_Linke=
+d_Data_Approach_for_Automated_Failure_Detection_in_Pressure_Sewers_Using_Re=
+al-Time_Sensor_Data/links/53f4e33d0cf2888a74912dc3.pdf&amp;hl=3Dde&amp;sa=
+=3DX&amp;scisig=3DAAGBfm2o6z0uGapIGlj5VraThwjrq0ktBg&amp;nossl=3D1&amp;oi=
+=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:und=
+erline"><b>LINKED DATA </b>APPROACH FOR AUTOMATED FAILURE DETECTION IN SEWE=
+R RISING MAINS USING REAL-TIME SENSOR DATA</font></a></h3><div><font size=
+=3D2 color=3D#006621>J YU, P DAVIS, S GOULD, K TAYLOR</font></div><div><fon=
+t size=3D2 color=3D#222222>The increased availability of sensor data presen=
+ts opportunities for machine-assisted <br>analytics, reporting and explorat=
+ion of the sensed environment. Sensor networks provide the <br>ability to o=
+bserve physical phenomena in real-time and provide useful information to he=
+lp <b> ...</b></font></div><br><h3 style=3D"font-weight:normal;margin:0;fon=
+t-size:medium;max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font>=
+ <a href=3D"http://scholar.google.de/scholar_url?url=3Dhttp://ceur-ws.org/V=
+ol-1322/paper_10.pdf&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm0nR1bgZCvT_5=
+-nymne4mphWu8T6A&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=
+=3D#1a0dab style=3D"text-decoration:underline">Linked Open Data for Environ=
+ment Protection in Smart Regions</font></a></h3><div><font size=3D2 color=
+=3D#006621>O SINTEF</font></div><div><font size=3D2 color=3D#222222><b>...<=
+/b> To realize this, on a technical level, the project will: =E2=80=A2 Harm=
+onise geospatial metadata<br>
+(ISO19115/19119 based) with principles of Semantic Web; =E2=80=A2 Provide s=
+patial data fusion introducing<br>
+principles of Open <b>Linked</b> <b>Data</b>; =E2=80=A2 Improve spatial dat=
+a visualisation of Geospatial Open <b>...</b>=20
+</font></div><br><p><hr noshade size=3D1><font size=3D2 color=3D#222222>Die=
+ser Google Scholar-Alert wird Ihnen von Google zur Verf=C3=BCgung gestellt.=
+<br><br><a href=3D"http://scholar.google.de/scholar_alerts?view_op=3Dcancel=
+_alert_options&amp;email_for_op=3Derictessenow%40web.de&amp;alert_id=3DAIfe=
+vv3NkPcJ&amp;hl=3Dde"><font color=3D#1a0dab>Alert stornieren</font></a><br>=
+</font></div></body></html>

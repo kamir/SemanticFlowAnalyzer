@@ -1,0 +1,88 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.64.67.99 with SMTP id m3csp335143iet;
+        Wed, 4 Dec 2013 17:04:30 -0800 (PST)
+X-Received: by 10.50.62.3 with SMTP id u3mr3502197igr.49.1386205467254;
+        Wed, 04 Dec 2013 17:04:27 -0800 (PST)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3KcifUhUKDNIG05C9yFy92FHG-BCF2D9M4CC492.0CA2F60H2GG2BCKK2z.12@scholar-alerts.bounces.google.com designates 209.85.214.201 as permitted sender) smtp.mail=3KcifUhUKDNIG05C9yFy92FHG-BCF2D9M4CC492.0CA2F60H2GG2BCKK2z.12@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3KcifUhUKDNIG05C9yFy92FHG-BCF2D9M4CC492.0CA2F60H2GG2BCKK2z.12@scholar-alerts.bounces.google.com designates 209.85.214.201 as permitted sender) client-ip=209.85.214.201;
+Received: by 10.64.24.237 with POP3 id x13mf12665812ief.12;
+        Wed, 04 Dec 2013 17:04:26 -0800 (PST)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3KcifUhUKDNIG05C9yFy92FHG-BCF2D9M4CC492.0CA2F60H2GG2BCKK2z.12@scholar-alerts.bounces.google.com
+Received: from mail-ob0-f201.google.com ([209.85.214.201]) by mx-ha.web.de
+ (mxweb102) with ESMTPS (Nemesis) id 0LbLfC-1VL6ob012g-00kyI1 for
+ <erictessenow@web.de>; Thu, 05 Dec 2013 01:26:19 +0100
+Received: by mail-ob0-f201.google.com with SMTP id va2so3351422obc.0
+        for <erictessenow@web.de>; Wed, 04 Dec 2013 16:26:17 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=EwynI9RSSwhTSCyYycEp01Z9ht2fG1qgISbylrmLUk8=;
+        b=i2ovIjVEkA5xRtqXeE0GpEiaerA89yYMTAmiEZE46n9wL3/ZP8/UkU4+QutdiePyRZ
+         daum2rc7+Vabo2UMywH9yYhas1HbpcNEQynh0wsxAI88Srpkqno31Xt8oM2UsvBRU3s6
+         jOFTgqvcP8fgvzqa+GX8hNv3b41VWZSaH2/5nA/kdrKZxEcfK0Guwe92jMmfJPvbFj95
+         h4fJhu7aXKVMMYw3AeCOu2GM+ZeZmh36A0iWVSDP/D/u44syM9CsokX0Mm3b9b6QrYxb
+         29MjqBTedtoayMyJYntGoIikhjr6EngNBn1JtXESFMEZqsl6t9Aq/gja4ii4GJgSBmaM
+         1nWA==
+MIME-Version: 1.0
+X-Received: by 10.42.85.148 with SMTP id q20mr22219895icl.22.1386203177695;
+ Wed, 04 Dec 2013 16:26:17 -0800 (PST)
+Message-ID: <485b397dd3e1fe384c04ecbe931e@google.com>
+Date: Thu, 05 Dec 2013 00:26:17 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: base64
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:5CAeydgZ/uY=:rGhsR5q+j6IQ5Cl5vtY65/Erdd
+ 9E87kcCup5rRXmSbGak/BmcujGgvs+iq76v9jXX7+uG+d4eW1vTJVPs2GLwFVR3fckEavZOPI
+ rkv89q+Zhn0OjoEMBtwWkTjrUQhgNRfv3e7qg8R+ol3V3jdFCDT3Xu70aUsdDShXPjjYJuMxE
+ zQ3ty2oIN8OxOiDly4rjAE7QvTTR5UsJ1KzPH87bTConCHtkc6WNb/ijHNZ9dN7b8i6u+3VzU
+ JRnd8zQoOlY9ElRYYFG6iJ0YCyrAEPSLHtg76I62wK0++FfAH2qk86tr3P9Mu0NlZVTiaET+V
+ yGdCzuSK86rja96Q2Ksk9iAxtl6LPli3CwLRVUw0NrR56lcYW98uFUhPQMeqyhO6KvrUIeSbN
+ IoRx+MGH9EjX1EVJXUxqF7nM7DJyGf7TiYoBsYrg9C6uPiZdBbsoedtOn9UZjOUsxgPJyAAmd
+ Rsz/IUgTTWq73acLjn1RqCjku9m8S8PUIFVYtTw6tM3Sce00OfWrHPM7kVkgzOXMu29lBnM7H
+ 1xVshR7zVLk1UGaBpBQjAiWhadRQibxYBqvW/z4uW9ULhm3sXfuC8tgmZHVl8tSWs3n/CPLFp
+ emBdHvsmg7IB5RlUWKQCsDTTFXgF9fAdu+Qy7GbbIptPkWtrA1H+bl3Rje2b2NOdA84KT5NbE
+ r9zXxsPEqvmPyYN5mXHwwc9HPjYHXbmNIZgqgXTgg3cLXYPY54T4wEfPqTeL7OkcsyzI0Lo5u
+ W29q4WkUXYv16wjFepBpywNdPQnaG7y88siuoD5YjHsKqyTLcvgG1iIiSWU7JqQBVRGad1mTn
+ IgQ3Jitu1gDz0tQDHI7t3dc5BCP+awYIONkPrS/AIncSkAHsH3rHov49SGJdNGLfN74CisnAp
+ ae/f11VP+jcyaRIoTDWTcj/Sf5VOUlq6oTXScoKHUDxNMzhX+hUA/FCLPCMz7u5eUVzFbySgK
+ LCmpda4XiR/0vYhWZ2B2lbXcCMPE9g/GCdwCJnBAQJWA/NB3ZcfCzPq7q+aIn+sqw79ccwHMe
+ 2Mz/zjORvTljZSDsSupVmVO4iEstfX8uDgS3gqrgAlfMTtuQ+QRmon4TOg16/Rq3qP5iNB7W4
+ oYyZMC0unRJSYAcx9U6AVqyooWemIIno+wN1MQJzb60TeUHWPGu9kEWZ/HPpsfT30zBPQc5Nk
+ Qx1s+QiC01/vqlbUdSP/tklJku1E+KmevrLQZtB96mCw==
+
+PCFkb2N0eXBlIGh0bWw+PGh0bWw+PGhlYWQ+PC9oZWFkPjxib2R5PjxkaXYgc3R5bGU9ImZvbnQt
+ZmFtaWx5OmFyaWFsLHNhbnMtc2VyaWY7Zm9udC1zaXplOm1lZGl1bTtsaW5lLXNwYWNpbmc6MS4y
+NCI+PHA+PGZvbnQgc2l6ZT0yPjxiPkdvb2dsZSBTY2hvbGFyLUFsZXJ0OlsgaW50aXRsZTomcXVv
+dDtsaW5rZWQgRGF0YSZxdW90OyBdPC9iPjwvZm9udD48L3A+PGgzIHN0eWxlPSJmb250LXdlaWdo
+dDpub3JtYWw7bWFyZ2luOjA7Zm9udC1zaXplOm1lZGl1bTttYXgtd2lkdGg6NDQuNWVtIj48YSBo
+cmVmPSJodHRwOi8vc2Nob2xhci5nb29nbGUuZGUvc2Nob2xhcl91cmw/aGw9ZGUmYW1wO3E9aHR0
+cDovL3NlYXJjaC5pZWljZS5vcmcvYmluL3N1bW1hcnkucGhwJTNGaWQlM0RqOTYtZF8xMl8yOTg3
+JmFtcDtzYT1YJmFtcDtzY2lzaWc9QUFHQmZtMkdBUnprZWY2ajNHWDBNVGZuU3piX0hmdEpGdyZh
+bXA7b2k9c2Nob2xhcmFscnQiPjxmb250IHNpemU9MyBjb2xvcj0jMTEyMmNjIHN0eWxlPSJ0ZXh0
+LWRlY29yYXRpb246dW5kZXJsaW5lIj7jg6Hjg4fjgqPjgqLmg4XloLHjga4gPGI+TGlua2VkIERh
+dGEgPC9iPuWMluOBqOa0u+eUqOS6i+S+i+OBruaPkOahiDwvZm9udD48L2E+PC9oMz48ZGl2Pjxm
+b250IHNpemU9MiBjb2xvcj0jMDA5OTMzPuW3neadkemahua1qe+8jCDotorlt53lhbzlnLDvvIwg
+5Lit5bed5Y2a5LmL77yMIOa4hembhOS4gO+8jCDnlLDljp/lurfkuYsmaGVsbGlwOyAtIOmbu+Wt
+kOaDheWgsemAmuS/oeWtpuS8muirluaWh+iqjCBELCAyMDEzPC9mb250PjwvZGl2PjxkaXY+PGZv
+bnQgc2l6ZT0yIGNvbG9yPSMyMjIyMjI+5pio5LuKLCDjgqTjg7Pjgr/jg7zjg43jg4Pjg4jjga7m
+ma7lj4rjgarjganjgYvjgonmp5jjgIXjgarmg4XloLHmupAgKOOCveODvOOCt+ODo+ODq+ODoeOD
+h+OCo+OCouODu+ODnuOCueODoeODh+OCo+OCoikgPGJyPuOBq+WuueaYk+OBq+OCouOCr+OCu+OC
+ueOBlywg5aSa5qeY44Gq5oSP6KaL44O76ICD44GI5pa544Gr6Kem44KM44KL44GT44Go44GM5Y+v
+6IO944Gr44Gq44Gj44GfLiDlkIzmmYLjgassIOOCveODvOOCt+ODo+ODq+ODoeODh+OCo+OCojxi
+cj7jgavjgYrjgZHjgovjg4fjg57jga7mi6HmlaPjgoQsIOODnuOCueODoeODh+OCo+OCouOBq+OB
+iuOBkeOCi+WBj+WQkeWgsemBk+ODu+aDheWgseaTjeS9nOOBrueWkeOBhOOBquOBqSwg44Om44O8
+44K26Ieq6Lqr44GM5oOF5aCxPGI+IC4uLjwvYj48L2ZvbnQ+PC9kaXY+PGJyPjxwPjxociBub3No
+YWRlIHNpemU9MT48Zm9udCBzaXplPTIgY29sb3I9IzIyMjIyMj5EaWVzZXIgR29vZ2xlIFNjaG9s
+YXItQWxlcnQgd2lyZCBJaG5lbiB2b24gR29vZ2xlIHp1ciBWZXJmw7xndW5nIGdlc3RlbGx0Ljxi
+cj48YnI+PGEgaHJlZj0iaHR0cDovL3NjaG9sYXIuZ29vZ2xlLmRlL3NjaG9sYXJfYWxlcnRzP3Zp
+ZXdfb3A9Y2FuY2VsX2FsZXJ0X29wdGlvbnMmYW1wO2VtYWlsX2Zvcl9vcD1lcmljdGVzc2Vub3cl
+NDB3ZWIuZGUmYW1wO2FsZXJ0X2lkPUFJZmV2djNOa1BjSiZhbXA7aGw9ZGUiPjxmb250IGNvbG9y
+PSMxMTIyY2M+QWxlcnQgc3Rvcm5pZXJlbjwvZm9udD48L2E+PGJyPjwvZm9udD48L2Rpdj48L2Jv
+ZHk+PC9odG1sPg==

@@ -1,0 +1,81 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.79.35.66 with SMTP id t63csp2972639ivf;
+        Wed, 6 May 2015 19:47:30 -0700 (PDT)
+X-Received: by 10.107.138.96 with SMTP id m93mr2283567iod.14.1430966843173;
+        Wed, 06 May 2015 19:47:23 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3dM9KVRUKDO0hRWdaPgPaTgih-cdgTeanVddVaT.RdbTgXRiThhTcdllTQ.ST@scholar-alerts.bounces.google.com designates 209.85.192.202 as permitted sender) smtp.mail=3dM9KVRUKDO0hRWdaPgPaTgih-cdgTeanVddVaT.RdbTgXRiThhTcdllTQ.ST@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3dM9KVRUKDO0hRWdaPgPaTgih-cdgTeanVddVaT.RdbTgXRiThhTcdllTQ.ST@scholar-alerts.bounces.google.com designates 209.85.192.202 as permitted sender) client-ip=209.85.192.202;
+Received: by 10.64.148.102 with POP3 id tr6mf326011ieb.28;
+        Wed, 06 May 2015 19:47:23 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3dM9KVRUKDO0hRWdaPgPaTgih-cdgTeanVddVaT.RdbTgXRiThhTcdllTQ.ST@scholar-alerts.bounces.google.com
+Received: from mail-pd0-f202.google.com ([209.85.192.202]) by mx-ha.web.de
+ (mxweb008) with ESMTPS (Nemesis) id 0Mb7Yx-1YW25045kp-00Ke5O for
+ <erictessenow@web.de>; Thu, 07 May 2015 04:35:34 +0200
+Received: by pdjg10 with SMTP id g10so2363167pdj.0
+        for <erictessenow@web.de>; Wed, 06 May 2015 19:35:32 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=ftYbvbpHBNhX6FbA8tHkiphGHKGTxcmftH5AyrgZGXE=;
+        b=lYKZMFUTFQElXhMcl20WfTtqME8fzfq0g1PDO2CPdo53kr7KxAhCeXGAik3FPKuZPB
+         Blw6X1Psco17FFIOM4lAEvwDmd3nOlfIh+6LClxqOpvx2gjGO0TDO9AHf3o+2ev/N3bg
+         Q/RrmFaF8kLz/Sgmij6F34iebPKnlVVbY30uW2TU/ELohofL1rD1wBgWa9MDqbBoUoYl
+         OEUfLlbebiUUYiwT1EFKLs0slYbu+DCKHwcvnefb90/f4Ax1Ek99mXiGThu9QBBFRnke
+         pYtuiXZQNhjfUvH32AppeMyOsF1SpVscq6XSAfcAJcRFAQoUcNDoroZQTxJ5XOKt2hgE
+         UE2w==
+MIME-Version: 1.0
+X-Received: by 10.66.225.174 with SMTP id rl14mr2635012pac.26.1430966132525;
+ Wed, 06 May 2015 19:35:32 -0700 (PDT)
+Message-ID: <047d7b07214603cc11051574c429@google.com>
+Date: Thu, 07 May 2015 02:35:32 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:ndqMrbANunQ=:LwRo29ZBUX3oIBNOPIEcgJAzik
+ sClGcEEKapO2PgHSZ+PKii4uxmRDKZgRvlAiFVAyYkvXSCsB3jsYpb6XHs++oCfZnoHrVp+Kr
+ IY45MHfxcaPiXdA2gaJlYCIjYKqkdOOL9qJwU4Rrgap6ZHm/WoPJmjI0WlUCnGQ2DyVXRXiJ3
+ B8cbNzHP1n5ZekYLNGPLyCXxKpKIWeKJsuYRx1ZjKAtiaRh2LR32/IkXNTaVUmLppYWUX52JY
+ vv6VavUpsxuTHGssJ26OTjTKxphorHkee4cBhlU6/Je/zIz5pTLSBxovQ8LXc4/dAm7uWdABa
+ VVya8q0oLAi/mo/raXoNCh6gPn9E0tKAEeXE4UrFtiTOE+9JaPsog+nWoTK31kCQ3mtOhlaJo
+ dArAsuVOXprvcUd6IsyBobFID88yhILsfci3fFk0nsInW9adJiRZfoBpYvlNfJpegjD9PxDWU
+ 5YxHgEPs6Jn+c95JJAUzTx4t7SukRaO2EP30KuKXq1RGdjxq2fSEOzqLrnqYeb2ziq7+HP/tK
+ lsYAuNqW4kwPrzlP4zPKNt+xguE0LExTv/0dlgOoyGgYTXb8yKZRFjS8LQ8/f4pYXmUUSGfXm
+ +EZx0kOIOVYlUquX5i0TSsWhfkKnZ395GiNU3v+nWDyNO3vRIeuqRv1RQB9BbWtvM1n9RYGl+
+ QTe2lSaeghgX6EUKix0aixjlWhAg9ajkro8DKA72rwiLZXgzTsNUkn6rriHggmnc9k5na4fH+
+ Tyn96EJE5rmE0wd8aG4o9PJnsuw0KllllRc3YNo8vaB/hXg142yewBA6Y9/PLd151pSZRB+er
+ B1jN0iGtpXZGiSnmeOSY0oaIX7Go97B6HGTBe1tWPTmB4b/ZHIYSrRL7v763zZ6M/t1ThcGUd
+ RzkQsSqZj6JbVKY2ipQ1A5RAqzh7XlSnemr+LGMi1nTnkrJRnB04ESxAe/T586mmeXWMtLR94
+ 5L6gsvnhyliat77mrzCDiulvUykz/7OcxBFKPHUw51ocOSROBQi3CPqrdsCRT9uaM2vgqnOwF
+ yJdpywdVqGYb6NHURt911Wr1NK+JOC8HHXqlkuQmFATCG9MyLx1JYOkTiVjuJtc4q+OXQtxKc
+ CXp9oUN7SZdMQWeWn4R8YB1eNKbrPaHLDQLs8Au9p2fi1eihR9yi+sNFGjnNhBDjPWWXmM2fI
+ zZwuIpfSZ2KCIfYo8kQsfDMLaDnJY4vC+eh3KbLbMxc0u6JWRRXwLbSIGzj+Won5x9gSKQyXq
+ dx803Z1g7bEiVACITCFWIHqE2gBALjueMfO1hDjZQxiY9Y1zUo9ZExdBLkf3dv39NoJWghCFb
+ LWR1
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D=
+2 color=3D#1a0dab>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_=
+url?url=3Dhttp://cs.unibo.it/save-sd/2015/papers/pdf/garijo-savesd2015.pdf&=
+amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm3CGos6kn4JyPefuYGcIiYKJQyhbw&amp;=
+nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"tex=
+t-decoration:underline">LDP4ROs: Managing Research Objects with the W3C <b>=
+Linked Data </b>Platform</font></a></h3><div><font size=3D2 color=3D#006621=
+>D Garijo, O Corcho</font></div><div><font size=3D2 color=3D#222222>ABSTRAC=
+T In this demo we present LDP4ROs, a prototype implementation that allows <=
+br>creating, browsing and updating Research Objects (ROs) and their content=
+s using typical <br>HTTP operations. This is achieved by aligning the RO mo=
+del with the W3C <b>Linked Data </b><b> ...</b></font></div><br><p><hr nosh=
+ade size=3D1><font size=3D2 color=3D#222222>Dieser Google Scholar-Alert wir=
+d Ihnen von Google zur Verf=C3=BCgung gestellt.<br><br><a href=3D"http://sc=
+holar.google.de/scholar_alerts?view_op=3Dcancel_alert_options&amp;email_for=
+_op=3Derictessenow%40web.de&amp;alert_id=3DAIfevv3NkPcJ&amp;hl=3Dde"><font =
+color=3D#1a0dab>Alert stornieren</font></a><br></font></div></body></html>

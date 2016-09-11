@@ -1,0 +1,136 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.64.67.99 with SMTP id m3csp139123iet;
+        Mon, 9 Dec 2013 18:09:49 -0800 (PST)
+X-Received: by 10.50.136.201 with SMTP id qc9mr17111857igb.11.1386641388472;
+        Mon, 09 Dec 2013 18:09:48 -0800 (PST)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3aW6mUhUKDHoqafmjYpYjcprq-lmpcnjwemmejc.amkcpgarcqqclmuucZ.bc@scholar-alerts.bounces.google.com designates 209.85.223.202 as permitted sender) smtp.mail=3aW6mUhUKDHoqafmjYpYjcprq-lmpcnjwemmejc.amkcpgarcqqclmuucZ.bc@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3aW6mUhUKDHoqafmjYpYjcprq-lmpcnjwemmejc.amkcpgarcqqclmuucZ.bc@scholar-alerts.bounces.google.com designates 209.85.223.202 as permitted sender) client-ip=209.85.223.202;
+Received: by 10.64.148.1 with POP3 id to1mf3777003ieb.38;
+        Mon, 09 Dec 2013 18:09:47 -0800 (PST)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3aW6mUhUKDHoqafmjYpYjcprq-lmpcnjwemmejc.amkcpgarcqqclmuucZ.bc@scholar-alerts.bounces.google.com
+Received: from mail-ie0-f202.google.com ([209.85.223.202]) by mx-ha.web.de
+ (mxweb108) with ESMTPS (Nemesis) id 0LtHkt-1VRm2u3AaZ-012rPq for
+ <erictessenow@web.de>; Tue, 10 Dec 2013 02:55:19 +0100
+Received: by mail-ie0-f202.google.com with SMTP id lx4so891192iec.1
+        for <erictessenow@web.de>; Mon, 09 Dec 2013 17:55:18 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=RIVVEGc6CfMI+iypyxFhN+iZtKlDPO0lG/K1v3MlpQY=;
+        b=RsinJ3mx3GI6ZHzdWTobiwu2TAJit7mIdziJ1Abg5v0X4ZZ/MQOKt7N1Y0+7V13dav
+         cAM2Zm1Hex1xMvzJXcXz29JTaxKB6RjE+D08CihGNUIsFCo+6BXVcAp/G/Dmk3i/0OQg
+         4HueIrfXlq4MIzcUmM7/99x+OebH2AGCHNmRgjYzgthz6CbvmmcIIPZMZ/7ASdGi/Y01
+         fHmqzAJnE/qdBdYowQ1dP0fIijl/zPBQOwpAkvgHoAh5JzdYF3MDg2mXyeqvu1PYu0JN
+         GQyVADfUUYlmItUREv9bQak8h4t/0Vfrp8UkRf6m39LLONgRQHXV8qg44WKEtWDZ4u/v
+         23xQ==
+MIME-Version: 1.0
+X-Received: by 10.42.98.81 with SMTP id r17mr6285629icn.8.1386638953281; Mon,
+ 09 Dec 2013 17:29:13 -0800 (PST)
+Message-ID: <90e6ba613f083df76b04ed240a49@google.com>
+Date: Tue, 10 Dec 2013 01:29:13 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:43DYJJtUOes=:9oslC7fF+mrfgxFSXp1tJXcHo2
+ 56mZYArzGX7h3J2dJC53Hm+Nje0ELqmlz+3fL6B7dB3Fxly4eh9zhH2y01+h0dR3/YcztZyY6
+ yloIdHfjm2edlIqgaXgo3z4t8Z+BUv0/OPfZnejMtQ6CUbQpWO9ABGnWzwH6BHYC193ulBknH
+ 1oWOz4EQDZu9rsuOkScildgU01MistrGr4jBss7YPQXhkVX33T5KBSwRytj5cGoDe0D+P6wPj
+ 1Uol3yLkUPHctZKxaZAsSNZ37T71xzEC/zKnIFNCwwe7bhHtpCJtdHjLxrz3L3IcFgHyYv4Pl
+ wiaFTFF78thhXMTQd0R2/ZPa4Jpi/j9WfHGyIwoIPgoKWZaFHx9FOoT2POBq52+PaZ0watjGr
+ 8i4ocd0Th1yyn3/PhPGKNocEX4oLqV0A69Ge4kZpZj1uH29g5HQv5qkDB2m8BpU1FvTT3awrt
+ D+wSk2DBmrOmbTn5WkRBhQfYyrV7lXnH1x2LgmxKH6dv5EojoBINI9ZL2DJU2LOnMBsj5ENyw
+ qtHOa4HYCSyGdhnjjgXVYIE+6ozbSjZbniyEnX1l9P/UvkbXrNbSsKfDZ1irVJqEIvw47mzWR
+ dqJjV0Szw9st+ek/G+2Q/0b6zVHcKR50ejcQtq7N7rStyeLPSXsxj13BrVv9z7ploOixBVTx5
+ 83ctbL6wNew+E28f+lEwlQEH2bsMyfxZ6Ixhuv7ygQwqyrifqCTJbMVAIkXhKUWw+ufc0Kr28
+ MXO6NM+fmqkP5uOJ6ywvvBHMqAfR6fPWTzJ9vFZEp1n3RHNiemUhwFIpUp4wTiq3hALusq2gS
+ TifMeyDedKMNMTLbJKVXfTh/VWwmfBV5YmQUrGilf3MYArnU1cQpjxIZQeRLL63nNAiiRIe89
+ 8wKJvl4Ite1fyvGKqwY09A9VcVuKIYRJC8FFyI3YVzd4n+gbHe8Y99kvu8BRNTd7c4DGxAu3i
+ 1ypLFM3uZlj3SqxJHljwwKi3t4Ubq+rbDuK4nmO/x27tkem9J//dJzVTVChG6YPPwbvTAky3U
+ 1qFJfsDdIqpk2OhVcPeQH40cvpg/pnqfRif2kpj0wlj+eY3wdh7ajvSi0qI4QXpKYOd89LmiL
+ f851w1j3X31nxuQOwRfd3GkkAFga0qu8dN5AnWTO2D0LioKOWxVUBtfful95wRasSkjUpn0nO
+ MnMgjOHOf5UEyStLSp1gXLziEQqVasami4uD9K9O0jNJQxrkVnyJ3ieG+vMpd29Es8XWvoE/0
+ 94ocpUMp6jjNRCYMfJlf8pfXIkSKqiZ03mB8ZWgfsIq6xDsNj0+GGuNQcGZGXedACpKr1HlmX
+ njCMcU+WmGiVhN5/xspoNBeyw0eBfp6YNqWvK/GLCp+r8VDoR+CbLW80Z9jizuiURRcaYSx9z
+ YGSup6OOWkGU+B5fg==
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D=
+2 color=3D#1122cc>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_=
+url?hl=3Dde&amp;q=3Dhttp://digitalscholarship.unlv.edu/cgi/viewcontent.cgi%=
+3Farticle%3D1108%26context%3Dlibfacpresentation&amp;sa=3DX&amp;scisig=3DAAG=
+Bfm2To5winwgmM8TwBz2KYJ8CBz9e2g&amp;oi=3Dscholaralrt"><font size=3D3 color=
+=3D#1122cc style=3D"text-decoration:underline">Transforming digital collect=
+ions into <b>linked data</b>: The rise of missing links</font></a></h3><div=
+><font size=3D2 color=3D#009933>SB Southwick, CK Lampert - 2013</font></div=
+><div><font size=3D2 color=3D#222222>=E2=80=A2 Watch <b>linked data </b>web=
+inars and discuss concepts=E2=80=A2 Monitor literature in the <b>linked dat=
+a </b>area <br>and collect relevant documents=E2=80=A2 Create an internal w=
+iki with an extensive list of <b>linked data </b><br>resources=E2=80=A2 Att=
+end workshops and presentations on <b>linked data</b>=E2=80=A2 Participate =
+in <b>linked data </b><b> ...</b></font></div><br><h3 style=3D"font-weight:=
+normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"http://schola=
+r.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://dl.acm.org/citation.cfm%3Fid=
+%3D2536587&amp;sa=3DX&amp;scisig=3DAAGBfm2CmPCjy7Rvg-mHo52uAChcHBMGsA&amp;o=
+i=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D"text-decoration:un=
+derline">Linked open bibliographic data</font></a></h3><div><font size=3D2 =
+color=3D#009933>AB R=C3=ADos Hilario, TF Fern=C3=A1ndez, DM Campo - &hellip=
+;  of the First International Conference on  &hellip;, 2013</font></div><di=
+v><font size=3D2 color=3D#222222><b>...</b> 2. LIBRARY <b>LINKED</b> <b>DAT=
+A</b> INCUBATOR GROUP USE CASE AND THE BIBLIOGRAPHIC DATA<br>
+CLUSTER 2.1 Library <b>Linked</b> <b>Data</b> Incubator Group Use Case: def=
+inition Library <b>Linked</b> <b>Data</b><br>
+Incubator Group (LLD-XG), belonging to the World Wide Web Consortium (W3C <=
+b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&a=
+mp;q=3Dhttp://link.springer.com/chapter/10.1007/978-1-4614-9299-3_7&amp;sa=
+=3DX&amp;scisig=3DAAGBfm3T4zpjrptXlv3tgkNwDpO-C4cSIg&amp;oi=3Dscholaralrt">=
+<font size=3D3 color=3D#1122cc style=3D"text-decoration:underline">Leveragi=
+ng <b>Linked Data </b>to Build Hypermedia-Driven Web APIs</font></a></h3><d=
+iv><font size=3D2 color=3D#009933>M Lanthaler - REST: Advanced Research Top=
+ics and Practical  &hellip;, 2014</font></div><div><font size=3D2 color=3D#=
+222222>In this chapter we will illustrate how <b>Linked Data</b> can be use=
+d to create loosely coupled, <br>
+hypermedia-driven Web APIs. Apart from introducing JSON-LD and showing how =
+it can be used <br>
+as a generic data format for Web APIs, we will demonstrate how a short list=
+ of concrete <b> ...</b> </font></div><br><h3 style=3D"font-weight:normal;m=
+argin:0;font-size:medium;max-width:44.5em"><a href=3D"http://scholar.google=
+.de/scholar_url?hl=3Dde&amp;q=3Dhttp://dl.acm.org/citation.cfm%3Fid%3D25365=
+86&amp;sa=3DX&amp;scisig=3DAAGBfm2oEbCwmFoGE90Zy1Fk8fo6E6g_Hw&amp;oi=3Dscho=
+laralrt"><font size=3D3 color=3D#1122cc style=3D"text-decoration:underline"=
+>Science 2.0 supported by open access repositories and open <b>linked data<=
+/b></font></a></h3><div><font size=3D2 color=3D#009933>T Ferreras-Fern=C3=
+=A1ndez, JA Merlo-Vega&hellip; - Proceedings of the First  &hellip;, 2013</=
+font></div><div><font size=3D2 color=3D#222222>Abstract The main goal of th=
+is track is to gather experiences and works to disseminate <br>initiatives,=
+ programmes and projects about both theoretical and technological issues re=
+lated <br>to Open Knowledge with regard to two key elements: the open acces=
+s to the scientific <b> ...</b></font></div><br><h3 style=3D"font-weight:no=
+rmal;margin:0;font-size:medium;max-width:44.5em"><font size=3D2 color=3D#11=
+22cc>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&a=
+mp;q=3Dhttp://videolectures.net/site/normal_dl/tag%3D807022/eswc2013_christ=
+ophides_linked_data_01.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm0hTg6g950T8sWhcp8z=
+2uiPHC3yMQ&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D"te=
+xt-decoration:underline">Preserving <b>Linked Data</b>: Challenges and Oppo=
+rtunities</font></a></h3><div><font size=3D2 color=3D#009933>V Christophide=
+s, C Heraklion</font></div><div><font size=3D2 color=3D#222222>=E2=98=85 Av=
+ailable on the web (whatever format) but with an open license, to be Open D=
+ata=E2=98=85=E2=98=85 <br>Available as machine-readable structured data (eg=
+ excel vs. image scan of a table)=E2=98=85=E2=98=85=E2=98=85 as <br>(2) plu=
+s non-proprietary format (eg CSV instead of excel)=E2=98=85=E2=98=85=E2=98=
+=85=E2=98=85 as (3), plus using open <b> ...</b></font></div><br><p><hr nos=
+hade size=3D1><font size=3D2 color=3D#222222>Dieser Google Scholar-Alert wi=
+rd Ihnen von Google zur Verf=C3=BCgung gestellt.<br><br><a href=3D"http://s=
+cholar.google.de/scholar_alerts?view_op=3Dcancel_alert_options&amp;email_fo=
+r_op=3Derictessenow%40web.de&amp;alert_id=3DAIfevv3NkPcJ&amp;hl=3Dde"><font=
+ color=3D#1122cc>Alert stornieren</font></a><br></font></div></body></html>

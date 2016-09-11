@@ -1,0 +1,97 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.79.82.193 with SMTP id g184csp45312ivb;
+        Thu, 21 May 2015 01:44:32 -0700 (PDT)
+X-Received: by 10.107.29.148 with SMTP id d142mr1994057iod.9.1432197872277;
+        Thu, 21 May 2015 01:44:32 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3UJpdVRUKDKsdNSZWLcLWPced-YZcPaWjRZZRWP.NZXPcTNePddPYZhhPM.OP@scholar-alerts.bounces.google.com designates 209.85.216.202 as permitted sender) smtp.mail=3UJpdVRUKDKsdNSZWLcLWPced-YZcPaWjRZZRWP.NZXPcTNePddPYZhhPM.OP@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3UJpdVRUKDKsdNSZWLcLWPced-YZcPaWjRZZRWP.NZXPcTNePddPYZhhPM.OP@scholar-alerts.bounces.google.com designates 209.85.216.202 as permitted sender) client-ip=209.85.216.202;
+Received: by 10.50.16.232 with POP3 id j8mf385928igd.1;
+        Thu, 21 May 2015 01:44:32 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3UJpdVRUKDKsdNSZWLcLWPced-YZcPaWjRZZRWP.NZXPcTNePddPYZhhPM.OP@scholar-alerts.bounces.google.com
+Received: from mail-qc0-f202.google.com ([209.85.216.202]) by mx-ha.web.de
+ (mxweb004) with ESMTPS (Nemesis) id 0MJRUJ-1YtQ6s2wwd-0035pi for
+ <erictessenow@web.de>; Thu, 21 May 2015 10:41:53 +0200
+Received: by qcrw7 with SMTP id w7so2215382qcr.0
+        for <erictessenow@web.de>; Thu, 21 May 2015 01:41:52 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=A9znZcHHEjP2K/RSvFNWorp5OrLds0WFmlgJj9Qu8Uc=;
+        b=CuQjaasc8EzHN8WidWTf2QSJcdeSfqrwvpdoLzAmtpdMVIg4BaaC2IvX0orYTR33C9
+         /ev2R/k62c1cBYXB7LFQaNj6hF4SXE1Q1cgHwfPANLBNTqPL/1IQfCw7DbKIG9zrind5
+         gnnVEWt1NwG0qMnkGqfBIz0g0VK21YOahFPvXIqI0jo4NTCF5oADg3WFvlfU5RN5AvIe
+         9elFIcSBx2Nglg3ukEzKdMVI6ssDx9XASVxhO0ICHAOEJ4EG4DnfXEGINxOFI2LdJDx2
+         xyYUkNRkeuw3uWrAGAjOEQjOSu6KC9KZh2QmoTm6ZckBh93lYLi+kym8ChUxTAaCT9XH
+         qlMA==
+MIME-Version: 1.0
+X-Received: by 10.236.70.5 with SMTP id o5mr2242390yhd.9.1432197712654; Thu,
+ 21 May 2015 01:41:52 -0700 (PDT)
+Message-ID: <089e01634180e93175051693832b@google.com>
+Date: Thu, 21 May 2015 08:41:52 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:jS0oJsoutM8=:/MQ1f6/ukcDuJU2gH0TdIDLi6u
+ KlA+pOf206JPgoz9n0OEnxNNDp5aspt0WzIHQBVZUCpi1CDaUSEontQh3zC0KMNNURtYvmHow
+ KvYh5bppWSKBlvcfnpWJG+Lr9lFu+txxOAqV66r8HWX+ruMWZoKry3U5uX3zMr7bdbxibC+8Q
+ GK+a31ISKrCjCBj3vHqK2Mehi1VX/E7ok3yias1rRgvN5KZE3NGk3sSOCHsmrwWZ4rQ/K6O0O
+ n/BhBFn5eEBAAVXISZTcnhfG6kKaMrBXaklJyPv87nhv4On3gnTEomMljL7iVwG8DJ1eELAnz
+ n1hgeuC6hZjjdrTsRqn++Nad63BoPSCYJkFPvuzTEKJLvWlolruG5LnBCnzG9VHqfMfeh4WUh
+ 9ZSKWuyqDG5MDblVtPGQkw0CPUgUZUUm6CSJ+Cc4nA+MeaxTKBCKwwe06qKEJJzEWwNN64u2i
+ qX+DgVcsyPhmY2A80nimXVt04GiA1TnHua2vTrv0bgS3iGNU3D8z+Yqvv3UYMD9qdUOBomfiN
+ Y8EaxqL5FauIGLf7xYqAcSuGtNqlDq6X9za3CujqPxl0t4NTvrR8y+X1WS/PgV/xaMcJ+XLt7
+ Fe+BTMgZZJC3qohoapb98S+SfOh+SQ8+X+s5nZiGrpW3yRzUxUgyCHZXYplxGv2dIaNAEAU+r
+ DbKsou1uaj2L7IW22dcPf4rnfFsUeBTQkVuRaw4Xm0+9jkt1tV2jRwJEkz67JZxZ8naFM547S
+ QsdziFEsVXUYp1jlTPfoX0lA8rxbe3NPjuIEVAn87oZBjDYwuRmynmxuV/E13DVW3J0h3lkml
+ bf+OhvrmJ7mFuzlnllj5DA8GXQn5wBuGthFQtdzv8WxaFqa4OO+SKZtYR5aIu+uQwTRlwhk42
+ kHCDE9UawS6e+Ctogz+AA261/XxzUHh+wU4bepc+FulYjuPYGn9yfg8EGkWf26oKzwuOv2F3o
+ l/Ui+ycPoPg8/BYmmYmtruPXwNRJ8skFnElxOrdzz/IOhPpxJfWN/RLtIxk/cOuN7ws1NfAb9
+ +iK77qv1WJEogAodjexcPwslsJLlBqSyuHt/XUi79ReE9tI9/EKm6qNC9G70VMaOJcFNisRSC
+ dapEG9z+oli3x3zRHc1bQGccJawleLX9p08GLQHHoN18LbKCUrSHK36kp/GXLE0E1eZuh4TYj
+ CDNrnijuTYUmpcUbZ/EF/+EtDpv3nak5RK7xDY5JRV6JiddlleOtDYmUH3r1/His0t6g98mHe
+ qc4c9I+FNhveueLjFafCfwLuHEiL37iHebbdLQkpBVk5WVE2RbKZUvve/210IplPsbRT63NVP
+ ZtsQ
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttps://flore.unifi.it/handle/2158=
+/1001513&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm3obyhTgE0t-fkWQWRKoCASAS=
+IdWA&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab sty=
+le=3D"text-decoration:underline">Classificazioni del sapere: web semantico,=
+ <b>linked data </b>e ontologie: il ruolo rinnovato delle biblioteche nella=
+ trasmissione della conoscenza registrata</font></a></h3><div><font size=3D=
+2 color=3D#006621>M Guerrini - Noetica versus informatica: le nuove struttu=
+re della  &hellip;, 2015</font></div><div><font size=3D2 color=3D#222222>Th=
+e data produced by libraries=E2=80=93the catalogs=E2=80=93are not yet on th=
+e web, but insulated from the <br>web, that are not detectable by search en=
+gines. How to change the catalogs so that they are <br>of the web and not j=
+ust on the web? Libraries have always produced quality data in <b> ...</b><=
+/font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;m=
+ax-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"htt=
+p://scholar.google.de/scholar_url?url=3Dhttp://ceur-ws.org/Vol-1362/PROFILE=
+S2015_paper6.pdf&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm0zwXC4w-BDXkkbne=
+TACOH2NMMEzQ&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a=
+0dab style=3D"text-decoration:underline">What the Adoption of schema. org T=
+ells About Linked Open Data</font></a></h3><div><font size=3D2 color=3D#006=
+621>H Paulheim</font></div><div><font size=3D2 color=3D#222222><b>...</b> L=
+inked Open Data As shown above, Microdata markup can be parsed into RDF, an=
+d thus, like<br>
+RDFa, provides a means to publish <b>Linked</b> <b>Data</b> [2]. However, t=
+here are a few essential<br>
+differences between Microdata and <b>Linked</b> <b>Data</b>, as it is commo=
+nly used. <b>...</b>=20
+</font></div><br><p><hr noshade size=3D1><font size=3D2 color=3D#222222>Die=
+ser Google Scholar-Alert wird Ihnen von Google zur Verf=C3=BCgung gestellt.=
+<br><br><a href=3D"http://scholar.google.de/scholar_alerts?view_op=3Dcancel=
+_alert_options&amp;email_for_op=3Derictessenow%40web.de&amp;alert_id=3DAIfe=
+vv3NkPcJ&amp;hl=3Dde"><font color=3D#1a0dab>Alert stornieren</font></a><br>=
+</font></div></body></html>

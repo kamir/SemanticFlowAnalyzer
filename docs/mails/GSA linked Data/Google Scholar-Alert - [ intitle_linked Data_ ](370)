@@ -1,0 +1,143 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.112.221.138 with SMTP id qe10csp371610lbc;
+        Mon, 11 Aug 2014 22:47:25 -0700 (PDT)
+X-Received: by 10.112.155.226 with SMTP id vz2mr1864306lbb.23.1407822444695;
+        Mon, 11 Aug 2014 22:47:24 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3-KjpUxUKDJUH16DAzGzA3GIH-CDG3EAN5DD5A3.1DB3G71I3HH3CDLL30.23@scholar-alerts.bounces.google.com designates 209.85.213.74 as permitted sender) smtp.mail=3-KjpUxUKDJUH16DAzGzA3GIH-CDG3EAN5DD5A3.1DB3G71I3HH3CDLL30.23@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3-KjpUxUKDJUH16DAzGzA3GIH-CDG3EAN5DD5A3.1DB3G71I3HH3CDLL30.23@scholar-alerts.bounces.google.com designates 209.85.213.74 as permitted sender) client-ip=209.85.213.74;
+Received: by 10.112.73.132 with POP3 id l4mf3885239lbv.16;
+        Mon, 11 Aug 2014 22:47:24 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3-KjpUxUKDJUH16DAzGzA3GIH-CDG3EAN5DD5A3.1DB3G71I3HH3CDLL30.23@scholar-alerts.bounces.google.com
+Received: from mail-yh0-f74.google.com ([209.85.213.74]) by mx-ha.web.de
+ (mxweb101) with ESMTPS (Nemesis) id 0MFdcn-1XDUS432gP-00EaxM for
+ <erictessenow@web.de>; Tue, 12 Aug 2014 07:41:13 +0200
+Received: by mail-yh0-f74.google.com with SMTP id 29so1205151yhl.5
+        for <erictessenow@web.de>; Mon, 11 Aug 2014 22:41:12 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=LaEIr8WlM5Zm7rBNa8Ve0ef0oihT8SFhkl0lTMpDnbo=;
+        b=lhtMGyn7437xSU7FueboiL02loIqXMlrwZ278LPZyCRvLLqOMORGrGsNZcSbynXpQX
+         xZxfFCa0lVHKux7eWqClDE1rf46tCcVpjA/QWgCuvVvZpXynIZgfXhng1vTkh99s+03H
+         8JjmM4POhix9L2G5L7tXnNNNCk9baKRVxsIBPcrgdKByBFCS7tg/ZngWcFOqQD9yEIJQ
+         YM+tWx99yx6SSti10fju+2nBz+7AOCN5jihQGXVGMKg1lHFPc0kUbhHqjM/VjJSPdyH9
+         8vcG4/hhIvZFl60hMu7Frf08HJbBirm05PxlQy9UdyNARLX5jrwbOUJe7N5r4fBo6gdE
+         60Uw==
+MIME-Version: 1.0
+X-Received: by 10.236.216.67 with SMTP id f63mr10073296yhp.10.1407822072655;
+ Mon, 11 Aug 2014 22:41:12 -0700 (PDT)
+Message-ID: <001a1133d5048c30e70500681eae@google.com>
+Date: Tue, 12 Aug 2014 05:41:12 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:tWSKkTvwOqU=:XCG5yWHlumMKNZqUyPnEqqa3tW
+ fc/i22QmMVJ4gfUoLabOANMRMoXVukK3RnG9XSaUR6Xjo3NnHLz4bcja9m69AOxxRH/+ORmZ3
+ 6H991fKhQnEDFCg9Ka1VlNMUzRu9tFBdIEl8G7nYgvkxbH7BKDbAJQ47g2jpG1ee8Paq6D2bm
+ LKhpTccbJoCKihHc49yGqU1R4pELq62YH+ZEsp7rZ7TxQyfSNRXM9viiYyE4WVlci/g0Mw+5E
+ bJQAa0Kfz05CgrVOdU7tbzf28t20Q4q7Qp2g22Lt6WIb+XQ3Nkyr1YYmaCSp68daouwr/IkWi
+ tordVw3Ei3/Zwh2GUcpBGzB4HKJy2sciOiJ92HCZJEtk5gaIEo8M/XuISHXPlexA1s8LsKOx8
+ PDhKiuyJExq7jNxsFPlm2EXQDJL5hXniYSrxyLH/oTjDcUlnCQzNLJt1Iwi+jb36HCii+iLGz
+ YIOoXZdzPbU7zTW+NLH2bADt1ciy6lFn0UGahFF/Cb/fAgpjnQb1DdHT3esJJaeF4CttuSbJb
+ nsiUbshoYocxNnDvpCSYHUqeruyKdtCagXeF0XOLLY4FDFiC9QEmiRR+egQE8Ow40Qxe6xOZS
+ lAnIC+La0xKQi7RmegAnO+XSXlgdsCc1X664KZhk6Ug5vWgqTs9qRY+cWNrHsQ2vb4sgbsX9Q
+ oAdxdXdnVIFuUfOcrK+UGbrE/K2j1Sja37jFJj/LosDdv92fuD/aomHk5x5l+W7SdexK+fbF1
+ 5X+t48/kO/TbEHaycDlRhpiiiCEg6+qgp+J8h6covXVpUcfMy82kbBDQiVXXk8h1qJZisud20
+ zpQs0U///5W2djq2mPL75d4ujubp0b1B5BkM6i6lF9P+RdvDZuNXaWzUlJ5bPfABoBu3Q51be
+ ks8L3pQTMu/sgaNd3bXb7pVP6Lxdfxa1r72n4ZQv9r+yVMCF+Hv+99oISGdFmiQcbUYr0NwsW
+ XAF430JUeU0GZAfMfyV2yg0ktsp/4kYNgp4JoB7eGjP43XU6eE+2wgZaGkyADP7h7DzkKbvH7
+ M/jEn4pbAngqk1URLJd2JQuH3I6gHYMUobFsMOTcJ8N/M2okNIfBSm78tOCRvXNjQ5eKOmRu4
+ nfpKygtJkXfcaBfa+Zlg66YQ02S1lqqKMBUIwe9ucsaKjlzaQip4pxTp4qKpKM6DcxkWOvNTJ
+ O2rB2uDEFRfbNNkMfVmxcl480OlmFfmxPI//NaHhFo1DrWd4omu8+9XmYRCppsdI33hTFnD6T
+ IdfAKa8Bx+7Ljsilba13QyXFeI2AZZZizc/bKUU5ALFXCDYf+dnBJXfE90h+hc6gm7N0H5lGQ
+ O9iuAYqbBbBPDOz4ez97o/4fiQnnILlOSGUSAyF0aaaZQhx/wT5lbPxdhs66reElp5GjM0Eko
+ 6Sco6qtfA2lPNo957krcCNPh5/qeAud4uvrbQr+C1rNjiu50DsagiUd/stLnhsS5l6NYdoEM1
+ zt38IehNouVjd1FMZko/egZ1DOmu7Xq9j4n5LYUL1aC/itU07i
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D=
+2 color=3D#1122cc>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_=
+url?hl=3Dde&amp;q=3Dhttp://www.biomedcentral.com/content/pdf/1472-6963-14-3=
+38.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm0jKmoPOBUJOKFdTQ9VAxLxYoxOcg&amp;oi=3D=
+scholaralrt"><font size=3D3 color=3D#1122cc style=3D"text-decoration:underl=
+ine">One third of hospital costs for atherothrombotic disease are attributa=
+ble to readmissions: a <b>linked data </b>analysis</font></a></h3><div><fon=
+t size=3D2 color=3D#009933>ER Atkins, EA Geelhoed, M Knuiman, TG Briffa - B=
+MC Health Services Research, 2014</font></div><div><font size=3D2 color=3D#=
+222222>Background Cardiovascular disease is the most frequent cause of deat=
+h in Australia, with an <br>associated cost burden of 11% of Australian ann=
+ual health expenditure of which 40% is for <br>hospital admissions. We inve=
+stigated health outcomes and the components of hospital <b> ...</b></font><=
+/div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;max-widt=
+h:44.5em"><a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dh=
+ttp://ruben.verborgh.org/publications/devocht_iesd_2014/&amp;sa=3DX&amp;sci=
+sig=3DAAGBfm0Gtm_64BVRx-AEYRUmikmpgSLCmw&amp;oi=3Dscholaralrt"><font size=
+=3D3 color=3D#1122cc style=3D"text-decoration:underline">A Visual Explorati=
+on Workflow as Enabler for the Exploitation of Linked Open Data</font></a><=
+/h3><div><font size=3D2 color=3D#009933>L De Vocht, A Dimou, J Breuer, M Va=
+n Compernolle&hellip; - Proceedings of the 3rd  &hellip;, 2014</font></div>=
+<div><font size=3D2 color=3D#222222><b>...</b> However, the uptake of the <=
+b>Linked</b> <b>Data</b> depends on its usefulness to non-Semantic Web<br>
+experts. Failing to support data consumers understanding the added-value of=
+ <b>Linked</b> <b>Data</b><br>
+and possible exploitation opportunities could inhibit its diffusion. <b>...=
+</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&a=
+mp;q=3Dhttp://books.google.de/books%3Fhl%3Dde%26lr%3D%26id%3Dkf8sBAAAQBAJ%2=
+6oi%3Dfnd%26pg%3DPR5%26dq%3D%2522linked%2BData%2522%26ots%3DBDFz0z6Ne6%26si=
+g%3DZnPm08dO0WPiBAOit5UbzYAagQc&amp;sa=3DX&amp;scisig=3DAAGBfm0FS3XpDdqvvM-=
+mhvW9KnjcWGYpYw&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=
+=3D"text-decoration:underline">Linked Open Data--Creating Knowledge Out of =
+Interlinked Data</font></a></h3><div><font size=3D2 color=3D#009933>S Auer,=
+ V Bryl, S Tramp</font></div><div><font size=3D2 color=3D#222222><b>...</b>=
+ The aim of the LOD2 project was to advance the state of the art in researc=
+h and development<br>
+in four key areas relevant for <b>Linked</b> <b>Data</b>, namely 1. RDF dat=
+a man- agement; 2. the extraction,<br>
+creation, and enrichment of structured RDF data; 3. the interlinking and fu=
+sion of <b>Linked</b> <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&a=
+mp;q=3Dhttp://books.google.de/books%3Fhl%3Dde%26lr%3D%26id%3Dkf8sBAAAQBAJ%2=
+6oi%3Dfnd%26pg%3DPA108%26dq%3D%2522linked%2BData%2522%26ots%3DBDFz0z6Ne6%26=
+sig%3DwoUooBJs4h3w1voy1jtKPedYG74&amp;sa=3DX&amp;scisig=3DAAGBfm2a6pW5E-WAd=
+7D--LYa4xZUf6kckA&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc styl=
+e=3D"text-decoration:underline">Supporting the <b>Linked Data </b>Life Cycl=
+e Using an Integrated Tool Stack</font></a></h3><div><font size=3D2 color=
+=3D#009933>S Tramp - Linked Open Data--Creating Knowledge Out of  &hellip;<=
+/font></div><div><font size=3D2 color=3D#222222>Abstract. The core of a <b>=
+Linked Data </b>application is the processing of the knowledge <br>expresse=
+d as <b>Linked Data</b>. Therefore the creation, management, curation and p=
+ublication of <br><b>Linked Data </b>are critical aspects for an applicatio=
+n&#39;s success. For all of these aspects the <b> ...</b></font></div><br><=
+h3 style=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em">=
+<a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://book=
+s.google.de/books%3Fhl%3Dde%26lr%3D%26id%3Dkf8sBAAAQBAJ%26oi%3Dfnd%26pg%3DP=
+A196%26dq%3D%2522linked%2BData%2522%26ots%3DBDFz0z6Ne6%26sig%3DM9WnOOB-6jwD=
+FEGjZpLCiKWZNrU&amp;sa=3DX&amp;scisig=3DAAGBfm2K5z9SEmyZUH0WwkNsneOGi8fdRQ&=
+amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D"text-decorati=
+on:underline">Linked Open Data for Public Procurement</font></a></h3><div><=
+font size=3D2 color=3D#009933>T Knap, M Necask=C3=BD - Linked Open Data--Cr=
+eating Knowledge Out of  &hellip;</font></div><div><font size=3D2 color=3D#=
+222222><b>...</b> The respective use case of the LOD2 project covered sever=
+al aspects of applying <b>linked</b> <b>data</b><br>
+on public contracts: onto- logical modeling of relevant concepts (Public Co=
+ntracts Ontology), data<br>
+extraction from existing semi-structured and structured sources, support fo=
+r <b>...</b>=20
+</font></div><br><p><hr noshade size=3D1><font size=3D2 color=3D#222222>Die=
+ser Google Scholar-Alert wird Ihnen von Google zur Verf=C3=BCgung gestellt.=
+<br><br><a href=3D"http://scholar.google.de/scholar_alerts?view_op=3Dcancel=
+_alert_options&amp;email_for_op=3Derictessenow%40web.de&amp;alert_id=3DAIfe=
+vv3NkPcJ&amp;hl=3Dde"><font color=3D#1122cc>Alert stornieren</font></a><br>=
+</font></div></body></html>

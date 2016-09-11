@@ -1,0 +1,107 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.79.35.66 with SMTP id t63csp2401248ivf;
+        Fri, 15 May 2015 23:12:14 -0700 (PDT)
+X-Received: by 10.107.38.74 with SMTP id m71mr1902170iom.51.1431756731580;
+        Fri, 15 May 2015 23:12:11 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3T95WVRUKDBgG05C9yFy92FHG-BCF2D9M4CC492.0CA2F60H2GG2BCKK2z.12@scholar-alerts.bounces.google.com designates 209.85.218.74 as permitted sender) smtp.mail=3T95WVRUKDBgG05C9yFy92FHG-BCF2D9M4CC492.0CA2F60H2GG2BCKK2z.12@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3T95WVRUKDBgG05C9yFy92FHG-BCF2D9M4CC492.0CA2F60H2GG2BCKK2z.12@scholar-alerts.bounces.google.com designates 209.85.218.74 as permitted sender) client-ip=209.85.218.74;
+Received: by 10.50.16.175 with POP3 id h15mf478319igd.18;
+        Fri, 15 May 2015 23:12:11 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3T95WVRUKDBgG05C9yFy92FHG-BCF2D9M4CC492.0CA2F60H2GG2BCKK2z.12@scholar-alerts.bounces.google.com
+Received: from mail-oi0-f74.google.com ([209.85.218.74]) by mx-ha.web.de
+ (mxweb107) with ESMTPS (Nemesis) id 0M9qjc-1Z4Wnh0MJs-00B6iX for
+ <erictessenow@web.de>; Sat, 16 May 2015 08:06:09 +0200
+Received: by oiax69 with SMTP id x69so7405073oia.1
+        for <erictessenow@web.de>; Fri, 15 May 2015 23:06:07 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=IIO587xzT2iVQa4q16EXroRJgWfg+HeO0OBpn49th6Y=;
+        b=crpDJ2AFVCZ3FRKQfqwcLiR2KfS4lm2P5ecJdk0EKKb1jAUi/wG+Bt853GqhWQG05l
+         vDUPyfbLmcQrLuAOijCCW2/U8fUxUmSEcccZyAiLOsrOYeBufyAQVduLASqVQfrKDKon
+         WWRyADJWOhet5T38EPWZZXIX/zI9MKGQgOY2pTVMQR91P1DSJzmXuxO0pxvzVDc5DKuN
+         vma6x3UgsNqEctcL0dMiOSaBPadURhiFCST6t3f5H5LsoBjSKyjOOnT8+7A5w9seTfgK
+         st1Y1ZSwU8+G5bW/MGj7gyO42/yN5LKkbQ2rDeonuFgWlC4H9qp3Um5sxWAvDH8YQixn
+         jlyw==
+MIME-Version: 1.0
+X-Received: by 10.182.168.68 with SMTP id zu4mr19334084obb.13.1431756367894;
+ Fri, 15 May 2015 23:06:07 -0700 (PDT)
+Message-ID: <e89a8f838857b6993e05162cc124@google.com>
+Date: Sat, 16 May 2015 06:06:07 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:lWYGzhFmdKg=:DQlmT3eF/Zf1HLMkMSxJ4vRBPX
+ zhtR5Qc5MhbfTGKqHPb4ods7OiN9L5I99APMja+Sz69M6BXHSDrh446sG4p71uPNVH0jE18/C
+ JM2+IsWazGLgYxL2KvxMviaolZ/XhWY7aSIZxryUsRo3pVHrnv8UTwzablt981awmzODe1H/r
+ VyHUW2muIzORkB2G88GIhl/rpQAMEYzjXafr+ggEJp6QuRu6bMyjEwGLCjokMlomk/DJT6boF
+ Q/0FkJ9pNl/E8oeVNEja3fQhy898YrpV3IQPmOBowlo7HSDUydfYyZHCodUc1SySAdiJR9N6/
+ JtvNHS7s4q0b5pznwSXzYs4e9V1Swa6D1YZRQIh1pdj2WKitksmLydIcedWvvyFqMPYjZhW/5
+ vVMibdkpdcYJPMINZndOlyO8UT2G6PEU0HwoA0NT9cgBhSMBxX+46Yg2YIE0HaAmyi5CxirGL
+ YrxmD5kzsxcM3K9P+AEKBB6xGu5c+jmErphdcFWGPhjn0QT1vBcRgn2MBd2G8JnnMJmtkRSTY
+ hNfO7bQ7RmNMhvOJmKIysNM1UE+bPoplkggl8Q2tn91EzLU7j1s2AYeQLUOMsZrmPv5w2858U
+ WchdJpnCL2IwHVCIdgaaLsW9jlc4PNFzLKZ9V2mgY8CX8L1wPRmfW20r20CugUfxb3tcB7eBF
+ moV96Ud0ZgzTX+QyG8C/BSj13t/hTANFVlEo970/HaySxrOTRU5k2zbQHLi9m52K3T6xSMQsp
+ 66xeThCXFd2P11v7PE5L6w9JdLnB4c6twl4FAXblnHjmxF9SDs/hew/R68mLGNlawvznRetz5
+ EnSBzGI2G5EH4rWdLpVgZ2teyXlPmM/H6yu60kC3dQuFBEqHfoPQ32elKUrwuZ2tUCCS7yPdP
+ vX281EJB6REQJzOo0z2C49EagKEKBuwRtSznuxnKf2aerAz8kw3tNP5yOXdnARzgyyBIHogwK
+ X8wNTZuMAQz5fJ6aH7QO8gaCEL8XGeMpKo7d7NUv6ogt1cBRujl6FrgaJsWaemkXSYSdSa3cJ
+ 3uUE+QCRiziBmN8N5XbENJ6mfpcxcXAbA5qLKcmWbuMpjAafpc6URVJspm5fOYoWuO2VQ3mJa
+ WllnmIuzuzN3l6L1fZJ1k4+uE3FogRiN7e0h1IKNmfdwZ+aD2sztv4NUWmLyrhd6kRhfwOeXM
+ bbRaXc5bzxzwOJUerHUShrJdKrd6WRRUe+4jHaDHEE5NthzcR/plUbElexcVkgxnFF5IsEEBm
+ pn9LFwlJ6b7ncageBESMj1JGCV5VTWBrDCmxbh9ItGL47QjV3Ykxhl7sj1L0CPLYMlW4vRtc/
+ hVNe
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D=
+2 color=3D#1a0dab>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_=
+url?url=3Dhttp://arxiv.org/pdf/1505.02298&amp;hl=3Dde&amp;sa=3DX&amp;scisig=
+=3DAAGBfm0mb8sMzYX7oWow_q-FCUFYp_e8ag&amp;nossl=3D1&amp;oi=3Dscholaralrt"><=
+font size=3D3 color=3D#1a0dab style=3D"text-decoration:underline">Predicate=
+ Abstraction for <b>Linked Data </b>Structures</font></a></h3><div><font si=
+ze=3D2 color=3D#006621>A Bakst, R Jhala - arXiv preprint arXiv:1505.02298, =
+2015</font></div><div><font size=3D2 color=3D#222222>Abstract: We present A=
+lias Refinement Types (Art), a new approach to the verification of <br>corr=
+ectness properties of <b>linked data </b>structures. While there are many t=
+echniques for <br>checking that a heap-manipulating program adheres to its =
+specification, they often require <b> ...</b></font></div><br><h3 style=3D"=
+font-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=
+=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"http://scholar.google.de/schol=
+ar_url?url=3Dhttps://boa.unimib.it/retrieve/handle/10281/81717/120702/phd_u=
+nimib_060772.pdf&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm2Xi925cjEdttEPFd=
+owNTVQl6Z0bA&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a=
+0dab style=3D"text-decoration:underline">Time-Related Quality Dimensions in=
+ <b>Linked Data</b></font></a></h3><div><font size=3D2 color=3D#006621>A Ru=
+la, M Palmonari</font></div><div><font size=3D2 color=3D#222222>Abstract Ov=
+er the last few years, there has been an increasing diffusion of <b>Linked =
+Data </b>as a <br>standard way to publish interlinked structured data on th=
+e Web, which allows users, and <br>public and private organizations to full=
+y exploit a large amount of data from several <b> ...</b></font></div><br><=
+h3 style=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em">=
+<font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"http://scholar.googl=
+e.de/scholar_url?url=3Dhttp://www.inf.puc-rio.br/~casanova/Publications/Pap=
+ers/2015-Papers/2015-CAISE-Vidal.pdf&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAA=
+GBfm1sQgqkeN4XqrxnnDCCI6CBfmzsHw&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font =
+size=3D3 color=3D#1a0dab style=3D"text-decoration:underline">Specification =
+and Incremental Maintenance of <b>Linked Data </b>Mashup Views</font></a></=
+h3><div><font size=3D2 color=3D#006621>VMP Vidal, MA Casanova, MR Narciso A=
+rruda&hellip;</font></div><div><font size=3D2 color=3D#222222>Abstract. The=
+ <b>Linked Data </b>initiative promotes the publication of previously isola=
+ted <br>databases as interlinked RDF datasets, thereby creating a global sc=
+ale data space, known <br>as the Web of Data. <b>Linked Data </b>Mashup app=
+lications, which consume data from the <b> ...</b></font></div><br><p><hr n=
+oshade size=3D1><font size=3D2 color=3D#222222>Dieser Google Scholar-Alert =
+wird Ihnen von Google zur Verf=C3=BCgung gestellt.<br><br><a href=3D"http:/=
+/scholar.google.de/scholar_alerts?view_op=3Dcancel_alert_options&amp;email_=
+for_op=3Derictessenow%40web.de&amp;alert_id=3DAIfevv3NkPcJ&amp;hl=3Dde"><fo=
+nt color=3D#1a0dab>Alert stornieren</font></a><br></font></div></body></htm=
+l>

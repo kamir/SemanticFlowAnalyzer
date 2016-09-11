@@ -1,0 +1,130 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.43.46.71 with SMTP id un7csp161680icb;
+        Mon, 3 Feb 2014 16:47:52 -0800 (PST)
+X-Received: by 10.42.85.140 with SMTP id q12mr3346986icl.51.1391474865953;
+        Mon, 03 Feb 2014 16:47:45 -0800 (PST)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3gTfwUhUKDE48sx41q7q1u798-347u51Ew44w1u.s42u7ys9u88u34CCur.tu@scholar-alerts.bounces.google.com designates 209.85.216.202 as permitted sender) smtp.mail=3gTfwUhUKDE48sx41q7q1u798-347u51Ew44w1u.s42u7ys9u88u34CCur.tu@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3gTfwUhUKDE48sx41q7q1u798-347u51Ew44w1u.s42u7ys9u88u34CCur.tu@scholar-alerts.bounces.google.com designates 209.85.216.202 as permitted sender) client-ip=209.85.216.202;
+Received: by 10.50.151.138 with POP3 id uq10mf821052igb.9;
+        Mon, 03 Feb 2014 16:47:44 -0800 (PST)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3gTfwUhUKDE48sx41q7q1u798-347u51Ew44w1u.s42u7ys9u88u34CCur.tu@scholar-alerts.bounces.google.com
+Received: from mail-qc0-f202.google.com ([209.85.216.202]) by mx-ha.web.de
+ (mxweb009) with ESMTPS (Nemesis) id 0MIBlm-1WEKuy3bIs-003xmP for
+ <erictessenow@web.de>; Tue, 04 Feb 2014 01:42:43 +0100
+Received: by mail-qc0-f202.google.com with SMTP id m20so1190297qcx.1
+        for <erictessenow@web.de>; Mon, 03 Feb 2014 16:42:41 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=FykH/wLY7y7SACOCGklWTbNvEn3wMIjKrffGMY8/q04=;
+        b=av6GMPOK3FpsFRTKM8uyZ+cE5xriW61qYimeEgNry4bGg/nAy1d/YxxG+u8KXIEgRK
+         NLRfUuvE1Gc3+Svc568CA1PVxQQAWEOIQ/tQXPNqEvQATshlefTacEUkuMxl4802K/bE
+         cdpDoYNUZKkBUmce3i5Cd5Ku3RhO/bUlmbfSoYeD01g3l7RsBiMWTJEcasU8Q9S2NDes
+         j5FhPFNsCYQ9c9ThxId3xE9slZQN+y/SxjhU45AQWg+dZCp12sLcr9Hc3OZ7oXV9WAtf
+         iyAlczkvD0thfJdAyC3kvrkaBpdgPais5xPJnQRH9IBIhdrwbVa5EYkjA7HQqtc4v0op
+         pGLA==
+MIME-Version: 1.0
+X-Received: by 10.236.209.134 with SMTP id s6mr12089619yho.40.1391474561779;
+ Mon, 03 Feb 2014 16:42:41 -0800 (PST)
+Message-ID: <089e01633bbef8077704f189ea29@google.com>
+Date: Tue, 04 Feb 2014 00:42:41 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:mbBexomkWq0=:BRtLlFNU0IVrX7tiUWttIR/zrm
+ olNjkLlKvzuwrRjbA08z52TFxJJWA7qhZdcTCFMzePJQfi6sUJ1e4oSK1b1dotJLy2l4Rxwms
+ PkHZaz3rSGVYOteSSCpNyt+NpVBh8RioVGJIPuLmrfycbFjTk5VKvBHobXO9VgFtH26oj69rW
+ 7WclS6CtAXCSvqQuIX3YDtpsqlmsZgGaGoPlHl0YP2BCUr8izQHy0CGc4EE/taUeleleLUY/y
+ 31370iFsfnTDF9z+Qg96hKFnoQpBG9/upAwuN+YozSuOL5szCLVjJnrncEbH+mAcNtbdHCFRw
+ y1lSNnreQAtEmanLln3fL2lnFlruI6AsGPX3TSQ7eOZVt1fyrgdAOz4DBb+6nWwau3oW1w9Bq
+ aGnWHOv4hytSxQtzevf20wisu3nx4IWekI+yhPaaUreFgGWmXBlXAQq5E00yuHp02Pcrq9qnO
+ 46hIaVTCTtMjs23JRriHYNzVbmn39huUWRiADsORJkZDOjqr9JTKw0ImarDxU48uBpjSHNG9p
+ e++HoRXq/+I+1b3R/Q+46r4XAjhZtrfhKSggJ2MFYb0aJ+GEMKpQ/0zw9LFc5qHsjW8z64cyX
+ 2Kk7pZ7FYzl3nRnE4j5tzud7CrSuRPpo5KrTnSTwY1fYY13R12GUCWDFf0lFe76qGiqVwxJO1
+ bqYMmExq1Mt9yIa29GQDOgHYSucQ6hPyMjrNrl2Q5ke8hI4AYK1wJfHExSjoFcVdxQc70kwJu
+ H/BMKPo/FAa4O+q5qELBP/QPZcWTfc0Ez5UYUquL35mbg4QDzYZ6lAVA0EiG6q3zCIRsMgVcE
+ 35DxwVA7uuhFf5F4vfnAxb3dvK6h6dlODy/B8L4wYDVoiRhzMmI8lzciUA3xHm99zPOyD4EYA
+ o4Z+vxb6fZhFk3nr3CrXa89QHepY7255wKz0Lsl33piNxezy1WGlmOwG+L3Q7Ma/nPcr2O3X2
+ O5u0VbDcCXA3iTTRvwyucnViyrSNP7evC4f1ARwW7ROyvB8GUnNHmn0h43ZbURLCHDUqVNgzc
+ kl+S51R8gtLE7iYePDJl/xbmLuMD85D0Mn2gq2J3yMcYB2ro2RrWGz+b9MjEUWeJgX83JO6ZF
+ H9pPstCrn7ZaOGtkw3MamEhck7GTMzXuFJ2HvSxb9386QanHIetkaXW4W1FhwWq34rgjlCQ58
+ D+38qb8/wpFwKUhsXjCbETUZq216oXfys6Y2P1DnlAkQ==
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://www.sciencedirect=
+.com/science/article/pii/S1570826814000055&amp;sa=3DX&amp;scisig=3DAAGBfm1c=
+NR9BycjyA7xiqU0dAeCXGli5EA&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#11=
+22cc style=3D"text-decoration:underline">Exploring <b>linked data </b>with =
+contextual tag clouds</font></a></h3><div><font size=3D2 color=3D#009933>X =
+Zhang, D Song, S Priya, Z Daniels, K Reynolds&hellip; - Web Semantics: Scie=
+nce,  &hellip;, 2014</font></div><div><font size=3D2 color=3D#222222>Abstra=
+ct In this paper we present the contextual tag cloud system: a novel applic=
+ation that <br>helps users explore a large scale RDF dataset. Unlike folkso=
+nomy tags used in most <br>traditional tag clouds, the tags in our system a=
+re ontological terms (classes and properties)<b> ...</b></font></div><br><h=
+3 style=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em"><=
+a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://www.f=
+reepatentsonline.com/y2014/0032494.html&amp;sa=3DX&amp;scisig=3DAAGBfm0dwWE=
+6gVBVxueAVcnfCCeFHwlOJA&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122c=
+c style=3D"text-decoration:underline">DATA INDEX USING A <b>LINKED DATA </b=
+>STANDARD</font></a></h3><div><font size=3D2 color=3D#009933>FJ Budinsky, J=
+J Des Rivieres, MP Nally - US Patent 20,140,032,494, 2014</font></div><div>=
+<font size=3D2 color=3D#222222>Abstract: A data indexing system including a=
+ plurality of servers and a tracked resource set <br>client is provided. Ea=
+ch of the servers include a plurality of resources that are part of a <br>r=
+esource set. Each of the servers also include a tracked resource set corres=
+ponding to the <b> ...</b></font></div><br><h3 style=3D"font-weight:normal;=
+margin:0;font-size:medium;max-width:44.5em"><a href=3D"http://scholar.googl=
+e.de/scholar_url?hl=3Dde&amp;q=3Dhttp://ieeexplore.ieee.org/xpls/abs_all.js=
+p%3Farnumber%3D6726226&amp;sa=3DX&amp;scisig=3DAAGBfm3BOzEmVzxKI6Bf8DXRiULP=
+oqN02w&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D"text-d=
+ecoration:underline">A <b>Linked Data </b>Approach to Electromagnetic Pollu=
+tion Monitoring</font></a></h3><div><font size=3D2 color=3D#009933>A Esposi=
+to, L Tarricone, M Zappatore - &hellip;  Intelligence and Computing, 2013 I=
+EEE 10th  &hellip;, 2013</font></div><div><font size=3D2 color=3D#222222>Ab=
+stract=E2=80=94This paper describes how novel knowledge modeling and manage=
+ment <br>techniques borrowed from the Semantic Web were exploited to publis=
+h data coming from <br>Electromagnetic (EM) pollution monitoring to the <b>=
+Linked Data </b>Cloud. The paper shows <b> ...</b></font></div><br><h3 styl=
+e=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=
+=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://search.ebsc=
+ohost.com/login.aspx%3Fdirect%3Dtrue%26profile%3Dehost%26scope%3Dsite%26aut=
+htype%3Dcrawler%26jrnl%3D20381026%26AN%3D93580573%26h%3DAu%252F0JD2UawSVAo5=
+GnGNs1xe1t8lCOVIZjA3ix%252F60RJA6B%252BMqYO%252FrwG2uAtfGuiwEgGMb8VVDIlPBpk=
+khC%252BpQ3Q%253D%253D%26crl%3Dc&amp;sa=3DX&amp;scisig=3DAAGBfm1XPsc9BQBzQ4=
+ktxKwYh-HveENgrw&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=
+=3D"text-decoration:underline">Dal record al dato. <b>Linked data </b>e ric=
+erca dell&#39;informazione nell&#39;OPAC.</font></a></h3><div><font size=3D=
+2 color=3D#009933>A Iacono - Italian Journal of Library &amp; Information S=
+cience, 2014</font></div><div><font size=3D2 color=3D#222222>Abstract The a=
+pplication of <b>linked data </b>to catalogue data opens up new perspective=
+s for <br>OPAC development. The new relationships between bibliographic and=
+ other data will <br>produce cataloguess that are deeply integrated with th=
+e Web, giving a decisive impact on <b> ...</b></font></div><br><h3 style=3D=
+"font-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=
+=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"http://scholar.google.de/schol=
+ar_url?hl=3Dde&amp;q=3Dhttp://ceur-ws.org/Vol-1121/privon2013_paper2.pdf&am=
+p;sa=3DX&amp;scisig=3DAAGBfm2taGoV24cHpmSItliBSWhsScrbpA&amp;oi=3Dscholaral=
+rt"><font size=3D3 color=3D#1122cc style=3D"text-decoration:underline">Pers=
+onal Privacy and the Web of <b>Linked Data</b></font></a></h3><div><font si=
+ze=3D2 color=3D#009933>D Corsar, P Edwards, J Nelson</font></div><div><font=
+ size=3D2 color=3D#222222>Abstract. This paper reports the results of a stu=
+dy investigating the user privacy challenges <br>when personal data is publ=
+ished within <b>linked data </b>environments. Motivated by GetThere, a <br>=
+passenger information system that crowdsources transport information from u=
+sers (<b> ...</b></font></div><br><p><hr noshade size=3D1><font size=3D2 co=
+lor=3D#222222>Dieser Google Scholar-Alert wird Ihnen von Google zur Verf=C3=
+=BCgung gestellt.<br><br><a href=3D"http://scholar.google.de/scholar_alerts=
+?view_op=3Dcancel_alert_options&amp;email_for_op=3Derictessenow%40web.de&am=
+p;alert_id=3DAIfevv3NkPcJ&amp;hl=3Dde"><font color=3D#1122cc>Alert stornier=
+en</font></a><br></font></div></body></html>

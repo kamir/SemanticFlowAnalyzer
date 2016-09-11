@@ -1,0 +1,147 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.79.82.193 with SMTP id g184csp2306240ivb;
+        Mon, 22 Jun 2015 19:07:03 -0700 (PDT)
+X-Received: by 10.43.24.134 with SMTP id re6mr10954415icb.74.1435025218009;
+        Mon, 22 Jun 2015 19:06:58 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3Wr2IVRUKDKkbLQXUJaJUNacb-WXaNYUhPXXPUN.LXVNaRLcNbbNWXffNK.MN@scholar-alerts.bounces.google.com designates 209.85.220.74 as permitted sender) smtp.mail=3Wr2IVRUKDKkbLQXUJaJUNacb-WXaNYUhPXXPUN.LXVNaRLcNbbNWXffNK.MN@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3Wr2IVRUKDKkbLQXUJaJUNacb-WXaNYUhPXXPUN.LXVNaRLcNbbNWXffNK.MN@scholar-alerts.bounces.google.com designates 209.85.220.74 as permitted sender) client-ip=209.85.220.74;
+Received: by 10.64.148.102 with POP3 id tr6mf6563816ieb.33;
+        Mon, 22 Jun 2015 19:06:57 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3Wr2IVRUKDKkbLQXUJaJUNacb-WXaNYUhPXXPUN.LXVNaRLcNbbNWXffNK.MN@scholar-alerts.bounces.google.com
+Received: from mail-pa0-f74.google.com ([209.85.220.74]) by mx-ha.web.de
+ (mxweb005) with ESMTPS (Nemesis) id 0MXJkj-1ZdOvZ1eSL-00WHiS for
+ <erictessenow@web.de>; Tue, 23 Jun 2015 03:58:52 +0200
+Received: by pablj1 with SMTP id lj1so16117644pab.0
+        for <erictessenow@web.de>; Mon, 22 Jun 2015 18:58:51 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=eLlT8GY5Fn5tRv1fXawlSlyyCBwfRqGv8x8MP31+X7I=;
+        b=o31J6aRXL0V8E4r3J9p1GrbsJ61nlOj1bs3FdnPxnFE2Bqd2uVf9b1vlgbXdEXB7gp
+         ph/KoHX+p+afNmgBPlLmIJlixeiXnNUIqUn4uA8TJEzFuRZ0zZm1ARinZCwTeNazMmB8
+         I4+OW6nhnLIqmxk/TLnRFMWIxQv6UkCsKp29QrPVKz5lJTfMwL5Ih0KB70o6DqHU/f7f
+         GGAjDVxM3kE96kzRHkglVq3LoJ6fKZmr+VvfQUepLKyxaPFSPtzWix6YHV14eQznNBlF
+         9qKSO6K8GiIY9uqAOHonu/3Z78C3dJ1DgRDM/jX4+UBmyGXHGyWqsh4pkwGmXVvat+pd
+         SD1A==
+MIME-Version: 1.0
+X-Received: by 10.66.151.234 with SMTP id ut10mr41214848pab.6.1435024730950;
+ Mon, 22 Jun 2015 18:58:50 -0700 (PDT)
+Message-ID: <047d7b6da1fa550ae7051925bb8e@google.com>
+Date: Tue, 23 Jun 2015 01:58:50 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:EQIShy7AD2U=:BRKUSWTYXEt5efXqk6uLdIhCVC
+ I5Nxcuy1yqkk8iC0Bd4udmGcsyw1XBuhuZUI29HY0YpgIY4/EJrBP+4n/dzFE4e72oD72oEUb
+ HeNUEZaiBUJNGkw5fzNEGdJJMSun8QUVrcQElnh4ijC9oyR/wgbuchKsoQgDy2dVoKOCWSqaP
+ DlSlkaNX2Gxd/9xLvOQbH6gtkX0Fz99voce7+iRFbHSakbLurDTtaGQsflrlzFHIgSjq8TewO
+ LUz10U960oJPp5SWvpqJ3LAlyTm74xI7DCYveVKI9YDGm+jjQzMkBVwImz+LTEkMe4Gx6v6dw
+ 6D76H7BudGch8dOlSImJKlY1fl38x6Jf5kbYN49osoLgZ4UN672H8UMTQthjafMfv1nAgr6kq
+ BULVEyJfysG0iUZTRWfgHJKo0wSJ/wkWsYpS1OXvMn9lOKqSddpQbeczmi3XWNfSzIhJsqwQC
+ gJPyy1DOZPLlJ9m0tF+AKscezgk8kGpqXqnvL42bkZJiMIahDPtrjys8AiIARWdhH5KVEeljX
+ vU3ScsrMvIM1DmtsaBQGwqb8Kxcfxu8b2PRY9hjGd3TBKNl3YzVmQz4tCnQWthEZSzcYUB4XF
+ eKbCWe6eyPY2peKJAKmms42/Ghbad7Wi0M1mxtDLZo3dc2iUeysnrK8JlqnN7DHToSrdjDHYF
+ 6o1wbxO5DZRLD07hcbASAZc/94eSYgOKQNEhXeaZLoBBau/RFKBg5l7V/1ihOGKK99QzNidFb
+ 9QST1n+CVjI8Ur0SyCWITY49+5OdLpeqLZ900KQddRneHg3GJXkLCnBBfgK3fo2bVqkREV9Yg
+ dp1TlKQ45XWyiMVEkr8cItUitjfLmo8/JUltNXgDX4H3E/J0V3HfQ0fDvkIfkiejnNuGP2dC5
+ /YgtgVJZ55rv/c7ygnKK4NKFSt9mFHOPMZBtVZztE7tCsicWNPOmyz9g3HzNVHs/1B0HzIIqf
+ Dd866Epx1nO5hzLDkXhJ2CP7+gDOnR/X5ebwRlc9g+WIxwYe8OrBYF3zLNRTfwiHD/hI4Mf7L
+ T1UYC7stGY/GT7EobxBFX9qUAk6mSOrL6I2fsJAY5YG5g/m2YSbXJSdzxfkD3b/yrgX4A+ZRg
+ H+Tpx1zd1KBECjiu6DMfDnvoenhdrdtwEIPjaj28QsAKRYDiikHFL1blghOK0sE5lk7nz3cfI
+ xqSzvzFQj9gHPjsUGSVFcD7trTFehmB/QPGClVuEEdio1iLBTA8/xI0qohYu4qlnAlpd4Vej0
+ AMROj7lN7PCL06EizoXgaufNQiheasB/uaB9eZWHSEO8EfeFmHAMImJE0ScJeB1y1pLhZ5sMu
+ L+WZ
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttp://dl.acm.org/citation.cfm%3Fi=
+d%3D2785531&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm3yx55Na1ZjOnNldqE4Ydx=
+YC1BSCQ&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab =
+style=3D"text-decoration:underline">A Case Study in Pragmatism: exploring t=
+he practical failure modes of <b>Linked Data </b>as applied to classical mu=
+sic catalogues</font></a></h3><div><font size=3D2 color=3D#006621>B Fields,=
+ S Phippen, B Cohen - Proceedings of the 2nd International Workshop on  &he=
+llip;, 2015</font></div><div><font size=3D2 color=3D#222222>Abstract For th=
+e last decade efforts have been made in building the <b>Linked Data </b>ena=
+bled <br>Semantic Web. Some of the earliest efforts in publishing <b>Linked=
+ Data </b>included music-<br>specific corpora, modeled using eg the Music O=
+ntology. Given that, one might assume <b> ...</b></font></div><br><h3 style=
+=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=
+=3D"http://scholar.google.de/scholar_url?url=3Dhttp://adsabs.harvard.edu/ab=
+s/2015EGUGA..1715624B&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm3NCeExFncEW=
+t6tSNjsfompxaxRQQ&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=
+=3D#1a0dab style=3D"text-decoration:underline">Exploiting Open Environmenta=
+l Data using <b>Linked Data </b>and Cloud Computing: the MELODIES project</=
+font></a></h3><div><font size=3D2 color=3D#006621>J Blower, P Gon=C3=A7alve=
+s, H Caumont, M Koubarakis&hellip; - EGU General Assembly  &hellip;, 2015</=
+font></div><div><font size=3D2 color=3D#222222>Abstract The European Open D=
+ata Strategy establishes important new principles that ensure <br>that Euro=
+pean public sector data will be released at no cost (or marginal cost), in =
+machine-<br>readable, commonly-understood formats, and with liberal licence=
+s enabling wide reuse. <b> ...</b></font></div><br><h3 style=3D"font-weight=
+:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"http://schol=
+ar.google.de/scholar_url?url=3Dhttp://dl.acm.org/citation.cfm%3Fid%3D278553=
+2&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm2Rb-sF7LeoHsZTTlkySRII0x573Q&am=
+p;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"t=
+ext-decoration:underline">On organising multimedia performance corpora for =
+musicological study using <b>Linked Data</b></font></a></h3><div><font size=
+=3D2 color=3D#006621>T Nurmikko-Fuller, DM Weigl, KR Page - &hellip;  of th=
+e 2nd International Workshop on Digital  &hellip;, 2015</font></div><div><f=
+ont size=3D2 color=3D#222222>Abstract The wide availability of digital tech=
+nologies has increased the quantity and diversity <br>of information that c=
+an be collected from and about a musical performance. Making this data <br>=
+easily accessible for study by musicologists requires the development of su=
+pporting <b> ...</b></font></div><br><h3 style=3D"font-weight:normal;margin=
+:0;font-size:medium;max-width:44.5em"><a href=3D"http://scholar.google.de/s=
+cholar_url?url=3Dhttp://www.dbpia.co.kr/Journal/ArticleDetail/3719231&amp;h=
+l=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm2ugXo207WYuXg-1TNC4rnzSJjK1g&amp;nossl=
+=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-dec=
+oration:underline">Linked Open Data =EA=B8=B0=EB=B0=98 =EB=8C=80=ED=86=B5=
+=EB=A0=B9=EA=B8=B0=EB=A1=9D=EA=B4=80 =EA=B8=B0=EB=A1=9D=EC=A0=95=EB=B3=B4 =
+=EC=84=9C=EB=B9=84=EC=8A=A4 =ED=99=95=EC=9E=A5=EC=97=90 =EA=B4=80=ED=95=9C =
+=EC=97=B0=EA=B5=AC</font></a></h3><div><font size=3D2 color=3D#006621>=EC=
+=9D=B4=EC=A0=95=ED=98=84=EF=BC=8C =EC=9D=B4=EC=9C=A4=EC=9A=A9=EF=BC=8C =EB=
+=B0=A9=EA=B8=B0=EC=98=81=EF=BC=8C =EA=B9=80=EC=9A=A9 - =ED=95=9C=EA=B5=AD=
+=EA=B8=B0=EB=A1=9D=EA=B4=80=EB=A6=AC=ED=95=99=ED=9A=8C=EC=A7=80, 2015</font=
+></div><div><font size=3D2 color=3D#222222><b>...</b> =ED=99=95=ED=95=98=EA=
+=B3=A0 =EC=8B=A0=EB=A2=B0=EB=8F=84 =EB=86=92=EC=9D=80 =EC=97=AD=EC=82=AC=EC=
+=A0=95=EB=B3=B4=EB=A5=BC =EC=A0=9C=EA=B3=B5=ED=95=98=EA=B8=B0 =EC=9C=84=ED=
+=95=B4 =EB=A7=81=ED=81=AC=EB=93=9C =EB=8D=B0=EC=9D=B4=ED=84=B0 =EA=B8=B0=EC=
+=88=A0=EC=9D=84 =EC=A0=81=EC=9A=A9=ED=95=9C =ED=95=9C=EA=B5=AD=EC=82=AC =EC=
+=BD=98=ED=85=90=EC=B8=A0=EB=A5=BC<br>
+=EA=B5=AC=EC=B6=95=ED=95=98=EB=8A=94 =EB=B0=A9=EC=95=88=EC=9D=84 =EC=A0=9C=
+=EC=8B=9C=ED=95=98=EC=98=80=EB=8B=A4. =EB=B0=95=EC=98=A5=EB=82=A8(2012)=EC=
+=9D=80 =ED=95=9C=EA=B5=AD=ED=98=95 <b>Linked</b> <b>Data</b> Cloud=EB=A5=BC=
+ =EC=9C=84=ED=95=9C =EC=84=A0=ED=96=89 =EC=97=B0=EA=B5=AC=EB=A1=9C =EC=84=
+=9C<br>
+=EA=B5=AD=EA=B0=80=EA=B8=B0=EB=A1=9D=EC=9B=90 =EC=A0=84=EA=B1=B0=EB=8D=B0=
+=EC=9D=B4=ED=84=B0 =EC=84=B8=ED=8A=B8=EB=A5=BC <b>Linked</b> <b>Data</b> =
+=ED=99=94 =ED=95=98=EC=98=80=EB=8B=A4. =EB=A8=BC=EC=A0=80, =EA=B5=AD=EA=B0=
+=80=EA=B8=B0=EB=A1=9D=EC=9B=90 =EC=A0=84=EA=B1=B0 =EB=8D=B0=EC=9D=B4=ED=84=
+=B0=EC=9D=98 =EA=B5=AC=EC=A1=B0 <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttp://www.loria.fr/~gardent/WebNL=
+G2015/casamayor-abstract.pdf&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm0sUh=
+t7c3r91bFydqeObCLnXU1VBg&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3=
+ color=3D#1a0dab style=3D"text-decoration:underline">Planning Texts from <b=
+>Linked Data</b></font></a></h3><div><font size=3D2 color=3D#006621>G Casam=
+ayor</font></div><div><font size=3D2 color=3D#222222>Natural Language Proce=
+ssing (NLP) technologies play an increasingly pivotal role in the <br>growt=
+h and accessibility of data published using Semantic Web (SW) standards and=
+ <br>following <b>Linked Data </b>(LD) principles. Tools and methods for na=
+tural language <b> ...</b></font></div><br><p><hr noshade size=3D1><font si=
+ze=3D2 color=3D#222222>Dieser Google Scholar-Alert wird Ihnen von Google zu=
+r Verf=C3=BCgung gestellt.<br><br><a href=3D"http://scholar.google.de/schol=
+ar_alerts?view_op=3Dcancel_alert_options&amp;email_for_op=3Derictessenow%40=
+web.de&amp;alert_id=3DAIfevv3NkPcJ&amp;hl=3Dde"><font color=3D#1a0dab>Alert=
+ stornieren</font></a><br></font></div></body></html>

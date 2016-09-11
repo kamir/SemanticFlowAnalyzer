@@ -1,0 +1,98 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.112.221.138 with SMTP id qe10csp196010lbc;
+        Fri, 15 Aug 2014 21:48:16 -0700 (PDT)
+X-Received: by 10.112.44.129 with SMTP id e1mr15124124lbm.78.1408164494288;
+        Fri, 15 Aug 2014 21:48:14 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 35uDuUxUKDAk1lqxuj0jun021-wx0nyu7pxxpun.lxvn0rl2n11nwx55nk.mn@scholar-alerts.bounces.google.com designates 209.85.213.74 as permitted sender) smtp.mail=35uDuUxUKDAk1lqxuj0jun021-wx0nyu7pxxpun.lxvn0rl2n11nwx55nk.mn@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 35uDuUxUKDAk1lqxuj0jun021-wx0nyu7pxxpun.lxvn0rl2n11nwx55nk.mn@scholar-alerts.bounces.google.com designates 209.85.213.74 as permitted sender) client-ip=209.85.213.74;
+Received: by 10.152.149.84 with POP3 id ty20mf1764483lab.10;
+        Fri, 15 Aug 2014 21:48:14 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 35uDuUxUKDAk1lqxuj0jun021-wx0nyu7pxxpun.lxvn0rl2n11nwx55nk.mn@scholar-alerts.bounces.google.com
+Received: from mail-yh0-f74.google.com ([209.85.213.74]) by mx-ha.web.de
+ (mxweb007) with ESMTPS (Nemesis) id 0LaFyw-1WWVWj2eH0-00m3Gv for
+ <erictessenow@web.de>; Sat, 16 Aug 2014 06:41:11 +0200
+Received: by mail-yh0-f74.google.com with SMTP id 29so385496yhl.3
+        for <erictessenow@web.de>; Fri, 15 Aug 2014 21:41:10 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=Zh2yhfiQ8dCk6vN0eDdYBXXUAlVZYohzK5frD57VY40=;
+        b=AMssptD6qrwqBwzR4AmSV8Jbh53lqxnmKTQfu+67kkzTJ7QyRJ+xpsK8DVS5t99iER
+         +x92zUp1aaBqluPVlguKwrM//nqXx/8yuCWxHxsFpkKtxLn+fRiKLKT8CxAkaaVClPS9
+         a0TIjZjo/piD2r0mQuIozlI244dDpcqdZsEG23miEG39eRY7h2X51II5tuDsv/Y9w6kC
+         9OO0EwgP+HVUNNUR+rr4JRUXF8uFMnQUXoeIS/LJDipUOjKGnstMGkciNGbQHcs+PHz3
+         6cHRBZ+Ys9ZkSawIorOGPcVzUSCfWmWG8+oBrEkgaIrfwFpa8mZOLgBrdn9+QM04YMjv
+         TNzA==
+MIME-Version: 1.0
+X-Received: by 10.224.14.82 with SMTP id f18mr11478496qaa.2.1408164070146;
+ Fri, 15 Aug 2014 21:41:10 -0700 (PDT)
+Message-ID: <047d7bdc80f82fc2be0500b7bfcc@google.com>
+Date: Sat, 16 Aug 2014 04:41:10 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:EJEisHn0RGw=:54iPZcJMSUWqvR20/NHKnw68Ot
+ FNzCHjjTAQnREaC0IvJxHu43a08JDDXy4Ud12iQPr7+52++nBveqaeVFIsP/B5j6YzUC4M4j5
+ C8VhhYHxd6sqMoagW7rGic4STpNkMh8WtfHqNgcBabf2f32WMEKLsfJnZg+GeCJ01jjVYbjxg
+ cQoZj3qGpsAJjIvX8tz3dqUu4K4/Z4lUOABNT0J0xUSHfppa0dO/RoXFy/BEX6wIVVuwcuiGJ
+ 3L1L5979JhqBMmHr9rrk8l6RNsDdWWNOj3rpY76g4MK1hoFD5iuOwhzKBrF9XhOna95ZyGilV
+ VXVsOycwEDHA/s9K24uUUYp0ASG8IqpOsiKd76RTzpym2wc2ivu/u2jlYzUgWTQdF8z0GWu9m
+ v1QVEtF5shn1MCvTupx63WCld7mdV2Zmp47x/xtwL2zOSCl1zfYPm6To7W8RHFjq77ciVt8e4
+ 0Ldbze7Fv+J7PL7hiILbZ/AOyvg0PXwqlL7xhvCtdHOLuNJbFMMZM39jete3NYPKYClk6tnAB
+ dxZJRQJWbz8N7bEnqqLi5BKZq8ez6TOvXBLBOFTENAqOLPyKh9jRDmGPndr0GDHTEU1pDYOKd
+ aEdyhi0iXCLLvnasr0hhSIYL71kXlf7nyhFCW8yxli6loyjtoOlu0IoKWF3ZS4ijLLmEQjsqR
+ P6Nfspa0V+aDJBwughWgKK1hZxqViU6yZj4x/sMTh3kPVnI7LivzI/LRJ86o/TqKOBXulmMEf
+ T2bALNCG91Sx7TH/4JlghmmL9ZdMWfE2jNBIKi6mutalhKBZQg3W8Sn+WP6EWvBXEF/ZrmmMN
+ rnoNjmyiBYu5qMq97cOruRecMD/ntuxw0MadyNXBBfD2BlrdFrQkcsDLgLF74fM7DSv9lC3U7
+ jIqC0MoUWSK3S4qZMCHHO3pe7PlJsBgw8/wtCwmykwx7Oy+tylXNYpzJT/Ogl36IrbDqQIwqv
+ Lv5AXAnTW5dxggeK6TD9T1z3pSbgljIbltVUO0F7j3G+5fdEWjkAW2RJx6/XUPzseAOu846U1
+ NJKJ1grLfCVw+fk2SWenqyenTzUky02RuZcdxUVFXIso37k6mUH4p/RPeqZzshPtFZUxrahsd
+ xdEpjPVCBRD2PB0+v/bOHDqprw5vq01n6CfwKv6agCMiqwLTGhGEzaTRV9YhTTDHAYZTCrBuv
+ flKEErTAiB42AaWtomryxo+QMsg5uXsH5DuJtOfAS+sVdiZKT7VY3HxOxIYaSjqfh1fSwFE7b
+ uBGkGwR/vxf6sjqUKC8Pd/z/iLoWAmipZWVzhQA1HvHdIz0LqiTOoBh6Gc7xOM4gpRWfhKv+K
+ cWBLZnb82X+La/nN7N0nV4sSPKdDeMazlb8yhx/eKl8LopHg8vyhS+SXnllDIB1atqMugLnsq
+ FZ4y8217VW+8Irfa7SuYKRjS4fFMPfMFSDHeSASlIVoG6eyVKkLQCK0qLUp/KDtR/sgQojrMB
+ bKvOgM5wIf9+hakhuUkY2h1nMDa6jHcnTg6BKJCyoeBLDKDThZ
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://academiccommons.c=
+olumbia.edu/catalog/ac:176432&amp;sa=3DX&amp;scisig=3DAAGBfm1tnoBCxeQHwMU1v=
+0KrlfHQAcXBOA&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D=
+"text-decoration:underline">Making MODS to Linked Open Data: A Collaborativ=
+e Effort for Developing MODS/RDF</font></a></h3><div><font size=3D2 color=
+=3D#009933>R Denenberg, R Guenther, MJ Han, BL Lucero&hellip; - 2014</font>=
+</div><div><font size=3D2 color=3D#222222><b>...</b> Since its first meetin=
+g in January 2014, the Group has created an openly viewable GitHub page<br>
+and members work together to solve the common issues in creating new, as we=
+ll as using already<br>
+established, <b>Linked</b> <b>Data</b> semantics that best work for the MOD=
+S data model and <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://www.aclweb.org/an=
+thology/W/W14/W14-58.pdf%23page%3D26&amp;sa=3DX&amp;scisig=3DAAGBfm1irPWt_n=
+ypnsqHJIKKZMc-YWpGDw&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc s=
+tyle=3D"text-decoration:underline">Harmonizing Lexical Data for their Linki=
+ng to Knowledge Objects in the <b>Linked Data </b>Framework</font></a></h3>=
+<div><font size=3D2 color=3D#009933>T Declerck - Workshop on Lexical and Gr=
+ammatical Resources for  &hellip;, 2014</font></div><div><font size=3D2 col=
+or=3D#222222>Abstract In this position paper we discuss some of the experie=
+nces we made in describing <br>lexical data using representation formalisms=
+ that are compatible for the publication of such <br>data in the <b>Linked =
+Data </b>framework. While we see a huge potential in the emerging <b> ...</=
+b></font></div><br><p><hr noshade size=3D1><font size=3D2 color=3D#222222>D=
+ieser Google Scholar-Alert wird Ihnen von Google zur Verf=C3=BCgung gestell=
+t.<br><br><a href=3D"http://scholar.google.de/scholar_alerts?view_op=3Dcanc=
+el_alert_options&amp;email_for_op=3Derictessenow%40web.de&amp;alert_id=3DAI=
+fevv3NkPcJ&amp;hl=3Dde"><font color=3D#1122cc>Alert stornieren</font></a><b=
+r></font></div></body></html>

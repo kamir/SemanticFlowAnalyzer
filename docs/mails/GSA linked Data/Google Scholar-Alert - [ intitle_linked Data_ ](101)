@@ -1,0 +1,152 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.140.159.12 with SMTP id f12csp244400qhf;
+        Tue, 26 Aug 2014 00:04:36 -0700 (PDT)
+X-Received: by 10.140.22.137 with SMTP id 9mr40382253qgn.4.1409036674419;
+        Tue, 26 Aug 2014 00:04:34 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3VTH8UxUKDE48sx41q7q1u798-347u51Ew44w1u.s42u7ys9u88u34CCur.tu@scholar-alerts.bounces.google.com designates 209.85.192.73 as permitted sender) smtp.mail=3VTH8UxUKDE48sx41q7q1u798-347u51Ew44w1u.s42u7ys9u88u34CCur.tu@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3VTH8UxUKDE48sx41q7q1u798-347u51Ew44w1u.s42u7ys9u88u34CCur.tu@scholar-alerts.bounces.google.com designates 209.85.192.73 as permitted sender) client-ip=209.85.192.73;
+Received: by 10.229.166.70 with POP3 id l6mf4247091qcy.5;
+        Tue, 26 Aug 2014 00:04:34 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3VTH8UxUKDE48sx41q7q1u798-347u51Ew44w1u.s42u7ys9u88u34CCur.tu@scholar-alerts.bounces.google.com
+Received: from mail-qg0-f73.google.com ([209.85.192.73]) by mx-ha.web.de
+ (mxweb109) with ESMTPS (Nemesis) id 0M2Zsf-1WUlG71Fpt-00sK0u for
+ <erictessenow@web.de>; Tue, 26 Aug 2014 09:03:50 +0200
+Received: by mail-qg0-f73.google.com with SMTP id i50so1237738qgf.0
+        for <erictessenow@web.de>; Tue, 26 Aug 2014 00:03:49 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=QEzYTE5Ki9x8glMf1hWvSBayYxzrGA5B8EHOQdd+zRQ=;
+        b=C6tzCPZ2Qw8GsValoh9bkcTd+SlJ1fuK1h5RQ9Tw/Fdz3mn3RTYnohfTfneTFUDvJL
+         1XTuRCN5zqQuhtIobpltl3Ujpx8ddXITucuqhZ6c/2GmzJxN8QKgvuokn1f25pumhXOb
+         Dmcs/VhJ9nT2TdkfOuKI1i4/ZfuPj8vWj7q0UorC+7MXrnmuN96+E47yacCfHddZgd7g
+         D7Sol5O1svwCa4rFJ8YQ9QWylcBUUNZLVnskxU1CYJ1AybJ6lTw+UVXeZZir3k6GDN2U
+         Zw8eMswAToWDxnkili9Gi0UpPvxKsbSd38FgqMR+jdXrCT9PRNRYJ/ETvBibOKd2jmRp
+         +r0A==
+MIME-Version: 1.0
+X-Received: by 10.236.112.234 with SMTP id y70mr17371530yhg.32.1409036629259;
+ Tue, 26 Aug 2014 00:03:49 -0700 (PDT)
+Message-ID: <20cf301afd3dc33447050182e7db@google.com>
+Date: Tue, 26 Aug 2014 07:03:49 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:f56XVBYJvSs=:SSLW7tJ13tpF7O7DmowOFdOyuO
+ mk5HzqEvU0Be+A8s05FT9XvXyW8DunXgo+Eekcdi+wPUd4DT9s2fonc2q3ltAZbsXxqCrq6sR
+ eaynUdUgrdxsnZfay6Pa5Jxqkj0H48w0EdSJfxtO6Y3hRxFgmxymLPLL3WIrWSYPjFWyxm+ky
+ ZyLxOu/pA5JMEhPYRhr60nI9RCRdWRqpwrG6TvsbZE55ZL/EqQCfLDA/5LxkPHhiuVbipXpWB
+ hW9zIAsdLk6st0TK9W87Z2wQRXdlkZs8dneiOO+Jkn332t3P0OrvruKxCG1KO5BTCt3dKwJY2
+ HqAPQuy7TA9tM/s90Xw1jHcfwuI6Jn64eJ1xbpWc3GtlHRtky99AMPlQUKgSRKcwrL6EfsMgw
+ gIM8w4RE3SM5g+U56TuS+t9rOR12lEeJm1gBPFYCrHVNhLu9B1X3rfSMTMmCg9AkV04Q2YGZq
+ VDW+/vm4OINjWvnjg9AjJJsFfv4BiF0l9K/Tyi3Kk0kel6HkajsERD9NLV2oBDU61QcLdi/ln
+ U9TwsPog+eOvnImmijMLVuLbJi7yPw1LwrmGrMMlN+D365nEKrdn6oEr+4HL3IQ9tSHneo/q1
+ Hczz/VAXUvl26J8MgT/4tASQUCh2xMp5azt0PKIJQHDkTfU4A5D8x1FvF2l1FF8A2q2Zn/CFO
+ y/vYZqKpGSjru6WwhcVBAdIlLWSNhGGswpGf1Bp+4kRN6YdUn3uuEwZTwRLdidNAi8N9nNyaM
+ IAuOOC4m6Plyfvkuqe4WLLVhj7Vc5VSZn820+WDSPHaPuNhMrQ4bVMbfUtjwfKE/gNxn+/NIp
+ HK7lkIV3kRVKQWBaD3JSMLnW3hy3OiUQPyGeQsHBuuUQ4HXKKhw9XwWCgNb0vP+GP8MbsWaXH
+ UrwWj8bnwYWHpdgX4x1q3CgOYsyttOOKO/YW9py05BLYZJ6tFWC43LKv/cVGZr2zcsWfGjlKB
+ 0uO0V0d1C+4wwzzzVE1gOnttKwhcDUywElwMYqN/PDoCbh2bxpSE6wXnxo1NDREzVi+CbCHz3
+ sY8J6ri+Iy8H6wDVIcLvu8FzDAqyK8lHJg6UxLkngLJhac8WeepeqQzV09d5S4dOey0gIDit+
+ wu2LbOVbHZPSeBs1RXO8toCUJjiJfmdfW1CsKdOGTMtQeeRMPK8LFkBwKqcJUwXZ+C9GH6NO/
+ ZWBfl5TSzsXg8wp+u0SDkIJNTb6nqvdJz5JFWKqB3pPB0i8vig/KFj3Zjzs+QsQWwk+7vFhZy
+ KRZuqnnJiE2O17TBA3wvPHlDwgBFnyPtUa156ilf8ZrAZmxkBtrXoref6DQyC25ivAXRvciVl
+ BtQj
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D=
+2 color=3D#1122cc>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_=
+url?hl=3Dde&amp;q=3Dhttp://www2.imm.dtu.dk/pubdb/views/edoc_download.php/68=
+11/pdf/imm6811.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm1fra5Vef0OiPCaocJ3euN0wEU1=
+vQ&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D"text-decor=
+ation:underline">Node search-a graph approach to navigating <b>linked data<=
+/b></font></a></h3><div><font size=3D2 color=3D#009933>FB Albeck - 2014</fo=
+nt></div><div><font size=3D2 color=3D#222222>Finding information on the web=
+ is easy thanks to search engines. However there is a growing <br>
+realisation that new methodology is needed in terms of combining informatio=
+n from different sources <br>
+(semantic web) and navigation of relational data. Web data usually comes wi=
+th linked <b> ...</b> </font></div><br><h3 style=3D"font-weight:normal;marg=
+in:0;font-size:medium;max-width:44.5em"><font size=3D2 color=3D#1122cc>[PDF=
+]</font> <a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dht=
+tp://ksiresearchorg.ipage.com/seke/dms14paper/paper63.pdf&amp;sa=3DX&amp;sc=
+isig=3DAAGBfm0PTYdsEBkZ0U96SmL8jwo6V3ALCw&amp;oi=3Dscholaralrt"><font size=
+=3D3 color=3D#1122cc style=3D"text-decoration:underline">SWOWS and Dynamic =
+Queries to build Browsing Applications on <b>Linked Data</b></font></a></h3=
+><div><font size=3D2 color=3D#009933>P Bottoni, M Ceriani</font></div><div>=
+<font size=3D2 color=3D#222222>Abstract The <b>Linked Data </b>Initiative i=
+s pushing dataset maintainers to publish data online in a <br>highly reusab=
+le way through a set of open standards, such as RDF and SPARQL. The <br>amo=
+unt and variety of available structured data in the Web is increasing but i=
+ts <b> ...</b></font></div><br><h3 style=3D"font-weight:normal;margin:0;fon=
+t-size:medium;max-width:44.5em"><font size=3D2 color=3D#1122cc>[PDF]</font>=
+ <a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://www=
+.eurecom.fr/fr/publication/4380/download/mm-publi-4380.pdf&amp;sa=3DX&amp;s=
+cisig=3DAAGBfm3a4YDIRELkfdWgwCGlUVsoJKxqjw&amp;oi=3Dscholaralrt"><font size=
+=3D3 color=3D#1122cc style=3D"text-decoration:underline">Towards a <b>Linke=
+d</b>-<b>Data </b>based Visualization Wizard</font></a></h3><div><font size=
+=3D2 color=3D#009933>GA Atemezing, R Troncy</font></div><div><font size=3D2=
+ color=3D#222222>Abstract. Datasets published in the LOD cloud are recommen=
+ded to follow some best <br>practice in order to be 4-5 stars <b>Linked Dat=
+a </b>compliant. They can often be consumed and <br>accessed by different m=
+eans such as API access, bulk download or as <b>linked data </b><b> ...</b>=
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://andrefreitas.org/=
+papers/preprint_introduction_qa_linked_data.pdf&amp;sa=3DX&amp;scisig=3DAAG=
+Bfm3vExtebYCKzUYbe2vb_N3xIRo19w&amp;oi=3Dscholaralrt"><font size=3D3 color=
+=3D#1122cc style=3D"text-decoration:underline">An introduction to Question =
+Answering over <b>Linked Data</b></font></a></h3><div><font size=3D2 color=
+=3D#009933>C Unger, A Freitas, P Cimiano</font></div><div><font size=3D2 co=
+lor=3D#222222>Abstract. While the amount of knowledge available as <b>linke=
+d data </b>grows, so does the need <br>for providing end users with access =
+to this knowledge. Especially question answering <br>systems are receiving =
+much interest, as they provide intuitive access to data via natural <b> ...=
+</b></font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:med=
+ium;max-width:44.5em"><font size=3D2 color=3D#1122cc>[PDF]</font> <a href=
+=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://sigswo.org/=
+papers/SIG-SWO-A1401/SIG-SWO-A1401-01.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm2fm=
+FtGRON0sygRngaJN5WQ21ivmA&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#112=
+2cc style=3D"text-decoration:underline">Linked Open Data =E3=81=AE=E3=81=9F=
+=E3=82=81=E3=81=AE</font></a></h3><div><font size=3D2 color=3D#009933>=E6=
+=BF=B1=E5=B4=8E=E9=9B=85=E5=BC=98=EF=BC=8C =E5=BE=8C=E8=97=A4=E7=9C=9F=E5=
+=AD=9D</font></div><div><font size=3D2 color=3D#222222><b>...</b> 2 Linked =
+Open Data=E6=A4=9C=E7=B4=A2=E3=81=AE=E8=AA=B2=E9=A1=8C Linked Open Data (LO=
+D) =E3=81=AF=E3=82=AA=E3=83=BC=E3=83=97=E3=83=B3=E3=83=A9=E3=82=A4=E3=82=BB=
+=E3=83=B3=E3=82=B9=E3=81=AE<br>
+=E5=85=83=E3=81=A7=E5=85=AC=E9=96=8B=E3=81=95=E3=82=8C=E3=81=9F <b>Linked</=
+b> <b>Data</b> =E3=81=A7=E3=81=82=E3=82=8B=EF=BC=8ETim B. Lee =E3=81=AF <b>=
+Linked</b> <b>Data</b> =E3=82=92 (1) =E5=90=8D=E5=89=8D=E3=81=A8=E3=81=97=
+=E3=81=A6 URI<br>
+=E3=82=92=E7=94=A8=E3=81=84=E3=82=8B=EF=BC=8C(2) =E4=BA=BA=E3=80=85 =E3=81=
+=8C HTTP =E3=81=A7 URI =E3=81=AB=E3=82=A2=E3=82=AF=E3=82=BB=E3=82=B9=E3=81=
+=A7=E3=81=8D=E3=82=8B=EF=BC=8C(3) URI =E3=81=AB=E3=82=A2=E3=82=AF <b>...</b=
+>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://sigswo.org/papers=
+/SIG-SWO-A1401/SIG-SWO-A1401-02.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm3LFh11ck8=
+u7_SN5Saq_8r9hMLURg&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc st=
+yle=3D"text-decoration:underline">=E3=83=87=E3=83=BC=E3=82=BF=E5=B8=82=E5=
+=A0=B4=E3=81=AE=E3=81=9F=E3=82=81=E3=81=AE=E6=A6=82=E8=A6=81=E8=A8=98=E8=BF=
+=B0=E3=81=A8 <b>Linked Data</b></font></a></h3><div><font size=3D2 color=3D=
+#009933>=E5=8A=89=E6=9A=A2=EF=BC=8C =E5=A4=A7=E6=BE=A4=E5=B9=B8=E7=94=9F=EF=
+=BC=8C =E9=87=8E=E7=A5=9E=E8=88=AA=E4=B8=80</font></div><div><font size=3D2=
+ color=3D#222222>Abstract: Innovators Marketplace on Data Jackets (IMDJ) is=
+ a workshop featuring a serious <br>game designed on the metaphor of a mark=
+et where the scenarios of data use are created <br>and evaluated through in=
+terdisciplinary communication among various stakeholders. A <b> ...</b></fo=
+nt></div><br><p><hr noshade size=3D1><font size=3D2 color=3D#222222>Dieser =
+Google Scholar-Alert wird Ihnen von Google zur Verf=C3=BCgung gestellt.<br>=
+<br><a href=3D"http://scholar.google.de/scholar_alerts?view_op=3Dcancel_ale=
+rt_options&amp;email_for_op=3Derictessenow%40web.de&amp;alert_id=3DAIfevv3N=
+kPcJ&amp;hl=3Dde"><font color=3D#1122cc>Alert stornieren</font></a><br></fo=
+nt></div></body></html>

@@ -1,0 +1,84 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.140.237.205 with SMTP id i196csp235099qhc;
+        Sat, 4 Apr 2015 01:33:17 -0700 (PDT)
+X-Received: by 10.55.25.34 with SMTP id k34mr11058479qkh.12.1428136395302;
+        Sat, 04 Apr 2015 01:33:15 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3CJUfVRUKDF8P9ELI7O7IBOQP-KLOBMIVDLLDIB.9LJBOF9QBPPBKLTTB8.AB@scholar-alerts.bounces.google.com designates 209.85.192.202 as permitted sender) smtp.mail=3CJUfVRUKDF8P9ELI7O7IBOQP-KLOBMIVDLLDIB.9LJBOF9QBPPBKLTTB8.AB@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3CJUfVRUKDF8P9ELI7O7IBOQP-KLOBMIVDLLDIB.9LJBOF9QBPPBKLTTB8.AB@scholar-alerts.bounces.google.com designates 209.85.192.202 as permitted sender) client-ip=209.85.192.202;
+Received: by 10.140.46.5 with POP3 id j5mf1538933qga.26;
+        Sat, 04 Apr 2015 01:33:15 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3CJUfVRUKDF8P9ELI7O7IBOQP-KLOBMIVDLLDIB.9LJBOF9QBPPBKLTTB8.AB@scholar-alerts.bounces.google.com
+Received: from mail-pd0-f202.google.com ([209.85.192.202]) by mx-ha.web.de
+ (mxweb006) with ESMTPS (Nemesis) id 0MStpl-1Z3QCd1TfB-00RoKY for
+ <erictessenow@web.de>; Sat, 04 Apr 2015 09:38:50 +0200
+Received: by pdjg10 with SMTP id g10so11451732pdj.0
+        for <erictessenow@web.de>; Sat, 04 Apr 2015 00:38:48 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=Q/YaNdtbLvZvNKU1bEHvhaB/cWYe3MDhrVuQh0pWsSc=;
+        b=URJX8NFFPJ5V1/SSqWx4oc7t6ZTULseZQp5LO2Jtx/ZoMC4/Gl22CCL34zgO2YjBAi
+         pK1FJ8BQH/Mshvb+zsDOJmN8+pWA5pKcRMmuzk//mrmmOlSG06DlBKn0ZNzMTw2JZSGQ
+         zGnWESTQS+JYuWY8wlk+XBanYI1Vi58xVAUgtltIPBbyoVJ/5uygXYWcBMGx3iwaNXiW
+         9faQFyA8DxQhUMOBy7yETxMEtIa8KcnKEfb374V/QIAQYVqOJA6GYcLBT2THb/rsVl60
+         GVVzZ0qQwYjAtsy+UvaS+i4Y1Ec9YhBKKon5ERzPyz/RZMALhILQF64qovXeOjYPPUn6
+         AP1Q==
+MIME-Version: 1.0
+X-Received: by 10.66.162.202 with SMTP id yc10mr1637175pab.47.1428133128889;
+ Sat, 04 Apr 2015 00:38:48 -0700 (PDT)
+Message-ID: <047d7b86e44cd6e65d0512e127cb@google.com>
+Date: Sat, 04 Apr 2015 07:38:48 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:m2ITXUfmL38=:3BbpV8e2z5MU4L1E+AnZd3WNTV
+ 8og3YPD9BpiLs9/nqhOK00x1pOcNIKT/nnAZA7v5WMyLmBWmvqIOKYfmsnV+N5J255rCxGigo
+ lAn1UguBZXSMTIrNRB22C8OewAvfFcuDyesM28+I43tb9pYFWY3nHIs2XgMU1/6Xa5N9+2lUC
+ 4AbQHS+6IZuuz9Ymd3Emg8vcebDKbTiZHP/WJze7U9gYsXMBgzfLnjHwsH3bBucbeOIFb3w17
+ zhnWKj/F2PgOj4i0PiNbbt+TS+Bb2eDYg2MzwZzkv9t0qCE6kE4ae8mRe1QLBQbYJ8JN6VPcc
+ zhKCAbbj4a8mSzSI70Pa2hoJOjXXH+oG4F1si3Qxgxg/uG0T+v1WOYQ/iCwiwl5xUfkVRQUg5
+ extKJEaGi1CWv0E1qWnl6OOqhAxjHVDR0ROjfp3Ur5n1hKrHlVuO3hK0/rbISvT8fLTEmSxfo
+ 3uSCm1cX7Wph2o3A08zoOV6/OdKiRF4VG/a4tbUmoXXj/NRxba2+f1084PdfxNuoqAK4R48HK
+ dnKVUyq62UwANtXNxsAnj+YO/vt+xdKukTAUY2cW8dY5DPN8BzT1DRb7L3DtqohJkBulVwhXH
+ 1fJYysB0EkBDi58qb7wWMrA9TMbYoNxFPjQ++OVv70FvkyAPIJtWVmwC4gT1m8ZG4REobM6Ox
+ 0/8pkpXYdKl/ThIfF4QuXRQLv02TFradLxtImS63OAn4LlwjZrZr3tXzb1waEL0qYZrcfmwQD
+ 1iuxQ5ta2l8QU+6SRzCT5KdAscvk9Hahvw+65FkqG1UkLJQ0lGyfJ2WzwsA7DSCMxHf+hN8vM
+ Uh6jdJrW5baAE/w88+/QqRAdHPXWyLGRa3uJ9WEuVD+tR6vNmmW+ylReePFimSGsbS07beL3h
+ GZy5h3bQHMNXbKB7UnNIudiC1RW3iCuyudF1kWOVH9H1voKJIEgpO20NAR7iC7Z6ywI47WFDU
+ aiXP3UPdsZapfWKyFj6gk+xdaViZLv4pnRGwO3B+EFvLBfUrKPofcRlubawiw+ygZAo+ZV2UJ
+ ZZAUcQOh7oQVgjzx46tXB+5RxKtQ9HeY+KPEjCVzrASN/ybGn6++Ffnj5jFImKHvfuJ31z0uh
+ HA5WpdVgxPuF0tXpQRD25PFlGfcCW0OkW6L6gKYM+L7MCUwDGkL0A5NMAfOOjORhVOGFcq7Zh
+ T1HxN9a5lB+mnAyUzTijWapZg2smZQLtOJpJm52dBHt77UM7ADyyLd0YB49eZxWDEC+6P52sR
+ okfOnoYTu9wfIpcavtcSzo1t6W/E3PcvuwFprRcZpp0WxIz/i3bA49r2ZI10fqzD5SjR9+hJt
+ AemTzFa3cOsl5iE7RgDkXXs76bTHSss3D3OC5gCwbYa7Qak3i+3YpG0r8Hx6RY4YQ/Tzb5js3
+ miMFVmz2jbl103TVM5IeG3NEuGI8j8IZa9Dccn+jmS8DocTiz5edDO+UoTjpWlPI2dNDmOd+D
+ bnAnpKvaVYDpFjUqI2pqgcVgflZooiqp21BdmcgYIBgHZtrbXS
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D=
+2 color=3D#1a0dab>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_=
+url?url=3Dhttp://laurensrietveld.nl/pdf/Linked-Data-As-A-Service-The_Semant=
+ic_Web_Redeployed.pdf&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm24LWSAQm36x=
+DG6zLZW61m0nQouiw&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=
+=3D#1a0dab style=3D"text-decoration:underline"><b>Linked Data</b>-as-a-Serv=
+ice: The Semantic Web Redeployed=E2=8B=86</font></a></h3><div><font size=3D=
+2 color=3D#006621>L Rietveld, R Verborgh, W Beek, M Vander Sande&hellip;</f=
+ont></div><div><font size=3D2 color=3D#222222>Abstract. Ad-hoc querying is =
+crucial to access information from <b>Linked Data</b>, yet publishing <br>q=
+ueryable RDF datasets on the Web is not a trivial exercise. The most compel=
+ling argument <br>to support this claim is that the Web contains hundreds o=
+f thousands of data documents, <b> ...</b></font></div><br><p><hr noshade s=
+ize=3D1><font size=3D2 color=3D#222222>Dieser Google Scholar-Alert wird Ihn=
+en von Google zur Verf=C3=BCgung gestellt.<br><br><a href=3D"http://scholar=
+.google.de/scholar_alerts?view_op=3Dcancel_alert_options&amp;email_for_op=
+=3Derictessenow%40web.de&amp;alert_id=3DAIfevv3NkPcJ&amp;hl=3Dde"><font col=
+or=3D#1a0dab>Alert stornieren</font></a><br></font></div></body></html>

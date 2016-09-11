@@ -1,0 +1,200 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.43.46.71 with SMTP id un7csp141671icb;
+        Fri, 14 Feb 2014 12:18:50 -0800 (PST)
+X-Received: by 10.42.154.73 with SMTP id p9mr7572880icw.25.1392409127557;
+        Fri, 14 Feb 2014 12:18:47 -0800 (PST)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3IXf-UhUKDKYYINURGXGRKXZY-TUXKVReMUUMRK.IUSKXOIZKYYKTUccKH.JK@scholar-alerts.bounces.google.com designates 209.85.160.73 as permitted sender) smtp.mail=3IXf-UhUKDKYYINURGXGRKXZY-TUXKVReMUUMRK.IUSKXOIZKYYKTUccKH.JK@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3IXf-UhUKDKYYINURGXGRKXZY-TUXKVReMUUMRK.IUSKXOIZKYYKTUccKH.JK@scholar-alerts.bounces.google.com designates 209.85.160.73 as permitted sender) client-ip=209.85.160.73;
+Received: by 10.50.151.138 with POP3 id uq10mf151578igb.13;
+        Fri, 14 Feb 2014 12:18:46 -0800 (PST)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3IXf-UhUKDKYYINURGXGRKXZY-TUXKVReMUUMRK.IUSKXOIZKYYKTUccKH.JK@scholar-alerts.bounces.google.com
+Received: from mail-pb0-f73.google.com ([209.85.160.73]) by mx-ha.web.de
+ (mxweb003) with ESMTPS (Nemesis) id 0Lwb9z-1V6qpJ2q59-018NE9 for
+ <erictessenow@web.de>; Fri, 14 Feb 2014 21:05:55 +0100
+Received: by mail-pb0-f73.google.com with SMTP id rq2so1539299pbb.4
+        for <erictessenow@web.de>; Fri, 14 Feb 2014 12:05:53 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=BcJeH5tmlEacID2UDfeNs0er1I4Z43K0HxpqBtFU3L8=;
+        b=cnHJmbFvrf/IMeMZlvLiFmBPL+6oFFb7/8HGacQfIF8rEF9dQOIa86knDnic4uuflV
+         uwINR7QCiHQ0pioTnxoLAGGIDGS5Y7IWG+zJwvN0kMCPxz3yV3D2Z3hLtjn9H2T2YeF8
+         VxXYQ2Qywn8Se9ljcX3P6YtocZOSK+cb3bYgfDqq6lQ5cJ/p6gGc+/CcXby3KyQ9Besf
+         k1eabVSpVghN7DTgvunIZkzk/CmgS3WrqP/m1tNdd0RwCxqdXD6gNAv0fKV6A+tJHmIE
+         aOGZP3m2ahwh4roXDfBjRxHnQqzQ+B7Wcok0m5bJDOyGCkmLDltPw/7pX4ek0SESX9+z
+         xxmg==
+MIME-Version: 1.0
+X-Received: by 10.67.14.70 with SMTP id fe6mr3962141pad.15.1392408353028; Fri,
+ 14 Feb 2014 12:05:53 -0800 (PST)
+Message-ID: <047d7b15fc8143b8ec04f26355d2@google.com>
+Date: Fri, 14 Feb 2014 20:05:53 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:RvoAXRUmB5g=:SiT+sJ8iYntH79XeO1Cvu9u/Rt
+ B0MOfW/VBYmYVagLVyortIadGTVfZ40qZmLhYqklo4QxVM2SVn4fcKT2UhAYiuWHLcuvpVPIX
+ Nq0J3pAVroeztJGriONZ3qyEmzFalTQB6mCgEms5gKey8e7gwHSXhn3/H+UsAsGxJCZWB4zEh
+ AFR91zmm/pA7PRn0G/rXyB/4go6i35j5p61KbVYBusJMrdaESLhA1UYhk6erbXwmS7F10XQ3s
+ v2i43mg0HUnatiiK/26e51osGJnpodxGfNQ6E8zEH3aR7EYoAa9aw4Zk58iWhlTQzhpj2x/J0
+ eJUmF3P/R79CrZKlDNM6bg96AOg4iItsZBHhz2W7BOpOPX99jPyEQ31v/rPlJiAlCu+gV7KC2
+ 6gphSTrHp9RM9a9TANcLNo6yy3jVeSnHV7vTbvegymPlQjAZI2MwrSjoa6Jd0kbza3g3Mp+Se
+ nsnM2ZGCY4ucUBbvPQXPyHAtct5HGMJz+M/e53A7pj0BTZoFjtpHCIE9YXgxZLvJFIXPJ0q7T
+ tpfhTAw45e+W1g9yV4TuHi9S5sbpiUQszDwmeR7gmjFd2kH2ods9g1bLwnT/favMCSwq1Vcxb
+ ypowvFNplcfiOpxSI+UgjeGIhOXjqOBBTC25l3n65rrPgrAa5TqAQPzGY93Hrd1oR/EMOorvn
+ /i3799OScxTcSLFAuDNvhdcYVNxnS88yru1WXgJFBp+PzFhrMynMmdsAKt7vMcyWbx1h50woh
+ MwfR0M7HJzDx/il7haJK+QTvR6HozGfPVjTotku8SBARFqNu8tUfYUJ6Ifp6DZVicLAK1SrJY
+ cadyWJbFpb8Oy/Ii00k7Ywr+mTpCRtfa/Wu8297YJzjVzI28AmQGkDKOLhVK3XGJ268z0+cu0
+ VwfjZc5MLww6Ic0OH5M0AMPCZWdomquvjCJYMKAlzLFi/JJHPNRJ0ro2+OAtSsX1s9Ham/vbM
+ s5PR1vDZBrdZ9wcay/rxcyMs+fdFz47A1Q1xfY4YC7wJFtFr25XWu9kBCsZiEskEyKYkGE2X2
+ Kxoe5A/w7phSAWrK21X2xG0TTFSRiVMlsGvc7Xw702a81RSnEzwKYaUtz05kSsMxS+7Czvto4
+ BV/1v/dWfv25NOv87Xi9Gb8OEwiVRqjpyJC4Suy3TZk+O2xlX6k59nrg47zF6WGEMGAITxC4Y
+ uv0wDzpnstFkntUYFwNy2FQvF9yQs2+KmzrZ728JLUex8GIgysB18LDAqbLHE6uutCdhfCu60
+ FGcEeg0AZG3QZzR5wkO38SuDcZwJDHkrCwxs7QEoSaGZH+SK/pAvBLAAyU/0DrkDhNXFB5W5Z
+ lIjenQg55aH5aWxHrxqaGQk4DJmjT/09XinF67ayWwzLHl2OZp2HWI5Pt/YRCb8EOUC5PrMr3
+ lD4vXI1BdeRCjbVNw==
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D=
+2 color=3D#1122cc>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_=
+url?hl=3Dde&amp;q=3Dhttp://www.w3.org/2014/03/lgd/papers/lgd14_submission_5=
+4.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm0NJXS7o0e-VmvufvdXEee4RrRsKw&amp;oi=3Ds=
+cholaralrt"><font size=3D3 color=3D#1122cc style=3D"text-decoration:underli=
+ne">Geospatial Data Integration with <b>Linked Data </b>and Provenance Trac=
+king</font></a></h3><div><font size=3D2 color=3D#009933>A Harth, Y Gil - 20=
+14</font></div><div><font size=3D2 color=3D#222222>Abstract We report on ou=
+r experiences with integrating geospatial datasets using <b>Linked </b><br>=
+<b>Data </b>technologies. We describe NeoGeo, an integration vocabulary, an=
+d an integration <br>scenario involving two geospatial datasets: the GADM d=
+atabase of Global Administrative <b> ...</b></font></div><br><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D=
+2 color=3D#1122cc>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_=
+url?hl=3Dde&amp;q=3Dhttp://www.w3.org/2014/03/lgd/papers/lgd14_submission_6=
+4.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm1P_2VAO7lRCoEEdSzfmbKZVSGroQ&amp;oi=3Ds=
+cholaralrt"><font size=3D3 color=3D#1122cc style=3D"text-decoration:underli=
+ne">Ecuadorian Geospatial <b>Linked Data</b></font></a></h3><div><font size=
+=3D2 color=3D#009933>V Saquicela, M Espinoza, N Piedra, BV Terrazas - 2014<=
+/font></div><div><font size=3D2 color=3D#222222>Abstract Much of the attent=
+ion lately has been on geospatial data and their combination with <br><b>Li=
+nked Data</b>. In this paper we present our approach for creating the Ecuad=
+orian Geospatial <br><b>Linked Data </b>repository, pointing out some exist=
+ing efforts, and open issues we have to <b> ...</b></font></div><br><h3 sty=
+le=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a hre=
+f=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://www.scient=
+ific.net/AMM.519-520.1607&amp;sa=3DX&amp;scisig=3DAAGBfm3QYYKAf56Wc6ZMDq0z_=
+1bciVUZJQ&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D"tex=
+t-decoration:underline">The Study of User Model of Personalized Recommendat=
+ion System Based on Linked Course Data</font></a></h3><div><font size=3D2 c=
+olor=3D#009933>JY Wu, CL Wu - Applied Mechanics and Materials, 2014</font><=
+/div><div><font size=3D2 color=3D#222222><b>...</b> the users in the field =
+of e-learning face with the problems that learning resources are inefficien=
+t<br>
+and learning paths unreasonable,etc .Linked Courses data is a standard of W=
+3C proposed will<br>
+be organized the courses in the national excellent courses into a <b>linked=
+</b> <b>data</b> database. <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&a=
+mp;q=3Dhttp://inderscience.metapress.com/index/T2857QT86154544U.pdf&amp;sa=
+=3DX&amp;scisig=3DAAGBfm0xKGgigca6iIouPGo-zs-_7cDLlQ&amp;oi=3Dscholaralrt">=
+<font size=3D3 color=3D#1122cc style=3D"text-decoration:underline">A linked=
+ open data approach for geolinguistics applications</font></a></h3><div><fo=
+nt size=3D2 color=3D#009933>ED Buccio, GMD Nunzio, G Silvello - &hellip;  J=
+ournal of Metadata, Semantics and Ontologies, 2014</font></div><div><font s=
+ize=3D2 color=3D#222222>Page 1. Int. J. Metadata, Semantics and Ontologies,=
+ Vol. 9, No. 1, 2014 29 Copyright =C2=A9 2014<br>
+Inderscience Enterprises Ltd. A linked open data approach for geolinguistic=
+s applications<br>
+Emanuele Di Buccio, Giorgio Maria Di Nunzio and Gianmaria Silvello* <b>...<=
+/b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://eprints.uni-mysor=
+e.ac.in/16476/1/4.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm32QH58DU5MI3AlBjH3Gck2M=
+xJ_5A&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D"text-de=
+coration:underline"><b>Linked Data </b>as an Element to Support Resource Di=
+scovery: The Need for Harmonization of Metadata Standards</font></a></h3><d=
+iv><font size=3D2 color=3D#009933>NS Harinarayana - 2013</font></div><div><=
+font size=3D2 color=3D#222222>With the vision of mounting global interopera=
+bility of library data on the Web, bringing <br>together people involved in=
+ Semantic Web activities to focus on <b>Linked data </b>in the library <br>=
+community, building on existing initiatives, and identifying collaboration =
+tracks for the <b> ...</b></font></div><br><h3 style=3D"font-weight:normal;=
+margin:0;font-size:medium;max-width:44.5em"><font size=3D2 color=3D#1122cc>=
+[PDF]</font> <a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=
+=3Dhttp://www.w3.org/2014/03/lgd/papers/lgd14_submission_46.pdf&amp;sa=3DX&=
+amp;scisig=3DAAGBfm0Yn_Owb-VtJfPGS_P7AC0sfwxaKw&amp;oi=3Dscholaralrt"><font=
+ size=3D3 color=3D#1122cc style=3D"text-decoration:underline">Map4RDFiOS: a=
+ tool for exploring Linked Geospatial Data</font></a></h3><div><font size=
+=3D2 color=3D#009933>A Llaves, A Fern=C3=A1ndezCarrera, O Corcho</font></di=
+v><div><font size=3D2 color=3D#222222><b>...</b> Introduction and Motivatio=
+n During the last years, we have seen an increase in the amount<br>
+of geospatial data published following <b>Linked</b> <b>Data</b> (LD) princ=
+iples . <b>...</b> spatial@linkedscience<br>
+Exploring the Research Field of GIScience with <b>Linked</b> <b>Data</b>. <=
+b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://www.w3.org/2014/0=
+3/lgd/papers/lgd14_submission_52.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm1IvBe99T=
+7-0g1fOorQ8_MS67h5ZA&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc s=
+tyle=3D"text-decoration:underline">The GeoKnow Generator: Managing Geospati=
+al Data in the <b>Linked Data </b>Web</font></a></h3><div><font size=3D2 co=
+lor=3D#009933>JJ Le Grange, J Lehmann, S Athanasiou, AG Rojas&hellip;</font=
+></div><div><font size=3D2 color=3D#222222>In recent years, Semantic Web me=
+thodologies and technologies have strengthened their <br>position in the ar=
+eas of data and knowledge management. Standards for organizing and <br>quer=
+ying semantic information, such as RDF (S) and SPARQL have been adopted by =
+<b> ...</b></font></div><br><h3 style=3D"font-weight:normal;margin:0;font-s=
+ize:medium;max-width:44.5em"><font size=3D2 color=3D#1122cc>[PDF]</font> <a=
+ href=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://www.w3=
+.org/2014/03/lgd/papers/lgd14_submission_43.pdf&amp;sa=3DX&amp;scisig=3DAAG=
+Bfm2WYpfq9kl4g6XyH22PTVLDuIkfsg&amp;oi=3Dscholaralrt"><font size=3D3 color=
+=3D#1122cc style=3D"text-decoration:underline">Linked Earth Observation Dat=
+a: The Projects TELEIOS and LEO</font></a></h3><div><font size=3D2 color=3D=
+#009933>M Koubarakis, K Kyzirakos, C Nikolaou, G Garbis&hellip;</font></div=
+><div><font size=3D2 color=3D#222222><b>...</b> ABSTRACT Lots of Earth Obse=
+rvation data has become available at no charge in Europe and<br>
+the US recently and there is a strong push for more open EO data. Open EO d=
+ata that are cur-<br>
+rently made available by space agencies are not following the <b>linked</b>=
+ <b>data</b> paradigm. <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://hal.archives-ouve=
+rtes.fr/docs/00/93/46/17/PDF/2013NICE4099.pdf&amp;sa=3DX&amp;scisig=3DAAGBf=
+m2uNQ9gUkmjbhAcpusMsjBgV8wEgQ&amp;oi=3Dscholaralrt"><font size=3D3 color=3D=
+#1122cc style=3D"text-decoration:underline">Context-Aware Access Control an=
+d Presentation of <b>Linked Data</b></font></a></h3><div><font size=3D2 col=
+or=3D#009933>ED STIC</font></div><div><font size=3D2 color=3D#222222>Abstra=
+ct This thesis discusses the influence of mobile context awareness on Web o=
+f Data <br>access from handheld devices. The work dissects this issue into =
+three research questions: <br>how to declaratively describe context by comp=
+lying with <b>Linked Data </b>best practices, how <b> ...</b></font></div><=
+br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5=
+em"><font size=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"http://scholar.g=
+oogle.de/scholar_url?hl=3Dde&amp;q=3Dhttp://www.w3.org/2014/03/lgd/papers/l=
+gd14_submission_40.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm0iVG_ra2XWIqdGq2XwMujM=
+NuaSuA&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D"text-d=
+ecoration:underline">API Issues in Linked Geo Data</font></a></h3><div><fon=
+t size=3D2 color=3D#009933>R Warren, D Evans</font></div><div><font size=3D=
+2 color=3D#222222><b>...</b> can be reported. This style of data reporting =
+is useful in risk analysis applica- tions,<br>
+such as located forgotten ammunition depots and an appropriate means of rep=
+orting<br>
+it using <b>linked</b> <b>data</b> is still an open question. 4.2 Revisitin=
+g <b>...</b>=20
+</font></div><br><p><hr noshade size=3D1><font size=3D2 color=3D#222222>Die=
+ser Google Scholar-Alert wird Ihnen von Google zur Verf=C3=BCgung gestellt.=
+<br><br><a href=3D"http://scholar.google.de/scholar_alerts?view_op=3Dcancel=
+_alert_options&amp;email_for_op=3Derictessenow%40web.de&amp;alert_id=3DAIfe=
+vv3NkPcJ&amp;hl=3Dde"><font color=3D#1122cc>Alert stornieren</font></a><br>=
+</font></div></body></html>

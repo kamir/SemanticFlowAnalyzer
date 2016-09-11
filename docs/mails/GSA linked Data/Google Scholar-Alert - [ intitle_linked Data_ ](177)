@@ -1,0 +1,162 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.79.106.2 with SMTP id f2csp383147ivc;
+        Sat, 11 Jul 2015 00:49:05 -0700 (PDT)
+X-Received: by 10.107.156.140 with SMTP id f134mr12402371ioe.34.1436600942823;
+        Sat, 11 Jul 2015 00:49:02 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3JsmgVRUKDO0hRWdaPgPaTgih-cdgTeanVddVaT.RdbTgXRiThhTcdllTQ.ST@scholar-alerts.bounces.google.com designates 209.85.192.202 as permitted sender) smtp.mail=3JsmgVRUKDO0hRWdaPgPaTgih-cdgTeanVddVaT.RdbTgXRiThhTcdllTQ.ST@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3JsmgVRUKDO0hRWdaPgPaTgih-cdgTeanVddVaT.RdbTgXRiThhTcdllTQ.ST@scholar-alerts.bounces.google.com designates 209.85.192.202 as permitted sender) client-ip=209.85.192.202;
+Received: by 10.50.118.129 with POP3 id km1mf2927353igb.0;
+        Sat, 11 Jul 2015 00:49:02 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3JsmgVRUKDO0hRWdaPgPaTgih-cdgTeanVddVaT.RdbTgXRiThhTcdllTQ.ST@scholar-alerts.bounces.google.com
+Received: from mail-pd0-f202.google.com ([209.85.192.202]) by mx-ha.web.de
+ (mxweb005) with ESMTPS (Nemesis) id 0MbwAw-1ZX11a1wMI-00JLOM for
+ <erictessenow@web.de>; Sat, 11 Jul 2015 09:43:36 +0200
+Received: by pdbcj9 with SMTP id cj9so22064936pdb.1
+        for <erictessenow@web.de>; Sat, 11 Jul 2015 00:43:34 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=zQ+/nCEp5utlJxJm3zzfNvGt+BDzmaEhESSTWjLozAU=;
+        b=S6hDKvQEadZicofDUG38Uh7MiDbuVM0yvP1JTpjCaPosV5uPNz34eNRQbdtCdfZXfX
+         yKZhcZ0CEacGTd+rtnne1bbSSzC85hSypuMQEaph/3CVFUt47wGHq04xE195bhzuN6ON
+         iIIOmSVw2DlkiXG04C77Y25fIKTEFk7ML8aqMpn3b3j+eu04z9PczavgF3IrfIGifkEA
+         RmndxAXohJqG9rUrfaz4ksm7npDAbuC76+2jMqnvTi7gCWZ/XHlPzmVo8/97ASg+DXlt
+         IQ1UyMUURk/5rtUbDEloLv7N/VHBALNScYqtKcJ8bPfsO5sPI2P5yAJzb8pnPXrgEO5O
+         DDqA==
+MIME-Version: 1.0
+X-Received: by 10.66.150.10 with SMTP id ue10mr30453304pab.43.1436600614767;
+ Sat, 11 Jul 2015 00:43:34 -0700 (PDT)
+Message-ID: <047d7b6dca5853cb6c051a94a581@google.com>
+Date: Sat, 11 Jul 2015 07:43:34 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:UyPMb197nSw=:PbrU1tuu+FVrS5rawAIcxExeNU
+ B5oYq17GFpMarurbQCxzau/urlcxiOhGVNm/v6Aro7qZmeEiHzHWscOMCplFsH3Z1BlpUvBjb
+ lKfIPIQtrL3a0CmJTUCDNeJ16LpXNCxM2AmJR9Dg5khE87ziVAyNSAV9Q7jHL5r0grDvVUNtT
+ 6JC/zD23ipr24x4RGVC9kSmY/9ZEMCX8+BZWoXa50QbDmE1jk6KECtH3QxtfRgYJcRpMXsJaw
+ B5rJI+eeiKsOCzoVSApoKOgjnEnrOzClth1PNvjUtpQMY7OqV7c3Q7MZfH6lwZ7vL68h3SfFH
+ VzKsf6Ndh2Cca/N1sHvulSgB7xGgarGfH+njMedDydPd0qiK/O9VfV1gz4Rl9MPjets4GBDjm
+ 4w+ZwKjscxY7KLjNzEbK5qfeerHoOEi0X6YW0F5NeHEBAlnn9W4wQ3agBCPEXZvChXJpB/+fo
+ WljauNvtrOS56UsTD8ZohojwwE2LqR8vzW7c+i/PnZKvf1oI0v5v5mrJw+6gD0OLgUiP/LzfD
+ zYDOYsvbXmEWP7COlbUHJsVOjpPFH+ipA7LHoNwrPjj0RSiWeerJrEod7aJ4OGrLSfXzbjOAe
+ Ys7KE6lsFxcjpmPjqFT45PMLGorN4DgNRq6CHTPjmoFEURA7gBWX5CiV1Hcb9oCWXns6tR5tG
+ XdDNIRUud0/vMHyl97qfcF7HVUhvQGPUardA4avXkxCd/FgM5CmD0+Fg58/VuHbS0BAoeqmOJ
+ lbNApuDAQNqlqRnKa100lN9eTugE4t1suATNEMA0G7Sk7ndcS77j3oiiCJy3DCElnslAziEDe
+ iWdmm38q2Lslk2tosDV5qs4IN0hu+IxxddqJQawIdW//6rHp5P4ZPnyZK248gMZHQKxZgMnMk
+ /5fNV5ejdbvlaxqxB3rYseaRbrKk3+PrclIGDjGhwLFiXo1O29B+42PJ7BM7PA/UPQMAX6nz4
+ qCvMuutYv64RpjlPUfC94QyYE0yZnyj1OyoRHXcizkXsluxgRyJQn9uxsKdxPADtxs+4CujPb
+ DigvqBHQivqdGWHlXJLcMKpJo33L8Y06NisYhdQTveHwheajEUw08qpCuCAInx+WsH4BB53dU
+ pkTnjbPM5+CRF4LdU931+mBm9131ZmtZH2Kc4bXGQs0boO0lBPrHuuySAXAr+MhZNBSTJLzUw
+ WerCjRzKnpipgMLl4h+8A+HPfpjiACwHszFqBBlkNRmLWqfzMRy05V9eCScxCaXyk9dq2XS+R
+ fzxyP8HBIk+CIHQf5hT6PrHcC3X4vG0uChvBtYhFg9s6K56+cj9yOi3qLlV8+++cCl9Se9HZ0
+ cYNK
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttp://www.sciencedirect.com/scien=
+ce/article/pii/S0195670115002686&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm=
+0ncB-K_ak0hthVOEjMmF6H8bfvpQ&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=
+=3D3 color=3D#1a0dab style=3D"text-decoration:underline">Determining the ef=
+fect of social deprivation on the prevalence of healthcare-associated infec=
+tions in acute hospitals: a multivariate analysis of a <b>linked data </b>s=
+et</font></a></h3><div><font size=3D2 color=3D#006621>SJ Packer, S Cairns, =
+C Robertson, JS Reilly&hellip; - Journal of Hospital Infection, 2015</font>=
+</div><div><font size=3D2 color=3D#222222>Background Healthcare-associated =
+infections (HCAIs) endanger safety by increasing <br>morbidity, mortality, =
+and hospital stay. Studies identifying risk factors for HCAI rarely address=
+ <br>the wider determinants of health. However, a well-characterized associ=
+ation exists <b> ...</b></font></div><br><h3 style=3D"font-weight:normal;ma=
+rgin:0;font-size:medium;max-width:44.5em"><a href=3D"http://scholar.google.=
+de/scholar_url?url=3Dhttp://www.freepatentsonline.com/y2015/0186653.html&am=
+p;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm2hk_SkWtYuuSWZIPBmZI9rMy0MmA&amp;no=
+ssl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-=
+decoration:underline">CONCEALING SENSITIVE PATTERNS FROM <b>LINKED DATA </b=
+>GRAPHS</font></a></h3><div><font size=3D2 color=3D#006621>A Gkoulalas-diva=
+nis, S Kotoulas, V Lopez Garcia&hellip; - US Patent 20,150,186,653, 2015</f=
+ont></div><div><font size=3D2 color=3D#222222>Abstract: A method, system an=
+d computer program product for preventing sensitive pattern <br>disclosures=
+ from <b>Linked Data </b>graphs. The proposed method (i) receives as input =
+a <b>Linked </b><br><b>Data </b>graph and a set of query patterns that corr=
+espond to sensitive knowledge that needs <b> ...</b></font></div><br><h3 st=
+yle=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a hr=
+ef=3D"http://scholar.google.de/scholar_url?url=3Dhttp://onlinelibrary.wiley=
+.com/doi/10.1002/ccd.25979/full&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm3=
+3ln9j3p9PdSYtKgnPU1ve93oy2g&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=
+=3D3 color=3D#1a0dab style=3D"text-decoration:underline">Safety and clinica=
+l effectiveness of drug=E2=80=90eluting stents for saphenous vein graft int=
+ervention in older individuals: Results from the medicare=E2=80=90linked Na=
+tional  &hellip;</font></a></h3><div><font size=3D2 color=3D#006621>JM Bren=
+nan, MH Sketch, D Dai, M Trilesskaya&hellip; - Catheterization and  &hellip=
+;, 2015</font></div><div><font size=3D2 color=3D#222222><b>...</b> In this =
+analysis, we used Medicare-<b>linked</b> <b>data</b> collected from more th=
+an 1,000 centers in the<br>
+National Cardiovascular Data Registry =C2=AE CathPCI Registry =C2=AE betwee=
+n 2005 and 2009 to evaluate<br>
+the relative risk of death, MI, and urgent revascularization for patients i=
+n whom DES or <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><a href=3D"http://scholar.google.de/scholar_url?url=3Dhtt=
+p://essay.utwente.nl/67564/&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm3OBbb=
+X2JurDmE5GUvTVj2NW63LlQ&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 =
+color=3D#1a0dab style=3D"text-decoration:underline"><b>Linked Data </b>adop=
+tion and application within financial business processes</font></a></h3><di=
+v><font size=3D2 color=3D#006621>DK Kalcheva - 2015</font></div><div><font =
+size=3D2 color=3D#222222>TNO has expertise and understanding on LD and of L=
+D technologies. It consults clients on <br>possible LD solutions within dif=
+ferent domain. Furthermore, LD found application in different <br>domains, =
+such as electro technology, energy, aerospace etc. However, its adoption wi=
+thin <b> ...</b></font></div><br><h3 style=3D"font-weight:normal;margin:0;f=
+ont-size:medium;max-width:44.5em"><a href=3D"http://scholar.google.de/schol=
+ar_url?url=3Dhttp://www.freepatentsonline.com/y2015/0186390.html&amp;hl=3Dd=
+e&amp;sa=3DX&amp;scisig=3DAAGBfm2tLQ7_QVahvo0uPddhAABDCnzIvg&amp;nossl=3D1&=
+amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decorati=
+on:underline">MAINTAINING CACHED DATA EXTRACTED FROM A LINKED RESOURCE</fon=
+t></a></h3><div><font size=3D2 color=3D#006621>V Katic, A Garg - US Patent =
+20,150,186,390, 2015</font></div><div><font size=3D2 color=3D#222222><b>...=
+</b> application. Within the social networking application, the user enters=
+ a hyperlink, eg,<br>
+to share as a publication. In another embodiment, the network service an en=
+terprise<br>
+website that receives a request corresponding to <b>linked</b> <b>data</b>.=
+ For <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttp://www.semantic-web-journal.ne=
+t/system/files/swj1130.pdf&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm02u45A=
+GLcQgK91-akgLe1yVHUSIA&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 c=
+olor=3D#1a0dab style=3D"text-decoration:underline">Facilitating Data-Flows =
+at a Global Publisher using the <b>Linked Data </b>Stack</font></a></h3><di=
+v><font size=3D2 color=3D#006621>C Dirschl, K Eck, J Lehmann, L B=C3=BChman=
+n, S Auer&hellip;</font></div><div><font size=3D2 color=3D#222222>Abstract.=
+ The publishing industry is at the verge of an era, wherein particular prof=
+essional <br>customers of publishing products are not so much interested in=
+ comprehensive books and <br>journals, ie traditional publishing products, =
+anymore as they now are interested in possibly <b> ...</b></font></div><br>=
+<h3 style=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em"=
+><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"http://scholar.goog=
+le.de/scholar_url?url=3Dhttp://www.semantic-web-journal.net/system/files/sw=
+j1131.pdf&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm0BL05lYe3Xpw0qk3K3piCQM=
+1m4CQ&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab st=
+yle=3D"text-decoration:underline">Aemoo: <b>Linked Data </b>exploration bas=
+ed on Knowledge Patterns</font></a></h3><div><font size=3D2 color=3D#006621=
+>AG Nuzzolese, V Presutti, A Gangemi, S Peroni&hellip;</font></div><div><fo=
+nt size=3D2 color=3D#222222>Abstract. This paper presents a novel approach =
+to <b>Linked Data </b>exploration that uses <br>Encyclopedic Knowledge Patt=
+erns (EKPs) as relevance criteria for selecting, organising, and <br>visual=
+ising knowledge. EKP are discovered by mining the linking structure of Wiki=
+pedia <b> ...</b></font></div><br><p><hr noshade size=3D1><font size=3D2 co=
+lor=3D#222222>Dieser Google Scholar-Alert wird Ihnen von Google zur Verf=C3=
+=BCgung gestellt.<br><br><a href=3D"http://scholar.google.de/scholar_alerts=
+?view_op=3Dcancel_alert_options&amp;email_for_op=3Derictessenow%40web.de&am=
+p;alert_id=3DAIfevv3NkPcJ&amp;hl=3Dde"><font color=3D#1a0dab>Alert stornier=
+en</font></a><br></font></div></body></html>

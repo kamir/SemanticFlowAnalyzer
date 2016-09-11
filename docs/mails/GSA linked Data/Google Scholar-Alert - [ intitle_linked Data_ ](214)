@@ -1,0 +1,103 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.140.156.151 with SMTP id c145csp2852qhc;
+        Sat, 4 Oct 2014 19:27:19 -0700 (PDT)
+X-Received: by 10.224.122.137 with SMTP id l9mr20055655qar.76.1412476037878;
+        Sat, 04 Oct 2014 19:27:17 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3CaswVBUKDMg6qv2zo5ozs576-125s3zCu22uzs.q20s5wq7s66s12AAsp.rs@scholar-alerts.bounces.google.com designates 209.85.213.73 as permitted sender) smtp.mail=3CaswVBUKDMg6qv2zo5ozs576-125s3zCu22uzs.q20s5wq7s66s12AAsp.rs@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3CaswVBUKDMg6qv2zo5ozs576-125s3zCu22uzs.q20s5wq7s66s12AAsp.rs@scholar-alerts.bounces.google.com designates 209.85.213.73 as permitted sender) client-ip=209.85.213.73;
+Received: by 10.140.94.54 with POP3 id f51mf3394083qge.25;
+        Sat, 04 Oct 2014 19:27:17 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3CaswVBUKDMg6qv2zo5ozs576-125s3zCu22uzs.q20s5wq7s66s12AAsp.rs@scholar-alerts.bounces.google.com
+Received: from mail-yh0-f73.google.com ([209.85.213.73]) by mx-ha.web.de
+ (mxweb008) with ESMTPS (Nemesis) id 0M1EqW-1YTWTa2C2i-00tDxl for
+ <erictessenow@web.de>; Sun, 05 Oct 2014 04:20:58 +0200
+Received: by mail-yh0-f73.google.com with SMTP id i57so174639yha.2
+        for <erictessenow@web.de>; Sat, 04 Oct 2014 19:20:57 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=ndqwnIw4w9JR7bq0/OsYT2vDv1JDnc3eUNX8ixkRb7Y=;
+        b=WVw7QJd3koRYwb/786EJ8zgGHc3QhQG5NFxGP4duVcCM84CsK4JSWDNfCFOs1RbH6n
+         JMnZf5WFaIuqcsgHqYAqUBh+WaYh9PWtyUB2qEwMJleOO3BG2Sxja97lQCCl3rIWeVg3
+         YCnASMLek+AwThz70aFsZm+BGX4YeObIoOFT5lgUszKrlFuBmkPNi74OaAalD4TT+tZk
+         lX22dZJMqXa/77bDa2mXmYl8RdTP5o+mLAC9HVGFpP+ch5j8FDfY8aoJAb/eEULR44uy
+         XiFprCWn52CxqlDt1WaLaHteLfahQYqOyv3QHTS803YPN26u/w8NSPXfjEDxGFfcDmIN
+         kAog==
+MIME-Version: 1.0
+X-Received: by 10.236.222.166 with SMTP id t36mr5458313yhp.24.1412475657330;
+ Sat, 04 Oct 2014 19:20:57 -0700 (PDT)
+Message-ID: <001a11c205b0cf21360504a39d71@google.com>
+Date: Sun, 05 Oct 2014 02:20:57 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: base64
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:dSZKNxjUxuI=:DGnQuEUOzbD+wALFny+DhtiAyc
+ 7h+1UxUmSOvMzBtr5KeD670QNtE8jDwY+PGi84fB1eNWcWj8O5CgawhqWLXCmtrIXvZ7RYp2V
+ 31/9/krz/x4h2Tdd/84L0q2xkd8OXRxFla33qJE8IN8/hkVrt0apYfNAFtG+UP5jcsmNzJg5s
+ 2EzHvcytczrVTwWdjqNxdyes+g79CQZ0p90junrmWpN7Q5bM9VEc3eMWclj/QcnYq3Ms2RZFn
+ nD115ved2fxKVMcA6u3CXuS16OlbO50lrDoRCO9DICNfSPYqb/5ruzeMaiXMKxBsw4vJMMe00
+ FdpBp8bhplb/knj5lQXxZ7ybscBK4mLwQhAbwoMKqjkNGnRRQAkxO3x2MJwJBNUBxPklxoPeM
+ 2g+xzR2IwHZVpDu3NOvIn7PK03e1ynrzK6f5xJqTZzvq+1kZNJ2MRtMkmLj+coKcshcEk6IV/
+ H8SPSAvyEfroUsrbsbCz4b7S/tOSDGZ4JwkBY7KrrALnyMOBevGZ7ao7qVJwi/QdeqnBqES7B
+ 292zGg+pkHbrgz4Jh4yiUWZCBvxOvTxU2p3t/tAiCW7HznaQX39RyBVMrluUrWz30Akwe5SX+
+ LSnnKtMlP4ARA5OfPM0gx6jCuJxilJ35wG0Qb6wxzkdj7b/5MCXLzQkhuvvUMcVbRanVZN4LD
+ DheMABuu7zZxllSNBnuCfYHAwYFBLiYQ7V+5pw8eU7WHCvDLcirdxswLmt5c47Ow8Z5S1a+8v
+ Yzi19erDntKabgHLiAWwey8KiZCMJVZQ/ndguo44fXLaW9cfKbJWzSDY5saqSVLuZylfQvlM0
+ HO0PzscxpYvno20S1ZxfiVFmFOxjOOb7B6r5nkbJmRsR77Un2qxiBC7/SEL13vdVpuSEGdQZO
+ tGxb8vZdO9kU5hXgF2OPR1Z0zcvO7mLXsvX9FvAxJNXH4t2iecZpQw+tQ3kH+7bOhPQNP8uF3
+ YIqHoLNTmidNgsl2k4w62HG2Jll63e55cSajBUuOTE/ZPjInPrb7JDSDntom6tK8o/9J8W/X+
+ +qajsI/h7gieQxOzf/GtGd2YeAh2Db+FqpBdw1uYAONjXvWw3ZQDZ1t+PReL6mA8+7SnDLw3L
+ gWgyt1leiAp58F+1uE0eAH7Y2acToswfSCJUKI9LkJkKbqOMuMC6y5AS/fNMDHngWY/prpx30
+ uyELosd3gGqTB6zlmgqDRUiJFgXiJOln2ej/fhJeg1Qdh9NKNP9QQBRHjbYNhqG45snYjtRLJ
+ TGMCHwuSwO+DTJ4NQETaS+tLQE33zB66VS6zPkaYmxNY+AclFUtM1zVKrOVzeFZEYvaFxgV0e
+ m2W4
+
+PCFkb2N0eXBlIGh0bWw+PGh0bWw+PGhlYWQ+PC9oZWFkPjxib2R5PjxkaXYgc3R5bGU9ImZvbnQt
+ZmFtaWx5OmFyaWFsLHNhbnMtc2VyaWY7Zm9udC1zaXplOm1lZGl1bTtsaW5lLXNwYWNpbmc6MS4y
+NCI+PHA+PGZvbnQgc2l6ZT0yPjxiPkdvb2dsZSBTY2hvbGFyLUFsZXJ0OlsgaW50aXRsZTomcXVv
+dDtsaW5rZWQgRGF0YSZxdW90OyBdPC9iPjwvZm9udD48L3A+PGgzIHN0eWxlPSJmb250LXdlaWdo
+dDpub3JtYWw7bWFyZ2luOjA7Zm9udC1zaXplOm1lZGl1bTttYXgtd2lkdGg6NDQuNWVtIj48YSBo
+cmVmPSJodHRwOi8vc2Nob2xhci5nb29nbGUuZGUvc2Nob2xhcl91cmw/aGw9ZGUmYW1wO3E9aHR0
+cDovL3d3dy56dHhiLm5ldC5jbi9qdGxzYy9jaC9yZWFkZXIvdmlld19hYnN0cmFjdC5hc3B4JTNG
+ZmlsZV9ubyUzRDIwMTIwMTA4JmFtcDtzYT1YJmFtcDtzY2lzaWc9QUFHQmZtMzJiQTNzWW5rel9J
+SHJuZDMwbDdLaEh3RHZsZyZhbXA7b2k9c2Nob2xhcmFscnQiPjxmb250IHNpemU9MyBjb2xvcj0j
+MWEwZGFiIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIj48Yj5MaW5rZWQgRGF0YTwv
+Yj46IE9wcG9ydHVuaXRpZXMgYW5kIENoYWxsZW5nZXMgZm9yIExpYnJhcnkgU2VydmljZXM8L2Zv
+bnQ+PC9hPjwvaDM+PGRpdj48Zm9udCBzaXplPTIgY29sb3I9IzAwNjYyMT7mnpfmtbfpnZI8L2Zv
+bnQ+PC9kaXY+PGRpdj48Zm9udCBzaXplPTIgY29sb3I9IzIyMjIyMj7kuK3mlofmkZjopoE6IOWF
+s+iBlOaVsOaNruWcqOWbvuS5pummhumihuWfn+WFt+acieW5v+azm+eahOW6lOeUqOWJjeaZrywg
+6YCa6L+H6YeH55So5YWz6IGU5pWw5o2u5oqA5pyvLCA8YnI+5Zu+5Lmm6aaG5pyJ5py65Lya5Zyo
+5pyq5p2l6K+t5LmJ572R5bu66K6+5Lit5Y+R5oyl5Li75a+85oCn5L2c55SoLiDlm77kuabppobl
+upTnlKjlhbPogZTmlbDmja7lhbfmnInmvZzlnKjnmoTlm5vkuKrln7rmnKw8YnI+5qih5byPOiDl
+j5HluIMsIOa2iOi0uSwg5pyN5Yqh5ZKM5bmz5Y+wLiDlhbPogZTmlbDmja7nmoTlupTnlKjkvJrk
+vb/mnLrlmajmiJDkuLrlm77kuabppobnmoTph43opoHmnI3liqHlr7nosaEsIOWbvuS5pummhjxi
+PiAuLi48L2I+PC9mb250PjwvZGl2Pjxicj48aDMgc3R5bGU9ImZvbnQtd2VpZ2h0Om5vcm1hbDtt
+YXJnaW46MDtmb250LXNpemU6bWVkaXVtO21heC13aWR0aDo0NC41ZW0iPjxhIGhyZWY9Imh0dHA6
+Ly9zY2hvbGFyLmdvb2dsZS5kZS9zY2hvbGFyX3VybD9obD1kZSZhbXA7cT1odHRwOi8vd3d3Lnp0
+eGIubmV0LmNuL2p0bHNjL2NoL3JlYWRlci92aWV3X2Fic3RyYWN0LmFzcHglM0ZmaWxlX25vJTNE
+MjAxMjAxMDUmYW1wO3NhPVgmYW1wO3NjaXNpZz1BQUdCZm0yQ0RndTVvV0pPbmZldGM1Vi1DNnZX
+WDc2REh3JmFtcDtvaT1zY2hvbGFyYWxydCI+PGZvbnQgc2l6ZT0zIGNvbG9yPSMxYTBkYWIgc3R5
+bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiPlJEQSBhbmQgPGI+TGlua2VkIERhdGE8L2I+
+PC9mb250PjwvYT48L2gzPjxkaXY+PGZvbnQgc2l6ZT0yIGNvbG9yPSMwMDY2MjE+5YiY54KcPC9m
+b250PjwvZGl2PjxkaXY+PGZvbnQgc2l6ZT0yIGNvbG9yPSMyMjIyMjI+5Lit5paH5pGY6KaBOiDk
+vZzkuLrmlrDkuIDku6PnvJbnm67op4TliJksIFJEQSDlnKjlupTnlKjmqKHlnossIOS5puebruiu
+sOW9leeahOe7k+aehCwg5pyv6K+t5ZKM57yW55uu6KeE5YiZ562J5pa56Z2i5LiO5YW2PGJyPuWJ
+jeS4gOS4queJiOacrEFBQ1IyIOebuOavlCwg5pyJ5b6I5aSn5Y+Y5YyWLiBSREEg6aaW5YWI5Yy6
+5YiG5Lmm55uu5a+56LGh55u45YWz5a6e5L2TLCDlho3noa7lrprlkITnsbvlrp7kvZPmiYDpnIA8
+YnI+5o+P6L+w55qE5bGe5oCnLCDku6Xlj4rlkITnsbvlrp7kvZMsIOWxnuaApywg5Y+W5YC8562J
+6KaB57Sg5LmL6Ze055qE5YWz57O7LCDlubblr7nlkITnsbvop4TojIPlj5blgLzor43ooajov5vo
+oYzop4TlrpouIOi/mTxiPiAuLi48L2I+PC9mb250PjwvZGl2Pjxicj48cD48aHIgbm9zaGFkZSBz
+aXplPTE+PGZvbnQgc2l6ZT0yIGNvbG9yPSMyMjIyMjI+RGllc2VyIEdvb2dsZSBTY2hvbGFyLUFs
+ZXJ0IHdpcmQgSWhuZW4gdm9uIEdvb2dsZSB6dXIgVmVyZsO8Z3VuZyBnZXN0ZWxsdC48YnI+PGJy
+PjxhIGhyZWY9Imh0dHA6Ly9zY2hvbGFyLmdvb2dsZS5kZS9zY2hvbGFyX2FsZXJ0cz92aWV3X29w
+PWNhbmNlbF9hbGVydF9vcHRpb25zJmFtcDtlbWFpbF9mb3Jfb3A9ZXJpY3Rlc3Nlbm93JTQwd2Vi
+LmRlJmFtcDthbGVydF9pZD1BSWZldnYzTmtQY0omYW1wO2hsPWRlIj48Zm9udCBjb2xvcj0jMWEw
+ZGFiPkFsZXJ0IHN0b3JuaWVyZW48L2ZvbnQ+PC9hPjxicj48L2ZvbnQ+PC9kaXY+PC9ib2R5Pjwv
+aHRtbD4=

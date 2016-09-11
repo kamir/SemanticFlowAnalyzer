@@ -1,0 +1,106 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.140.159.12 with SMTP id f12csp643798qhf;
+        Mon, 1 Sep 2014 20:24:15 -0700 (PDT)
+X-Received: by 10.140.41.133 with SMTP id z5mr47614684qgz.99.1409628253187;
+        Mon, 01 Sep 2014 20:24:13 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 37TUFVBUKDBQCw185uBu5yBDC-78By95I08805y.w86yB2wDyCCy78GGyv.xy@scholar-alerts.bounces.google.com designates 209.85.214.201 as permitted sender) smtp.mail=37TUFVBUKDBQCw185uBu5yBDC-78By95I08805y.w86yB2wDyCCy78GGyv.xy@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 37TUFVBUKDBQCw185uBu5yBDC-78By95I08805y.w86yB2wDyCCy78GGyv.xy@scholar-alerts.bounces.google.com designates 209.85.214.201 as permitted sender) client-ip=209.85.214.201;
+Received: by 10.224.72.133 with POP3 id m5mf4460331qaj.9;
+        Mon, 01 Sep 2014 20:24:13 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 37TUFVBUKDBQCw185uBu5yBDC-78By95I08805y.w86yB2wDyCCy78GGyv.xy@scholar-alerts.bounces.google.com
+Received: from mail-ob0-f201.google.com ([209.85.214.201]) by mx-ha.web.de
+ (mxweb004) with ESMTPS (Nemesis) id 0LyFmf-1YRQEd1fM5-015WKs for
+ <erictessenow@web.de>; Tue, 02 Sep 2014 05:13:50 +0200
+Received: by mail-ob0-f201.google.com with SMTP id va2so1086481obc.2
+        for <erictessenow@web.de>; Mon, 01 Sep 2014 20:13:49 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=BdnwhQ4bvbfaGW50AYPpD/KVdZom/VSm58HVMCQ/rIk=;
+        b=FUCGDnwRZ3ixb96FMqVeppMsKXuE3JSUAohiEdnGbNI2VizJH4ljzFCdWBIjZp7tMV
+         RPKXFCGtUgvdR3lQ4PA2hhbNOI109pq9eDlUBm3dAoej9rF8MT3IwHcd/GRwN0c0rC+1
+         xEqYhuONmrtobjzyw5ORDEtxG4YxA+xtoFWkZOgqeOQQR8t9PXBKPXkqE1Shu6G7pny+
+         +Xxoqp00xzZJQToiiU8Hnt30mgEBATZuorYNMCIqHOK6RikjQ023H4nliH/Qk0dQKixq
+         7Pdoo480/D2EfSmBwGWiy8aaNlIkX5I/4NF/eK+Lp41ji+Y44TX3UkltXd2pHjSfUp2p
+         bskw==
+MIME-Version: 1.0
+X-Received: by 10.182.241.1 with SMTP id we1mr16906137obc.37.1409627629037;
+ Mon, 01 Sep 2014 20:13:49 -0700 (PDT)
+Message-ID: <001a11c21f6e18269c05020c82c9@google.com>
+Date: Tue, 02 Sep 2014 03:13:49 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:ZIoEDX2KsPs=:5O3r3ZhVjUc/QK1pTj70VfhtY9
+ yddPhPOZIZRevt3Hk/GdQuoKsJQ+L/VgSOfnPhWyzftbVix3dVcNrPrcRNGeCPgA91gVkk4g2
+ PSRQ03MyZRh9+dIgJGU3F7ReT4PizB4np0xHB17Gd9onk3NTInv9pOtodqwaT7XPtKAfrXRhM
+ 08/HbxQA4eejtuwNjXTfzDkth88rnQVA51TYhdZ6QCiA7A0ggF2keRiv5CJpQKlxWNgUNcVFf
+ bifyn6IEZf2uNHItkicXD7GswkgksoIr430MsbzlD222tDVVJ0naE2FFo3/6ygqTzxAHkYCJV
+ Njd2M6o+sJHlyUQg27N0AzmSwDGwZaNklpVrATlkEKQ5t1NzovnHVU12rU7eJS38qq/jKHMO0
+ IkgsnoEvMHkt3KftsfdKGHO+HbPA4E7I8kboCkyK71p+6GGJY86xPxvYTkFlUys8x5YSEhpF9
+ 0LqKrylfAWRg5x8ZWsaCbNU8zJaSXm9tHX2FjXhHlUv8FZeTEwnhls4L4w0xpJlRbRx9BxVuu
+ RPgRt0lPruxL6KAZFnCiiRGyjYWxbgiMvkLxOnC1wY5r2grgYaxexjBz0P/3PPFtMnWVWiR2N
+ vswcagU8Vy3R0XXq8xW0gS4dpoX0BFODVwddOATmoOLRanUGWWjkZSMkGT5oI45UKEyQm9ZJl
+ bO9wu5w0fuqnlG94qggU50jLVxf3o/CZrmqRJSdjo6kqean6FEU3ej3j/niBgs5PT4owl20Cp
+ e5GADeqf/UG4/NwhdwFl70gZm+z7m3yNlAA8J6S9w32FKkVw1QtB+RwXGyr8QkNUz4TLwNMHc
+ OhfQ2GpHDLSMwAW7ZTHo3wGapevWl8e95rknHH40nCCjp6IhKNkcX8z8qkws/tnhlbUSZMKzf
+ NuX9scIj3h5B5bF7OcIOIk5fyJ2L0O//02facdSFPxVuCxrz1RABg4T6ErJ5QeNGfu8u1d7sS
+ Cnt9rqREAp8Cn5Ydwf88mQ/2cfKWJACwEU4lEr/u9TAAn6Rd0Gpg3u2+cAoJnhlzl0kGkV0Ch
+ Jr0EWs+7HCRwaOym0auMOX1p+0AjvvA8t6DZa0YqM26ninBnVheTsD+5ZX4tBnlVzZr0i4zmQ
+ lvp8pT0f8t8yNfWLiG0gLl7cSt/9dsZHasvubUEAkP6ZEtONmYmMZN1GNk9YULZgzTkdR1G5x
+ dOnqHLws6e3ktWDPjcbcBaZnIAZ476mqXfiFNo4jTxjUH293ZqZlodccFB7jiuVOuXTNESA59
+ BDIvoovXab9yjRLztJAYA+auzUXqyWF7xAPPIZjqIYDGx11Evr316Yse6EOJbzmb7sMwzbaYk
+ Jo5Y
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://dl.acm.org/citati=
+on.cfm%3Fid%3D2631807&amp;sa=3DX&amp;scisig=3DAAGBfm0GYr0cgweA8SSzmjhm2ytwV=
+XvZiA&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-de=
+coration:underline">A <b>linked data </b>approach to care coordination</fon=
+t></a></h3><div><font size=3D2 color=3D#006621>S Kotoulas, V Lopez, ML Sbod=
+io, M Stephenson&hellip; - Proceedings of the 25th  &hellip;, 2014</font></=
+div><div><font size=3D2 color=3D#222222>Abstract The success of a society i=
+s often judged by its ability to support the most vulnerable. <br>Supportin=
+g the most vulnerable individuals is extremely challenging from an informat=
+ion <br>needs perspective, since it requires data from numerous domains and=
+ systems, including <b> ...</b></font></div><br><h3 style=3D"font-weight:no=
+rmal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"http://scholar.=
+google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://www.freepatentsonline.com/y201=
+4/0245067.html&amp;sa=3DX&amp;scisig=3DAAGBfm2jgyLq41_GNCeufBon9WlN0irvcQ&a=
+mp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoratio=
+n:underline">USING <b>LINKED DATA </b>TO DETERMINE PACKAGE QUALITY</font></=
+a></h3><div><font size=3D2 color=3D#006621>S Agarwal, S Anderson, G Mendel =
+- US Patent 20,140,245,067, 2014</font></div><div><font size=3D2 color=3D#2=
+22222>Abstract: Arrangements described herein relate to determining a quali=
+ty of a software <br>package. Via <b>linked data</b>, the software package =
+can be linked to at least one test plan and a <br>requirement collection. T=
+he software package can be executed in accordance with the test <b> ...</b>=
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://www.thinkmind.org=
+/download.php%3Farticleid%3Dsemapro_2014_1_20_30019&amp;sa=3DX&amp;scisig=
+=3DAAGBfm3MFZVAaA9K-hslNcFoPDsM90YT7w&amp;oi=3Dscholaralrt"><font size=3D3 =
+color=3D#1a0dab style=3D"text-decoration:underline">Spacetime: a Two Dimens=
+ions Search and Visualisation Engine Based on <b>Linked Data</b></font></a>=
+</h3><div><font size=3D2 color=3D#006621>F Valsecchi, M Ronchetti - SEMAPRO=
+ 2014, The Eighth International Conference  &hellip;, 2014</font></div><div=
+><font size=3D2 color=3D#222222>Abstract: DBpedia is one of the most intere=
+sting projects in the arena of the Semantic <br>technologies. However, bein=
+g able to extract useful information from it is not a trivial task for <br>=
+a user without a specific competence. We present the Spacetime, a two dimen=
+sions <b> ...</b></font></div><br><p><hr noshade size=3D1><font size=3D2 co=
+lor=3D#222222>Dieser Google Scholar-Alert wird Ihnen von Google zur Verf=C3=
+=BCgung gestellt.<br><br><a href=3D"http://scholar.google.de/scholar_alerts=
+?view_op=3Dcancel_alert_options&amp;email_for_op=3Derictessenow%40web.de&am=
+p;alert_id=3DAIfevv3NkPcJ&amp;hl=3Dde"><font color=3D#1a0dab>Alert stornier=
+en</font></a><br></font></div></body></html>

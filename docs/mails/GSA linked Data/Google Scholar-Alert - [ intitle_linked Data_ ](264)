@@ -1,0 +1,112 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.79.82.193 with SMTP id g184csp353076ivb;
+        Thu, 11 Jun 2015 17:43:53 -0700 (PDT)
+X-Received: by 10.50.138.136 with SMTP id qq8mr1180805igb.27.1434069831334;
+        Thu, 11 Jun 2015 17:43:51 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3_yl6VRUKDOwgQVcZOfOZSfhg-bcfSdZmUccUZS.QcaSfWQhSggSbckkSP.RS@scholar-alerts.bounces.google.com designates 209.85.220.74 as permitted sender) smtp.mail=3_yl6VRUKDOwgQVcZOfOZSfhg-bcfSdZmUccUZS.QcaSfWQhSggSbckkSP.RS@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3_yl6VRUKDOwgQVcZOfOZSfhg-bcfSdZmUccUZS.QcaSfWQhSggSbckkSP.RS@scholar-alerts.bounces.google.com designates 209.85.220.74 as permitted sender) client-ip=209.85.220.74;
+Received: by 10.50.16.175 with POP3 id h15mf193777igd.0;
+        Thu, 11 Jun 2015 17:43:51 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3_yl6VRUKDOwgQVcZOfOZSfhg-bcfSdZmUccUZS.QcaSfWQhSggSbckkSP.RS@scholar-alerts.bounces.google.com
+Received: from mail-pa0-f74.google.com ([209.85.220.74]) by mx-ha.web.de
+ (mxweb105) with ESMTPS (Nemesis) id 0Lb3ob-1ZRmJN3GhN-00kiSf for
+ <erictessenow@web.de>; Fri, 12 Jun 2015 02:38:25 +0200
+Received: by pablj1 with SMTP id lj1so2036228pab.0
+        for <erictessenow@web.de>; Thu, 11 Jun 2015 17:38:23 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=HW36RDQ0PMZM2sajmo9/B5t1oEdGF8+x+E3dlYm/FZA=;
+        b=L8Iu8MtO6IvpOcib9skYZEmb3mbHCvjP5AFgdUkMogHoM8KjTQvkbJIpX7hBWdyO2z
+         lfzkuQC8oJbtbgGKABrkjiybvZLIlNZfjeQL3SGJjmERJULa+oD0Oe9y2eZuPCIaCrPo
+         VlGevsq5pU8PrgRJzPlv+nGHz3fFRqMGiu/tHHzNjCwqB+yr+lnQZDjI+5805f0Mxds5
+         jJZmnH2dOyF4h2UFwPufhidIoWHISNYYGkZx9CdaFFUrJabHLhETB8yy6SLRgaRYa6gq
+         9mfRyaEyPqvaolo5ctx0CBmkzZx6LFlJfN4n8zjdENoNMB6ZlItafp/CZjEjBvgCk9et
+         II0w==
+MIME-Version: 1.0
+X-Received: by 10.66.160.34 with SMTP id xh2mr13985300pab.27.1434069503357;
+ Thu, 11 Jun 2015 17:38:23 -0700 (PDT)
+Message-ID: <047d7bacb37e54b27a05184753d9@google.com>
+Date: Fri, 12 Jun 2015 00:38:23 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:uEVDv6wxS0A=:NUYmPwzrUhlgoaRf19LM/eBWEt
+ e2Bb9lKJc/Ogir24u4iA4RT56F929CK/PDYcVWi0kWz5pWjINH09DcEnR0M7mDm2RW18Qjs2T
+ GGUpJymlP5lca+iOaGk4w6RzTnmf7ItAx7pWcIlIfZPZslyDNGFXQz1AzpC8UgYbjhtdaKfu5
+ JLX0r1rTlxFmCX+PM/5QYgAcH3512a5HACOs2dRt9xeHfGICwSI1g3EurJYqK2c6VcOmHmrsg
+ 2Nx23o87Cc5+MFST4FZcxw68yuIfQqTOCcHNmbPRk7r2esfmZhoDIFgZOSXnp643PD2v+36dz
+ lzIaNDPPyaTr1EPQPoEmpZrZbBWsQo1ztEQCz35Z5ZDJLif6S5AfLu7E0yH3AO3+hZjAJqOjK
+ A2Dgw9FXJ/CKzj1Bw8aIlNlmy16nvTHbSpS8Gps+Xsr4uiO9PvfRnT1QFpKtl0mAuBmt1ENvv
+ qBnDiPeUjwnKIq5fcniaDQgEU+Ut37sbqsh3KzqNf9XCMBO31762NyVPnXFAI3zNO8QPm05g2
+ o75/0lbnuV0EtfqeBNkolluIc03viHUyf2KYRkL0YzxnAYxqy+2mKwYE52RaHcQ19yMKhv4qq
+ x2I+XwfYCYlmO0TXyiv89Ibe/ttZoy9m2mEq0E7WtFmBX51JiXxBc1TjlwcX24N8Kg+jEbpXt
+ efFeybC0f7FpeoWDk5t0MkZFUorDM78eg6nHPdMBbdh5cCgL1BqPG7pMmd9+k6mk8N/+whJQu
+ eRK95dIUangqShsIXRMQikKWFvtKdG/J5Z8QLpWshpqxecUebopgacebYCXAL51sAgPZaZVQv
+ g+C799Hf9a54trPpMRpszJaEEhROlucUAzpldLe8XCk1/VxZEayFQlUd+dbda561mHL3Nay4w
+ sSse6kz+tFlsem2Gs3feQGQPFNoCKtyDVVhT3wJ+7AjmT/LK1PGcs6hneyL7wR68RMBEzF10e
+ 0aKjckj92yYN1BBQO/t64Co6zAgt72k7NoPz90B+qB6GlfIi4cY70DfjMcBWH/jX8JfATxXnu
+ je6BSU5/z4hIGtP2AHWXZnZGRQ6swc/lHhzL33PgGxJ7r0avMB5yggW92rZYGCA+7izS/AFzW
+ nVAB4891ZXhkAKUdASTiV/Pq1SBdXLihKnHIFt0upskW4/0BahL3NWBTPQGz3knxoh7ratXdc
+ /LXHxF3LlSNXbP6O/hKk6DYE+GOi6iIdKrx+uG31IsNZdoHz0fZ+a3xl9FTPX2dhNzaw/WI8J
+ HBbuFp+L8Hr0lr/g53ZsW1m99s+mj2Ptys1h/T4CnRbJ1Z23aq5jGYtlMq0yM0dV0VKRDR7jn
+ GRPU
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D=
+2 color=3D#1a0dab>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_=
+url?url=3Dhttp://melodiesproject.eu/sites/default/files/publications/alldat=
+a_2015_1_10_90008.pdf&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm1YwkK0i1zeR=
+OB4mJKYjglMypi4NQ&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=
+=3D#1a0dab style=3D"text-decoration:underline">Numerical Groundwater Model =
+Results As Linked Open Data</font></a></h3><div><font size=3D2 color=3D#006=
+621>XA Cardona, FB Pifarr=C3=A9</font></div><div><font size=3D2 color=3D#22=
+2222><b>...</b> Numerical groundwater models allow assessing the current st=
+atus of those bodies, their<br>
+evolution under natural conditions and their sensitivity to human actions. =
+Many projects<br>
+and initiatives are trying to maximize the exploitation of <b>linked</b> <b=
+>data</b>. <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><a href=3D"http://scholar.google.de/scholar_url?url=3Dhtt=
+p://www.researchgate.net/profile/Maxim_Kolchin/publication/277670202_FOODpe=
+dia_-_Russian_food_products_as_a_Linked_Data_Dataset/links/55703ddd08aeccd7=
+774186d4.pdf&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm0W1MQ55U8AAe8xaZxOe5=
+tYLkQwaQ&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab=
+ style=3D"text-decoration:underline">Russian food products as a <b>Linked D=
+ata </b>Dataset</font></a></h3><div><font size=3D2 color=3D#006621>M Kolchi=
+n, A Chistyakov, M Lapaev, R Khaydarova</font></div><div><font size=3D2 col=
+or=3D#222222>Open and efficient sharing of information about food products =
+and their ingredients is <br>important for all parties of the chain ranging=
+ from the manufactures to consumers. There <br>exist a public catalogue of =
+some Russian food product s (http://goodsmatrix. ru/) that is <b> ...</b></=
+font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;ma=
+x-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"http=
+://scholar.google.de/scholar_url?url=3Dhttp://inforsid.fr/Biarritz2015/wp-c=
+ontent/uploads/actes2015/ws-3.pdf&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBf=
+m0O-f3cQdgg5oC6y5hBAIdQ4aeoOg&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font siz=
+e=3D3 color=3D#1a0dab style=3D"text-decoration:underline">Leveraging Knowle=
+dge from the Linked Open Data Cloud in the task of Reverse Geo-tagging</fon=
+t></a></h3><div><font size=3D2 color=3D#006621>V Charpenay, E Egyed-Zsigmon=
+d, H Kosch</font></div><div><font size=3D2 color=3D#222222><b>...</b> L&#39=
+;avantage d&#39;une telle approche vis-=C3=A0-vis des m=C3=A9thodes num=C3=
+=A9riques est notamment<br>
+la possibilit=C3=A9 d&#39;=C3=A9tudier la pertinence g=C3=A9o- graphique d&=
+#39;une image. KEYWORDS:<br>
+information retrieval, Semantic Web, <b>Linked</b> <b>Data</b>, multimedia.=
+ <b>...</b>=20
+</font></div><br><p><hr noshade size=3D1><font size=3D2 color=3D#222222>Die=
+ser Google Scholar-Alert wird Ihnen von Google zur Verf=C3=BCgung gestellt.=
+<br><br><a href=3D"http://scholar.google.de/scholar_alerts?view_op=3Dcancel=
+_alert_options&amp;email_for_op=3Derictessenow%40web.de&amp;alert_id=3DAIfe=
+vv3NkPcJ&amp;hl=3Dde"><font color=3D#1a0dab>Alert stornieren</font></a><br>=
+</font></div></body></html>

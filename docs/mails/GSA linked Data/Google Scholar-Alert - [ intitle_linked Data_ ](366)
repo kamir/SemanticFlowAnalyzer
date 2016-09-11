@@ -1,0 +1,134 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.64.26.69 with SMTP id j5csp40740ieg;
+        Sat, 7 Jun 2014 19:23:22 -0700 (PDT)
+X-Received: by 10.50.61.173 with SMTP id q13mr19620206igr.34.1402194201129;
+        Sat, 07 Jun 2014 19:23:21 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3yciTUxUKDEw6qv2zo5ozs576-125s3zCu22uzs.q20s5wq7s66s12AAsp.rs@scholar-alerts.bounces.google.com designates 209.85.214.202 as permitted sender) smtp.mail=3yciTUxUKDEw6qv2zo5ozs576-125s3zCu22uzs.q20s5wq7s66s12AAsp.rs@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3yciTUxUKDEw6qv2zo5ozs576-125s3zCu22uzs.q20s5wq7s66s12AAsp.rs@scholar-alerts.bounces.google.com designates 209.85.214.202 as permitted sender) client-ip=209.85.214.202;
+Received: by 10.50.16.175 with POP3 id h15mf1059888igd.7;
+        Sat, 07 Jun 2014 19:23:20 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3yciTUxUKDEw6qv2zo5ozs576-125s3zCu22uzs.q20s5wq7s66s12AAsp.rs@scholar-alerts.bounces.google.com
+Received: from mail-ob0-f202.google.com ([209.85.214.202]) by mx-ha.web.de
+ (mxweb104) with ESMTPS (Nemesis) id 0MQh61-1XMqdb1kiL-00U0vf for
+ <erictessenow@web.de>; Sun, 08 Jun 2014 04:22:02 +0200
+Received: by mail-ob0-f202.google.com with SMTP id wm4so955861obc.1
+        for <erictessenow@web.de>; Sat, 07 Jun 2014 19:22:01 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=pRSgT/totc4ZxG27W53ufnEYUxc+4JIhETl1twCJZug=;
+        b=JI8ymYJ0BVCHUDkaLyqIaWihq3YG6KHtwP+egwFr8Dbg9xJE4I+K4dDBBYXT6gTNuz
+         XnZ7DT8wrNxjn7Jw5LwnhmvNpNbBQ+bsqeoxzonEW1qwpetfhp0AyBS/htTvvEUwHCGE
+         0g8psdZSnon0F0JCFu5bVxjseG7rCKndg93w2Z10N3wx8zwtobz2nb2WFwQ6CJ5KnpVH
+         8HB+lpKcAwsoYDcvw5IAOCnhTxzxJmITlva/O/oRF0ZxO5AVHsArPfMZmSWlSmE+Wu6Y
+         YsM/vLMUEYHYW3Okkqi3urHSSAAvNmyLTln1NM4t/BNChXA+qhJuNpbfb0rZoLgQ6xF0
+         GeSA==
+MIME-Version: 1.0
+X-Received: by 10.51.17.10 with SMTP id ga10mr7854773igd.4.1402194121197; Sat,
+ 07 Jun 2014 19:22:01 -0700 (PDT)
+Message-ID: <001a1135ffd280096a04fb49c268@google.com>
+Date: Sun, 08 Jun 2014 02:22:01 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:ct+XEo2IJeM=:Mx0+9iGW97rv1pMnjHDjlNIIMv
+ acHFPDgxvzTgqkAfx915C/sAcbb5WcxYVj/QQ5yPWZJzVVovvlDAwkKWjFEuLVNJwHBFLqD86
+ OMI5t2goatBxMASwU1BT+1P4aEEI/DeC2Mxd77DvRpTsFtE0a97yE0EtsXSRpkVE0lFYhf0GC
+ CHCHSOsM4JhyyqbSwaVuBFfZI05fHZio+9cJEF3qCqd0TmrWKnVcXXdvaaD0oxDVvOj3FCVck
+ agpm7BDv7XOIkRt9AhqCxOu9Sj8zN1fDmnBR9KYUEUZ32rBaOvmntlfveYqIugnbf3zwaPaLG
+ qM5Ki5yRiEIo3hgNmBijBzTo7bwC6vbBN3KNzXLN/pnVJzAl5Q5oYGnFvkDcpfr2unAlmzzbg
+ 155XvagEMPJgKkBexcQeXkN6aSRu6gA8vHzNVbnUSkgWPcRg06RdWA+dkWSqUIvK0kUgfYQLV
+ bZB1IJiCQnLaKHXJS9f4uIvs64JKJIyuPzeQrmxNt9mKHo6x2n8/kwwpSx3IVwkBjIAwRKoQU
+ PE7BMZ3ZrxNP6XpMLXEvjlTyyUzLJAS9KFYX8Qpcxu5MGvEvpohnK33Tz3fcxUvUihLKSHtDh
+ EgFAubFTH62w+za2p3SOyWOb71Tay/NZ1cA+8SOUa+s7qg4WM2xYRmLmqhA6FQ0FkEWJUdwod
+ 0M+X7D6uFwklqDtWraAqpGH4ZMqdHKWP8svdByB1M522fueXjmOcS2hHkn6P9HzglzQpRa5P6
+ exTheGpWVKZY4Nae0+yObMQPtdOL97HUJL9FZAkFqyDTygm8LGcSQwh9piACrmVECoBHl225D
+ pVFQSJoYQRt287Dw3X7CEWVKNHscWzkGC8BI//ELK+23D9LApryuRkiW/Xp/C7Q8iueQPh176
+ 9YJfM1FZrKUET/6Qx40iZQ3WBsfJEGGXj8AGf//UMCPnQIIWv4dmo78ROqgv3SIRVG2bxjrQ4
+ K0Nwm8JSDEeRlsPPKVf1kC2gGONk/8ROOFbvR3TeWKZe9R1e04kznbHi331J7smKBQSg9Rg4E
+ HHGQdbF11VjXU+87pzhpyhsFghazeKO569Pv6mlukA65yZ3cu2XxE+tYgebb+zKwmZKYuoCNN
+ s1L0PQvuvv3WsgmnHGDm4dx9QGJbWemIG1QXpZ0cHPFBkvd6zDZHokihLnq1f/jQ1ajn+fhr7
+ Ld3rX2ihlsfMi0RSRZZULruXISvWrhNx2/IX0Uby58S3boIto6eJ71hXUAN8OGD3XefkwjBD+
+ SnRmTm8vhYAtxfkTBGDHldXaYk3kPQaC9rndUvM2cvpejB+svoVxYgRf+jVUzVO+5oegnULON
+ uYnpXXItQ1a1/FBzYWBqaxUO9EBsbfHf5BlVtCSNBUoNXQk3zmoK9X3OLg+D3H33UP9r
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttps://apha.confex.com/=
+apha/142am/webprogram/Paper300665.html&amp;sa=3DX&amp;scisig=3DAAGBfm08tfFO=
+anpM8yDhBWDzI5bYQJqwZg&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc=
+ style=3D"text-decoration:underline">Patient-reported outcome surveillance =
+and geographic variation for older cancer survivors: Using the SEER-MHOS <b=
+>linked data </b>resource</font></a></h3><div><font size=3D2 color=3D#00993=
+3>EE Kent - 142nd APHA Annual Meeting and Exposition ( &hellip;, 2014</font=
+></div><div><font size=3D2 color=3D#222222>New opportunities to conduct sur=
+veillance research of patient-reported outcomes (PROs) <br>research in canc=
+er survivors are emerging, in part due to the now existing linkage of cance=
+r <br>registries like the National Cancer Institute&#39;s Surveillance Epid=
+emiology and End Results (<b> ...</b></font></div><br><h3 style=3D"font-wei=
+ght:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"http://sc=
+holar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://www.tandfonline.com/doi/=
+abs/10.1080/01973762.2014.908101&amp;sa=3DX&amp;scisig=3DAAGBfm1skuKniamAsS=
+w7cYf5E5Yc5_ZTYg&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=
+=3D"text-decoration:underline">Eleanor E. Fink on Linked Open Data</font></=
+a></h3><div><font size=3D2 color=3D#009933>CL Sundt - Visual Resources, 201=
+4</font></div><div><font size=3D2 color=3D#222222><b>...</b> So while I fin=
+d defining LOD and the Semantic Web cryptic, as opposed to how it could<br>
+be used, I will give it a try. In computing, <b>Linked</b> <b>Data</b> desc=
+ribes a method of publishing<br>
+structured data so that it can be interlinked and become more useful. <b>..=
+.</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://cw.felk.cvut.cz/w=
+iki/_media/courses/osw/lecture-09linkeddata-s.pdf&amp;sa=3DX&amp;scisig=3DA=
+AGBfm0qwRJpxgeNWgNSoZiN9JLa0xW7KQ&amp;oi=3Dscholaralrt"><font size=3D3 colo=
+r=3D#1122cc style=3D"text-decoration:underline"><b>Linked Data</b></font></=
+a></h3><div><font size=3D2 color=3D#009933>P Kremen - 2014</font></div><div=
+><font size=3D2 color=3D#222222>Does your data set links to other data sets=
+? Do you provide provenance metadata?(eg VOID <br>descriptions) Do you prov=
+ide licensing metadata? Do you use terms from widely deployed <br>vocabular=
+ies? Are the URIs of proprietary vocabulary terms dereferenceable? Do you <=
+b> ...</b></font></div><br><h3 style=3D"font-weight:normal;margin:0;font-si=
+ze:medium;max-width:44.5em"><font size=3D2 color=3D#1122cc>[PDF]</font> <a =
+href=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://ldl2014=
+.org/slides/kutuzov-ionov-keyness-slides.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm=
+22P-ytKN6ayRVY3RiU_usqLVq2eg&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#=
+1122cc style=3D"text-decoration:underline">Releasing genre keywords of Russ=
+ian movie descriptions as Linguistic Linked Open Data: an experience report=
+</font></a></h3><div><font size=3D2 color=3D#009933>A Kutuzov, M Ionov</fon=
+t></div><div><font size=3D2 color=3D#222222><b>...</b> Page 37. Overview of=
+ the initial data Extracting genre keywords from movie descriptions Linking=
+<br>
+terms to Wiktionary Conclusion and future work Linking terms to Wiktionary =
+To integrate our data<br>
+with <b>Linked</b> <b>Data</b> Cloud we linked keywords to Wiktionary entit=
+ies <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://www.agile-online.=
+org/Conference_Paper/cds/agile_2014/agile2014_110.pdf&amp;sa=3DX&amp;scisig=
+=3DAAGBfm2lT1uofISviObzpESPkp3_AvlMtA&amp;oi=3Dscholaralrt"><font size=3D3 =
+color=3D#1122cc style=3D"text-decoration:underline">Little Steps Towards Bi=
+g Goals. Using <b>Linked Data </b>to Develop Next Generation Spatial Data I=
+nfrastructures (aka SDI 3.0)</font></a></h3><div><font size=3D2 color=3D#00=
+9933>F Harvey, J Jones, S Scheider</font></div><div><font size=3D2 color=3D=
+#222222>Abstract Society is moving at an increasing pace toward the next st=
+age of the information <br>society through <b>linked data</b>. Among the re=
+levant developments in geographic information <br>science, <b>linked data <=
+/b>approaches offer potential for improving SDI functionality [12]. <b>Link=
+ed </b><b> ...</b></font></div><br><p><hr noshade size=3D1><font size=3D2 c=
+olor=3D#222222>Dieser Google Scholar-Alert wird Ihnen von Google zur Verf=
+=C3=BCgung gestellt.<br><br><a href=3D"http://scholar.google.de/scholar_ale=
+rts?view_op=3Dcancel_alert_options&amp;email_for_op=3Derictessenow%40web.de=
+&amp;alert_id=3DAIfevv3NkPcJ&amp;hl=3Dde"><font color=3D#1122cc>Alert storn=
+ieren</font></a><br></font></div></body></html>

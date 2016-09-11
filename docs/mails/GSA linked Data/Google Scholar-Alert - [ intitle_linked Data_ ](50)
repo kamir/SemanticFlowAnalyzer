@@ -1,0 +1,180 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.55.94.196 with SMTP id s187csp700333qkb;
+        Sun, 23 Aug 2015 00:24:34 -0700 (PDT)
+X-Received: by 10.55.22.101 with SMTP id g98mr38823490qkh.70.1440314673576;
+        Sun, 23 Aug 2015 00:24:33 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3UW3ZVRUKDEY0kpwtizitmz10-vwzmxt6owwotm.kwumzqk1m00mvw44mj.lm@scholar-alerts.bounces.google.com designates 209.85.192.201 as permitted sender) smtp.mailfrom=3UW3ZVRUKDEY0kpwtizitmz10-vwzmxt6owwotm.kwumzqk1m00mvw44mj.lm@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3UW3ZVRUKDEY0kpwtizitmz10-vwzmxt6owwotm.kwumzqk1m00mvw44mj.lm@scholar-alerts.bounces.google.com designates 209.85.192.201 as permitted sender) client-ip=209.85.192.201;
+Received: by 10.140.94.173 with POP3 id g42mf10284048qge.1;
+        Sun, 23 Aug 2015 00:24:33 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3UW3ZVRUKDEY0kpwtizitmz10-vwzmxt6owwotm.kwumzqk1m00mvw44mj.lm@scholar-alerts.bounces.google.com
+Received: from mail-pd0-f201.google.com ([209.85.192.201]) by mx-ha.web.de
+ (mxweb002) with ESMTPS (Nemesis) id 0LufHE-1YlRRr1PhQ-00zqlq for
+ <erictessenow@web.de>; Sun, 23 Aug 2015 08:50:59 +0200
+Received: by pdbd4 with SMTP id d4so9495562pdb.0
+        for <erictessenow@web.de>; Sat, 22 Aug 2015 23:50:57 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=yh79rIj6NZ6mhupWfZ7XneRdjmEa8S3yPsq6Lk+jO4k=;
+        b=hhDtqbjQN+/7qzQufMMYWHUpjeqLZFsYmrbPJe75RTYurBs0tpyEH/hxG3C420rbDZ
+         q5dIRRB2nmXVHYpWX4AoVZcAJlA/0K3XkbDf51nGOBCqj0B+F+fkRaFcZXuDU5j5T/H4
+         Gq7PRUz/ZkwjRpnIWvAOeZv0P0xVYyd1T3isJcCKeIpLSeSYEBGvuW221GiRIXUUzacT
+         bTDTsQccS64Fps6suCH8LZEBpe9pG3Ts+C9rCpdMOR7hRr8USEfak69ZCIC7my3Ein5V
+         BhSbU9KiUh7F8RYFhZ0fAKTP4LZKuqg4wN+FXbdyXHLBsrvaHbK/jdjKPDTzty38kv+v
+         O44w==
+MIME-Version: 1.0
+X-Received: by 10.66.63.39 with SMTP id d7mr16036468pas.20.1440312657782; Sat,
+ 22 Aug 2015 23:50:57 -0700 (PDT)
+Message-ID: <001a1136afea55279e051df4ecf1@google.com>
+Date: Sun, 23 Aug 2015 06:50:57 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:Bdp00bxGdiA=:4Dz5REIpSqjL+hqxVis7wQ7Ik0
+ IUPMht9aL2OevelrNXLa5US5WbFCyH9dw2WZA7stEpJFhp9/kW1iIdySBTBHvpyJuvB52nUBG
+ w7imHhCA1HAC/rOR4guQsqFRh2pf1xs6u306aobbmPL4VH0JWefbLnXnB+z/s72kmE2s4GUDo
+ LKwQDs0pxjrXtBGMxWKNB+76fhdGc1RB018bvqa3ckFZFwtup0QyZ0Hkx8Zn3EJHps6/Et560
+ Yfbo8YKJi/JEn+48LhusQL+2+Lu2+onhjitAk5vJdmTz2BKncDpG+FTrSzF3bUwklbiTNz/xB
+ G2wXyf8KlosnDaEYH11iPdqUB/RbJ1kJQin9pZMeHmfrl9VrrxWStRghMJSZZd8yqmeoaJypC
+ DPptdllua+CTQjBrLAAbD345BSG3Exy63snSxSGIVJ2edXhO81ZjwgAFyXyZWMevtvYIiFekF
+ DikW/Kt/b5AJ2rlwib7ECqfsE7XZwLeHzJIdWdHu/tId/XyJiREao2gZ/f1e6oDcbujfHNI6t
+ ZRmeXFrxQPUV/i5zCoZ9VJjvMIDapBhPT0wfDjfmooGORUFVHNwQjDNzzdeiGQbZ82ouQ369i
+ MPzlxBPMnVoxoH7qmv97ErtviTJQIIMBvCxjOT9KVtoPRxnIWZvl1LWp19WvaIspmTS9LWxJY
+ ZGyC31Mc8DIcOA5nri0bEAMeASTl6jnGQrwuBZnaWFi1yMzeeHIl7gKmed2mMmkq/yltjYa3C
+ Rf5Vh1bX5+4/Y1Fd9EtHXnonoCoZmOZk2RHY5qr6l3DS/x8sZ2mJPIDAm9IvJXcGDqVqiik0Z
+ 0MR6Ut9oTMbDsfg4E6G4gtbBsIoaZCginwObmXKSKMh7aVMxJj70kWT5IDhEOPDEOPTC1DJhZ
+ //xCZwnLJn7I7XePJOjHNQSgPsgkEhjN1MMs4pRAKrlqrQJebAg8LbwNJyb5e7t7WEWsKDVR1
+ Yq4LSKfLQs1J/r8NTC+sZ2iAAV9a36bXN4na7qhcv31UL+dZ64bwkUFV4w6lHPsF8EElNgtKE
+ z+KMkxSiCGJugyTCaztZChv4SG1MlQMr0XYEPwb2mDVa3T4Q4AXYSNjLfzGfJHiiuTqW59Zbz
+ jK9cB+lIS9gePpeW+TBMb0SNP4xwQRcC2s2FpM3fpc1A5XpMn1JUnOz0Yj2VD78Btju1tHf8r
+ PI6bNy46uru+01Cap8cz86iBRv5RMoQZFqvO/z3tHUmT09Mi4gNXxFotCspdWc3hVf7Pc9TEL
+ hD1d3Lgq2iE6T38b9WOV8TN1SyoFQ8DW8++K8+NU3heblgAPskgWuDgoaFCtawjGZBSHyG9p9
+ LYpS
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D=
+2 color=3D#1a0dab>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_=
+url?url=3Dhttp://svn.aksw.org/papers/2015/SEMANTICS_DockerizingLOD/public.p=
+df&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm3Qte611UOjvEcvKLzTDCk2gQ95DQ&a=
+mp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"=
+text-decoration:underline">Knowledge Base Shipping to the Linked Open Data =
+Cloud</font></a></h3><div><font size=3D2 color=3D#006621>N Arndt, M Ackerma=
+nn, M Br=C3=BCmmer, T Riechert - 2015</font></div><div><font size=3D2 color=
+=3D#222222><b>...</b> While allocating resources to know- ledge engineers w=
+ho model the domain of<br>
+interest and cre- ate the knowledge bases is easy to justify, making these =
+datasets<br>
+available as <b>Linked</b> <b>Data</b> is equally important. Al- though thi=
+s <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><a href=3D"http://scholar.google.de/scholar_url?url=3Dhtt=
+p://link.springer.com/chapter/10.1007/978-3-319-21915-8_4&amp;hl=3Dde&amp;s=
+a=3DX&amp;scisig=3DAAGBfm0024O4a4UUpnpaXIletbUyLF_AZw&amp;nossl=3D1&amp;oi=
+=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:und=
+erline">A <b>Linked Data </b>Model for Web API-s</font></a></h3><div><font =
+size=3D2 color=3D#006621>S Omelkova, P K=C3=BCngas - Perspectives in Busine=
+ss Informatics Research, 2015</font></div><div><font size=3D2 color=3D#2222=
+22>Abstract Web APIs (Application Programming Interface) provide means for =
+rapid enterprise <br>integration. The progress in Web API-s has reached the=
+ level of maturity where the impact of <br>new advances can and should be v=
+alidated in practical setting. Usage of various datasets <b> ...</b></font>=
+</div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;max-wid=
+th:44.5em"><a href=3D"http://scholar.google.de/scholar_url?url=3Dhttp://lin=
+k.springer.com/chapter/10.1007/978-1-4842-1049-9_3&amp;hl=3Dde&amp;sa=3DX&a=
+mp;scisig=3DAAGBfm1esScZniNfh4JcfBBbDbS_5j8xtw&amp;nossl=3D1&amp;oi=3Dschol=
+aralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:underline">=
+Linked Open Data</font></a></h3><div><font size=3D2 color=3D#006621>LF Siko=
+s - Mastering Structured Data on the Semantic Web, 2015</font></div><div><f=
+ont size=3D2 color=3D#222222><b>...</b> <b>Linked</b> <b>Data</b> Principle=
+s. Conventional web pages are hypertext documents connected with<br>
+hyperlinks (or simply links). <b>...</b> The Five-Star Deployment Scheme fo=
+r <b>Linked</b> <b>Data</b>. Publishing <b>Linked</b><br>
+<b>Data</b> (following the <b>Linked</b> <b>Data</b> principles) does not g=
+uarantee data quality. <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><a href=3D"http://scholar.google.de/scholar_url?url=3Dhtt=
+ps://www.o-bib.de/article/view/2015H2S61-73&amp;hl=3Dde&amp;sa=3DX&amp;scis=
+ig=3DAAGBfm0DLDszU2AxdvhtkPzj21EU9zP2Sg&amp;nossl=3D1&amp;oi=3Dscholaralrt"=
+><font size=3D3 color=3D#1a0dab style=3D"text-decoration:underline">Moderne=
+s Datenmanagement: Linked Open Data und die offene Bibliothek</font></a></h=
+3><div><font size=3D2 color=3D#006621>J Mittelbach - o-bib. Das offene Bibl=
+iotheksjournal/herausgegeben  &hellip;, 2015</font></div><div><font size=3D=
+2 color=3D#222222><b>...</b> http://nbn-resolving.de/urn:nbn:de:bsz:14-quco=
+sa-157772 (05.06.2015). =E2=80=93 Miller, Eric: Moving<br>
+from MARC: How BIBFRAME moves the <b>Linked</b> <b>Data</b> in Libraries co=
+nversation to large-scale<br>
+action. SWIB14, Bonn, 3. Dezember 2014, Abschn. Act 3: Visibility,. <b>...<=
+/b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><a href=3D"http://scholar.google.de/scholar?cluster=3D154=
+99200264018599545&amp;hl=3Dde&amp;oi=3Dscholaralrt"><font size=3D3 color=3D=
+#1a0dab style=3D"text-decoration:underline">Mastering Structured Data on th=
+e Semantic Web: From HTML5 Microdata to Linked Open Data</font></a></h3><di=
+v><font size=3D2 color=3D#006621>PD Sikos, F Leslie - 2015</font></div><br>=
+<h3 style=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em"=
+><a href=3D"http://scholar.google.de/scholar_url?url=3Dhttp://www.labtecgc.=
+udesc.br/dspace-ex/handle/01/49510&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGB=
+fm1Z48r4xhY1Jd2RYyZ2P0CdXnsw3w&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font si=
+ze=3D3 color=3D#1a0dab style=3D"text-decoration:underline">Reposit=C3=B3rio=
+s de Dados para E-Science: Open Data, <b>Linked Data </b>e suas tecnologias=
+</font></a></h3><div><font size=3D2 color=3D#006621>DI Ribeiro Junior - 201=
+5</font></div><div><font size=3D2 color=3D#222222>Um novo paradigma de ativ=
+idade cient=C3=ADfica tem se caracterizado a partir dos constantes <br>inve=
+stimentos em computa=C3=A7=C3=A3o de larga escala e reposit=C3=B3rios de da=
+dos: a e-Science. Os <br>reposit=C3=B3rios de dados nesse contexto fazem us=
+o de tecnologias da Web sem=C3=A2ntica, e s=C3=A3o <b> ...</b></font></div>=
+<br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.=
+5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"http://scholar.=
+google.de/scholar_url?url=3Dhttp://svn.aksw.org/papers/2015/SEMANTICS_ITMOL=
+OD_DEMO/public.pdf&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm3uQNxk2bAOWWeK=
+NXfEOd5sX_muxQ&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#=
+1a0dab style=3D"text-decoration:underline">kOre: Using <b>Linked Data </b>f=
+or OpenScience Information Integration</font></a></h3><div><font size=3D2 c=
+olor=3D#006621>I Ermilov, K H=C3=B6ffner, J Lehmann, D Mouromtsev</font></d=
+iv><div><font size=3D2 color=3D#222222>ABSTRACT While the amount of data on=
+ the Web grows at 57% per year, the Web of <br>Science maintains a consider=
+able amount of inertia, as yearly growth varies between 1.6% <br>and 14%. O=
+n the other hand, the Web of Science consists of high quality information <=
+b> ...</b></font></div><br><h3 style=3D"font-weight:normal;margin:0;font-si=
+ze:medium;max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a =
+href=3D"http://scholar.google.de/scholar_url?url=3Dhttp://www.deri.ie/sites=
+/default/files/publications/paper_36_1.pdf&amp;hl=3Dde&amp;sa=3DX&amp;scisi=
+g=3DAAGBfm1CRq5e6HQ4RKT24YFy8_AZtBYyFg&amp;nossl=3D1&amp;oi=3Dscholaralrt">=
+<font size=3D3 color=3D#1a0dab style=3D"text-decoration:underline">A Proven=
+ance Assisted Roadmap for Life Sciences Linked Open Data Cloud</font></a></=
+h3><div><font size=3D2 color=3D#006621>A Hasnain, Q Mehmood, SS e Zainab, S=
+ Decker</font></div><div><font size=3D2 color=3D#222222><b>...</b> We have =
+evaluated the performance of our approach in terms of time taken and succes=
+s<br>
+rates of data retrieved. Keywords: <b>Linked</b> <b>Data</b> (LD), Provenan=
+ce, SPARQL, Life<br>
+Sciences (LS), Semantic Web, Query Federation 1 Introduction <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttp://jens-lehmann.org/files/2015=
+/semantics_pd_geoknow_generator.pdf&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAG=
+Bfm3dkjMgfSw5sp4TOu2AEMtuEbT91A&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font s=
+ize=3D3 color=3D#1a0dab style=3D"text-decoration:underline">The GeoKnow Gen=
+erator Workbench=E2=80=93An Integrated Tool Supporting the <b>Linked Data <=
+/b>Lifecycle for Enterprise Usage</font></a></h3><div><font size=3D2 color=
+=3D#006621>A Both, A Garcia-Rojas, M Wauer, D Hladky&hellip;</font></div><d=
+iv><font size=3D2 color=3D#222222>ABSTRACT <b>Linked Data </b>promises to m=
+ake data integration easier for academic and <br>industrial use. However, p=
+erforming such data integration tasks currently requires high <br>investmen=
+ts because of several major challenges. Available tools are not connected t=
+o <b> ...</b></font></div><br><p><hr noshade size=3D1><font size=3D2 color=
+=3D#222222>Dieser Google Scholar-Alert wird Ihnen von Google zur Verf=C3=BC=
+gung gestellt.<br><br><a href=3D"http://scholar.google.de/scholar_alerts?vi=
+ew_op=3Dcancel_alert_options&amp;email_for_op=3Derictessenow%40web.de&amp;a=
+lert_id=3DAIfevv3NkPcJ&amp;hl=3Dde"><font color=3D#1a0dab>Alert stornieren<=
+/font></a><br></font></div></body></html>

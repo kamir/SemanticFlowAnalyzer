@@ -1,0 +1,137 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.79.82.193 with SMTP id g184csp1400582ivb;
+        Mon, 8 Jun 2015 01:52:15 -0700 (PDT)
+X-Received: by 10.50.79.202 with SMTP id l10mr12082091igx.7.1433753535389;
+        Mon, 08 Jun 2015 01:52:15 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3bVd1VRUKDKIUEJQNCTCNGTVU-PQTGRNaIQQING.EQOGTKEVGUUGPQYYGD.FG@scholar-alerts.bounces.google.com designates 209.85.216.73 as permitted sender) smtp.mail=3bVd1VRUKDKIUEJQNCTCNGTVU-PQTGRNaIQQING.EQOGTKEVGUUGPQYYGD.FG@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3bVd1VRUKDKIUEJQNCTCNGTVU-PQTGRNaIQQING.EQOGTKEVGUUGPQYYGD.FG@scholar-alerts.bounces.google.com designates 209.85.216.73 as permitted sender) client-ip=209.85.216.73;
+Received: by 10.50.16.232 with POP3 id j8mf2659310igd.12;
+        Mon, 08 Jun 2015 01:52:15 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3bVd1VRUKDKIUEJQNCTCNGTVU-PQTGRNaIQQING.EQOGTKEVGUUGPQYYGD.FG@scholar-alerts.bounces.google.com
+Received: from mail-vn0-f73.google.com ([209.85.216.73]) by mx-ha.web.de
+ (mxweb005) with ESMTPS (Nemesis) id 0Lfkxm-1ZQnBc2Ehe-00pJqi for
+ <erictessenow@web.de>; Mon, 08 Jun 2015 10:50:54 +0200
+Received: by vnbf190 with SMTP id f190so2605949vnb.1
+        for <erictessenow@web.de>; Mon, 08 Jun 2015 01:50:53 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=9z5gNrVlySnSkmu7PXpQCVJqkr0fm/UccaqopXKci9g=;
+        b=aurDHHwuYXpZIS5IeQdc8swjhHS7FFWSd3zXw3QVCMacxxvDg/UNM1efkd1tOvW0GN
+         9eekPwT5vRnX1QlNZjCsbY9zUxzMofmiBLjpNzhObbh2jAqngMbQfadztzP/WtlwFAMz
+         UWjvNRolzI1Veu7+PzH/bWDiekyZwSNY5E+hTvGmEph/zhWevc2/jQZwm9gCE1qY7u9H
+         BfdVG+b8rNIMbIVUQtcHAr7jD2n5q/2SoCdehnOz2AMT4QGq0R2BAqIhKH7NlJHpz/77
+         zzaRvIZ2k/EX462Q/pMOowEps2yvVvducbL8PwCZv5EA6cLutHFQHoEbd0wWMtiqjNl9
+         AQDA==
+MIME-Version: 1.0
+X-Received: by 10.129.109.196 with SMTP id i187mr16929942ywc.41.1433753453464;
+ Mon, 08 Jun 2015 01:50:53 -0700 (PDT)
+Message-ID: <94eb2c088e0c4a0b3d0517fdbd8a@google.com>
+Date: Mon, 08 Jun 2015 08:50:53 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:nyPNzV5cDBw=:1k8vF9ptRL7UjSsKQgSYFTgXrt
+ HKesZpczDKi4AbMUZ33CF07uPEhKgGBfMlq3Ig6wbZubYXbcKhhf07HyVK5N/UZ2VHg4WVAUz
+ cKlp9RnHDQ+emPdjojhgPvMpWN2i14TDIe42gIESOhVpV1PWwYuyRhfK4O4mFsxS2O/gPg2N1
+ yjdfG06qLYLMCy6j7Fh+FZEFgA5g18aQMj6pK5s3AHotN4wuJtH6M0vE/Wj6hPwFYu2zp9DFZ
+ J2ypEH3j8IXpCabnoNBfG8tW8SLd546O16hTcu8ktdgISK/1e1aIyMxK6AiuGn5B3cSF3NYRy
+ UNcbPkGkqUPBUsZKPhzOfMNwCX8hWqjIcHLztkWFGBixwnzAr6K2asHl9exiuQhNichUyhR54
+ S+yDLqwaEWs9KoROJcr2cl0XxmOxXyJCG9xwSVmB1EDHDvH5xgQEjXb4ThToUgmr6Pv21tfdM
+ kMnXtnJlzh3gZpRifuuM6tUlmd8yuZXLO+rRHbf1SazrbywWNSihVjlwWxMJHEdvUcl09yll/
+ VyyfVOS/LHbNJ2nTIpzDVtY8/+Fx48LJxbVHv/u/d2MJGYbSok/xJVftf85DdNg3XObHgk44P
+ BU56calehoxypNfTkIUAI2zNjyIOaEvH6QJsNHkqdZb69UVbBgF3Pt8ApLdiKYSK8p4xhoM/L
+ +bK6JoV1hJeMk2xIGixkI/CEpvLUnODCCRA9S5loAAEK061g1tsjLlrpHRXcCUeeyDo8rSlFz
+ sCkuyXzTzPKzLPDdr/drwxsAWzJC9QDWqfPYHvqRVOfMALvhDMIMcb29v8sVu2+Pq/4c9mSVU
+ Lko3s3Ba1ZlO41E4laPBt3X0zuqDZk64gK6V8G2WnVpMAUqZ96Z4K3G0g4WhgwPTyjqtMyzby
+ 2C5Q7/NlrQ6svFMSpFDbabsfIS25oVroYFtyKXLvyzyJJsW21v/llcaJsR8I8lKxBw+zJYiY1
+ 87P5G0Ejzw8sWDCQhEyrjc6Az8zDNYxPFz2WxaW5+YSmA1I433qUb1gnwe/RaUwryikZiD7T9
+ sPAKMMiz6hAWKnBl51mYwawQEHLfTwk8Pjg55MhOhm4RYqJH3MJyeHPzPaIZ8JYSRunx0h8qX
+ FqNtl6pS6kcg4f+IxgroPrteE5PQZiTK4yTMhNU1c9ZPKoy6qwkp+vld2QoVwvMFlns0AgEGj
+ 0T2E2nRriGOVMNYxtB1LXADn76cxCCr5uty/0VOn6rpx2U7HPYQoM/4M0qCelPjgJvsTD9OCJ
+ jpFjnNZqOxAWp2y9bozCWj425PdPMLOVNIWZl4Ir1HDruTyCSC0JFF9YEvtkkMrxkVdQ13bJQ
+ rf73RStoacb5RhmElLFp3vyf+Mx9dDMHBwfq3exvegUSzPwKTbsZQLzbV1QDoa+DQCZX5nXRw
+ 90rA0/8zJtU630aBIZsOIwCfxOjuyu1hQ+R0YQo67pXXT0gtgZvdftgFVb+9yvrzosye0WfqP
+ tAbtoOQE91npDijgszRsAKpaZ99eaj/wcgWLYOR5vKN2dCv3iWsaFLCBU3EsUTgR1Gvihf8g=
+ =
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttp://link.springer.com/chapter/1=
+0.1007/978-3-319-19581-0_8&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm2NXq3L=
+tcXfcggIBQVhrDO46Kwmtw&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 c=
+olor=3D#1a0dab style=3D"text-decoration:underline">Applying Semantic Parsin=
+g to Question Answering Over <b>Linked Data</b>: Addressing the Lexical Gap=
+</font></a></h3><div><font size=3D2 color=3D#006621>S Hakimov, C Unger, S W=
+alter, P Cimiano - Natural Language Processing and  &hellip;, 2015</font></=
+div><div><font size=3D2 color=3D#222222>Abstract Question answering over <b=
+>linked data </b>has emerged in the past years as an important <br>topic of=
+ research in order to provide natural language access to a growing body of =
+linked <br>open data on the Web. In this paper we focus on analyzing the le=
+xical gap that arises as a <b> ...</b></font></div><br><h3 style=3D"font-we=
+ight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"http://s=
+cholar.google.de/scholar_url?url=3Dhttp://scholars.unh.edu/library_pub/76/&=
+amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm3xPURlapljgG9uEX7nO6QqIReQTQ&amp;=
+nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"tex=
+t-decoration:underline">Research Data and <b>Linked Data</b>: A New Future =
+for Technical Services?</font></a></h3><div><font size=3D2 color=3D#006621>=
+SL Vellucci - 2015</font></div><div><font size=3D2 color=3D#222222>Abstract=
+ This book chapter examines two futures for academic librarians working in =
+access <br>(technical) services: deeper collaboration on data management wi=
+th faculty and student <br>researchers and expanded access to library resou=
+rces on the Semantic Web. Both are <b> ...</b></font></div><br><h3 style=3D=
+"font-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=
+=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"http://scholar.google.de/schol=
+ar_url?url=3Dhttp://homepages.inf.ed.ac.uk/s1054760/papers/pareti_websci_20=
+15.pdf&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm1kzBKEQf-p45CYEnqOGcJC4yC6=
+ow&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=
+=3D"text-decoration:underline">A <b>Linked Data </b>Scalability Challenge: =
+Concept Reuse Leads to Semantic Decay</font></a></h3><div><font size=3D2 co=
+lor=3D#006621>P Pareti, E Klein, A Barker</font></div><div><font size=3D2 c=
+olor=3D#222222>ABSTRACT The increasing amount of available <b>Linked Data <=
+/b>resources is laying the <br>foundations for more advanced Semantic Web a=
+pplications. One of their main limitations, <br>however, remains the genera=
+l low level of data quality. In this paper we focus on a <b> ...</b></font>=
+</div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;max-wid=
+th:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"http://sc=
+holar.google.de/scholar_url?url=3Dhttp://sisinflab.poliba.it/publications/2=
+015/DO15/Recommender%2520Systems%2520and%2520Linked%2520Open%2520Data%2520-=
+%2520RW%25202015.pdf&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm3-fK1MJqQDwn=
+VRfo8CPzFr50pOWw&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=
+=3D#1a0dab style=3D"text-decoration:underline">Recommender Systems and Link=
+ed Open Data</font></a></h3><div><font size=3D2 color=3D#006621>T Di Noia, =
+VC Ostuni</font></div><div><font size=3D2 color=3D#222222><b>...</b> it 2Pa=
+ndora Media Inc. 2101 Webster Street =E2=80=93 Oakland, CA 9461 vostuni@pan=
+dora.<br>
+com Abstract. The World Wide Web is moving from a Web of hyper-linked docum=
+ents<br>
+to a Web of <b>linked</b> <b>data</b>. Thanks to the Semantic Web <b>...</b=
+>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttp://www.researchgate.net/profil=
+e/Tihomir_Stefanov2/publication/277486311_Applying_linked_data_technologies=
+_for_online_newspapers/links/556c088d08aec226830381bd.pdf&amp;hl=3Dde&amp;s=
+a=3DX&amp;scisig=3DAAGBfm1MgaQDfzAZPUh6SipdmfUUZN9eKQ&amp;nossl=3D1&amp;oi=
+=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:und=
+erline">Applying <b>Linked Data </b>Technologies for Online Newspapers</fon=
+t></a></h3><div><font size=3D2 color=3D#006621>T Georgieva-Trifonova, T Ste=
+fanov</font></div><div><font size=3D2 color=3D#222222>Abstract=E2=80=94The =
+constantly growing data volume at the companies along with the necessity fo=
+r <br>finding information for the shortest possible time span involves meth=
+ods of information <br>search different from the ones conventionally used. =
+The semantic technologies, <b> ...</b></font></div><br><p><hr noshade size=
+=3D1><font size=3D2 color=3D#222222>Dieser Google Scholar-Alert wird Ihnen =
+von Google zur Verf=C3=BCgung gestellt.<br><br><a href=3D"http://scholar.go=
+ogle.de/scholar_alerts?view_op=3Dcancel_alert_options&amp;email_for_op=3Der=
+ictessenow%40web.de&amp;alert_id=3DAIfevv3NkPcJ&amp;hl=3Dde"><font color=3D=
+#1a0dab>Alert stornieren</font></a><br></font></div></body></html>

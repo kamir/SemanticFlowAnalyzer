@@ -1,0 +1,83 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.64.243.69 with SMTP id ww5csp61616iec;
+        Fri, 21 Mar 2014 22:16:09 -0700 (PDT)
+X-Received: by 10.50.30.225 with SMTP id v1mr1184951igh.26.1395465360531;
+        Fri, 21 Mar 2014 22:16:00 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3YhwtUxUKDO0hRWdaPgPaTgih-cdgTeanVddVaT.RdbTgXRiThhTcdllTQ.ST@scholar-alerts.bounces.google.com designates 209.85.219.73 as permitted sender) smtp.mail=3YhwtUxUKDO0hRWdaPgPaTgih-cdgTeanVddVaT.RdbTgXRiThhTcdllTQ.ST@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3YhwtUxUKDO0hRWdaPgPaTgih-cdgTeanVddVaT.RdbTgXRiThhTcdllTQ.ST@scholar-alerts.bounces.google.com designates 209.85.219.73 as permitted sender) client-ip=209.85.219.73;
+Received: by 10.64.224.178 with POP3 id rd18mf1036543iec.24;
+        Fri, 21 Mar 2014 22:15:59 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3YhwtUxUKDO0hRWdaPgPaTgih-cdgTeanVddVaT.RdbTgXRiThhTcdllTQ.ST@scholar-alerts.bounces.google.com
+Received: from mail-oa0-f73.google.com ([209.85.219.73]) by mx-ha.web.de
+ (mxweb101) with ESMTPS (Nemesis) id 0Mcl2r-1WicfS2G4P-00Hw7J for
+ <erictessenow@web.de>; Sat, 22 Mar 2014 06:15:15 +0100
+Received: by mail-oa0-f73.google.com with SMTP id n16so604947oag.2
+        for <erictessenow@web.de>; Fri, 21 Mar 2014 22:15:14 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=UJPIYb7Dw5qYfclouCQhw6uxLPWCHeClUoSNCvpcqiY=;
+        b=YbpOHHNlG2wZuid7yHGLpotfqG4wVdBZUpwfb2CAF0dFxFJWrTew913NLd9g6gB/r3
+         3vxzDnhBquDWxwbr0yxoDvtu8JfAXz/To6XXoaWFp6p51Y/nRCUHLuJiiIqiRNTIN4ao
+         sG+0TtiYtm6ZNxMSDRsn++iRoD1gl51Lt9MabQnq6lH7VQlAbZr52/dyOetCVV1s3eUr
+         v9IuJ2mUL38JL7/vasgGJFErwYoO7amzCe/HLXIbC+3M41S+dhAnjj26DHF0U6rA/150
+         CQ1K6BQoX3lmBd8/1BZggFE1/301v2HkGMlAflm4BoDdb84vMrj9Nf+NrGnEFVIongLY
+         KKIA==
+MIME-Version: 1.0
+X-Received: by 10.43.141.196 with SMTP id jf4mr3509266icc.9.1395465314349;
+ Fri, 21 Mar 2014 22:15:14 -0700 (PDT)
+Message-ID: <001a11c2d33a5bb2cd04f52b16c6@google.com>
+Date: Sat, 22 Mar 2014 05:15:14 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:Jf+WJjiEtZI=:Cpnnmk4CJKCKjC0eChTmRGabY8
+ b2ehoWcy0bc8F0lTS/7ETYJNwRMB8JMOtjighq3HPoY5DRDfdIR3qd9ItnIyamsBO1jkJa01h
+ 0dMIogGkppp7kvsFmKVMPAKq+0zwru/nNm9JgIAxdSheCQizZs1+nhHadp4XLBA6wmNVf3POF
+ WvSULMB838DqS629xVOrGDLnsK5kaibyj4JZ1iht8mlxBavMvxiI97iGzdlrTxHkY/aTYEzy4
+ /kmQcw08ilrpm9O/1WWy+cKqoI0QRstRcdivmxpKdn97q+SsVZhpoG30SwgPjp7k0mr96foqL
+ jsTOTn73X+c8iwOyLwOll0ifi+8b7ucBBqFhPKgZ3RIxsNeIY11kYo19P9byuY5F1KZJ1SewT
+ /B2ibZBPNrRPyT0H5NdsiZNx6jHTW/nY7Vlggyxmz51Qn9dM8MC0TEJkkIkqp6w8GLS0g3wgV
+ pmkXsaSCpQK731P6TwyH7hOU0+AWRskhGeEF9sX8cXi6M6AAqZMS7pnBwaBku7ClIp51aXu4h
+ 8pE1SOvtQvGIr6FpJnwqYcpBCzYa7dCJRn3qRbCei6ULV+ePBds1z3otEUh48Zq8It5tVPT2y
+ hNljm6cyZAhj0WO6PA+qqeQHo0kMHzJ1pYop39d48QHAkcBgjENTtXlqw2Vza+Rh8/iW23lU9
+ VSiqX0Z6kFNvXYBLC1uRhY2sRC0GfXdpK6wg/4B9AvrE0ysizGxTZhQ2dYlAKml06Duk8tsr9
+ DrvNfn/DFEi0X8u8jtW/deUq9YNqg2G9U+peUFwZWx2cPCyexf4rKyaAnRix/2bDwA9dAyZTP
+ c/Au/RD/Pll81zLnIYPaiCBKyMjHw4Id1DgkLHLUEMLANt5mi2cHkBxj9RR0oI25KSTLaf2Jw
+ dhbJeRuVBAcmvVjtj4bmx05WVspfy0ztwNmae5DXY9uNxCOioQ8bUsQ+6tZWCKr47VRTO1LPa
+ F0gDgmGpJBJHgWoKkcyTINef7jrwyKBzFDZGI63papgCuSDIopl2NULbFU0Z1Ap5HCsWC5H3l
+ 4FeZTNWDxLhoJ+6bcSDZ6vVbYwrAXfgEvTWTFl/jSlFH/lpPiJt3vFM13JzHTSeiGaUue6PgT
+ abX3cLfAPc8sYVbWed0uf3wZagjU24tmGNRLG1mODy1mNjz+7JzxOpjF+3/1FDGdvNqkbR+kk
+ g2XAQQG1LcZUA4WJnjvM7ppCq8+sqjH9aghoO7ZEFCZ6o27CWKU3h8N8+4HLJRDFtR1igMsJa
+ 3wzJUj8kP3VOnhTZXpk1b6qBoXSmf+oVsYoS85TN12J+ni+QC3V3ayyQaUpVKemuMaoJn+87+
+ lwYGFSrJNoE47x25Hw7e5qK3xiuoDdy1uYeepFGBKrCDev/YI8r4cVdr2+TWxDQvofS6Wz36F
+ 0QAbv+Sz4Qh9PgWlA==
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D=
+2 color=3D#1122cc>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_=
+url?hl=3Dde&amp;q=3Dhttp://www.seco.tkk.fi/publications/submitted/hyvonen-e=
+t-al-biography-2014.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm2psLfXk2nvIRbYamxU_Qr=
+sNETOIw&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D"text-=
+decoration:underline">Semantic National Biography: An Event-based Approach =
+to Publishing Life Stories as <b>Linked Data</b></font></a></h3><div><font =
+size=3D2 color=3D#009933>E Hyv=C3=B6nen, M Alonen, E Ikkala, E M=C3=A4kel=
+=C3=A4</font></div><div><font size=3D2 color=3D#222222>Abstract. Biographie=
+s are widely used for learning and researching history. This paper <br>argu=
+es that biographies make a promising application case for <b>Linked Data</b=
+>. We present an <br>approach where life stories, extracted from unstructur=
+ed texts and structured cultural <b> ...</b></font></div><br><p><hr noshade=
+ size=3D1><font size=3D2 color=3D#222222>Dieser Google Scholar-Alert wird I=
+hnen von Google zur Verf=C3=BCgung gestellt.<br><br><a href=3D"http://schol=
+ar.google.de/scholar_alerts?view_op=3Dcancel_alert_options&amp;email_for_op=
+=3Derictessenow%40web.de&amp;alert_id=3DAIfevv3NkPcJ&amp;hl=3Dde"><font col=
+or=3D#1122cc>Alert stornieren</font></a><br></font></div></body></html>

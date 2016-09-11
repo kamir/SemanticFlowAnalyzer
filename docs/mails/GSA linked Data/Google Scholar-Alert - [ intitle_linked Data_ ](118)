@@ -1,0 +1,141 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.182.128.163 with SMTP id np3csp5928147obb;
+        Mon, 28 Dec 2015 23:52:50 -0800 (PST)
+X-Received: by 10.60.58.166 with SMTP id s6mr34693419oeq.80.1451375562747;
+        Mon, 28 Dec 2015 23:52:42 -0800 (PST)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 31i2CVhUKDPMnXcjgVmVgZmon-ijmZkgtbjjbgZ.XjhZmdXoZnnZijrrZW.YZ@scholar-alerts.bounces.google.com designates 209.85.160.201 as permitted sender) smtp.mailfrom=31i2CVhUKDPMnXcjgVmVgZmon-ijmZkgtbjjbgZ.XjhZmdXoZnnZijrrZW.YZ@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 31i2CVhUKDPMnXcjgVmVgZmon-ijmZkgtbjjbgZ.XjhZmdXoZnnZijrrZW.YZ@scholar-alerts.bounces.google.com designates 209.85.160.201 as permitted sender) client-ip=209.85.160.201;
+Received: by 10.202.243.8 with POP3 id r8mf89437430oih.3;
+        Mon, 28 Dec 2015 23:52:42 -0800 (PST)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: <31i2CVhUKDPMnXcjgVmVgZmon-ijmZkgtbjjbgZ.XjhZmdXoZnnZijrrZW.YZ@scholar-alerts.bounces.google.com>
+Received: from mail-yk0-f201.google.com ([209.85.160.201]) by mx-ha.web.de
+ (mxweb009) with ESMTPS (Nemesis) id 0MLDN3-1aE58b0IJV-000Oj3 for
+ <erictessenow@web.de>; Tue, 29 Dec 2015 07:53:12 +0100
+Received: by mail-yk0-f201.google.com with SMTP id y10so1723058ykf.1
+        for <erictessenow@web.de>; Mon, 28 Dec 2015 22:53:11 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=kO3gVFvMl0M20kzsUZ9fLGgZlPwe6P/+X3YX6IVarbU=;
+        b=Xx94jXSH1eX31MMkatV/uzvFsLgz2fc2dPHO2Ez8iXDHAVy6OvthnlmlSUxo3r5tPI
+         YKj0Gv2Km0KFaldlaME3Bm54Hu9LzlM/FEL5kB3NgbuHDIX9/D7GX8p8U3SzsWNpwF/N
+         a3CpoyFWmIqQUeW7Xtl2mGulRs6iaVZEEJqlHOQKB14YaGpwBPFfsHBOgGlHIq4Nhp5s
+         8823rlxXyUJuiP/ic9+z/TLQMFSaS+UBok/TsQ6JumKvjgrN2ZlI1brmewNjM5PpAVvu
+         z/XXfaCoIDJJxZ/lmXmKq1Lf89qj73qwZGCVTbmqROV0fhqn8d8Scg9UA5KlVnyGariM
+         /DWg==
+MIME-Version: 1.0
+X-Received: by 10.13.217.207 with SMTP id b198mr50459779ywe.16.1451371990951;
+ Mon, 28 Dec 2015 22:53:10 -0800 (PST)
+Message-ID: <001a114fb244f5281f052803df79@google.com>
+Date: Tue, 29 Dec 2015 06:53:10 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:tPt19Dbi38k=:Do8JBI9DY8puHh/VA39vLLAITN
+ QxYtEswARyTzaDA+qXsEME544UVXne62QWUq56NSg5MRabKSJl5XJb52Q+g4l3xv7R9iZfUYa
+ ZA9pniOj2hGQicBPPrVXh2JhQAQVV79m97uz538kzWdRCjK3ybN/c4rX6GUKB7DRjuu3+eJLX
+ AQHCn4hy+OKtkOek2xNSrftsOqAQGGuWN2ILuG0UteHY9xSC0d+RDlqT4fKGHpTlV5IVrQPsu
+ c39VTUhg3XzhM5zQ3yMDcch3w2xbGStQoqU/JChRSAkJ2J/PTrZivq+ct8O7m6rzqywZjD5WX
+ 8cEZNRqhWEYuTxMxh6Wlv4qWAXdmAZDb8och3BJqyrppkmIZVpHBy3rYs4+EqJno+GKAAeORB
+ M9B7Ueh/moQSTAy3/Go0pKGKEmF2DIAkqcs79YPhf5Z+PmyKAM770Y/XaJWYfXr4oIpwz/duN
+ j1IcmVHjSZv1nwTH7pfgVFBI9Ylmtzt3lBkGDLKiiwN1iG27CDRO8bxvsvKdSuCtgcMoQ5jSA
+ NBh8XItPszCcsDxTFjXPazses4KDffn4tROKqKC8IaZX9HJFz7gIs7OFUEowtB79EBIA+pGSh
+ mYxIpYZ9g8DIQuLSFq+k+qDJyP4hPHjYv6W0xTiDHf8RCiVIxDLwbdAe79Jr/CJbFlkto5SQA
+ vEsVp5/7xgbznn3dK5B3YVRuYcqIXAEX986PIo6yGC+qLD2XNcdogbt1T4S3pynht1z2/17zg
+ SCf0ZzDJRLgUObkQv3li6zqKwHrCnvs6q5ImIbRkrCDOJAd9Yup6BZmtp9TbDLkRjl83gN+lF
+ uIxmcKu4AdYvxyTaScsGJH7C6zB3YjeLV/iEicupRhu8IIZHNNCQYu3rL2tBazbVXi0i+HgP0
+ acwNf8XeYblEbRANy4nUSpmhLcsPG59Yl6qCz7Pn9ttPa619Lq5+1BaJGCrfRDm8parSRd4Fu
+ D+AbhFn7pqrCaJ6eLACtWq4yLZw8CgUL2wUULVQZTZql/aE3PCDwxrOb5CsUO0rya++IScv9v
+ JwOAa0F4aMrwvbaJuNUvE000hURWEq+oBRIQd0LfhytWqsdoodC/UIyxEWpurt5hNoF07IkP9
+ huI+6acefoCZDWAvWpnYtkjxIusG74DktoEijAZUUN3sUlHNONPJQgM3nu43Y1T6fU+AFQ/PF
+ zGkx95ST4kvG5yFB3zRRaCg/VMYndP3Jp7oKST6lwm/5uVkn/08xSILrC1pkR0HnRouOTxZXz
+ s8/q+65OiL2/y9mACXq7ZtDVZ05AstY6xkWf0VUAAL5jzKH9v5d789NsPfH/X8QZw6bosQVws
+ eDrUrqiAA7uO44eI8TXI5tFpYxKvbm4PcOfa0pr5ENEqd/A=
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D=
+2 color=3D#1a0dab>[HTML]</font> <a href=3D"http://scholar.google.de/scholar=
+_url?url=3Dhttp://www.sciencedirect.com/science/article/pii/S18770509150361=
+33&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm1XQs8jnKUhVWYx-tHhsf0P0n6N-w&a=
+mp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"=
+text-decoration:underline">Visualisation Application Development for Mosque=
+ Financial Report Using <b>Linked Data </b>and Crowd-sourcing</font></a></h=
+3><div><font size=3D2 color=3D#006621>NA Rakhmawati, RP Wibowo, MIH Amir - =
+Procedia Computer Science, 2015</font></div><div><font size=3D2 color=3D#22=
+2222>Abstract Indonesia is a country with the largest Muslim population in =
+the world. In 2014, the <br>number of mosques is 850 thousands. The lack of=
+ financial information of the mosques for <br>public is the main problem. A=
+s a result, the funds cannot distribute evenly to each mosque. <b> ...</b><=
+/font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;m=
+ax-width:44.5em"><font size=3D2 color=3D#1a0dab>[HTML]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttp://www.sciencedirect.com/scien=
+ce/article/pii/S2212567115013878&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm=
+0LvHw-_qKwv6Bjv-tIwC8lqEFb9Q&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=
+=3D3 color=3D#1a0dab style=3D"text-decoration:underline">Taking Versus Maki=
+ng in Paradigmatic Marketing based on Semantics and <b>Linked Data</b></fon=
+t></a></h3><div><font size=3D2 color=3D#006621>O Turcoane - Procedia Econom=
+ics and Finance, 2015</font></div><div><font size=3D2 color=3D#222222>Abstr=
+act This paper proposes a new conceptualization for client-oriented marketi=
+ng, <br>meaning a strategy helping identify the real needs of the client ra=
+ther than induce or activate <br>some artificial or false needs. Linguistic=
+ally, the concept is based on semantics as an <b> ...</b></font></div><br><=
+h3 style=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em">=
+<a href=3D"http://scholar.google.de/scholar_url?url=3Dhttps://ipsj.ixsq.nii=
+.ac.jp/ej/%3Faction%3Dpages_view_main%26active_action%3Drepository_view_mai=
+n_item_detail%26item_id%3D146577%26item_no%3D1%26page_id%3D13%26block_id%3D=
+8&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm3qlBQENufm8TsIc-oUqq0InO97tw&am=
+p;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"t=
+ext-decoration:underline">=E6=9A=A6=E3=81=AB=E9=96=A2=E3=81=99=E3=82=8B <b>=
+Linked Data </b>=E3=81=A8=E3=81=9D=E3=81=AE=E6=B4=BB=E7=94=A8</font></a></h=
+3><div><font size=3D2 color=3D#006621>=E9=96=A2=E9=87=8E=E6=A8=B9 - =E3=81=
+=98=E3=82=93=E3=82=82=E3=82=93=E3=81=93=E3=82=93 2015 =E8=AB=96=E6=96=87=E9=
+=9B=86, 2015</font></div><div><font size=3D2 color=3D#222222><b>Linked data=
+</b> about calendars and periods in the calendars (ie era, year, month and =
+date) are <br>
+constructed. Although these periods are expressed as literal values in usua=
+l RDF data, they are <br>
+expressed as resources in this study. Consequently, periods in calendar are=
+ linked with <b> ...</b> </font></div><br><h3 style=3D"font-weight:normal;m=
+argin:0;font-size:medium;max-width:44.5em"><font size=3D2 color=3D#1a0dab>[=
+PDF]</font> <a href=3D"http://scholar.google.de/scholar_url?url=3Dhttp://se=
+co.cs.aalto.fi/publications/submitted/hyvonen-et-al-hipla.pdf&amp;hl=3Dde&a=
+mp;sa=3DX&amp;scisig=3DAAGBfm1-canO9MX524_VbQxmLiyA91VjOQ&amp;nossl=3D1&amp=
+;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:=
+underline">Linked Open Data Service of Historical Places and Maps</font></a=
+></h3><div><font size=3D2 color=3D#006621>E Hyv=C3=B6nen, E Ikkala, J Tuomi=
+nen</font></div><div><font size=3D2 color=3D#222222><b>...</b> in a sustain=
+able way. Second, in order to foster understanding of historical places,<br=
+>
+the places can be provided on both modern and historical maps, and with add=
+itional<br>
+contextual <b>linked</b> <b>data</b> attached. Third, since data about <b>.=
+..</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttp://seco.cs.aalto.fi/publicatio=
+ns/submitted/hyvonen-et-al-warsa.pdf&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAA=
+GBfm2CZL7Ga7miiy543hIQ5upUNADzbA&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font =
+size=3D3 color=3D#1a0dab style=3D"text-decoration:underline">WarSampo Data =
+Service and Semantic Portal for Publishing Linked Open Data about the Secon=
+d World War History</font></a></h3><div><font size=3D2 color=3D#006621>E Hy=
+v=C3=B6nen, E Heino, P Leskinen, E Ikkala, M Koho&hellip;</font></div><div>=
+<font size=3D2 color=3D#222222><b>...</b> Finnish. Page 2. World war histor=
+y makes a promising use case for <b>Linked</b> <b>Data</b> (LD)<br>
+because war data is by nature heterogeneous, distributed in different count=
+ries and<br>
+organizations, and written in different languages. WarSampo <b>...</b>=20
+</font></div><br><p><hr noshade size=3D1><font size=3D2 color=3D#222222>Die=
+ser Google Scholar-Alert wird Ihnen von Google zur Verf=C3=BCgung gestellt.=
+<br><br><a href=3D"http://scholar.google.de/scholar_alerts?view_op=3Dcancel=
+_alert_options&amp;email_for_op=3Derictessenow%40web.de&amp;alert_id=3DAIfe=
+vv3NkPcJ&amp;hl=3Dde"><font color=3D#1a0dab>Alert stornieren</font></a><br>=
+</font></div></body></html>

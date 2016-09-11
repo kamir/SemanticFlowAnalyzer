@@ -1,0 +1,125 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.55.166.132 with SMTP id p126csp1635218qke;
+        Tue, 29 Sep 2015 02:14:51 -0700 (PDT)
+X-Received: by 10.55.40.37 with SMTP id o37mr24184878qkh.41.1443518085185;
+        Tue, 29 Sep 2015 02:14:45 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3v0oKVhUKDDQiSXebQhQbUhji-dehUfboWeeWbU.SecUhYSjUiiUdemmUR.TU@scholar-alerts.bounces.google.com designates 209.85.220.77 as permitted sender) smtp.mailfrom=3v0oKVhUKDDQiSXebQhQbUhji-dehUfboWeeWbU.SecUhYSjUiiUdemmUR.TU@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3v0oKVhUKDDQiSXebQhQbUhji-dehUfboWeeWbU.SecUhYSjUiiUdemmUR.TU@scholar-alerts.bounces.google.com designates 209.85.220.77 as permitted sender) client-ip=209.85.220.77;
+Received: by 10.140.102.85 with POP3 id v79mf195313qge.2;
+        Tue, 29 Sep 2015 02:14:45 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: <3v0oKVhUKDDQiSXebQhQbUhji-dehUfboWeeWbU.SecUhYSjUiiUdemmUR.TU@scholar-alerts.bounces.google.com>
+Received: from mail-pa0-f77.google.com ([209.85.220.77]) by mx-ha.web.de
+ (mxweb004) with ESMTPS (Nemesis) id 0LaVpf-1aNd5r3Qp5-00mH5Q for
+ <erictessenow@web.de>; Tue, 29 Sep 2015 10:24:33 +0200
+Received: by pabve7 with SMTP id ve7so293360pab.0
+        for <erictessenow@web.de>; Tue, 29 Sep 2015 01:24:31 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=+b/LjOhTZym6G+LASRYe0FwtSEpkxz98eLepAx3Tpxk=;
+        b=NJb3P2ph5P6njmWCXBHFUFRRw11lTYsHGX99dpWNexG1JWmdUyUN+dE7UM4gjYZbZ5
+         f1D6IzkCfYoZpDJFuM1wmXSyS4GdptsdbWlUv7186yzv3OYSGHLu32PoprQeY5JnxYlP
+         S2i1QKOsLF5gRv+w1LuRQ9oJlcz8DAfx3RClz+5/L0dx+XgiKNX+2yO0mBfLkLCpZN++
+         cQM54uOrorL3IZe+RdB2dnN7z79lh6tLE1UW2xCJlPyqgg9HowxNzzk1bhbu+1b0eHfQ
+         5GFPZNLEAlZPAsmjJcg9EPtBWDbVa+hkMhXhGgziqtDqF9OWX4cVP7YhNKBlmAvL8Zsl
+         eNIw==
+MIME-Version: 1.0
+X-Received: by 10.66.254.131 with SMTP id ai3mr22427798pad.5.1443515071383;
+ Tue, 29 Sep 2015 01:24:31 -0700 (PDT)
+Message-ID: <047d7b111f9f0ec8d30520de8b39@google.com>
+Date: Tue, 29 Sep 2015 08:24:31 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:CxvvB5pCX+E=:EToClfaQNng5FY0yRZLfvj3+Zk
+ vCkh5hDI5829LOwxKk2K+aEVu/df7JLJ4fRBjFIVgNnjIliC84jqCUkoiuhKqhis2SXpu3jaU
+ spATU5/tMry0vNbyvKiLbKBjN4OwNKWFAOSmEuhuNt3v68Ch8OUSdMxd6NNTXwUmwUrkmUwvO
+ hgonH/RMGH+5pvOfucfymdsJLrcPS6ODFNkP/osWJCJD1qM9U5TliUsaMRQCBoxsn+1XugY+d
+ sH2yB4vKP76qbbfnPIZRs0ygZx5LbXmxsmUtcCgMLZmgqXKoyPUwJcSJcJXyuGlIZa+Ad4BVB
+ aHp5Lgsevmz8xxLAOHJRjwE9BvR9tk8aJeHOQEGm57x0WpXx5yHjyrq8n7uoWIeChgk6TGQI0
+ t4bEX6OL2VTrLj5xUWsoaV7JykYXBN1WRuFrcbDI5FJvWZyb2asSNAq3obeU/MKM0Ycp7TLwz
+ hPalP9/7C0nQYhVkWNEUVlJ4Bl/XX5nF7Y1m26F2HOlGhr0aeqeR77/zN9qZrOgkoiNeA4ERt
+ 7foWFK0SV5MkzZXKDq4vsPWC7tvwPWxF2ivHK/XGipL9oPxeHMJzOJC5yDDbzAf41YIIuK2BP
+ fQtXoIYLKSnmZTM5lcpH2geoj925puuOumsqp+YPyztBiVSwz1SftGgrGsX+bXvHLDllE0Yrk
+ F2IIYze/ywK3iNM0yphLN06sBMI9b6SrGcwhrziypthVeKEeb8c8O3gfkvmY5fHW3LP0hjwOZ
+ QtCPHJoZrfff4ANouKZ1V2nJzdbo5CdVeClAIcqIm4+lqSOWQ5AVSCBEnsUJbUeevyrx4xyj6
+ JV0AGpdzLUA6yBkDbJ7B2FE/bgyPLNo0qKZRW3A/drdX1PwWDpUuy+JVDxTVENdCe5lQBWvqZ
+ bwCUAY13dScoABqo3d3zoXpjxNnDK5wr4GJyoprf3g0h5tCM6RQJHoMXD7LPeLtMsMVU42I6I
+ 8G59MDAWuCwBIbVznn/88VAonuGVlBn7632zwoxgkZJP5+Fm+XAdl6F3hpXymEIG+TPVZ/VMX
+ d0CjxTMASvPIFpgC1vhD8djYbH4480lwrHQBgCNZvGbPfrvshplAtUuGLYZYjXWDgIDqm5Pfx
+ nU92M1jxZqqAac7LjjkgG2LbSHBAa9JNh1CpRlQoRPvXqplmIwpEfDXPvjo/GKlNx4AxFCWWx
+ nFdIFMyZKnrjS9FCq/a7gBIMPdl+BMs+Zrh1WasLcmxciirSCBxn+uB2X0o1CFxmbVlwbcWYy
+ r0MT5lwXOxCq4qeJa3ca9unbRA9KglwPZzmmN1jbSDkGWk4wWyiaJC8SxPD9pvPFBSjFuLhKN
+ Ny8epitjXoDiwyUkrtKW71SHdVzExUJJKq2MAFbDCu9daKLwFzow7wGjFUQJhjPZzjXbK0lCM
+ tx4VfGnd01IUGyfz8mpJyPaLJFdQ+MyApvr+FCcNsddCPDtEFGWB8Vb7g+nEV6+FrSfkI6reo
+ R7szvwvKqdboSSjGMUO/lqcvDoLhmkgyTH/NfEISg+QB9BvVyi
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttp://www.tandfonline.com/doi/abs=
+/10.1080/13658816.2015.1084420&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm1h=
+eRbPyKIwsiwmd9_EBXLNG91OjA&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=
+=3D3 color=3D#1a0dab style=3D"text-decoration:underline">Spatial data fusio=
+n in Spatial Data Infrastructures using <b>Linked Data</b></font></a></h3><=
+div><font size=3D2 color=3D#006621>S Wiemann, L Bernard - International Jou=
+rnal of Geographical Information  &hellip;, 2015</font></div><div><font siz=
+e=3D2 color=3D#222222>ABSTRACT The synthesis of spatial data from the vario=
+us sources available on the Web is a <br>major challenge for current applic=
+ations based on Web-based information retrieval and <br>spatial decision-ma=
+king. This article addresses spatial data fusion, with particular <b> ...</=
+b></font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:mediu=
+m;max-width:44.5em"><a href=3D"http://scholar.google.de/scholar_url?url=3Dh=
+ttp://discovery.ucl.ac.uk/1466469/&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGB=
+fm1uq9e7HofgYaXf0lQbb-oyR8si7A&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font si=
+ze=3D3 color=3D#1a0dab style=3D"text-decoration:underline">Work in Progress=
+: the Linked Open Bibliographic Data Project</font></a></h3><div><font size=
+=3D2 color=3D#006621>A Welsh, A Bikakis, N Garea Garcia, S Mahony&hellip; -=
+ Catalogue and Index, 2015</font></div><div><font size=3D2 color=3D#222222>=
+<b>...</b> Discovery. Publisher version: hhttp://www.cilip.org.uk/sites/def=
+ault/files/docum...<br>
+Language: English. Keywords: cataloguing, cataloging, BIBFRAME, <b>linked</=
+b> <b>data</b>,<br>
+OER, Open Educational Resources, Connected Curriculum. UCL <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><a href=3D"http://scholar.google.de/scholar_url?url=3Dhtt=
+p://ieeexplore.ieee.org/xpls/abs_all.jsp%3Farnumber%3D7272915&amp;hl=3Dde&a=
+mp;sa=3DX&amp;scisig=3DAAGBfm2_5Suh6K80wut53ynlOZPy7BaupQ&amp;nossl=3D1&amp=
+;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:=
+underline">Node-Set Analysis for Linked Recursive Data Structures</font></a=
+></h3><div><font size=3D2 color=3D#006621>Z Tang, H Wang, B Li, J Zhai, J Z=
+hao, X Li - &hellip;  Reliability and Security (QRS), 2015 IEEE &hellip;, 2=
+015</font></div><div><font size=3D2 color=3D#222222><b>...</b> category. Th=
+e basic idea of our approach is that when a <b>linked</b> <b>data</b> struc=
+ture is<br>
+updated by some statements, the mutation happens at only fixed number of no=
+des<br>
+and the segments between these nodes remain untouched. If <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttp://ceur-ws.org/Vol-1457/SSWS20=
+15_proceedings.pdf%23page%3D67&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm3P=
+_EgXXcSjrZiGObz3r95_bYmjkw&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=
+=3D3 color=3D#1a0dab style=3D"text-decoration:underline">Parallel Data Load=
+ing during Querying Deep Web and Linked Open Data with SPARQL</font></a></h=
+3><div><font size=3D2 color=3D#006621>P Folz, G Montoya, H Skaf-Molli, P Mo=
+lli, ME Vidal - 11th International Workshop on Scalable  &hellip;</font></d=
+iv><div><font size=3D2 color=3D#222222><b>...</b> usb. ve Abstract. Web int=
+egration systems are able to provide transparent and uniform<br>
+access to heterogeneous Web data sources by integrating views of <b>Linked<=
+/b> <b>Data</b>,<br>
+Web Service results, or data extracted from the Deep Web. <b>...</b>=20
+</font></div><br><p><hr noshade size=3D1><font size=3D2 color=3D#222222>Die=
+ser Google Scholar-Alert wird Ihnen von Google zur Verf=C3=BCgung gestellt.=
+<br><br><a href=3D"http://scholar.google.de/scholar_alerts?view_op=3Dcancel=
+_alert_options&amp;email_for_op=3Derictessenow%40web.de&amp;alert_id=3DAIfe=
+vv3NkPcJ&amp;hl=3Dde"><font color=3D#1a0dab>Alert stornieren</font></a><br>=
+</font></div></body></html>

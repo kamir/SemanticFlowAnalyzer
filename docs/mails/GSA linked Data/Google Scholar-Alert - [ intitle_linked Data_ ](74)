@@ -1,0 +1,92 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.79.106.2 with SMTP id f2csp328658ivc;
+        Wed, 22 Jul 2015 23:05:05 -0700 (PDT)
+X-Received: by 10.107.16.75 with SMTP id y72mr10739269ioi.122.1437631503516;
+        Wed, 22 Jul 2015 23:05:03 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3PnmwVRUKDKUXHMTQFWFQJWYX-STWJUQdLTTLQJ.HTRJWNHYJXXJSTbbJG.IJ@scholar-alerts.bounces.google.com designates 209.85.214.202 as permitted sender) smtp.mail=3PnmwVRUKDKUXHMTQFWFQJWYX-STWJUQdLTTLQJ.HTRJWNHYJXXJSTbbJG.IJ@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3PnmwVRUKDKUXHMTQFWFQJWYX-STWJUQdLTTLQJ.HTRJWNHYJXXJSTbbJG.IJ@scholar-alerts.bounces.google.com designates 209.85.214.202 as permitted sender) client-ip=209.85.214.202;
+Received: by 10.50.136.130 with POP3 id qa2mf22755258igb.1;
+        Wed, 22 Jul 2015 23:05:03 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3PnmwVRUKDKUXHMTQFWFQJWYX-STWJUQdLTTLQJ.HTRJWNHYJXXJSTbbJG.IJ@scholar-alerts.bounces.google.com
+Received: from mail-ob0-f202.google.com ([209.85.214.202]) by mx-ha.web.de
+ (mxweb103) with ESMTPS (Nemesis) id 0M4ovh-1YzlXG1tfR-00yweb for
+ <erictessenow@web.de>; Thu, 23 Jul 2015 07:18:55 +0200
+Received: by obbop1 with SMTP id op1so17031547obb.1
+        for <erictessenow@web.de>; Wed, 22 Jul 2015 22:18:54 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=s473Frk4HJBZoIM6SQEouZAMRhiiaNlRYnSN/DH6l0c=;
+        b=MaEoHhz1lH9MT9Q5fSCTqfNhP1mRpgFd13A5o+0yEi1m71rsyWm20N4LB8fZxsmlMy
+         duW7qBkqneKjIrakoDaUVtwaZf/Cd5SOyDugfuPXYmWMlOxcFiM6IpdALONFH8v2LM59
+         1l7lWVXoJ2+ZkMpocFHvj6SmGgR6gcPbrMAKiJetevzqbvXP3HtQFlyWSIkPxRwStum+
+         AyWOcwZMJXaQ/XHz0XZgiYjvPzhwb55QP8SWiljVGXo1BhXMz+Tb4NOSWEVgjZdNDG3f
+         UjIVXxrH7ia6LuFdlreUx6GEnH+u8SFT9JU65nJ88n9M20GuFTOLXqPJEVr0U7LZuSMo
+         p/dg==
+MIME-Version: 1.0
+X-Received: by 10.182.102.1 with SMTP id fk1mr6325796obb.28.1437628734250;
+ Wed, 22 Jul 2015 22:18:54 -0700 (PDT)
+Message-ID: <089e0149be64062066051b84065e@google.com>
+Date: Thu, 23 Jul 2015 05:18:54 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:1WXgmMj2yO8=:w0TpnEtqZh+Jl87jGU9rZDtSUD
+ WjdZ/kfPMbQHR+Eh7kz6Lm4rDlUgn+7QnucQ99ucoaA4NA3ON0P9P47YeGckoH/4C3w5EeKIA
+ 9Lj1clmcVK31S7zPj8ofSEZqeFNHM/xKjOtWV4phDm/ug0SB5vKST8PybaUmoMCefLlyO/qWn
+ afSKDvl0TfiXHPUdG+TQucVrZjw4A6vxXbkGAEbSVGfpVfDsOUyn4IAr0Qmtr6nHWhbZ1sb8A
+ 3LM9qwPO2Uz/EKjcX7r1oBZIl3E1uQXY1TKMG6D3RJY/oOa01DMsN4dAqNNRL83pLzs+K87SW
+ nOSlQwcMCbvQ8LjBCRUU9f0DmM3PlUXmjKANJeT4q4xhABzx/Yy7oL9nb2n7x1LGqlsuq8UMA
+ sSsSyn5V61i5ljwiP8E/bhUMG5dEsRYhL6nyyVXht/56k3ainKZekp+yRNy6+9mSQRe11v5E8
+ uzIphe465qBHqTiIwPOLKY5VJ0w9rT1ZMhvSFwpXuPCmRTtzUGPRFPeSleeTr+y/rbQvRDQS6
+ VyBWYIPbgQtgLThXgvHcz9P+pHiXRZRMs35L8sF3rA+/spbIG9UCJijtXeA4N2ifjoTGAu2Fw
+ aHonUrGBhA8e7P8pBm1nd+9imoDSmekHAS4BT6XYr79oygT0ZRtMpmdbnqv/zgK/rBwMf4gAy
+ L9VPGivkWFQFK/YNvWD+Dq3XFXT1QtFC1I3D9ZtR/5OfMfnS1gCEW4pauy6d53kfjOUCbi32r
+ ulz+ZByeAXeP0r7Vsu2Fhazd0aHdeBLCf7FtWsNIZZ0y7HsyTGrad9lBnxR8eMyxf8d6lTmHF
+ lhi/avDUPICuBuOH5Ls2zze9WpBb9aZvxWyz1aEF82MrpQbjILq2e0qNh2iKl1uZcGdvwJ97I
+ 34Fm2+qOBljX/UhEIwxgrClK0ytC9u30seOz3czD24jRc5/ZxiiALcuzg+Q63EBh6RibuRE9G
+ cn0m5X+5NPqwfkummDVrjDLDdnTG/mjXFojYkExhGEyjYG/z1RrN0n3PK0Ykt7f3/ssAUtiaP
+ XXec+y6OJ/7iBOJbuOtJCNQ8JwcvFDGrw5uTRa7BF+A7ZCqf5q4rEUq95AzwtDwXPlhw3EZTX
+ 14eD1u8vhMv6dabwkr4QkOomjxjrj7ntfuZYiwG/3BH2kXer69HjoLqb3yLPVG7EXeOiERZey
+ kFJebOnPyqqlhIPVEYB/Fmz1ubp8xdj977wQwfLzqTA2MGUboG5zcnAR66ogSu9NYj69B92Af
+ pTf5zruyhgf9EXZwLgh8WKadMcVllAt/PY10DZvbzc/l4HFzoUhnfggzJpu5eTAIljv80jjh2
+ E5xF
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttps://appam.confex.com/appam/201=
+5/webprogram/Paper14015.html&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm0g2v=
+gJ8upQ8RkH49AezmhaKGk8ew&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3=
+ color=3D#1a0dab style=3D"text-decoration:underline">New <b>Linked Data </b=
+>on Research Investments: Scientific Workforce, Productivity, and Public Va=
+lue</font></a></h3><div><font size=3D2 color=3D#006621>B Weinberg - 2015 Fa=
+ll Conference: The Golden Age of Evidence- &hellip;, 2015</font></div><div>=
+<font size=3D2 color=3D#222222>Longitudinal micro-data derived from transac=
+tion level information about wage and vendor <br>payments made by Federal g=
+rants on multiple US campuses are being developed in a <br>partnership invo=
+lving researchers, university administrators, representatives of Federal <b=
+> ...</b></font></div><br><h3 style=3D"font-weight:normal;margin:0;font-siz=
+e:medium;max-width:44.5em"><font size=3D2 color=3D#1a0dab>[HTML]</font> <a =
+href=3D"http://scholar.google.de/scholar_url?url=3Dhttp://dx.plos.org/10.13=
+71/journal.pone.0126105&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm3vO0FB8IC=
+IRc2stQfC95LpBFfeUw&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 colo=
+r=3D#1a0dab style=3D"text-decoration:underline">The Cost of Ankylosing Spon=
+dylitis in the UK Using Linked Routine and Patient-Reported Survey Data</fo=
+nt></a></h3><div><font size=3D2 color=3D#006621>R Cooksey, MJ Husain, S Bro=
+phy, H Davies&hellip; - PLOS ONE, 2015</font></div><div><font size=3D2 colo=
+r=3D#222222>Advertisement. <b>...</b>=20
+</font></div><br><p><hr noshade size=3D1><font size=3D2 color=3D#222222>Die=
+ser Google Scholar-Alert wird Ihnen von Google zur Verf=C3=BCgung gestellt.=
+<br><br><a href=3D"http://scholar.google.de/scholar_alerts?view_op=3Dcancel=
+_alert_options&amp;email_for_op=3Derictessenow%40web.de&amp;alert_id=3DAIfe=
+vv3NkPcJ&amp;hl=3Dde"><font color=3D#1a0dab>Alert stornieren</font></a><br>=
+</font></div></body></html>

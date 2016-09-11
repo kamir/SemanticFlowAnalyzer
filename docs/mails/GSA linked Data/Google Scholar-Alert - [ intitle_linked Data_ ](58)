@@ -1,0 +1,198 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.55.51.205 with SMTP id z196csp652894qkz;
+        Tue, 8 Dec 2015 02:05:59 -0800 (PST)
+X-Received: by 10.140.225.144 with SMTP id v138mr2936660qhb.89.1449569152596;
+        Tue, 08 Dec 2015 02:05:52 -0800 (PST)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 366JmVhUKDIQ0kpwtizitmz10-vwzmxt6owwotm.kwumzqk1m00mvw44mj.lm@scholar-alerts.bounces.google.com designates 209.85.214.201 as permitted sender) smtp.mailfrom=366JmVhUKDIQ0kpwtizitmz10-vwzmxt6owwotm.kwumzqk1m00mvw44mj.lm@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 366JmVhUKDIQ0kpwtizitmz10-vwzmxt6owwotm.kwumzqk1m00mvw44mj.lm@scholar-alerts.bounces.google.com designates 209.85.214.201 as permitted sender) client-ip=209.85.214.201;
+Received: by 10.140.43.244 with POP3 id e107mf4370846qga.2;
+        Tue, 08 Dec 2015 02:05:52 -0800 (PST)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: <366JmVhUKDIQ0kpwtizitmz10-vwzmxt6owwotm.kwumzqk1m00mvw44mj.lm@scholar-alerts.bounces.google.com>
+Received: from mail-ob0-f201.google.com ([209.85.214.201]) by mx-ha.web.de
+ (mxweb001) with ESMTPS (Nemesis) id 0MAxds-1ZwIwq3UaC-009z7t for
+ <erictessenow@web.de>; Tue, 08 Dec 2015 10:29:17 +0100
+Received: by obczm5 with SMTP id zm5so1368071obc.1
+        for <erictessenow@web.de>; Tue, 08 Dec 2015 01:29:15 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=J1bADmVlSDr5151V0x1+dW28vOdf0WxnNUYDlwY6L0s=;
+        b=HANlaVOGxFMOAQ7CLyNfQYDcgukTulgGlVQs1a65N1whSgI4fpgD5/TH+djT6CfJaA
+         bjnMjgYsk4HkvwI1eC3AigYO0uClumWD7CMQdWAAC2JdBiy3B9IzZu5ft7/Ru1f9PZae
+         OIJ5O4WOM90+Y5LKWTwNdFzQ6FpUj3TmwMZzH5Kg/0/4cTECG1VDCfF6dtkofmVe4bo7
+         IcKOVecQleRnUN7fn1p/BbqtIjfNWAnRR3xsuQIvbT1TzRW8K1phafOpgBTX/RfYGvAT
+         8sFstVTH1ejtupTC9IwXMB9wlSf4/sp7KJ7M8xawbo6vjESkLcoe+P4LLPiCv+WFICDT
+         vz6g==
+MIME-Version: 1.0
+X-Received: by 10.50.108.100 with SMTP id hj4mr22077918igb.4.1449566955612;
+ Tue, 08 Dec 2015 01:29:15 -0800 (PST)
+Message-ID: <089e01494c3c77aab605265f9be1@google.com>
+Date: Tue, 08 Dec 2015 09:29:15 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:wbc1utgHlfI=:eO7X3Lruae00r7EvH4A/RM+hTf
+ I6sx9ep+RUB1zdcRpQy6uyX38EaGDYmrqy/LZHmmHUGI8s4iUH4exPdZR4kbDKHm1Q2oG2xKf
+ v8CItimxQNXtTX7Pua0+o6Z6ioJyDsHiaXgyUdDQ5LEUl9vuN7f50s9qQkHjmq0PumamS0tsN
+ 89hPEMAPg5GJ01cbjnukN5wMfkQLPanagEgfr2dOtwgvUMzXtVeTEwgp4Mta7vPhP7KBBgZJu
+ 77NsJl709L+2Q7BsMr1tvuvgV3CxrLh7+iEJlPHItkRMbXhm+pBi8MD9XbsZFGakNYFy66yvf
+ CMUTcQWvKMfPQQErlekS8WY4GcutDzPOR3OyBK4q5HNg0yY9vRgSQL+Vn4lAdh3fEOfPxjhGo
+ C8opC/zTDi4u+ZG0/WPvWndA4TRZv0r62O9MZgLkIePFc2jOJGmFSzUM4+xH1WHwyVj5G04UI
+ pDK7e244S8TOThfYSlW+JR1A7QguXrsF+iVu8ftASpSPwRvwefASkgw7+NKslrx8JCmqQHfGg
+ 5Bt8a4YpRA1tZcYt833yMnADlJNvd2O8cUi0WHWGkgfjn8x221ay+MMa7zGXxHucz6xHl9qsY
+ EgFjW8sq0/T7q9HcRWdiiw2vDbqxETJHBB9uYSo1SOZoYEPkvbMw3+g6H62eCulMToBqVLghP
+ zEmY1x7B36KlZeJvFEL281qCvJhhk7eAuVWsWdOO0RR5sjWx2+J3qqkr2Mg9CEy7+5Lk/FI8a
+ cBSBkH5sYpsw42dQkn/MishpXrm2PLkP6+7O1SXdPbxCKNNx52UzlOvjq+FQksqrmYECz/0VY
+ wiZ6GrKwzvvJPJWb0QUuL3pAXn4AW7v70cumucj8Fc/aivkRRathuJX9e4aa4TmP7317dQKSg
+ EPYbUdCzl+p9iJ8xuaYicF7vqv5ohh5jXRdVrNsn9pTzvj/4HgHvaKqsL7bJ+TYtapHi+OzmV
+ iaowggkOvkOdkYY0xacrtXMg9o9pvJLovlKjwg78oLjmdhl6gLU9VwtdkHIS4HDk5z75/4FMH
+ eLTtDjnKBoYmeOWPlrEnvlcd4pLHyTS32UyTjoPXOPqjd/EeRd9O2Ji8wP1PtTLnZjAPWI40S
+ xsJ0IIl/vPOUg7oa3BmIToiSlFsvBlErnnXWFAR+VO/J53OLIxtII7hFMzglFTF4ppxdOpLjL
+ KJ0s/1fkuxeedZKWX9mO7rRz0XvC7drVQKdcgy7nV0VcUaKZJ6TbJSCSNescZGHEn57JLwjCZ
+ KHfc0yFH5WRCeBXz0coGn6jYT9M+nqGx2sxxlMi9D4EGz7bgHmJPyMvzJ01OyeZIMTBucgeaG
+ 6oFqXa4VWIBfPBb/cZDDkakooiM6uvEqrJfdR85maH7+05E=
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttp://www.degruyter.com/view/j/bf=
+up.2015.39.issue-3/bfp-2015-0050/bfp-2015-0050.xml&amp;hl=3Dde&amp;sa=3DX&a=
+mp;scisig=3DAAGBfm1tuud4hLJudjIuJkikO53vUmr5MQ&amp;nossl=3D1&amp;oi=3Dschol=
+aralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:underline">=
+=E2=80=9ELinked Library Data =E2=80=9Cauf der 6. Internationalen Fachtagung=
+ =E2=80=9ESWIB 2014 =E2=80=9Cin Bonn</font></a></h3><div><font size=3D2 col=
+or=3D#006621>=C3=84 L=C3=B6hden, T Borst - Bibliothek Forschung und Praxis,=
+ 2015</font></div><div><font size=3D2 color=3D#222222><b>...</b> Beschreibu=
+ngen. 2 <b>Linked</b>-<b>Data</b>-Technologien helfen beim Umgang mit Diver=
+genzen und<br>
+=C3=84nderungen. <b>...</b> URIs). 4 <b>Linked</b>-<b>Data</b>-basierte Wer=
+kzeuge und Dienste erleichtern die Arbeit<br>
+im Kultur(erbe)sektor und senken Technik- und Formatbarrieren. <b>...</b>=
+=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttp://ceur-ws.org/Vol-1486/paper_=
+2.pdf&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm3wFjsqN95cjh1l6PIwrxUHzJgM1=
+Q&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=
+=3D"text-decoration:underline">Realtext-lex: a lexicalization framework for=
+ linked open data</font></a></h3><div><font size=3D2 color=3D#006621>R Pere=
+ra, P Nand, G Klette - 14th International Semantic Web Conference, 2015</fo=
+nt></div><div><font size=3D2 color=3D#222222><b>...</b> applications. Howev=
+er, the applications using the LOD need to be able to mediate<br>
+be- tween the front end user interfaces and LOD. This often requires a nat-=
+ ural<br>
+language interpretation of this structured, <b>linked</b> <b>data</b>. We d=
+emon <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttp://ceur-ws.org/Vol-1486/paper_=
+85.pdf&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm3PWGsWkgAKZssXTX_qxA2SZ6N7=
+pA&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=
+=3D"text-decoration:underline">cLODg-Conference Linked Open Data Generator<=
+/font></a></h3><div><font size=3D2 color=3D#006621>AL Gentile, AG Nuzzolese=
+</font></div><div><font size=3D2 color=3D#222222><b>...</b> Abstract. In th=
+is paper we describe cLODg (conference Linked Open Data generator),<br>
+a set of tools to collect, refine and produce <b>Linked</b> <b>Data</b> to =
+describe a scientific<br>
+conference and its publications, participants and events. cLODg <b>...</b>=
+=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttp://ceur-ws.org/Vol-1486/paper_=
+39.pdf&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm0MEzU4iDVYdwjnscm-QdIkduY3=
+dw&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=
+=3D"text-decoration:underline">ExConQuer Framework-Softening RDF Data to En=
+hance <b>Linked Data </b>Reuse</font></a></h3><div><font size=3D2 color=3D#=
+006621>J Attard, F Orlandi, S Auer</font></div><div><font size=3D2 color=3D=
+#222222>Abstract. Efforts towards the wider adoption of Linked Open Data, i=
+ncluding the <br>implementation of <b>Linked Data </b>principles and the co=
+nsumption of <b>Linked Data</b>, are evident <br>in the existing literature=
+ and available tools. Yet, these efforts rarely cater for stakeholders <b> =
+...</b></font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:=
+medium;max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a hre=
+f=3D"http://scholar.google.de/scholar_url?url=3Dhttp://ceur-ws.org/Vol-1486=
+/paper_32.pdf&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm0vNp5ESaEKNL5yxIVLT=
+50lDOqBJQ&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0da=
+b style=3D"text-decoration:underline">Datavore: A Vocabulary Recommender To=
+ol Assisting <b>Linked Data </b>Modeling</font></a></h3><div><font size=3D2=
+ color=3D#006621>MB Ellefi, Z Bellahsene, K Todorov</font></div><div><font =
+size=3D2 color=3D#222222>Abstract. In this paper, we introduce the vocabula=
+ry recommendation system Datavore (Data <br>vocabulary recommender). The to=
+ol is oriented towards metadata designers providing <br>ranked lists of voc=
+abulary terms to reuse in the web of data modeling process, together <b> ..=
+.</b></font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:me=
+dium;max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=
+=3D"http://scholar.google.de/scholar_url?url=3Dhttp://ceur-ws.org/Vol-1486/=
+paper_57.pdf&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm3MvuVequNbD7usqS62Dw=
+jw5PXjZQ&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab=
+ style=3D"text-decoration:underline">The Highway to Queryable <b>Linked Dat=
+a</b>: Self-Describing Web s with Varying Features</font></a></h3><div><fon=
+t size=3D2 color=3D#006621>L De Vocht, M Vander Sande, J Van Herwegen&helli=
+p;</font></div><div><font size=3D2 color=3D#222222>Abstract. Making <b>Link=
+ed Data </b>queryable on the Web is not an easy task for publishers, for <b=
+r>technical and logistical reasons. Can they afford to offer a endpoint, or=
+ should they offer an <br>or data dump instead? And what technical knowledg=
+e is needed for that? This demo <b> ...</b></font></div><br><h3 style=3D"fo=
+nt-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D2=
+ color=3D#1a0dab>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_u=
+rl?url=3Dhttp://ceur-ws.org/Vol-1486/paper_60.pdf&amp;hl=3Dde&amp;sa=3DX&am=
+p;scisig=3DAAGBfm0fu948GGxRLe7SSh7XW9qmbCbLVw&amp;nossl=3D1&amp;oi=3Dschola=
+ralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:underline">E=
+xploring <b>Linked Data </b>Graph Structures</font></a></h3><div><font size=
+=3D2 color=3D#006621>A Jentzsch, C Dullweber, P Troiano, F Naumann</font></=
+div><div><font size=3D2 color=3D#222222>Abstract. The true value of <b>Link=
+ed Data </b>becomes apparent when datasets are analyzed and <br>understood =
+already at the basic level of data types, constraints, value patterns etc. =
+Such data <br>profiling is especially challenging for Rdf data, the underly=
+ing data model on the Web of <b> ...</b></font></div><br><h3 style=3D"font-=
+weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D2 co=
+lor=3D#1a0dab>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_url?=
+url=3Dhttp://ceur-ws.org/Vol-1486/paper_109.pdf&amp;hl=3Dde&amp;sa=3DX&amp;=
+scisig=3DAAGBfm08rCYonQdiUn6_S4UgL8LGzkLidg&amp;nossl=3D1&amp;oi=3Dscholara=
+lrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:underline"><b>=
+Linked Data </b>Annotated Document Retrieval</font></a></h3><div><font size=
+=3D2 color=3D#006621>C Exeler, J Waitelonis, H Sack</font></div><div><font =
+size=3D2 color=3D#222222>Search engines traditionally suffer drawbacks from=
+ ambiguities of natural language, which <br>users often solve via query ref=
+inement. In contrast to web search, querying document <br>collections of li=
+mited size (eg blogs, multimedia collections, or libraries) can quickly lea=
+d to <b> ...</b></font></div><br><h3 style=3D"font-weight:normal;margin:0;f=
+ont-size:medium;max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</fon=
+t> <a href=3D"http://scholar.google.de/scholar_url?url=3Dhttp://ceur-ws.org=
+/Vol-1486/paper_115.pdf&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm23b_ncJih=
+cHXNWoRSFvvRGT0oKzw&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 colo=
+r=3D#1a0dab style=3D"text-decoration:underline">TravelBot: Journey Disrupti=
+on Alerts Utilising Social Media and <b>Linked Data</b>=E2=8B=86</font></a>=
+</h3><div><font size=3D2 color=3D#006621>D Corsar, M Markovic, P Gault, M M=
+ehdi, P Edwards&hellip;</font></div><div><font size=3D2 color=3D#222222>The=
+ Twitter1 microblogging platform is widely used in the public transport dom=
+ain by passengers <br>
+to communicate with transport operators and by opera- tors to provide custo=
+mer service and <br>
+passenger information [1,2]. In particular, the reliable, low-cost informat=
+ion distribution <b> ...</b> </font></div><br><h3 style=3D"font-weight:norm=
+al;margin:0;font-size:medium;max-width:44.5em"><font size=3D2 color=3D#1a0d=
+ab>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_url?url=3Dhttp:=
+//ceur-ws.org/Vol-1486/paper_43.pdf&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAG=
+Bfm3F9I_HWx5yz17bKup3IUfaDSz2mg&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font s=
+ize=3D3 color=3D#1a0dab style=3D"text-decoration:underline">LANCE: A Generi=
+c Benchmark Generator for <b>Linked Data</b></font></a></h3><div><font size=
+=3D2 color=3D#006621>T Saveta, E Daskalaki, G Flouris, I Fundulaki&hellip;<=
+/font></div><div><font size=3D2 color=3D#222222>Abstract. Identifying dupli=
+cate instances in the Data Web is most commonly performed (semi-<br>) autom=
+atically using instance matching frameworks. However, current instance matc=
+hing <br>benchmarks fail to provide end users and developers with the neces=
+sary insights <b> ...</b></font></div><br><p><hr noshade size=3D1><font siz=
+e=3D2 color=3D#222222>Dieser Google Scholar-Alert wird Ihnen von Google zur=
+ Verf=C3=BCgung gestellt.<br><br><a href=3D"http://scholar.google.de/schola=
+r_alerts?view_op=3Dcancel_alert_options&amp;email_for_op=3Derictessenow%40w=
+eb.de&amp;alert_id=3DAIfevv3NkPcJ&amp;hl=3Dde"><font color=3D#1a0dab>Alert =
+stornieren</font></a><br></font></div></body></html>

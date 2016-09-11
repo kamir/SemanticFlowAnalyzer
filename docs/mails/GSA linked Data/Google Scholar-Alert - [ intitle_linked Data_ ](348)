@@ -1,0 +1,118 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.64.26.170 with SMTP id m10csp163238ieg;
+        Mon, 20 Jan 2014 17:57:01 -0800 (PST)
+X-Received: by 10.50.119.4 with SMTP id kq4mr15576993igb.40.1390269419953;
+        Mon, 20 Jan 2014 17:56:59 -0800 (PST)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3QNPdUhUKDPktdipmbsbmfsut-opsfqmzhpphmf.dpnfsjdufttfopxxfc.ef@scholar-alerts.bounces.google.com designates 209.85.220.73 as permitted sender) smtp.mail=3QNPdUhUKDPktdipmbsbmfsut-opsfqmzhpphmf.dpnfsjdufttfopxxfc.ef@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3QNPdUhUKDPktdipmbsbmfsut-opsfqmzhpphmf.dpnfsjdufttfopxxfc.ef@scholar-alerts.bounces.google.com designates 209.85.220.73 as permitted sender) client-ip=209.85.220.73;
+Received: by 10.64.148.37 with POP3 id tp5mf1478265ieb.16;
+        Mon, 20 Jan 2014 17:56:58 -0800 (PST)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3QNPdUhUKDPktdipmbsbmfsut-opsfqmzhpphmf.dpnfsjdufttfopxxfc.ef@scholar-alerts.bounces.google.com
+Received: from mail-pa0-f73.google.com ([209.85.220.73]) by mx-ha.web.de
+ (mxweb009) with ESMTPS (Nemesis) id 0MMZUU-1VyGsO2fV8-008Nh1 for
+ <erictessenow@web.de>; Tue, 21 Jan 2014 02:54:10 +0100
+Received: by mail-pa0-f73.google.com with SMTP id kp14so952061pab.0
+        for <erictessenow@web.de>; Mon, 20 Jan 2014 17:54:09 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=BR2vi+uGCzwiZHrIbqcCHTBeTZNDf32b3/ZbbSFBxwY=;
+        b=l66+JDfJJ4DXtVKvQkrZ3+24Dy7ngh4Pz/ps9hWDypkr+dCTdjMYff8gaF1m8/KF7I
+         xqt51COQ6RpF8va4eoET+EcaWnOtWWtpVZVkxNQDu56IrAUQks2lhkII2u8/jb/bSKuf
+         jnwEgB+BIArUGXw3+GKKxOOZjkFVg1X3kZR6OpiGjflzaaDx5ob4rYMcohHpxudkMSNh
+         A9uacu6QN/pahyILp2xNP5pYzu1/Mpp+TcuRcrZtpNyE3haxvaTOdiQzSAGYOIQtH/Dq
+         1m+Iir8fSoBkxirXvaBW1YThDSwCTAKMz4VGTwU+k5lgcVyb/oxRC5S2nXpgzFuCvmsN
+         kkvA==
+MIME-Version: 1.0
+X-Received: by 10.66.102.8 with SMTP id fk8mr7899597pab.24.1390269248942; Mon,
+ 20 Jan 2014 17:54:08 -0800 (PST)
+Message-ID: <047d7bd8f86eb9b27404f071480c@google.com>
+Date: Tue, 21 Jan 2014 01:54:08 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:5PDZgBMyCR4=:kPi5bLd2CESNLfvc2Ai3Lj4Vd/
+ y37urQs2Qq4Vky5NpIE6eqB44lqnpKLsbxOq8eNOwEcrX3HtF+F1EL/2Ptfl+V0FlXpTNhnxD
+ ZCSHtFj3vK6wzWkabPPGXfSm3RxOgVuiHJbfzC0eIu8AK/V7yEFcgkayIFFrbVWmfua6IgilA
+ uZ0SChIjP1WZIBeylS1oGq2jSpLqvv7n1ZvbMRzJWpJ42SK6qAWW+VIcKlK4iCLHNOC+2ZYsq
+ /jBPtvvGRQcosP1+oCdFH2PtwobAVSKZkzaws75Ov0mdL7Rv8Bq42fQa1ztlEiI59SDvg+AqA
+ CW22A+4W5TOeUttPqnRfCdNK2VC9qNVPLkHz68jGGSfhaHSqqIyyotwAS6iCwEAiJUOboducF
+ XJKJj5zM6K36eIs+iRNZx+tInkGKKAh6wqPt6oVbOw3DrvYoDOka15YoYhn1dRDcCJU4mcWOL
+ 8IT4BAyZoidPDSwCQmLQenEQDfuU7JXq9SkNIAu/Tu7FogmFGSyT5/WWalrMIoInpGQXKEST0
+ JDu62loBrjpxrJRW9YP/SQuwPqOtWtBLQbr4/qnMaMraOhUJZx7u9vihOOJ5s9uCqHtduHuDk
+ UW6ZQ8qd1re5+S+teT+G1L5+kZzgdYTugpnxCkmX04d8fbiZ9haSEiPAmqXtk//FbMGfM/aJY
+ e7llvdUdF42+iOcB2+cRsLz2FI13JmRVziJ3hwPh0wqVRLo1XLt4b5NqE76mfAWpZCbdlMfm4
+ BFNQPirmfQEsc5LETXK844/u/BqQ0qIBuMEFRM8IOl2P239DPKdo1KJMDvrntUJQS9Q2kRbEe
+ AJspRKapWnYgqrJGpUI67L6v7gPghrsMShHY7ZqDB/WX5eZsgmM3Y3geTi/sQ4HPEjMEUSbfZ
+ 2s9V/+Wk6lAdz456RJlqL+TEg0vhcDZo4sGfgggL9aP3u3VWUDgTd2K5FaO1jRQ+fH49kskJ1
+ CPhdFt8tQ/WekY6bjM7BYhzXv+YQ6n2FuUuYXmvGlK47WlivSbRFK80dwHq+xuJ1kYxEAe0Cd
+ /W6dTXknaQER8khmKOE6i4WOftIXl7CnH0rGxZpRjh40HU6lsggp1WBFs7lyo40oh9VlLt8oc
+ yX9tJupL5heeiZ+8/Bruqi9bEMVeoLE1D8TwuP5bpVy2MM2yJsCp51eCcjDsa9h2oD1drA/QZ
+ gpVwxPuR5XMdzuCWPM9iYg7frXqk4Gpwso5pdqyzCp51T8uWRXEmSveVfbPBaBlxdhQax48Yc
+ K0MMPSmY1KxVQcymyhpjOnZ/mXEfGfsmiIddXT8OF4kDMGUjhyR/NDkO7PgzyLECFHwJB3kEN
+ /yUq7cSGHtHJTiXYNfU4pTc05umDmJOeV+nIJdAyBJxI8wenodVpaI9LE8E9YCXdqKP3QWrbI
+ PN1gUp0Qc7w6kL6MA==
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://www.sciencedirect=
+.com/science/article/pii/S0166361513002480&amp;sa=3DX&amp;scisig=3DAAGBfm3b=
+gLndfyCTMv1o3rQEQuZJEYDTHQ&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#11=
+22cc style=3D"text-decoration:underline"><b>Linked data </b>support for fil=
+ing public contracts</font></a></h3><div><font size=3D2 color=3D#009933>M N=
+e=C4=8Dask=C3=BD, J Kl=C3=ADmek, J Mynarz, T Knap, V Sv=C3=A1tek&hellip; - =
+Computers in Industry, 2014</font></div><div><font size=3D2 color=3D#222222=
+>Abstract Management of the tendering phase of the public contract lifecycl=
+e is a demanding <br>activity with often irrevocable impact on the subseque=
+nt realization phase. We investigate <br>the impact of the <b>linked data <=
+/b>technology on this process.</font></div><br><h3 style=3D"font-weight:nor=
+mal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"http://scholar.g=
+oogle.de/scholar_url?hl=3Dde&amp;q=3Dhttp://www.scientific.net/AMR.886.609&=
+amp;sa=3DX&amp;scisig=3DAAGBfm22FtnT5b9EcTJsI6dRdJJVTglP7A&amp;oi=3Dscholar=
+alrt"><font size=3D3 color=3D#1122cc style=3D"text-decoration:underline">Se=
+mantic Web Technologies and NLP Techniques in a Practical Algorithm for Rep=
+resenting Concepts in <b>Linked Data</b></font></a></h3><div><font size=3D2=
+ color=3D#009933>S Gao, JY Wu - Advanced Materials Research, 2014</font></d=
+iv><div><font size=3D2 color=3D#222222>Abstract. The algorithms used to rep=
+resenting concepts in <b>linked data</b> are time consuming. In <br>
+this paper we propose an algorithm, called PARC, to infer automatically the=
+ function of citations <br>
+by means of Semantic Web technologies and NLP techniques. We also present s=
+ome <b> ...</b> </font></div><br><h3 style=3D"font-weight:normal;margin:0;f=
+ont-size:medium;max-width:44.5em"><a href=3D"http://scholar.google.de/schol=
+ar_url?hl=3Dde&amp;q=3Dhttp://www.scientific.net/AMR.886.613&amp;sa=3DX&amp=
+;scisig=3DAAGBfm3QWnqnZEqh-BZ2Yyl7IJ-7YdCF6Q&amp;oi=3Dscholaralrt"><font si=
+ze=3D3 color=3D#1122cc style=3D"text-decoration:underline">ODF: An Efficien=
+t OWL-Based Linked Course Data Generating Framework</font></a></h3><div><fo=
+nt size=3D2 color=3D#009933>S Gao - Advanced Materials Research, 2014</font=
+></div><div><font size=3D2 color=3D#222222><b>...</b> users and system deve=
+lopers. We present OWL-based Linked Course Data generating<br>
+framework and discuss the impact on <b>Linked</b> <b>Data</b>. Present Stat=
+us and Future<br>
+Prospects of Cold Spraying. Authors: Frank Gaertner, Tobias <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1122cc>[HTML]</font> <a href=3D"h=
+ttp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://journal.code4lib=
+.org/articles/9214&amp;sa=3DX&amp;scisig=3DAAGBfm2ENWRWoBI0ul3tIfB8LBFa2kSF=
+IQ&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D"text-decor=
+ation:underline">Recipes for Enhancing Digital Collections with <b>Linked D=
+ata</b></font></a></h3><div><font size=3D2 color=3D#009933>T Johnson, K Est=
+lund</font></div><div><font size=3D2 color=3D#222222>Standards-based metada=
+ta in digital library collections are commonly less than standard. <br>Limi=
+tations brought on by routine cataloging errors, sporadic use of authority =
+and controlled <br>vocabularies, and systems that cannot effectively handle=
+ text encoding lead to pervasive <b> ...</b></font></div><br><p><hr noshade=
+ size=3D1><font size=3D2 color=3D#222222>Dieser Google Scholar-Alert wird I=
+hnen von Google zur Verf=C3=BCgung gestellt.<br><br><a href=3D"http://schol=
+ar.google.de/scholar_alerts?view_op=3Dcancel_alert_options&amp;email_for_op=
+=3Derictessenow%40web.de&amp;alert_id=3DAIfevv3NkPcJ&amp;hl=3Dde"><font col=
+or=3D#1122cc>Alert stornieren</font></a><br></font></div></body></html>

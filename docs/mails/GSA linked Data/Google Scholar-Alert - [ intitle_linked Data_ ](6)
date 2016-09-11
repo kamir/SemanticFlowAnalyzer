@@ -1,0 +1,96 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.55.19.134 with SMTP id 6csp321392qkt;
+        Sat, 7 Nov 2015 09:02:11 -0800 (PST)
+X-Received: by 10.140.93.52 with SMTP id c49mr6986121qge.101.1446915729938;
+        Sat, 07 Nov 2015 09:02:09 -0800 (PST)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 38C0-VhUKDPsvfkrodudohuwv-qruhso1jrrjoh.frphulfwhvvhqrzzhe.gh@scholar-alerts.bounces.google.com designates 209.85.218.74 as permitted sender) smtp.mailfrom=38C0-VhUKDPsvfkrodudohuwv-qruhso1jrrjoh.frphulfwhvvhqrzzhe.gh@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 38C0-VhUKDPsvfkrodudohuwv-qruhso1jrrjoh.frphulfwhvvhqrzzhe.gh@scholar-alerts.bounces.google.com designates 209.85.218.74 as permitted sender) client-ip=209.85.218.74;
+Received: by 10.55.145.196 with POP3 id t187mf12187789qkd.2;
+        Sat, 07 Nov 2015 09:02:09 -0800 (PST)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: <38C0-VhUKDPsvfkrodudohuwv-qruhso1jrrjoh.frphulfwhvvhqrzzhe.gh@scholar-alerts.bounces.google.com>
+Received: from mail-oi0-f74.google.com ([209.85.218.74]) by mx-ha.web.de
+ (mxweb107) with ESMTPS (Nemesis) id 0LgJo0-1aG7hW0Zfw-00niM0 for
+ <erictessenow@web.de>; Sat, 07 Nov 2015 17:59:30 +0100
+Received: by oiww189 with SMTP id w189so5237690oiw.0
+        for <erictessenow@web.de>; Sat, 07 Nov 2015 08:59:28 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=D2cabkWh2VfOqrQjYE/jPg1pPUcpHi5r/XZ49NciiyU=;
+        b=f3izw3BFrlD/IJaZ+Wz/2nfaTlY77MlKD0Xy+f1LZ05OjhPVz4Zv0PGd5mdy+G/mgR
+         tKeu9rRKB8Z/0U2cAgHh5QdOBOy3YTKrnjDJYe34RUefWWQJCMehgzZw9nImvFFjnonP
+         GiuuGSD93UOpipe4TYRTvSnADbwZ9QdMkhlqMDWXRVWDSPtDkw2+jhRKG0gywliHv4fx
+         3SWD/fa4k7dtPcu2HENasdU3jaAQdzPTx9rn8qqkUZ9Px0siPaHuPnZsQjquyIeTO141
+         WxX02LElRt6uVh+oA4R8mYiT/jkd2Z1g1hHC9RAxxRayJpVKUHvSmZ9wacGAQLcEaMi3
+         DqMg==
+MIME-Version: 1.0
+X-Received: by 10.182.99.225 with SMTP id et1mr17282512obb.36.1446915568943;
+ Sat, 07 Nov 2015 08:59:28 -0800 (PST)
+Message-ID: <089e0158a93e81c2190523f64819@google.com>
+Date: Sat, 07 Nov 2015 16:59:28 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:eaaBF3rboVg=:zV8+f+68dqW6HL0qLLID2S+lDQ
+ Sux7Cb7iGX83TpEtICJAojVUjS1dRfJQF4PradsgbzN9JChLqbYC74/NCp/y1KwuO/xLc/cWp
+ goPiiLtUhKPjcpf9O0p36crccpCxhwT+OedZj+mDiFlMdTzEZ5IArqUJ1D+f+2ZNHegbGHWGj
+ mV5KdxKQ9eXD33P8DmNQYgSPNpxIIZ6JXCjoCkcuPpHIzQRRk7MqQFP3MNOaOCirIE/BQBM4x
+ RPdrcLKXdcbO9IXggNhibDeN7pt6f0WAHq0lJZA5hQNZwnR3kVrT3xnNh8wRWaBxS8jc/TgQ1
+ Rk6wbw4YEEHRa9PvnC0H2kTZp7fOXkkptFHFRnfAPNFlMHuX3RdQYuJkp8rODBzvj+Z5Q6jXU
+ UHSR3fNHdhIJmBCaWPUMlCyS0SkBA6vpJtgWRCgxhP/Q/1O8dHhvSAT4XDWX7jPHbpNa321w5
+ /2ZJH0TSQJCkwKyQIfDZcgVYWizC9IgNZrmpNmibZFKTwdnJs4EBoaDKJNk7fazmA90fC4qFs
+ NirRK4fBs7tXG2N3vgV2AmxQ0uILC9EKTSa0huYClVC8mc0OVNvr+IfnozPoEX0wkCrIIHQ6R
+ WGAbecjkyuxZtT0O2qbkhz7Mee2OBHajewq9JkDMoKHQPTkNqhLywO7VrRzThPEPdN4/0GB5P
+ b4ukXf/njCU15g2J+YxoGJZwx7omrV6YbNaDNq6VTdYhMbgJxc5UiH2qRoKagBZapmd8A6aXd
+ jfFscDPbgc6+GPjivIiuyyaTgDTSByMNOmiYNIloYzugl2cwjXyIGbX44vGNrEcWHVf0b0PPe
+ UodcgkF7gwrP4K39V71M3rf7HNFMfbckVenps+pnLNnSb6wD44wfkFj7oKmny4o4xIZes4LJJ
+ pHDiq3Q24Fh/+D3elcM3SG6iHgXatE5HTfoTtKR/g0NLNNuzliKhYm5oQvt2Laav+azkBrt0i
+ VRVKep1hSrxGf/2KtiJgNLUTp+pxEtr0L2KBqnloY0YmoFanpWpcZpHhEFp8E2rM1hpKwMSI8
+ VbKreq0o9sw91hfMVZ6xjHBL+Hz3sVthPXwqj+ytARfaI0+JSFIDEF8ocPC1e6WILC7w3ZMSf
+ dAtSPAVw6oIMa4BusKK09QtydFXp7qN5SMdNm/8HzXtYupBEhVZ3htFQrxws36hgcnfmlmnmL
+ VEcVtkoWA0in1vProUIySthlnjdMkz/a6I8YwsnghlMLGHHHa3Txrr1H04JBFulSq2rd3tRiJ
+ y0SPGZqvZOvMw4UlVZ3RLOxlIZaf2yxtcwqGxCeh6X72pmBjzyUHhjU50wDsWmvmxFb1QEQ3l
+ 1PeL/T6k4Hms8NTTmIj93LoHtIDWHvWhxB87TQAJMInNdFs=
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D=
+2 color=3D#1a0dab>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_=
+url?url=3Dhttp://convegni.unica.it/cladag2015/files/2015/10/Liseo.pdf&amp;h=
+l=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm3XT7KnaBIk2-fcaLzvV6E6oNXSLg&amp;nossl=
+=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-dec=
+oration:underline">BAYESIAN REGRESSION ANALYSIS WITH LINKED AND DUPLICATED =
+DATA</font></a></h3><div><font size=3D2 color=3D#006621>A Tancredi, R Steor=
+ts, B Liseo</font></div><div><font size=3D2 color=3D#222222><b>...</b> This=
+ way, the researcher is able to account for the matching pro- cess uncertai=
+nty in inferential<br>
+procedures based on probabilistically <b>linked</b> <b>data</b>, and at the=
+ same time, he/she is also able to<br>
+generate a feedback propagation of uncertainty between the working statisti=
+cal model <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttp://ceur-ws.org/Vol-1495/paper_=
+31.pdf&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm29ztPio4joQYciLJWAWvtY-9_F=
+KQ&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=
+=3D"text-decoration:underline">Towards the Integration of Multilingual Term=
+inologies: an Example of a <b>Linked Data </b>Prototype</font></a></h3><div=
+><font size=3D2 color=3D#006621>E Montiel-Ponsoda, J Bosque-Gil, J Gracia&h=
+ellip;</font></div><div><font size=3D2 color=3D#222222>Abstract Many langua=
+ge resources are nowadays available in machine readable formats, <br>but st=
+ill contained in isolated silos. Current Semantic Web-based techniques enab=
+le the <br>transformation and linking of those resources to become a naviga=
+ble graph of linked <b> ...</b></font></div><br><p><hr noshade size=3D1><fo=
+nt size=3D2 color=3D#222222>Dieser Google Scholar-Alert wird Ihnen von Goog=
+le zur Verf=C3=BCgung gestellt.<br><br><a href=3D"http://scholar.google.de/=
+scholar_alerts?view_op=3Dcancel_alert_options&amp;email_for_op=3Derictessen=
+ow%40web.de&amp;alert_id=3DAIfevv3NkPcJ&amp;hl=3Dde"><font color=3D#1a0dab>=
+Alert stornieren</font></a><br></font></div></body></html>

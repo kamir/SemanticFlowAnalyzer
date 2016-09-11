@@ -1,0 +1,135 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.79.106.2 with SMTP id f2csp1380018ivc;
+        Mon, 29 Jun 2015 19:59:09 -0700 (PDT)
+X-Received: by 10.107.133.234 with SMTP id p103mr12908996ioi.85.1435633146070;
+        Mon, 29 Jun 2015 19:59:06 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3RQCSVRUKDEAuejqnctcngtvu-pqtgrn0iqqing.eqogtkevguugpqyygd.fg@scholar-alerts.bounces.google.com designates 209.85.216.74 as permitted sender) smtp.mail=3RQCSVRUKDEAuejqnctcngtvu-pqtgrn0iqqing.eqogtkevguugpqyygd.fg@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3RQCSVRUKDEAuejqnctcngtvu-pqtgrn0iqqing.eqogtkevguugpqyygd.fg@scholar-alerts.bounces.google.com designates 209.85.216.74 as permitted sender) client-ip=209.85.216.74;
+Received: by 10.50.118.129 with POP3 id km1mf2055334igb.0;
+        Mon, 29 Jun 2015 19:59:05 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3RQCSVRUKDEAuejqnctcngtvu-pqtgrn0iqqing.eqogtkevguugpqyygd.fg@scholar-alerts.bounces.google.com
+Received: from mail-vn0-f74.google.com ([209.85.216.74]) by mx-ha.web.de
+ (mxweb107) with ESMTPS (Nemesis) id 0MKY6V-1ZAazh2mM3-001zCC for
+ <erictessenow@web.de>; Tue, 30 Jun 2015 04:34:46 +0200
+Received: by vnav203 with SMTP id v203so6969755vna.0
+        for <erictessenow@web.de>; Mon, 29 Jun 2015 19:34:45 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=FFOedNM6vJdCwXOydwQJ6gUuWu1p/N4ch0INs55z5LE=;
+        b=CfxpT76lVEqHJdfdOn6dS6/JjVkHJmXPiR01s8g8doYGGia8/raMfJPDJYzaMp39Ue
+         OsA0J8ag3Ssas1YCsW8+Iud44cLgQZh7xWEengrCn369etZ+ilkgz3Gxtq/WJKhYU0tk
+         uqJ0pBbB55Kh/zXPa7i+TL1xownDgNWA8sLnIE798JPuWw1+u9KklLcUDnLqOoNMj8sw
+         ao9JuqwcMoiAAraIpE48nuD7Aszan8nT2yyk3Q8hEcQXe3kibJUxZwedADEXdKSsQT1H
+         X/y3WhLVfCQ0WKAtxD/OUr5VzTh5+IdilsS9pIY8mKnZVCWhruGvHkbah9GZJmTC4A3D
+         wnDw==
+MIME-Version: 1.0
+X-Received: by 10.140.232.88 with SMTP id d85mr24291507qhc.0.1435631685598;
+ Mon, 29 Jun 2015 19:34:45 -0700 (PDT)
+Message-ID: <001a11c12970a5fc480519b30c45@google.com>
+Date: Tue, 30 Jun 2015 02:34:45 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:sPpFWmsd/zg=:lLfr1rlhhG9iZNgjsRq9TlYgen
+ xp+PqtctWcK5ADjBl7KvfU7EYjW7hgxFhuZ1zjVNZqxZ1WCKCKxRb8DqqXHe1hkLcK5g4EgYJ
+ FOLfppFC2a6xOIWDa7OA/8q0us4n6lCPfs77rIKBpYD2+sflBEnU+yf52gkcaDVsb6/f0aM9d
+ MnZCgre3PMPS+/ZDo2Ldz/Wz/52boa+XPG/t+sic0yucOXRbgNKIqbagsD3Gg5gv4GRe1XN6M
+ vygqyLvi+wEEwg6cUvKYeU3mT6weSNieAi2d/F+SwJGrZjSG/FcVftFD564cbEcWTWuC80cKr
+ MBinZGl5wdvgeVFXgTQNKZ/bU72ne3QecT+gIiBX3IymGETwXESK8Cl70xAyCB511lEsDIUxQ
+ zT+woLuId3wB98viO1PFTMloz2lxM7k8efTV9REqjdFLgXGy8ZDi9A6kMj47IJMUlAFp4M95A
+ wnaY/7rAlkeg4xgQbUQu8Z/KWrgGA1bt/M2LrXqIyFAbBOPCdYS08WmaETXXFMmeq3hmwFMhp
+ 26z7xmJJ9LRC51/RcN/6XpqcDs5okhowzQLSV4LbOjJ/D266U1ja06GoFyOLhLsfNsUc6GgHf
+ NdGPGI8zbGQfN9BBuqRQxPWN1v9Te8fAksLbcGmQfgLX0l2qZdM3CeBA1JJdAsTWr/Nbu2+oH
+ nghGKqhSLVzEGaiuuccVrlKMo4jQJ6veZoGW9s9Hzvckfy9CBAohjKHyxfDUdV0wPLrg8s5gj
+ iC9hqEjvrkWsZgdkv5RPqba4YM0Pgx59cpkeBH4J95/PmY+MSFu97lbUFmgWNk9lj67vopLqW
+ Gpl4msO9sofwBE+tEy/Fhopo2DZQdHr+HGv4gsu7ct/S/65/0Jc751cCimY7CYGbO8d3Cm7om
+ AJOon6sXi7RUGWoQ+RDZVXg4pURC5vn9w2oFgj27yAUm8OWXQ+eBYhhakglikpia6j4GR749J
+ u8ERQiUnHHsBoxUoK02B3/W73dPwZy690gLxoc31XoJPAIkTSj3ga0/d9ENepuJan+BxGyPkq
+ 9DFludQhnWWd99jZK4sZFOm0Rhnu9tEbt5DO1goh5UT913wXSNO2mHF/5olxoSrWu7wrqs48+
+ yj1CWMbYliT6sb7uJLWyLMLAzoqVr5UrTz1gpQUTj4P5GzprKNws6d1l66RVAAzWatwShDkD4
+ o78BGw8EHzp89jd8yv/uaXr8pPhmV3AVPF2j1X2Kt3PS1uCfUV3rWyIoYUtWh87/4FOT7r4kH
+ 1HCyhTZ4QLCdi7+f1b6IIM0dJ/OZY2RQ11oNj5Ean5joRVpNIoEWb4SDaIWA39w6jazli4cMm
+ scuw
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttp://www.globalizationandhealth.=
+com/content/11/1/27/abstract&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm1Brg=
+zFkquu-8okaeqDF-AJikwAVw&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3=
+ color=3D#1a0dab style=3D"text-decoration:underline">Implementation of an e=
+lectronic fingerprint-<b>linked data </b>collection system: a feasibility a=
+nd acceptability study among Zambian female sex workers</font></a></h3><div=
+><font size=3D2 color=3D#006621>KM Wall, W Kilembe, M Inambao, YN Chen&hell=
+ip; - Globalization and Health, 2015</font></div><div><font size=3D2 color=
+=3D#222222>Background Patient identification within and between health serv=
+ices is an operational <br>challenge in many resource-limited settings. Whe=
+n following HIV risk groups for service <br>provision and in the context of=
+ vaccine trials, patient misidentification can harm patient <b> ...</b></fo=
+nt></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;max-=
+width:44.5em"><a href=3D"http://scholar.google.de/scholar_url?url=3Dhttp://=
+aisel.aisnet.org/sbis2015/17/&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm2fP=
+kKChU3L1kcxr1MdsOEqAmEm5w&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D=
+3 color=3D#1a0dab style=3D"text-decoration:underline">ArgumentBind-A Model =
+for Implementing Argument Web Integrated Applications with Open and <b>Link=
+ed Data</b></font></a></h3><div><font size=3D2 color=3D#006621>R Niche, SJ =
+Rigo - 2015</font></div><div><font size=3D2 color=3D#222222>Abstract Online=
+ communication and collaboration tools are widely employed by users in <br>=
+order to express their opinions on a vast amount of subjects. These tools w=
+ere not designed <br>to accurately identify topics, nor to point out relati=
+onships between topic elements related <b> ...</b></font></div><br><h3 styl=
+e=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font s=
+ize=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"http://scholar.google.de/sc=
+holar_url?url=3Dhttp://ceur-ws.org/Vol-1388/latebreaking_paper10.pdf&amp;hl=
+=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm349sivC9atdCsf_NNb3DAorWrsOg&amp;nossl=
+=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-dec=
+oration:underline">Using Basic Level Concepts in a <b>Linked Data </b>Graph=
+ to Detect User&#39;s Domain Familiarity</font></a></h3><div><font size=3D2=
+ color=3D#006621>M Al-Tawil, V Dimitrova, D Thakker</font></div><div><font =
+size=3D2 color=3D#222222>Abstract. We investigate how to provide personaliz=
+ed nudges to aid a user&#39;s exploration of <br><b>linked data </b>in a wa=
+y leading to expanding her domain knowledge. This requires a model of <br>t=
+he user&#39;s familiarity with domain concepts. The paper examines an appro=
+ach to detect <b> ...</b></font></div><br><h3 style=3D"font-weight:normal;m=
+argin:0;font-size:medium;max-width:44.5em"><font size=3D2 color=3D#1a0dab>[=
+PDF]</font> <a href=3D"http://scholar.google.de/scholar_url?url=3Dhttp://ww=
+w11.informatik.tu-muenchen.de/userfiles/ldq-eswc2015-hauptmann-brocco-woern=
+dl.pdf&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm1gIIwt7BiERDV3u6RP4gM05_Yr=
+dA&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=
+=3D"text-decoration:underline">Scalable Semantic Version Control for <b>Lin=
+ked Data </b>Management</font></a></h3><div><font size=3D2 color=3D#006621>=
+C Hauptmann, M Brocco, W W=C3=B6rndl</font></div><div><font size=3D2 color=
+=3D#222222>Abstract. <b>Linked Data </b>is the Semantic Web&#39;s establish=
+ed standard for publishing and <br>interlinking data. When authors collabor=
+ate on a data set, distribution and tracking of <br>changes are crucial asp=
+ects. Several approaches for version control were presented in <b> ...</b><=
+/font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;m=
+ax-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"htt=
+p://scholar.google.de/scholar_url?url=3Dhttp://online.agris.cz/files/2015/a=
+gris_on-line_2015_2_o%25C2%25B4flaherty.pdf&amp;hl=3Dde&amp;sa=3DX&amp;scis=
+ig=3DAAGBfm2lx5XGzBu8IRlZCOlhTjKwiJCa3Q&amp;nossl=3D1&amp;oi=3Dscholaralrt"=
+><font size=3D3 color=3D#1a0dab style=3D"text-decoration:underline">Communi=
+ty Co-design of a Geospatial Linked Open Data Platform for Environmental Ma=
+nagement</font></a></h3><div><font size=3D2 color=3D#006621>J O&#39;Flahert=
+y</font></div><div><font size=3D2 color=3D#222222><b>...</b> SDI4Apps (Upta=
+ke of open geographic information through innovative services based on <b>l=
+inked</b><br>
+<b>data</b>) is an EU Competitiveness and Innovation Programme (CIP) pilot =
+action project that aims<br>
+to bridge from the top-down managed world of INSPIRE, Copernicus and Global=
+ Earth <b>...</b>=20
+</font></div><br><p><hr noshade size=3D1><font size=3D2 color=3D#222222>Die=
+ser Google Scholar-Alert wird Ihnen von Google zur Verf=C3=BCgung gestellt.=
+<br><br><a href=3D"http://scholar.google.de/scholar_alerts?view_op=3Dcancel=
+_alert_options&amp;email_for_op=3Derictessenow%40web.de&amp;alert_id=3DAIfe=
+vv3NkPcJ&amp;hl=3Dde"><font color=3D#1a0dab>Alert stornieren</font></a><br>=
+</font></div></body></html>

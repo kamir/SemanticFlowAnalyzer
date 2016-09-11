@@ -1,0 +1,118 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.64.44.105 with SMTP id d9csp72762iem;
+        Fri, 2 Aug 2013 00:25:28 -0700 (PDT)
+X-Received: by 10.182.119.229 with SMTP id kx5mr4238094obb.23.1375428301794;
+        Fri, 02 Aug 2013 00:25:01 -0700 (PDT)
+DomainKey-Status: good
+Received-SPF: pass (google.com: domain of 3ghu2urukdhsrbgnkzqzkdqsr-mnqdokxfnnfkd.bnldqhbsdrrdmnvvda.cd@scholar-alerts.bounces.google.com designates 209.85.128.202 as permitted sender) client-ip=209.85.128.202;
+Received: by 10.182.156.84 with POP3 id wc20mf3867349obb.32;
+        Fri, 02 Aug 2013 00:25:00 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3ghu2urukdhsrbgnkzqzkdqsr-mnqdokxfnnfkd.bnldqhbsdrrdmnvvda.cd@scholar-alerts.bounces.google.com
+Received: from mail-ve0-f202.google.com ([209.85.128.202]) by mx-ha.web.de
+ (mxweb006) with ESMTP (Nemesis) id 0M6kMO-1UPAdx26mi-00wVwK for
+ <erictessenow@web.de>; Tue, 11 Jun 2013 03:19:21 +0200
+Received: by mail-ve0-f202.google.com with SMTP id m1so666238ves.3
+        for <erictessenow@web.de>; Mon, 10 Jun 2013 18:19:20 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=utygl7Oh+K0SIIkD5GJqtmsXb899uqRcYMJEoZRLYvc=;
+        b=moVRtEutsM0EJXiQUpHI1EMDdWAvaLmjEWEpmoh6WadsNBCBmSHHXCaUSc/mvqZAIA
+         ayxSPYIx7lfsJijnNny0SUtyB2ptxfJerz0POzTeVhQdqQ7gWaXUr2Bbmb6ywryUToiU
+         keWKUkftxlfTeedUtG7NjaX2g7zjIW3x3BtZzt6f8UidMcPOxP3F/bGnVOQ8FQA+kqfF
+         xW8ORuYLrbulY5MfvTNAyBLnSeqhqRO9qjUIeGFn9BTJO4HCfQ30F4s2XnoTsxQehQ6X
+         cCvgJ7unLNH6H+NznD1yuIM7KXpqbT6ydA9EulLkLVOpbnQoq7sqwrvNJKkdIPMXutHW
+         7fzA==
+MIME-Version: 1.0
+X-Received: by 10.236.117.51 with SMTP id i39mr7635200yhh.9.1370913560796;
+ Mon, 10 Jun 2013 18:19:20 -0700 (PDT)
+Message-ID: <20cf301af65bcf1c9c04ded6afc1@google.com>
+Date: Tue, 11 Jun 2013 01:19:20 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:Z1IyHJgmVkA=:PnwoRRAgpS7N/4zUS9gMci
+ zOXXWkBQFsU51Pxuiaa8GHbk1inm7K79qW+HAbbB9+jeEvvYOJiKc4yYWVx9Ob6OYCUWUJ3
+ H9eiYkMLjXbcvr2Magf0CGyhyjdOzQ5JUJk8XAB7n26ufnPbNzHvwcsnHUGfWXjoSxPqvSL
+ ah/ZwZ/9l6mHkT3/PcyynW0dOX6pZ8FCCVqhZfS/KIs+5C8Ul8YYujuqE0B+WCbNV6OUMtJ
+ 5vaConfD9RBfz4lILM8A7tn2p55eLfNkUWjwVS/pE05w5irWqVt7Zkuqag9zhERANvBfitf
+ 26VFul/+IBQxeIoiRLEVSkQoGrHZEkrOA6leBYLGOxCucZkHLDHZO9QVDelZO0SvWswv7iw
+ p+pLWJu3XaO+8jadcU01TAlbiHp3jL2oHmvHhln+f0JETupUPwfERxVh8DvNKw6hPGeFYmi
+ JzcXp4TLxOPNvxIH/zu3sRNUo6k+M34rUIKEdHOTOhogQjOidMuoWpA96VuuqModmP5YTVk
+ VAwY6LvxkaQs2cK6LNQ68flDHU+MwBP7J9Sj/i28lwy8JesqUnXAwpNO1K904igWWrXwnVk
+ xcO6/vjSgE+WgFAl7bd+/8N4/G3+Vv+YrFXtPGZr58W78a/J+dvzf7rm4vyGs7dxiKWJA/4
+ rb5bns3hpvICAHU0Bfs2sYM5QO/T8LG21d3eryJy8hcFRlEJttHlKixu3eDZv2RiCCOaSCq
+ Mvj9jx96W/BG7Gt6cgSAnPRahdN+jEO/zxTLawQ2O0a9137V6R3blZst9Ch4sAvCZSnzJRd
+ i6I+fkw7M+nqPfLranliqJXS/ExMfn3lPaAt9YYuCJn95a7MSNCKe/oqD3FokWYuyZphZy0
+ J05pCmPy1haGTY22bdoze9MJlN7F2qNVQZScUThd++PzJazWyyTiHHw8uxLke1j1BYaZVBu
+ nYxC0GjJ5ymRBHxbNDsvCvtFHSUxiY4vb4UexD1PPtsd6CMdWPHXD4NN5egwNazCn2LCZdL
+ +8goD8ztesfAQuG5OeYOClqNVKu5tco9aVXUltdAYbIF95cBOXRslOLTQ38mA2fH7uWoJ+F
+ jFf977XdJrPW4Pumb2LT3KhUPf4kCmrGO525CXPOV0h0D/QzXlROMQ+rHKB1vWw1oraNhvp
+ UJ1oRuN8Sl/V2HTWOAwanekb4s/Dh12yJd9mxueJDmdePM4e/6blBtnSxPwQvLxnmelGGle
+ 1LohzeyUWYyAVMby9kwL6mQ5G+VQbopkgcvC/I7r+SqeIaVn9nX4sSyOc4hhs1H/xAMVAjy
+ DB9Opx2Av0oMJxxN3mQV8+FIx3E43CI+R69dB95+/lFcDc4UZR0ybpTGn2jRXnwvG18A4EA
+ txnZiIKbfxScJ4aELT1LMjrhrrkLAidFFpjSkFOQ0HoozoOhN1dfk1pCobA==
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://onlinelibrary.wil=
+ey.com/doi/10.1002/asi.22914/full&amp;sa=3DX&amp;scisig=3DAAGBfm1bLAw6Gdbh8=
+3pI9upARPcPDTNfjg&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc styl=
+e=3D"text-decoration:underline">Exploring methods to improve access to Musi=
+c resources by aligning library Data with <b>Linked Data</b>: A report of m=
+ethodologies and preliminary findings</font></a></h3><div><font size=3D2 co=
+lor=3D#009933>KF Gracy, ML Zeng, L Skirvin - Journal of the American Societ=
+y for Information  &hellip;, 2013</font></div><div><font size=3D2 color=3D#=
+222222>As a part of a research project aiming to connect library data to th=
+e unfamiliar data sets <br>available in the <b>Linked Data </b>(LD) communi=
+ty&#39;s CKAN Data Hub (thedatahub. org), this <br>project collected, analy=
+zed, and mapped properties used in describing and accessing <b> ...</b></fo=
+nt></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;max-=
+width:44.5em"><font size=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"http:/=
+/scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://drops.dagstuhl.de/opu=
+s/volltexte/2013/4031/pdf/6.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm1ya5aRMGZbSqg=
+psrS_r9uZmvao1A&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=
+=3D"text-decoration:underline">Publishing <b>Linked Data </b>with DaPress</=
+font></a></h3><div><font size=3D2 color=3D#009933>T Costa, JP Leal - InProc=
+eedings {costa_et_al: OASIcs, 2013</font></div><div><font size=3D2 color=3D=
+#222222>Abstract The central idea of the Web of Data is to interlink the in=
+formation available in the <br>Web, most of which is actually stored in dat=
+abases rather than in static HTML pages. Tools to <br>convert relational da=
+ta into semantic web formats and publish then as <b>linked data </b>are <b>=
+ ...</b></font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size=
+:medium;max-width:44.5em"><font size=3D2 color=3D#1122cc>[PDF]</font> <a hr=
+ef=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://e-drustvo=
+.org/icist/2013/html/pdf/043.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm2-G6eALo8M57=
+OoEly846F9xEUDbw&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=
+=3D"text-decoration:underline">Using <b>Linked Data </b>and LOD2 stack in E=
+mergency Management</font></a></h3><div><font size=3D2 color=3D#009933>V Mi=
+jovi=C4=87, L Kraus</font></div><div><font size=3D2 color=3D#222222>Abstrac=
+t=E2=80=93This paper investigates how <b>Linked Data </b>can be applied to =
+emergency <br>management. Intended to IT engineers and safety experts, this=
+ paper shows how <b>Linked </b><br><b>Data </b>is used today in emergency m=
+anagement systems, as well as how LOD2 stack, a <b> ...</b></font></div><br=
+><h3 style=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em=
+"><font size=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"http://scholar.goo=
+gle.de/scholar_url?hl=3Dde&amp;q=3Dhttp://e-drustvo.org/icist/2013/html/pdf=
+/041.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm0RK_UNIvFi5Zzn1h9KiMr9mw-UKw&amp;oi=
+=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D"text-decoration:und=
+erline">I18N OF <b>LINKED DATA </b>TOOLS WITH RESPECT TO WESTERN BALKAN LAN=
+GUAGES</font></a></h3><div><font size=3D2 color=3D#009933>U Milo=C5=A1evi=
+=C4=87, V Janev, S Vrane=C5=A1</font></div><div><font size=3D2 color=3D#222=
+222>Abstract=E2=80=93To be able to cope with all the challenges that are em=
+erging with the rise of the <br>Web of Data, <b>linked data </b>tools must =
+find ways to deal with its heterogeneity with regard to the <br>content bei=
+ng published and the languages that content is being published in. Adequate=
+ <b> ...</b></font></div><br><p><hr noshade size=3D1><font size=3D2 color=
+=3D#222222>Dieser Google Scholar-Alert wird Ihnen von Google zur Verf=C3=BC=
+gung gestellt.<br><br><a href=3D"http://scholar.google.de/scholar_alerts?vi=
+ew_op=3Dcancel_alert_options&amp;email_for_op=3Derictessenow%40web.de&amp;a=
+lert_id=3DAIfevv3NkPcJ&amp;hl=3Dde"><font color=3D#1122cc>Alert stornieren<=
+/font></a><br></font></div></body></html>

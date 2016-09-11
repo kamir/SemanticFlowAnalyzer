@@ -1,0 +1,145 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.140.237.204 with SMTP id i195csp705958qhc;
+        Sun, 8 Mar 2015 01:10:24 -0800 (PST)
+X-Received: by 10.140.236.140 with SMTP id h134mr30314296qhc.87.1425805820072;
+        Sun, 08 Mar 2015 01:10:20 -0800 (PST)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3pRD8VBUKDGQUEJQNCTCNGTVU-PQTGRNaIQQING.EQOGTKEVGUUGPQYYGD.FG@scholar-alerts.bounces.google.com designates 209.85.214.202 as permitted sender) smtp.mail=3pRD8VBUKDGQUEJQNCTCNGTVU-PQTGRNaIQQING.EQOGTKEVGUUGPQYYGD.FG@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3pRD8VBUKDGQUEJQNCTCNGTVU-PQTGRNaIQQING.EQOGTKEVGUUGPQYYGD.FG@scholar-alerts.bounces.google.com designates 209.85.214.202 as permitted sender) client-ip=209.85.214.202;
+Received: by 10.229.148.134 with POP3 id p6mf1131884qcv.7;
+        Sun, 08 Mar 2015 01:10:19 -0800 (PST)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3pRD8VBUKDGQUEJQNCTCNGTVU-PQTGRNaIQQING.EQOGTKEVGUUGPQYYGD.FG@scholar-alerts.bounces.google.com
+Received: from mail-ob0-f202.google.com ([209.85.214.202]) by mx-ha.web.de
+ (mxweb102) with ESMTPS (Nemesis) id 0LhxMs-1XiqJQ166k-00n5UV for
+ <erictessenow@web.de>; Sun, 08 Mar 2015 10:04:38 +0100
+Received: by obcwp18 with SMTP id wp18so2913462obc.1
+        for <erictessenow@web.de>; Sun, 08 Mar 2015 01:04:37 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=MEYfpDKIGDPhw1erF4bThos84soV0QVMo1zM2mp6oGw=;
+        b=cyMQxIZD757s5r3vp3oZ+bhVWpBeTMbiulQ7yCPCfOjJcbUQYxeja6ndFVglXL6r6j
+         i+vSjVSszUAXP/8+vnV0lSDD9uBPhPl6wR7OytcaRBgTjXk9QzsmTs8SRxjdirY5JeP6
+         vIy8RXk6Tj5qPyEGsIXWTtk1vJa3XFk13iMmioERV9auUPxc+QP6TvUVmLwmqXpcDuZW
+         2Y8/qMN9Qro3ermaaAek2XYrD8kGjLlTaZN0Ux+hnWTEUvmU7X2gIcGkiZT+Hha+SEgK
+         JMrNMOp5hpU4hII1FnPZIj/plRzzdtCmz5/betfNzlndoyOxN6Ij5fXfwabtPAiy0rEP
+         eAkA==
+MIME-Version: 1.0
+X-Received: by 10.182.78.69 with SMTP id z5mr22028162obw.4.1425805477031; Sun,
+ 08 Mar 2015 01:04:37 -0800 (PST)
+Message-ID: <047d7b2e4a48fa2f4c0510c334cb@google.com>
+Date: Sun, 08 Mar 2015 09:04:37 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:SoDx0tfNzqA=:zgmk/XvfjviJI8vy+eUPAIV72x
+ 9oHTIA/xNsolzc88l84DWKMd6ZfQoOhHUA/RSiHaoHkcs225FwWcgks7L+lzUCyO4Rm/FN1Oj
+ vL9dY70rOgjugVE/L55ArcO6e2yM1tCYSTN6qe+O3ngASWRYO5L55Qc5H2u+O72dvxkeZw+zS
+ WGN3Oqh8GZcJCB0Gw4GtjDlN64rLclbEv31O9X7m48YFBCS/lA7Pn50Y5MfKzes2dhNuQTxbQ
+ VTsgSysfuf9ARkKfmJUJ4a4tYMqjQYpIzjFWYx4HGeToVniAvoZaFNyvO5yS6GfjyMMUOTsIk
+ AT+5OcVJAhqFID+nUJ4b7QLu0eBxrZJaxP2HX/wa5UlKCEHl+kPfXz/rqlJ0ZEVQZ+KRBAJPy
+ nU1tXKbhtO8Hjzm6WZlr0FLechVeNZo2KYi6ERyPgGITKlKM5GuJmT8E2RoO/fatuaQ4X2c5J
+ bM5qOsG20vfjA0sFsCg/QaXTJMoO1627fDNZyYWw+yQPKrRklgFgsDN9Yf5CqhovaU4VqoUa9
+ EtBX+qfA0X/apfF06vRigfuE9CKkz+h2tf+VIflO77SI9JusDLsZgkECc6vNI4Og5dGSeXG6O
+ 6e/zBixn9h4Hn5zhw7wtzNsUsSGbuOm9teEimHewIeA7ye+JNgtVVb/L/ADLa/Dx+wqn1Ofbx
+ EMGcn31I4lkZpFNjmOrGj3vV4HJoDbIUURcMNG5nmJZe0FE3Cdc8eAvXyAPWbYxg5skMCyTIS
+ XOasjli5yK8a9fL6EsSYJFGsuZlbXPy8bvEHBl4vGjA68kowyp4BrrfpFzqTIoMQFDdzv/vyA
+ D3wzeLIhiz/1PJ7QghR6tStyU2hAFLgYPQ8PI7IVKWQoc4req7qu33RUfEbkL8ieJUtpFWqOg
+ 6SLkxBKdQbn/EOH7HjMgQhqKKNmIMT8UrcS5hBYfEgrVnhFWwWxFoF0xmw5hxFROfzOMNgeQY
+ O2sJLEahvFuzBqynVmG3aT4cii3S+UklFILmTAoZeyNTlmH9zXb23e8OTQByg06tbaXjuYYyC
+ N6/mVeZM/NExeF7scEJGs/sVgsVTaQpLwX7eg+v9cp8JrxWLY6rM3aLll0sVQMIan9PHiH2aa
+ MpcQw6dEimGBYZig63tLHnn5Ai5gVBea2QlfQjtqJrqntKBGdqsqfCi2dQoZ7UGSpBEbyIIOP
+ h5OFjyqgAqZXuKmp9u/VD8QblwpgzQx8fKz2n0N/XLqM6tbBmBk6y8JsDqUS5QgGoSSS6hVd7
+ AehPilKy+a4Iy1mvEyQkIbUyGwfobFoZJ3plMGBYW+cKoM5+QFXT/uXTU3qTJNH102iRSTBLo
+ XayN
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttp://ieeexplore.ieee.org/xpls/ab=
+s_all.jsp%3Farnumber%3D7050795&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm2g=
+5pupnYvoPOd5GEsI3PWinkHihg&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=
+=3D3 color=3D#1a0dab style=3D"text-decoration:underline">Chinese enterprise=
+ knowledge graph construction based on <b>Linked Data</b></font></a></h3><d=
+iv><font size=3D2 color=3D#006621>Q Miao, Y Meng, B Zhang - Semantic Comput=
+ing (ICSC), 2015 IEEE International  &hellip;, 2015</font></div><div><font =
+size=3D2 color=3D#222222>Abstract-Enterprise knowledge graph is crucial for=
+ both enterprises and their management <br>agencies. However, enterprise kn=
+owledge graph construction faces several challenges such <br>as heterogeneo=
+us taxonomies, knowledge inconsistencies or conflicts and lack of <b> ...</=
+b></font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:mediu=
+m;max-width:44.5em"><a href=3D"http://scholar.google.de/scholar_url?url=3Dh=
+ttp://ieeexplore.ieee.org/xpls/abs_all.jsp%3Farnumber%3D7050818&amp;hl=3Dde=
+&amp;sa=3DX&amp;scisig=3DAAGBfm2lhCeVq6AOAPzC-445YrvPlzBL1A&amp;nossl=3D1&a=
+mp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoratio=
+n:underline">Link scientific publications using <b>linked data</b></font></=
+a></h3><div><font size=3D2 color=3D#006621>Q Miao, Y Meng, L Fang, F Nishin=
+o, N Igata - Semantic Computing (ICSC), 2015 IEEE &hellip;, 2015</font></di=
+v><div><font size=3D2 color=3D#222222>Abstract-Scientific publication manag=
+ement services are changing drastically. On the one <br>hand, researchers d=
+emand intelligent search services to discover scientific publications. On <=
+br>the other hand, publishers need to incorporate semantic information to b=
+etter organize <b> ...</b></font></div><br><h3 style=3D"font-weight:normal;=
+margin:0;font-size:medium;max-width:44.5em"><font size=3D2 color=3D#1a0dab>=
+[PDF]</font> <a href=3D"http://scholar.google.de/scholar_url?url=3Dhttp://w=
+ww.mecs-press.org/ijitcs/ijitcs-v7-n4/IJITCS-V7-N4-10.pdf&amp;hl=3Dde&amp;s=
+a=3DX&amp;scisig=3DAAGBfm29jlDnFZxsDsnJLWdURJlRgmTM8g&amp;nossl=3D1&amp;oi=
+=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:und=
+erline">PTSLGA: A Provenance Tracking System for <b>Linked Data </b>Generat=
+ing Application</font></a></h3><div><font size=3D2 color=3D#006621>K Sharma=
+, U Marjit, U Biswas - 2015</font></div><div><font size=3D2 color=3D#222222=
+>Abstract=E2=80=94Tracking provenance of RDF resources is an important task=
+ in <b>Linked Data </b><br>generating applications. It takes on a central f=
+unction in gathering information as well as <br>workflow. Various <b>Linked=
+ Data </b>generating applications have evolved for converting legacy <b> ..=
+.</b></font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:me=
+dium;max-width:44.5em"><a href=3D"http://scholar.google.de/scholar_url?url=
+=3Dhttp://ieeexplore.ieee.org/xpls/abs_all.jsp%3Farnumber%3D7050835&amp;hl=
+=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm3pL4SPl7_HAHUxOh13cbcYahla5g&amp;nossl=
+=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-dec=
+oration:underline">Extracting and integrating nutrition related <b>linked d=
+ata</b></font></a></h3><div><font size=3D2 color=3D#006621>Q Miao, R Fang, =
+Y Meng - Semantic Computing (ICSC), 2015 IEEE International  &hellip;, 2015=
+</font></div><div><font size=3D2 color=3D#222222>Abstract-The development o=
+f modern health care and clinical practice increase the need of <br>nutriti=
+onal and medical data extraction and integration across heterogeneous data =
+sources. <br>It can be useful for researchers and patients if there is a wa=
+y to extract relevant information <b> ...</b></font></div><br><h3 style=3D"=
+font-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"h=
+ttp://scholar.google.de/scholar_url?url=3Dhttp://ieeexplore.ieee.org/xpls/a=
+bs_all.jsp%3Farnumber%3D7050776&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm2=
+DR3aH3RJIXyo4DfCTfCOEY5giSA&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=
+=3D3 color=3D#1a0dab style=3D"text-decoration:underline">Linked crowdsource=
+d data-Enabling location analytics in the linking open data cloud</font></a=
+></h3><div><font size=3D2 color=3D#006621>A Uzun - Semantic Computing (ICSC=
+), 2015 IEEE International  &hellip;, 2015</font></div><div><font size=3D2 =
+color=3D#222222><b>...</b> Enriching mobile network data with semantics by =
+applying the concepts of <b>Linked</b> <b>Data</b> [3] and<br>
+further interlinking this information with the extensive pool of data sourc=
+es that is available within<br>
+the LOD ClouJl enables new application areas for mobile network operators t=
+hat <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttp://kejriwalresearch.azurewebsi=
+tes.net/pdf/proposal.pdf&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm1MHWCEd4=
+596vQVL0biv-fmCmJocw&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 col=
+or=3D#1a0dab style=3D"text-decoration:underline">Populating a <b>Linked Dat=
+a</b>-based Entity Name System</font></a></h3><div><font size=3D2 color=3D#=
+006621>M Kejriwal</font></div><div><font size=3D2 color=3D#222222>Abstract.=
+ Data Integration is the problem of combining data in various data sources =
+and <br>providing a user with a unified view over these sources. Building a=
+n automatic data <br>integration system that can process large, semi-struct=
+ured data sources has emerged as <b> ...</b></font></div><br><p><hr noshade=
+ size=3D1><font size=3D2 color=3D#222222>Dieser Google Scholar-Alert wird I=
+hnen von Google zur Verf=C3=BCgung gestellt.<br><br><a href=3D"http://schol=
+ar.google.de/scholar_alerts?view_op=3Dcancel_alert_options&amp;email_for_op=
+=3Derictessenow%40web.de&amp;alert_id=3DAIfevv3NkPcJ&amp;hl=3Dde"><font col=
+or=3D#1a0dab>Alert stornieren</font></a><br></font></div></body></html>

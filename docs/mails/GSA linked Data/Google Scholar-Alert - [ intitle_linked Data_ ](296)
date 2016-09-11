@@ -1,0 +1,149 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.140.131.5 with SMTP id 5csp260503qhd;
+        Sat, 13 Dec 2014 02:54:20 -0800 (PST)
+X-Received: by 10.140.87.71 with SMTP id q65mr36385326qgd.67.1418468058886;
+        Sat, 13 Dec 2014 02:54:18 -0800 (PST)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3vRKMVBUKDLwuejqnctcngtvu-pqtgrn0iqqing.eqogtkevguugpqyygd.fg@scholar-alerts.bounces.google.com designates 209.85.218.74 as permitted sender) smtp.mail=3vRKMVBUKDLwuejqnctcngtvu-pqtgrn0iqqing.eqogtkevguugpqyygd.fg@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3vRKMVBUKDLwuejqnctcngtvu-pqtgrn0iqqing.eqogtkevguugpqyygd.fg@scholar-alerts.bounces.google.com designates 209.85.218.74 as permitted sender) client-ip=209.85.218.74;
+Received: by 10.229.170.73 with POP3 id c9mf1479711qcz.35;
+        Sat, 13 Dec 2014 02:54:18 -0800 (PST)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3vRKMVBUKDLwuejqnctcngtvu-pqtgrn0iqqing.eqogtkevguugpqyygd.fg@scholar-alerts.bounces.google.com
+Received: from mail-oi0-f74.google.com ([209.85.218.74]) by mx-ha.web.de
+ (mxweb001) with ESMTPS (Nemesis) id 0M55bS-1XjzKC1YtC-00zDk2 for
+ <erictessenow@web.de>; Sat, 13 Dec 2014 11:19:42 +0100
+Received: by mail-oi0-f74.google.com with SMTP id e131so1031284oig.5
+        for <erictessenow@web.de>; Sat, 13 Dec 2014 02:19:41 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=eyEF3FDegD+pmwF3bI2qKfNR5OxKWTnTQL0SL/hs4Ys=;
+        b=CtKuxAmP9VjGUGbc6hrNybTPDwaR7+XUduI2Oyl0LacTHEiZXxUMZhhYPemiJF7hJf
+         XNDyUREYxtmVuyFpa33DpldSy6Ybsp91svw9wCAg/Ec0NNRpppOLj2jsljFNF/PoNIfP
+         K8EqSzsUhcWg4yHtw/6Y7bXqxLDA8nXDmBkAIrOiDsPWVhFAUVjFov7pIxDjTHpz6HfV
+         V+Qp7Q0uK1bLErVG1rMUhEFaj7ezBE4e7/9XxfKgox1nck7KNnVNkyN3xGD+LYRLMWh1
+         +wgoEKVJWkh4zghC5iNvXVoGrsP/7E7iLCzmvTFxkGFcIUtMieMg7YGaDSd4Vz646U7D
+         6Yhw==
+MIME-Version: 1.0
+X-Received: by 10.182.120.99 with SMTP id lb3mr16874274obb.10.1418465981107;
+ Sat, 13 Dec 2014 02:19:41 -0800 (PST)
+Message-ID: <089e0122a2ecee0f1f050a1658ae@google.com>
+Date: Sat, 13 Dec 2014 10:19:41 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:SExsF1oEawA=:0A+RGgzg4O0uXBejiPpxPVR5fu
+ pcnRLgGnZpDt1PniPlKMURHZPwWQOUBplf1U91OPqHT0P3oAqeaqMpyA811eXV+u97rRLWSuQ
+ VwSq9+VS+9P2q32m/JTxvn7cHCxJpQ5pCzERf5t6xQxv/tSI+yn0fReklLKv199Ke67Dyd8BJ
+ P3m9lvipuMfsI2CB4Ef6b6NHB6Hdy2auiFBFj865m5Apv7+fX2jUqAm3lgUyXvdBMMjVf0jGC
+ tn+QeF9xemlAczLLake60j6DW48Ix2wGOIiIH+h95BafrAts5bYw0yoPjm3VLizpOICHJQoYS
+ TRjDdTK9pJZDgfenXd0yZJ/mAvwt5/Db3efc8vwPbd1//5KyNy52tq0ZIhDlFYK7Nsq9hW1Uu
+ /WkIH91BHYUlflAMybrjgzhMBmq3X9Z/fEsPVgbyipVooJcZXDHoTU6Vwwca7w98/AEuPZUKA
+ TiTqsdjphVe/dAI/VHXjRYtGPb60Z6Yvr9h2+Fj8prAYtxY8+cr774mvtZVaLQfK2mDEaloJ4
+ 3IBq3CXHxfgZQPJKucQRT4FR0ofzKEtcnYSq7kiTM9+BvfjUyNJi5ny/4OYK9vad55ftXRfA+
+ ZS0m1dfAPWBoyOfNRiggM23D4qbGzZ+5Aovg5yTQTbdP703wAn7TukKA1Z/kgmJ0/6ujqbHIk
+ zTV9HHJYPu4AeoSHl0Qtq/FPDGmIh9YfJ/+hWrXLW0TVcGtxZWY8SFRtWulOOZ0sq6j5fASOB
+ YFYprGkR9rPKyne1U8B9G/NQXksFKtuQUZlwFXK564MPO1rSqXIK9C+PU9NVX0lSvOs7O8Ah6
+ QUtzeu92y4ETxyMcjyWHDj4Xmu8WfQGbOU3hOJPEgKKvT8UIwEeJ2I8M5txV2iorX8xIIKI1J
+ LGzuY6wuB1WyQDOvW2IR1O0cAD7xMbL63eErMLmt1ve2A55YeN+bVmxmKhn2n8SjQSLPus8Th
+ ywxWTfonJPxDR1AqdUq0xRWStnfqJ+LxWzaVBsczY3/7iHG+gHv5kL84i85D/nSzIt3Nd9dIf
+ 8oKXR0P4DvPKX6nOdWqLH28xt7hyg2oE3JuiHPi0XIeYUiGoQm7zsAlD/+rdt1tslpE9iVJvK
+ /mB5Z4anMUZjScdG2FoUIGIfey7rXi0vezG6ynqxJspf1qpCDvfgqb33TQthb2REht3SZsH0X
+ y1fQKfZxuDf29YZN62Qu4kd1E85tgUYzkZJADIvlMkWCfcA2JrRtJYjXF0fqyGDGFTTVDQ6Xf
+ qPFaHuUqbHLwm6xn4DE//N29m1KJrGwqpBNzqHOB1JTnU0iML54eCrg3bz+mmwH72Qcx0LTaE
+ Ri2g
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttp://dl.acm.org/citation.cfm%3Fi=
+d%3D2682917&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm1YEv78VIOypr2iO6R02Sf=
+DEad7jQ&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-=
+decoration:underline">Querying a web of <b>linked data</b>: foundations and=
+ query execution</font></a></h3><div><font size=3D2 color=3D#006621>O Harti=
+g - ACM SIGWEB Newsletter, 2014</font></div><div><font size=3D2 color=3D#22=
+2222>Abstract During recent years a set of best practices for publishing an=
+d connecting structured <br>data on the World Wide Web (WWW) has emerged. T=
+hese best practices are referred to as <br>the <b>Linked Data </b>principle=
+s and the resulting form of Web data is called <b>Linked Data</b>. The <b> =
+...</b></font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:=
+medium;max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a hre=
+f=3D"http://scholar.google.de/scholar_url?url=3Dhttp://swib.org/swib14/slid=
+es/freire_swib14_21.pdf&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm0-PNwfws-=
+UsAoriO8fSQ8QthJ21Q&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab st=
+yle=3D"text-decoration:underline">Linked Open Data in Aggregation Scenarios=
+: The Case of The European Library</font></a></h3><div><font size=3D2 color=
+=3D#006621>N Freire</font></div><div><font size=3D2 color=3D#222222><b>...<=
+/b> Linking Data www.theeuropeanlibrary.org Page 21. <b>Linked</b> <b>Data<=
+/b> at The European Library<br>
+Managing and linking person names <b>...</b> A match is only chosen if enou=
+gh supporting evidence is<br>
+found Page 24. <b>Linked</b> <b>Data</b> at The European Library Managing a=
+nd linking place names <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttp://worldcomp-proceedings.com/p=
+roc/p2014/EEE7194.pdf&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm045I6hUvg8P=
+Xcc5lP0zNGvwNmqSg&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab styl=
+e=3D"text-decoration:underline">Using Linked Open Data to Enrich a Corporat=
+e Memory of Universities</font></a></h3><div><font size=3D2 color=3D#006621=
+>CKG Dur=C3=A1n, RC Medina-Ram=C3=ADrez, M Juganaru-Mathieu</font></div><di=
+v><font size=3D2 color=3D#222222><b>...</b> courses, resources, platforms, =
+instructional models, experts, professors, and so on [2]. However,<br>
+all these initiatives do not converge yet to a cohesive and truly connected=
+ global view [2].<br>
+Universities are joining the movement by deploying their own <b>Linked</b> =
+<b>Data</b> platforms, and <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><a href=3D"http://scholar.google.de/scholar_url?url=3Dhtt=
+p://books.google.de/books%3Fhl%3Dde%26lr%3D%26id%3DmLK5BQAAQBAJ%26oi%3Dfnd%=
+26pg%3DPA380%26dq%3D%2522linked%2BData%2522%26ots%3DhZ_xlze5fL%26sig%3DasE1=
+rFqTkcw8J4lCyb8Z5Lq9pn4&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm1vooRv8Wg=
+oyuTlzC1ztVYICGyHTA&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab st=
+yle=3D"text-decoration:underline">An Automatic Instance Expansion Framework=
+ for Mapping Instances to <b>Linked Data </b>Resources</font></a></h3><div>=
+<font size=3D2 color=3D#006621>A Suchato, P Punyabukkana - Semantic Technol=
+ogy</font></div><div><font size=3D2 color=3D#222222>Abstract. <b>Linked Dat=
+a </b>is an utterly valuable component for semantic technologies because it=
+ <br>can be used for accessing and distributing knowledge from one data sou=
+rce to other data <br>sources via structured links. Therefore, mapping inst=
+ances to <b>Linked Data </b>resources plays <b> ...</b></font></div><br><h3=
+ style=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em"><f=
+ont size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"http://scholar.google.=
+de/scholar_url?url=3Dhttps://www.humanrights.gov.au/sites/default/files/Sub=
+mission%2520101%2520-%2520Nan%2520Hu,%2520Rebecca%2520Glauert%2520and%2520J=
+ianghong%2520Li.pdf&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm3-a1dbiWZRnYY=
+Ll_H5_sIlbiC79w&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=
+=3D"text-decoration:underline">Using <b>linked data </b>and a life-course a=
+pproach to understand the developmental pathways to intentional self-harm i=
+n children</font></a></h3><div><font size=3D2 color=3D#006621>N Hu, R Glaue=
+rt, J Li</font></div><div><font size=3D2 color=3D#222222>The last three dec=
+ades have seen mounting evidence that intentional self-harm in people <br>a=
+ged below 18 is influenced by a wide range of biological, social, and psych=
+ological factors <br>at individual, family, and community levels. These fin=
+dings highlight the importance of <b> ...</b></font></div><br><h3 style=3D"=
+font-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"h=
+ttp://scholar.google.de/scholar_url?url=3Dhttp://books.google.de/books%3Fhl=
+%3Dde%26lr%3D%26id%3DmLK5BQAAQBAJ%26oi%3Dfnd%26pg%3DPA110%26dq%3D%2522linke=
+d%2BData%2522%26ots%3DhZ_xlze5fL%26sig%3DFhy1Ib0Xi8laOpHxenG-ZbjaLH4&amp;hl=
+=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm0f76F5P1sa4CHXVBMA2hIoWqa7dA&amp;oi=3Ds=
+cholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:underli=
+ne">Publishing a Disease Ontologies as <b>Linked Data</b></font></a></h3><d=
+iv><font size=3D2 color=3D#006621>R Mizoguchi - Semantic Technology</font><=
+/div><div><font size=3D2 color=3D#222222>Abstract. Publishing open data as =
+<b>linked data </b>is a significant trend in not only the Semantic <br>Web =
+community but also other domains such as life science, government, media, <=
+br>geographic research and publication. One feature of <b>linked data </b>i=
+s the instance-centric <b> ...</b></font></div><br><p><hr noshade size=3D1>=
+<font size=3D2 color=3D#222222>Dieser Google Scholar-Alert wird Ihnen von G=
+oogle zur Verf=C3=BCgung gestellt.<br><br><a href=3D"http://scholar.google.=
+de/scholar_alerts?view_op=3Dcancel_alert_options&amp;email_for_op=3Derictes=
+senow%40web.de&amp;alert_id=3DAIfevv3NkPcJ&amp;hl=3Dde"><font color=3D#1a0d=
+ab>Alert stornieren</font></a><br></font></div></body></html>

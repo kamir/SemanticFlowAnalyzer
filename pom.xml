@@ -16,8 +16,8 @@
                 <artifactId>maven-compiler-plugin</artifactId>
                 <version>2.3.2</version>
                 <configuration>
-                    <source>1.7</source>
-                    <target>1.7</target>
+                    <source>1.8</source>
+                    <target>1.8</target>
                 </configuration>
             </plugin>
         </plugins>
@@ -61,7 +61,7 @@
         </dependency>
 
         <dependency>
-            <groupId>javax.mail</groupId>
+            <groupId>javax.mail</groupId> 
             <artifactId>mail</artifactId>
             <version>1.4</version>
         </dependency>    
@@ -69,16 +69,28 @@
         <dependency>
             <groupId>org.apache.tika</groupId>
             <artifactId>tika-core</artifactId>
-            <version>1.11</version>
+            <version>1.13</version>
             <type>jar</type>
         </dependency>
 
         <dependency>
             <groupId>org.apache.tika</groupId>
             <artifactId>tika-parsers</artifactId>
-            <version>1.11</version>
+            <version>1.13</version>
             <type>jar</type>
         </dependency>
-
+        
+        <dependency>
+            <groupId>org.apache.solr</groupId>
+            <artifactId>solr-solrj</artifactId>
+            <version>4.10.3-cdh5.8.0</version>
+            <type>jar</type>
+        </dependency>
     </dependencies>
+         <repositories>
+    <repository>
+      <id>cloudera</id>
+      <url>https://repository.cloudera.com/artifactory/cloudera-repos/</url>
+    </repository>
+  </repositories>
 </project>

@@ -1,0 +1,108 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.140.237.204 with SMTP id i195csp246519qhc;
+        Fri, 20 Feb 2015 14:04:02 -0800 (PST)
+X-Received: by 10.140.165.209 with SMTP id l200mr28629542qhl.84.1424469835121;
+        Fri, 20 Feb 2015 14:03:55 -0800 (PST)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 34qjnVBUKDH8vfkrodudohuwv-qruhso1jrrjoh.frphulfwhvvhqrzzhe.gh@scholar-alerts.bounces.google.com designates 209.85.220.74 as permitted sender) smtp.mail=34qjnVBUKDH8vfkrodudohuwv-qruhso1jrrjoh.frphulfwhvvhqrzzhe.gh@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 34qjnVBUKDH8vfkrodudohuwv-qruhso1jrrjoh.frphulfwhvvhqrzzhe.gh@scholar-alerts.bounces.google.com designates 209.85.220.74 as permitted sender) client-ip=209.85.220.74;
+Received: by 10.229.148.134 with POP3 id p6mf1575614qcv.36;
+        Fri, 20 Feb 2015 14:03:55 -0800 (PST)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 34qjnVBUKDH8vfkrodudohuwv-qruhso1jrrjoh.frphulfwhvvhqrzzhe.gh@scholar-alerts.bounces.google.com
+Received: from mail-pa0-f74.google.com ([209.85.220.74]) by mx-ha.web.de
+ (mxweb101) with ESMTPS (Nemesis) id 0M0xBT-1XYKWx06e7-00v8ME for
+ <erictessenow@web.de>; Fri, 20 Feb 2015 22:36:36 +0100
+Received: by pabkx10 with SMTP id kx10so3171696pab.1
+        for <erictessenow@web.de>; Fri, 20 Feb 2015 13:36:34 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=ur5C0OEG1fprB+uRTz4/sjrt/FlirgTRwHb/LvorRA4=;
+        b=gdMArExkyHdE8dl6p11LukCSHNiiZW8tKFI7obUOU31LRdHpLOt6Vtu7+huzty1rMM
+         D5wYPgwjjW3TLSf0PWK9BB6c8KpNmBaJZxt0BSvpZmcZ5IR2WLXZ0zffZVCUGiUUAkhr
+         TwE+Dbx0GulWiOi6+aTlnsJm5ZK2zBio8CFLCcI3CImB4ylmtyw1NetPRfmNOecwVbVp
+         PDMQE3rTiEKijzK4TSvvIQG5KnFPAgyuNeyKwvoUnTRZCGdSngNygQYGjlVTcBn+yN2Q
+         BaP/otKDj/HbwtKDMqFuqZRJczzL2CvsqmaD1+RCxdSGeS2fqzmdodyxvsRqBoW6J054
+         QO4A==
+MIME-Version: 1.0
+X-Received: by 10.70.132.138 with SMTP id ou10mr11324487pdb.2.1424468194462;
+ Fri, 20 Feb 2015 13:36:34 -0800 (PST)
+Message-ID: <001a11360382b98ac4050f8bd860@google.com>
+Date: Fri, 20 Feb 2015 21:36:34 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:i//YVUT4OhE=:XUxsR5CXH+G8gmGsFJj0qmL/iO
+ TuriXWGtw1mt6MkoAqHyE7TzURqocPwaNUbbSzSiTOZdU1lE36ydZ4o7m25ZR3nGKRS85tEsC
+ i6iHkRFKksIPhx4D4LQXEk3QwjTFJt9zqtC6yO+fdRyMDgnrukXPOfeAAdKGBHrTKbiUxDI5v
+ BCm1KbqRmdoESnNbYNiaidOCZMgbAOJzgJGaHOT6cW6tpvNdm8XO/ZeoDXug74QvCfzUUsUyM
+ E+XhaUN4BxylpDFSQ1LQwtriU4bQ0tjF0F8yOLviWvqtYL8BvGag+vJzf/VEewxwL8XnxyYmV
+ +la1ZFAuP9fKMTQbuqj0QKZLFIRfzVyGB143ssq8ypnTIHEjByTiGWvMVgvSV3smy6n8t0Mcg
+ ek9cygnbXlFa2Ul+n/GlsuXJP3LjtF07zQYnuOB+dlwOETHYZd2gcSKbDN5YKB2O+ogN6sXSR
+ Rb1AyrHVO0soX/G6XOWwkCE3xJPv32ExpZ0I5hFuRFbtmp+UXlZc42pzDOHgEdnkraTk9qWag
+ Hp3Mx9T8g4xOuQ2NzZER0RfmN+VgiSgqns/ojImC6gVK+I9tL04c07UEwKFha3K/+eGh575tK
+ u1xRNJ6/Dpi70WAEp/8Ror8/GugxuKmOy7FlQDsB2eQJgSMtj25amEKDQ7emFz306Q4b7xtdZ
+ EgmGvrxNanprZNc4cTWbO+wyZvf3py+itT+V6MdNQnpPJIpFtSHZS0x5pxVBQl6imEd9ZM3+f
+ D+W+3Awgb9ZZ/Jqb01iGtnFwN/pNQ35XuenzcmmBUxuH5mBdAZqln/ZwcGLRn2AQc24Qzetxa
+ tn7+mY+ef91FANZFxNCo192tV6so7dB2chRe63J3CIT3m0hg/zOL/FyvoS4nthmkAnK3sAa/u
+ mriLHLYdEq7RdJT17Hj0OwS/8PHTj7z5E1BjyqIMlyC6H2mN67j6tBuBm5+EjM3YW3C/qNjhx
+ iD31Lw5H8rImrcuFQv5IUfLmKJyr1BswI4OWVkUxvDtJC411WDUi7BcS9DlF4ezAawSpiFOMx
+ h9KnZ6zRsggANc3AkgDbJDs+HGEIvs5PmHkbjZs+ipNba6XWOFL5Gi1i72V/Fg9xEVeysbSaD
+ UbQ7t/2/vjQsY698y4PenpX9GXLbxgiK2yT58X2XmYKO7uRiBo+lrJFqjNknY57ejPTyMvuYd
+ MGxf/GI3xFLQFxTRQi2d9N6ObRFVQ3ycZKL1wl/wx0+Zii5Aycg+8Ls+kk1xjx6pjyRBO9e3D
+ FGGLgaTvuPWiaintXfP/5ttfEuQk7o6nGH3b+cnUC+qmH2RnGrgFvvxGfM/knLBTFNTbaVTEW
+ 6CUJ
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D=
+2 color=3D#1a0dab>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_=
+url?url=3Dhttp://svn.aksw.org/papers/2014/cubeqa/journal/public.pdf&amp;hl=
+=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm00tIXrNyI4dV3UUQUR5q9E0gLOZQ&amp;nossl=
+=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-dec=
+oration:underline">Question Answering on Statistical <b>Linked Data</b></fo=
+nt></a></h3><div><font size=3D2 color=3D#006621>K H=C3=B6ffner, J Lehmann -=
+ 2015</font></div><div><font size=3D2 color=3D#222222>Abstract. As an incre=
+asing amount of statistical data is published as RDF, intuitive ways of <br=
+>satisfying information needs and getting new insights out of this type of =
+data becomes <br>increasingly important. Question answering systems provide=
+ intuitive access to data by <b> ...</b></font></div><br><h3 style=3D"font-=
+weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"http:/=
+/scholar.google.de/scholar_url?url=3Dhttp://dl.acm.org/citation.cfm%3Fid%3D=
+2656208&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm21aHvHts3BOLNj8NY2ZY2BHOV=
+tXQ&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab styl=
+e=3D"text-decoration:underline">Placement of Linked Dynamic Data Structures=
+ over Heterogeneous Memories in Embedded Systems</font></a></h3><div><font =
+size=3D2 color=3D#006621>M Pe=C3=B3n-quir=C3=B3s, A Bartzas, S Mamagkakis, =
+F Catthoor&hellip; - ACM Transactions on  &hellip;, 2015</font></div><div><=
+font size=3D2 color=3D#222222><b>...</b> of data objects in physical memory=
+ modules. Additionally, the performance of<br>
+hardware-controlled cache memories may be severely hindered when used with<=
+br>
+<b>linked</b> <b>data</b> structures. We therefore present a methodology to=
+ map <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttps://geog.ucsb.edu/~jano/themat=
+icsignatures.pdf&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm1y8Og4Z4Qwtc_YB7=
+zASbT3chVEuQ&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a=
+0dab style=3D"text-decoration:underline">Thematic Signatures for Cleansing =
+and Enriching Place-Related <b>Linked Data</b></font></a></h3><div><font si=
+ze=3D2 color=3D#006621>B Adamsa, K Janowiczb</font></div><div><font size=3D=
+2 color=3D#222222>There has been significant progress transforming semi-str=
+uctured data about places into <br>knowledge graphs that can be used in a w=
+ide variety of geographic information systems <br>such as digital gazetteer=
+s or geographic information retrieval systems. For instance, in <b> ...</b>=
+</font></div><br><p><hr noshade size=3D1><font size=3D2 color=3D#222222>Die=
+ser Google Scholar-Alert wird Ihnen von Google zur Verf=C3=BCgung gestellt.=
+<br><br><a href=3D"http://scholar.google.de/scholar_alerts?view_op=3Dcancel=
+_alert_options&amp;email_for_op=3Derictessenow%40web.de&amp;alert_id=3DAIfe=
+vv3NkPcJ&amp;hl=3Dde"><font color=3D#1a0dab>Alert stornieren</font></a><br>=
+</font></div></body></html>

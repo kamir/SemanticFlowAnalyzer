@@ -1,0 +1,138 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.55.19.134 with SMTP id 6csp454895qkt;
+        Mon, 16 Nov 2015 20:55:03 -0800 (PST)
+X-Received: by 10.55.15.204 with SMTP id 73mr40554313qkp.60.1447736100602;
+        Mon, 16 Nov 2015 20:55:00 -0800 (PST)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3P6lKVhUKDHQkUZgdSjSdWjlk-fgjWhdqYggYdW.UgeWjaUlWkkWfgooWT.VW@scholar-alerts.bounces.google.com designates 209.85.218.78 as permitted sender) smtp.mailfrom=3P6lKVhUKDHQkUZgdSjSdWjlk-fgjWhdqYggYdW.UgeWjaUlWkkWfgooWT.VW@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3P6lKVhUKDHQkUZgdSjSdWjlk-fgjWhdqYggYdW.UgeWjaUlWkkWfgooWT.VW@scholar-alerts.bounces.google.com designates 209.85.218.78 as permitted sender) client-ip=209.85.218.78;
+Received: by 10.140.43.10 with POP3 id d10mf1185580qga.3;
+        Mon, 16 Nov 2015 20:55:00 -0800 (PST)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: <3P6lKVhUKDHQkUZgdSjSdWjlk-fgjWhdqYggYdW.UgeWjaUlWkkWfgooWT.VW@scholar-alerts.bounces.google.com>
+Received: from mail-oi0-f78.google.com ([209.85.218.78]) by mx-ha.web.de
+ (mxweb109) with ESMTPS (Nemesis) id 0MdI4t-1Zgjlj3bmd-00IRCl for
+ <erictessenow@web.de>; Tue, 17 Nov 2015 05:12:49 +0100
+Received: by oiww189 with SMTP id w189so416228oiw.0
+        for <erictessenow@web.de>; Mon, 16 Nov 2015 20:12:47 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=5kw2x1y8tp83CcYAIcjABFK2Bw1Us64WOAeemWSoim4=;
+        b=D5j2TvxB21Qpv12AKveQ4Xq6e/Ke2oESB3dEszTR7lB4czD6DGM+AsNUCQXbrpx8In
+         oJ+tWeukqS2ryUnkUJKIN3+ieFHd82SPOF48XM3ON3V5OhdSY0OPUgRlp420Tl9uRi6P
+         AAu7jlJCH71PYFXXbXt2VdsZ3FC39rR8OuaoPW3ts9BwKkw92wiY0xPosilJFe0+4+zS
+         GQXQsCoEBmTbzm8forvuLq9Ewl9cX5Jq+Xz06L9CrUs8TBmsK00zsgEVPvfZHZsJJmFT
+         GJInmXcTwbCYV9WeMhNc/lVLLpJlntteVdrbneibO69tFKSCbTEqS/6B5x5mWzkMy+CX
+         LAng==
+MIME-Version: 1.0
+X-Received: by 10.50.25.234 with SMTP id f10mr19138345igg.9.1447733567671;
+ Mon, 16 Nov 2015 20:12:47 -0800 (PST)
+Message-ID: <047d7bdc143207cf730524b4bd9f@google.com>
+Date: Tue, 17 Nov 2015 04:12:47 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:7NQCdYZ8KhM=:/G8JEZnY8lxPWrTnGgxKBrQYiu
+ quMaJXwnG0B+xRL8XJeZum4AIJsv1SrCEiw1O4l2YO7g3ol98h8grNIFp+8Nvp9wu4Lc7zcDF
+ nDvg3gfdSuwEJZFNzwuTsJmaylVcYQz5ughqai74rw39xGdfvBeIUf+zv9FwZo0lHsmYR3SrJ
+ JcYbpBKTh/Bq1qBsA9WaTxeu/M9ZBgsoBH0v3mzlHB4Gn7AgyyQfb6puT8F5dSCaeh6zxX9j1
+ DDJpnSssL8k3Dj2h7Kk+qcCX5VAeuFgVEKJ70eMhLdDuBkx8IZurn81R1NipiDSGZwFmYDAj1
+ rGiDh3+7/GV+X2oem5j+pipGgu1CsHUseTdk/4aCf1Nymgr5a496vVojB1o1auwQTmBO+yUqq
+ zw8/fVs+7x4hTKndbIjt1IX+s5pyyP+SlophNMbbju61TgaJC4F5Qae9aAY4Z7t/uhgFgsOo+
+ 1n3GROV63GKZxzlci9+kiXNR68gFBWdM0o1LF/N9RYFH5BgedfuG8ABFaaqx6gFsKwUC19rpa
+ El2+znrGPDGkOPBkD/2w50+XFIzhfvHfkifTo2QvZNr8T8ufbLj+moYshcEsHb+/5PnwlRkNG
+ 5cz2h72hMjC2T/NZj6Htf7IBZlixgbmx9lFYvdYEAoHWvh8A+4Ad13KsEyvauwzUj1ZM5ufqX
+ svt50ESMEchfeOqMpKwfyp0NtBVDhAwAccXZBXPbDEJI1s5awLGcja5LL70tOFXuhlIRzvSIh
+ ofczyar7pmKn9I23/rnOdULL9oVLYPVWeg6EaRbeV7rp7nmHg9CoZHNXP2axQo1LwzE7qRBpI
+ YftKgYNZTmE6ZrPoIaLvtz2u2p/wc2RgY9pjodxAV9y4A0I+HaA5/hLp3Zc2uRZjUb6HgjzBm
+ HBdsaU9DUaEwXJvm3uY286bOmCZRGb8gnWzg1vNJWj67NQHiMUTXZ97jnlgTzHyWqI23jtd/4
+ 41M1mWS/fecL4/T5+60/HmZmRwEQICR3971A2kNQh5tMMRlBy/acAzMhqKCv3JT+MPcFM6mdY
+ jw0xtZUO3nZ8z9ptx8J6SDFfcx4TdVFXBX9Xysr2k11L6HcjPMEVLSyEVsjoCHvXaTvMR/m13
+ jC3LLVG1yOw8aVGAsKeBnDftIlYbdjkYddUqncakkDyWEqDd26Wc6NeugUVStfdVnh0tUqil6
+ sBY/U7WjcDekTGMbiVPHaMlvVaISilmV6NC/LQmfGfHndkm9ByTg8sWF1OvAjupW3mHVzR0S1
+ O1jvcu96VR5+oeLPvotmmWhRfapo60Of8Gv8YjBfNqfa0qVR3EAKOHn6eUQrYip7UKips8vlI
+ DcTp0gey13WR19nRt5Gel0RuUjDSuMY2VfzoNF4r6tW9FzU=
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D=
+2 color=3D#1a0dab>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_=
+url?url=3Dhttp://ceur-ws.org/Vol-1506/proceedingsMoDeST2015.pdf%23page%3D50=
+&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm18O6L7JZODXHfvA7PrU8VAKovMwQ&amp=
+;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"te=
+xt-decoration:underline"><b>Linked Data </b>and Mobile Application Privacy<=
+/font></a></h3><div><font size=3D2 color=3D#006621>EW Patton, I Liccardi - =
+1st International Workshop on Mobile Deployment of  &hellip;, 2015</font></=
+div><div><font size=3D2 color=3D#222222>Abstract. The smartphone applicatio=
+ns ecosystem lacks significant controls and <br>accountability mechanisms t=
+o protect users&#39; privacy from snooping applications, especially <br>whe=
+n context may significantly impact the decision to share sensitive informat=
+ion. In this <b> ...</b></font></div><br><h3 style=3D"font-weight:normal;ma=
+rgin:0;font-size:medium;max-width:44.5em"><font size=3D2 color=3D#1a0dab>[P=
+DF]</font> <a href=3D"http://scholar.google.de/scholar_url?url=3Dhttp://pal=
+rap.org/ojs/index.php/palrap/article/download/106/494&amp;hl=3Dde&amp;sa=3D=
+X&amp;scisig=3DAAGBfm21bjJNtCcRKDboQ3jif7vpDesxDA&amp;nossl=3D1&amp;oi=3Dsc=
+holaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:underlin=
+e">Connecting RDA and RDF: <b>Linked Data </b>for a Wide World of Connected=
+ Possibilities</font></a></h3><div><font size=3D2 color=3D#006621>A Faith, =
+M Chrzanowski - Pennsylvania Libraries: Research &amp; Practice, 2015</font=
+></div><div><font size=3D2 color=3D#222222>Abstract Libraries have struggle=
+d with connecting a plethora of content and the metadata <br>stored in cata=
+logs to patrons. Adding more value to catalogs, more tools for reference <b=
+r>librarians, and enriched patron search, <b>linked data </b>is a means to =
+connect more people <b> ...</b></font></div><br><h3 style=3D"font-weight:no=
+rmal;margin:0;font-size:medium;max-width:44.5em"><font size=3D2 color=3D#1a=
+0dab>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_url?url=3Dhtt=
+p://rua.ua.es/dspace/bitstream/10045/51068/1/data-models-storage-retrieval-=
+legislative-documents.pdf&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm2djprrA=
+AIBz6iwVp_IDuAiY7HrPQ&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 co=
+lor=3D#1a0dab style=3D"text-decoration:underline">Data Model for Storage an=
+d Retrieval of Legislative Documents in Digital Libraries Using <b>Linked D=
+ata</b></font></a></h3><div><font size=3D2 color=3D#006621>M Hallo, S Luj=
+=C3=A1n Mora, A Mat=C3=A9 Morga - 2015</font></div><div><font size=3D2 colo=
+r=3D#222222>Many countries have provided online access to some types of leg=
+islative documents by <br>subject, keywords or date. Nevertheless, the poss=
+ibility of querying historical versions of the <br>documents is usually an =
+uncommon feature. The dispersion of laws and other legislative <b> ...</b><=
+/font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;m=
+ax-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"htt=
+p://scholar.google.de/scholar_url?url=3Dhttp://www.researchgate.net/profile=
+/Alokkumar_Jha/publication/283328799_Linked_Data_Approach_for_CNV_Annotatio=
+n_in_Cancer/links/5633de7908aeb786b7013c6c.pdf&amp;hl=3Dde&amp;sa=3DX&amp;s=
+cisig=3DAAGBfm3RGl8km0KEGxnuxICfEDFksEBeag&amp;nossl=3D1&amp;oi=3Dscholaral=
+rt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:underline"><b>L=
+inked Data </b>Approach for CNV Annotation in Cancer</font></a></h3><div><f=
+ont size=3D2 color=3D#006621>A Jha, Y Khan, R Sahay, D Rebholz-Schuhmann</f=
+ont></div><div><font size=3D2 color=3D#222222>Abstract Human genetics are D=
+NA sequences of nucleotides called bases and any GAIN or <br>LOSS either in=
+herited or denovo could be a potential reason for genetic diseases in human=
+ <br>measured based on the frequencies of these alterations. Mechanism of g=
+enetics ideally <b> ...</b></font></div><br><h3 style=3D"font-weight:normal=
+;margin:0;font-size:medium;max-width:44.5em"><font size=3D2 color=3D#1a0dab=
+>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_url?url=3Dhttps:/=
+/jsai.ixsq.nii.ac.jp/ej/index.php%3Faction%3Dpages_view_main%26active_actio=
+n%3Drepository_action_common_download%26item_id%3D749%26item_no%3D1%26attri=
+bute_id%3D1%26file_no%3D1%26page_id%3D13%26block_id%3D8&amp;hl=3Dde&amp;sa=
+=3DX&amp;scisig=3DAAGBfm19o1R4coDzwr7Z02i9JVz2xfRP5w&amp;nossl=3D1&amp;oi=
+=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:und=
+erline"><b>Linked Data </b>=E3=81=AB=E3=81=8A=E3=81=91=E3=82=8B=E8=BF=B0=E8=
+=AA=9E=E3=81=AE=E6=84=8F=E5=91=B3=E3=82=92=E8=A6=8F=E5=AE=9A=E3=81=99=E3=82=
+=8B=E6=96=B9=E6=B3=95</font></a></h3><div><font size=3D2 color=3D#006621>=
+=E5=B1=B1=E7=94=B0=E9=9A=86=E5=BC=98</font></div><div><font size=3D2 color=
+=3D#222222>Abstract: There are many research activities concerning <b>Linke=
+d Data</b>, but Lined Data are not <br>actively utilized for many purposes.=
+ One of the reasons is that it is not easy to express <br>various kinds of =
+information as <b>Linked Data</b>. Another reason is a lack of standard <b>=
+ ...</b></font></div><br><p><hr noshade size=3D1><font size=3D2 color=3D#22=
+2222>Dieser Google Scholar-Alert wird Ihnen von Google zur Verf=C3=BCgung g=
+estellt.<br><br><a href=3D"http://scholar.google.de/scholar_alerts?view_op=
+=3Dcancel_alert_options&amp;email_for_op=3Derictessenow%40web.de&amp;alert_=
+id=3DAIfevv3NkPcJ&amp;hl=3Dde"><font color=3D#1a0dab>Alert stornieren</font=
+></a><br></font></div></body></html>

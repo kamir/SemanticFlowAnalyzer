@@ -1,0 +1,108 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.64.243.69 with SMTP id ww5csp4040iec;
+        Sat, 3 May 2014 02:16:42 -0700 (PDT)
+X-Received: by 10.50.43.225 with SMTP id z1mr10016767igl.29.1399108600433;
+        Sat, 03 May 2014 02:16:40 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3e7BkUxUKDBA8sx41q7q1u798-347u51Ew44w1u.s42u7ys9u88u34CCur.tu@scholar-alerts.bounces.google.com designates 209.85.216.202 as permitted sender) smtp.mail=3e7BkUxUKDBA8sx41q7q1u798-347u51Ew44w1u.s42u7ys9u88u34CCur.tu@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3e7BkUxUKDBA8sx41q7q1u798-347u51Ew44w1u.s42u7ys9u88u34CCur.tu@scholar-alerts.bounces.google.com designates 209.85.216.202 as permitted sender) client-ip=209.85.216.202;
+Received: by 10.64.224.178 with POP3 id rd18mf1746321iec.21;
+        Sat, 03 May 2014 02:16:40 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3e7BkUxUKDBA8sx41q7q1u798-347u51Ew44w1u.s42u7ys9u88u34CCur.tu@scholar-alerts.bounces.google.com
+Received: from mail-qc0-f202.google.com ([209.85.216.202]) by mx-ha.web.de
+ (mxweb001) with ESMTPS (Nemesis) id 0Lqj2o-1XKVXa3sig-00eN9C for
+ <erictessenow@web.de>; Sat, 03 May 2014 11:01:49 +0200
+Received: by mail-qc0-f202.google.com with SMTP id x13so827893qcv.5
+        for <erictessenow@web.de>; Sat, 03 May 2014 02:01:47 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=ulKze2DDrbhuNuFkEQdOaISXh771CcDP4NODkqguTMU=;
+        b=k9HLx9sJ3KlQOSTnzfXIMXd/9nW87A+BHA6hBp4mY86LtIqpQbTM+aTuRhvZCtJ+SR
+         UXJ9krRSbhn0h8pWLIbuhIfvUoPWQ5BM37ISAONxZOLNzbNMrusAfLu7ue7TeqLtlZ9/
+         fIgxcrA2gABAvO78gwFxzLcZYtf6Zm0yGUKV7h+Q5V0bjVeOm3rjEaitiF1V6GdRl5c7
+         81gfOPpgKDV3DQ3vkXqHUGpgFcfNo7bgaisgr7yfjrcdl7rgsNn1v1l3ym+GYJ1mtiL6
+         9waMuY+KlZnmcMw0NW0yTpQi3Rq7klRK0C4DrMB2ddw6p/20o0gCjvwNkX/DvOqLgY/s
+         ymUg==
+MIME-Version: 1.0
+X-Received: by 10.236.209.130 with SMTP id s2mr9666381yho.18.1399107707911;
+ Sat, 03 May 2014 02:01:47 -0700 (PDT)
+Message-ID: <001a11c1fcf4eebdb704f87b259b@google.com>
+Date: Sat, 03 May 2014 09:01:47 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:vBrLq4JuV+w=:Ws24Ovh91zN/vt8uwWiemoOV/x
+ FoZ8OVYJLSKwjZ18CjLjFevsi9f9IhXGW8w/Yw/vty9n2uyr+E5YI9XFm+xZrTvIVyuWMbhk8
+ 7TdlhACZOflrXSXYLiore4kQ0Kz5vLGHTb124hepz3CREanV7wfL6LkWvtE3S4j+mxdm3huZ/
+ vfFSnzyiOwxw3H1p92Qpf14KmhiIpf/nVHkIHPkY0+pYu+IoqfDKujRaW3z0yFFxH6mlvBzxJ
+ o0ztiT2IFsAVB4sZt6QVfYV6tvhjNy67QATT21s9L8RqRLpR7StSV6pc4K1apzBX7CIFZkjlL
+ 1g+lKeFeUh+jQob9YfETGTVF57S+r+3hvjYFcvQEQ2DxvyiNhgbj/j4jh/2HaejxxswjJ0oXr
+ IqiDyBBOyZrA6ZiDlOwI51+fejJgU5g9LDKAuBpWNEWeRnEhe2SV+mWYUvuEULLfZXSyyhzjx
+ c8eq/SNNPWqu4WPDxqJMMh29O8CnOZ/vVQ+DZn2ZGzt5gdCxpoU8uhC3uXQEtpsYrmt6eMV8P
+ 2evq1NV3psTfRTINVRP7QIYP6greqPoc3SJ3ataf/Uk+Zq+ZNuU4SSHdBLyLi1ki7NISV/XxR
+ afUusnlHgndnrIJNwvQLeTWF1MIiAWhxaRBb8N6Nk9cgrG+gPbY4K3BBvUWR2l3JgV4ZLxnKR
+ 9BAfirMJOttvSxLtDcTc71dOqqoEbYpoDjIc8+71KHvT58kfui5+0XCmAk8gjqag1jTbdlwe+
+ QiyLHOvjC+jdZ7Y1MX6HPPiLuXR3SKzi9o4amJvv7qm+cgMwrE0e27qUpSuftK2KkQpV8FR8P
+ I+ptX2XrNq8/icfk2bhpZtNZNzsJv+vQ0G84FVXX+O2neUppfDLemrWxmEFpmvcJX+afSQAKg
+ LgCwdafCvt8EwAg4UmW7xpwjIKg24oTyaxpsGzFaOOpC9jaDec502IvOAuZBSWMyyet7YnTK6
+ JsNFbVmaMCvQ0nvbo12bM40tM81mfravwUF6J1oLBwViue+LnO8BIKjP7SciijNXR44jcnsYU
+ 4IIZl31xF5T2sCSix2fQRcNlIPCJBZc1lXiYeoIa/Z1hA5xylAenDuM0whulpvS8shJuUKCV0
+ Lrg3EEbZ0zvjJomNDVSsHR9U5WTOSqUdrS25oR2CIOPgh5gwid5b0NryTGG7W9Y+KrtEwWQy2
+ kTEQ5HgjnGyYBxnZUUMaOYin3KnpYChR9irMU46HedJNijnyK0c/dLABcZKPUXfDb79qBWPv5
+ v2/FWo0B6toTnKmqWWKsUyqZsJxhkvqxSEaxCoG471enD+4k/oH6gN0DG7P1aSfAxNypqxMpd
+ HVcP+TwGym2Xc8SqpX00xm3/zkS0JCZScgGTxSf/kVllTGLhlVx1nvRvyajDqH7Q+6W6
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://www.sciencedirect=
+.com/science/article/pii/S1570826814000225&amp;sa=3DX&amp;scisig=3DAAGBfm2p=
+GangX_UuSTcY7ZFnmAxjt_Z1iw&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#11=
+22cc style=3D"text-decoration:underline">The swget portal: Navigating and a=
+cting on the web of <b>linked data</b></font></a></h3><div><font size=3D2 c=
+olor=3D#009933>V Fionda, C Gutierrez, G Pirr=C3=B2 - Web Semantics: Science=
+, Services and Agents on the  &hellip;, 2014</font></div><div><font size=3D=
+2 color=3D#222222>Abstract This paper presents the swget portal. By using t=
+he portal, users can instruct <br>software modules to (virtually) move from=
+ one place (data source) to another on the Web of <br>Data, interpret knowl=
+edge and trigger actions much in the same spirit of intelligent agents. <b>=
+ ...</b></font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size=
+:medium;max-width:44.5em"><font size=3D2 color=3D#1122cc>[PDF]</font> <a hr=
+ef=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://www.w3.or=
+g/2013/share-psi/wiki/images/6/65/Samos_Workshop_2014_-_IMP_submission.pdf&=
+amp;sa=3DX&amp;scisig=3DAAGBfm08lPifpRfFDKCy08xCPRyZLNGoWA&amp;oi=3Dscholar=
+alrt"><font size=3D3 color=3D#1122cc style=3D"text-decoration:underline">Pu=
+blishing and consuming Linked Open Data with the LOD2 Statistical Workbench=
+</font></a></h3><div><font size=3D2 color=3D#009933>V Janev, V Mijovi=C4=87=
+, U Milo=C5=A1evi=C4=87, S Vrane=C5=A1</font></div><div><font size=3D2 colo=
+r=3D#222222><b>...</b> <b>Linked</b> <b>Data</b> paradigm has opened new po=
+ssibil- ities and perspectives for the process<br>
+of collecting and monitoring socio-economic indicators. <b>...</b> The firs=
+t results indicate that wider<br>
+adoption of the <b>Linked</b> <b>Data</b> tools in practice can be foreseen=
+. <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://softlang.uni-kobl=
+enz.de/LeinbergerThesis.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm38qnqYvxIE4ZlGXaN=
+hlNtr4YYyJw&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D"t=
+ext-decoration:underline">Enhancement of a software chrestomathy for open <=
+b>linked data</b></font></a></h3><div><font size=3D2 color=3D#009933>M Lein=
+berger</font></div><div><font size=3D2 color=3D#222222>Abstract A software =
+chrestomathy collects small software systems as an aid in learning a <br>su=
+bject. As many languages, technologies and concepts might be involved, it w=
+ill contain a <br>heterogeneous mix of code artifacts, documentation and re=
+lationships. This is problematic, <b> ...</b></font></div><br><p><hr noshad=
+e size=3D1><font size=3D2 color=3D#222222>Dieser Google Scholar-Alert wird =
+Ihnen von Google zur Verf=C3=BCgung gestellt.<br><br><a href=3D"http://scho=
+lar.google.de/scholar_alerts?view_op=3Dcancel_alert_options&amp;email_for_o=
+p=3Derictessenow%40web.de&amp;alert_id=3DAIfevv3NkPcJ&amp;hl=3Dde"><font co=
+lor=3D#1122cc>Alert stornieren</font></a><br></font></div></body></html>

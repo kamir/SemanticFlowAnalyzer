@@ -1,0 +1,199 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.140.156.151 with SMTP id c145csp453189qhc;
+        Tue, 21 Oct 2014 02:19:45 -0700 (PDT)
+X-Received: by 10.140.86.135 with SMTP id p7mr42308118qgd.54.1413883181256;
+        Tue, 21 Oct 2014 02:19:41 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3sCJGVBUKDLUnXcjgVmVgZmon-ijmZkgtbjjbgZ.XjhZmdXoZnnZijrrZW.YZ@scholar-alerts.bounces.google.com designates 209.85.223.201 as permitted sender) smtp.mail=3sCJGVBUKDLUnXcjgVmVgZmon-ijmZkgtbjjbgZ.XjhZmdXoZnnZijrrZW.YZ@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3sCJGVBUKDLUnXcjgVmVgZmon-ijmZkgtbjjbgZ.XjhZmdXoZnnZijrrZW.YZ@scholar-alerts.bounces.google.com designates 209.85.223.201 as permitted sender) client-ip=209.85.223.201;
+Received: by 10.229.161.133 with POP3 id r5mf294148qcx.33;
+        Tue, 21 Oct 2014 02:19:41 -0700 (PDT)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 3sCJGVBUKDLUnXcjgVmVgZmon-ijmZkgtbjjbgZ.XjhZmdXoZnnZijrrZW.YZ@scholar-alerts.bounces.google.com
+Received: from mail-ie0-f201.google.com ([209.85.223.201]) by mx-ha.web.de
+ (mxweb107) with ESMTPS (Nemesis) id 0M4ofB-1Y47IN1Jdd-00yvR3 for
+ <erictessenow@web.de>; Tue, 21 Oct 2014 11:09:06 +0200
+Received: by mail-ie0-f201.google.com with SMTP id rl12so105704iec.4
+        for <erictessenow@web.de>; Tue, 21 Oct 2014 02:09:05 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=uzzVPDwa1suN0TIZ8/tz1xdkhlZS+Et3yzc0tIftHNE=;
+        b=g+HPaLH5vJHQtsoeMQ8cRkyiJWl98lqFCCUQNkn5u3ye14rMnXvMPVijX2lHuodAuZ
+         MShQVva4G9MO0XWIKkJ3iy/uERgpI/opd7nf24obH91f2PEVRcZIulzyEYX8a3qaLHUZ
+         yAW+0VDLtWeraeN6vTGSFKhcaCA42y2dDE2oFTuVHBWVvPIdIuYuf6R7kQ/JKF9aenwl
+         59WE3IYupQqgkJ1vEIB7V9R62e+uu+k4yONCqLSsiZGhu14ybqK0RtUVtNsooJqCMMr5
+         YyeEZ7e4poriUYm+TAotVVRyBePxqFK0I47+dJ8LZwATiLtlE6ACjj9x6ORQNyvIdviY
+         iEOA==
+MIME-Version: 1.0
+X-Received: by 10.182.121.170 with SMTP id ll10mr22165740obb.12.1413882544972;
+ Tue, 21 Oct 2014 02:09:04 -0700 (PDT)
+Message-ID: <089e01536a5ad8e2090505eb2e28@google.com>
+Date: Tue, 21 Oct 2014 09:09:04 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:uejm+Sk2pMU=:h4UAhihANnKK2VrU0SZCTzVaGJ
+ 0uGLlB/vs6jiDG2HIKrMqaOYvd6JXKWFMFr10yEJVOzF2NiQ/FP+MVG+D+CVstgvcB51vQr6y
+ e/ClJYf0nzJOIoLp4TBevi1xUiNihm2ObPuPeI5QP78cqfPDK30kgC9noWxqE98rAZxitVjj4
+ n7Fc3Xtf0SKY+frdEBJw2ydd+Ep2OZdBSIO0cHAGU06XE9tP/m+XQyMwZg0j+rkR16WzEHQqo
+ MalrcytN/ZXYau7zY8iCzTHPYO4Gkqfds7XJ8+enFpD0Ftu8z6V9177uKomK7I48+Iu7EuTzH
+ Xls1/TpIj7ebJOnCuWy7QX5NlC6ssHBRTORSsLCUfInC1/of5wpd5LHUNdPYCm2kdIXpUJZAy
+ gJBauSVrsj7HcGkn9Mwh7EKfs0bToUyWrNnkfJhOgfa8XPQ6svFJpHTgE7pSPA8KzLZsZ4Haf
+ tID7SCQfCoYa/xvQEQJrytxQJ87A+zh/Li5w+NRERmanmoO4DDewdduxierFQk0T3X/Vb0VqW
+ nwdbx7m4piqL2dq8/bN1Km890zw8emAZ1c4fOCosorTi/9FXfBy4QrF+1SAY6I6H1m6khM9HN
+ GkJ21Kf5dtFXy1OtPFLc1jwgD0+EDV08VRdBV8FhM/bWQUrbPFjdCGcMqCzouPJoqIM9WpVki
+ WBPUVN+jjmRvk6PeSNezd3MVYVxxOaXCmL5kS92uG0UkZsauewFvPaqlsQb6/Jy/9Q9AjDMht
+ fO69eycmvuL6eA8hQerimJzVAIu9JqdfURwgQyoIMTNr0cTSeJRX/E0Y/P9uG60oMTGNCNdfw
+ M7xo9s5Pa2OqieYvDzb9X1Ai2OxR8tbcenghgASUwpX1rUlDe3ltsUQvNqSZ0CdicDCo6CPJI
+ qPTa9Ol7JrM8bKJ4gmw6luF9B/4ebN1RSoddFWUw7AnA6DnZLosyVovmbbJzmuZLwr8jOvsQx
+ 3Ee9YWY7OoxNNtyFfCGDuFNC4Vi+wkTskERF15LrO0JSj06Qnggs2mpwcFJiXBocfI59uYt9y
+ 9qRUXuo0uNxdwNAVO1Q9gFQ0aMUZFS+Q4D1mPpoPNjpsSwuERBhjLSmyfuTXXKs5NXq2NI/d2
+ 7MQPWUnkVTKVn106BGK2zaZ0D2MGb0BGm0Lsvt6A9FtKpdTs1aPqhn55I95/SG36o4577bUH4
+ aI1+/BJxoqe5zQ/jmmWVGerbpd6Z2GHi89bnSkwbwYsg1vHSRXhXxirrDJ6Tqtchw13v+yo72
+ hQgLHJ+7HKw4H5QGeOiDKoPb91E2TXBoNKstlwaI2vEr8MTq7R1oEACiCbUls0riRQZ5v1/1q
+ 5Dd1
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://www.tandfonline.c=
+om/doi/abs/10.1080/00987913.2014.975887&amp;sa=3DX&amp;scisig=3DAAGBfm38LAt=
+q7aMOb_j3MSd9DkoEs0I4Wg&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0da=
+b style=3D"text-decoration:underline">A Beginner&#39;s Guide to Creating Li=
+brary <b>Linked Data</b>: Lessons from NCSU&#39;s Organization Name <b>Link=
+ed Data </b>Project</font></a></h3><div><font size=3D2 color=3D#006621>EM H=
+anson - Serials Review, 2014</font></div><div><font size=3D2 color=3D#22222=
+2>Abstract As more libraries begin publishing and using <b>linked data</b>,=
+ many in the library <br>community may be curious about how they can start =
+creating their own <b>linked data </b>sets. This <br>article will describe =
+the various stages in a <b>linked data </b>creation project, using North <b=
+> ...</b></font></div><br><h3 style=3D"font-weight:normal;margin:0;font-siz=
+e:medium;max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a h=
+ref=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://diginole=
+.lib.fsu.edu/cgi/viewcontent.cgi%3Farticle%3D1027%26context%3Dslis_faculty_=
+publications&amp;sa=3DX&amp;scisig=3DAAGBfm3gsga04pfy48KhfRMYHCBY1I1qMA&amp=
+;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:=
+underline">The 1: 1 Principle in the Age of <b>Linked Data</b></font></a></=
+h3><div><font size=3D2 color=3D#006621>RJ Urban - 2014</font></div><div><fo=
+nt size=3D2 color=3D#222222>Abstract This paper explores the origins of the=
+ 1: 1 Principle within Dublin Core Metadata <br>Initiative (DCMI). It finds=
+ that the need for the 1: 1 Principle emerged from prior work among <br>cul=
+tural heritage professionals responsible for describing reproductions and s=
+urrogate <b> ...</b></font></div><br><h3 style=3D"font-weight:normal;margin=
+:0;font-size:medium;max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]<=
+/font> <a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp=
+://ceur-ws.org/Vol-1268/paper11.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm335whPvOO=
+_5qjca1h1fsUWSxZWFg&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab st=
+yle=3D"text-decoration:underline">LDP4j: A framework for the development of=
+ interoperable read-write <b>Linked Data </b>applications</font></a></h3><d=
+iv><font size=3D2 color=3D#006621>M Esteban-Guti=C3=A9rrez, N Mihindukulaso=
+oriya&hellip;</font></div><div><font size=3D2 color=3D#222222>Abstract. Ent=
+erprises are increasingly using a wide range of heterogeneous information <=
+br>systems for executing and governing their business activities. Even if t=
+he adoption of service <br>orientation has improved loose coupling and reus=
+ability, applications are still isolated data <b> ...</b></font></div><br><=
+h3 style=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em">=
+<a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://book=
+s.google.de/books%3Fhl%3Dde%26lr%3D%26id%3Dh9jVBAAAQBAJ%26oi%3Dfnd%26pg%3DP=
+A171%26dq%3D%2522linked%2BData%2522%26ots%3DKzVFpRoutb%26sig%3DCqY-stjMY4ht=
+Ti-jn3hQfjxmfQ0&amp;sa=3DX&amp;scisig=3DAAGBfm1dkKWdocBtMFVfjapm_AkjouYFwQ&=
+amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decorati=
+on:underline">Linked Widgets Platform: Lowering the Barrier for Open Data E=
+xploration</font></a></h3><div><font size=3D2 color=3D#006621>E Kiesling, A=
+M Tjoa - The Semantic Web: ESWC 2014 Satellite Events</font></div><div><fon=
+t size=3D2 color=3D#222222><b>...</b> trinh, peter. wetz, ba. do, amin. anj=
+omshoaa, elmar. kiesling, a. tjoa}@ tuwien. ac. at<br>
+Abstract. Despite a drastic increase in available Open and <b>Linked</b> <b=
+>Data</b>, unmediated<br>
+utilization of these data by end users is still relatively uncommon. <b>...=
+</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://ceur-ws.org/Vol-1=
+267/LD4IE2014_IEchallenge_Overview.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm3m7CNC=
+4PUMJ69EspTyWzsp2_hAIg&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab=
+ style=3D"text-decoration:underline"><b>Linked Data </b>for Information Ext=
+raction Challenge 2014</font></a></h3><div><font size=3D2 color=3D#006621>R=
+ Meusel, H Paulheim</font></div><div><font size=3D2 color=3D#222222>Abstrac=
+t. For making the web of <b>linked data </b>grow, information extraction me=
+thods are a good <br>alternative to manual dataset curation, since there is=
+ an abundance of semi-structured and <br>unstructured information which can=
+ be harvested that way. At the same time, existing <b> ...</b></font></div>=
+<br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.=
+5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"http://scholar.=
+google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://laurensrietveld.nl/pdf/YASGUI_=
+-_Feeling_the_Pulse_of_Linked_Data.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm12IoDX=
+o9ksMbtty3AaFAKAy7c4Hw&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab=
+ style=3D"text-decoration:underline">YASGUI: Feeling the Pulse of <b>Linked=
+ Data</b>=E2=8B=86</font></a></h3><div><font size=3D2 color=3D#006621>L Rie=
+tveld, R Hoekstra</font></div><div><font size=3D2 color=3D#222222>Abstract.=
+ Existing studies of <b>Linked Data </b>focus on the availability of data r=
+ather than its use in <br>practice. The number of query logs available is v=
+ery much restricted to a small number of <br>datasets. This paper proposes =
+to track <b>Linked Data </b>usage at the client side. We use <b> ...</b></f=
+ont></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;max=
+-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"http:=
+//scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://ceur-ws.org/Vol-1268=
+/paper5.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm0RgfpxpY9aE7mFhzhUXU2IdlGheQ&amp;=
+oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:u=
+nderline">Implementing Linked Widgets: Lessons Learned for <b>Linked Data <=
+/b>Developers</font></a></h3><div><font size=3D2 color=3D#006621>TD Trinh, =
+P Wetz, BL Do, A Anjomshoaa, E Kiesling&hellip;</font></div><div><font size=
+=3D2 color=3D#222222>Abstract. Seven years after <b>Linked Data </b>has bee=
+n introduced as a concept to publish data <br>on the web, an abundant cloud=
+ of Linked Open Data (LOD) built upon standard web <br>technologies has eme=
+rged. To facilitate and encourage widespread use of that data, a <b> ...</b=
+></font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium=
+;max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"h=
+ttp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://emnlp2014.org/pa=
+pers/pdf/EMNLP2014116.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm0qpiAS4dxfU06VHY6TM=
+7EZQQ9owg&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"tex=
+t-decoration:underline">Question Answering over <b>Linked Data </b>Using Fi=
+rst-order Logic</font></a></h3><div><font size=3D2 color=3D#006621>S He, K =
+Liu, Y Zhang, L Xu, J Zhao</font></div><div><font size=3D2 color=3D#222222>=
+Abstract Question Answering over <b>Linked Data </b>(QALD) aims to evaluate=
+ a question <br>answering system over structured data, the key objective of=
+ which is to translate questions <br>posed using natural language into stru=
+ctured queries. This technique can help common <b> ...</b></font></div><br>=
+<h3 style=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em"=
+><a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://boo=
+ks.google.de/books%3Fhl%3Dde%26lr%3D%26id%3Dh9jVBAAAQBAJ%26oi%3Dfnd%26pg%3D=
+PA444%26dq%3D%2522linked%2BData%2522%26ots%3DKzVFpRoutb%26sig%3DOowNz1r-2I3=
+66-GppqzpEC1h54o&amp;sa=3DX&amp;scisig=3DAAGBfm2gxJFDUQHpDNajHKxjKXD2Zo_gTw=
+&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decorat=
+ion:underline">Big, Linked and Open Data: Applications in the German Aerosp=
+ace Center</font></a></h3><div><font size=3D2 color=3D#006621>P Smeros, G G=
+arbis, M Koubarakis, DE Molina&hellip; - The Semantic Web: ESWC 2014  &hell=
+ip;</font></div><div><font size=3D2 color=3D#222222><b>...</b> archives has=
+ never been accessed. EO data is the classical case of big data, and <b>lin=
+ked</b><br>
+<b>data</b> is an excellent technology for moving EO data out of their silo=
+s, integrating them<br>
+and build- ing applications on top of them. In the last few <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://ceur-ws.org/Vol-1=
+267/LD4IE2014_Benedetti.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm2KezJ05LDx5iVthhE=
+ZI2zyst2-Kg&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"t=
+ext-decoration:underline">Online Index Extraction from Linked Open Data Sou=
+rces</font></a></h3><div><font size=3D2 color=3D#006621>F Benedetti, S Berg=
+amaschi, L Po</font></div><div><font size=3D2 color=3D#222222><b>...</b> 6.=
+ C. Bizer, T. Heath, K. Idehen, and T. Berners-Lee. <b>Linked</b> <b>data</=
+b> on the web (ldow2008). <b>...</b> 8. K.<br>
+Christodoulou, NW Paton, and AA Fernandes. Structure inference for <b>linke=
+d</b> <b>data</b> sources using<br>
+clustering. In Proceedings of the Joint EDBT/ICDT 2013 Workshops, pages 60=
+=E2=80=9367. <b>...</b>=20
+</font></div><br><p><hr noshade size=3D1><font size=3D2 color=3D#222222>Die=
+ser Google Scholar-Alert wird Ihnen von Google zur Verf=C3=BCgung gestellt.=
+<br><br><a href=3D"http://scholar.google.de/scholar_alerts?view_op=3Dcancel=
+_alert_options&amp;email_for_op=3Derictessenow%40web.de&amp;alert_id=3DAIfe=
+vv3NkPcJ&amp;hl=3Dde"><font color=3D#1a0dab>Alert stornieren</font></a><br>=
+</font></div></body></html>

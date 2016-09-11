@@ -1,0 +1,190 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.55.19.134 with SMTP id 6csp1423813qkt;
+        Mon, 2 Nov 2015 19:33:20 -0800 (PST)
+X-Received: by 10.140.168.11 with SMTP id o11mr35755708qho.28.1446521600182;
+        Mon, 02 Nov 2015 19:33:20 -0800 (PST)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3gRs4VhUKDFAAuz63s9s3w9BA-569w73Gy66y3w.u64w90uBwAAw56EEwt.vw@scholar-alerts.bounces.google.com designates 209.85.214.201 as permitted sender) smtp.mailfrom=3gRs4VhUKDFAAuz63s9s3w9BA-569w73Gy66y3w.u64w90uBwAAw56EEwt.vw@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 3gRs4VhUKDFAAuz63s9s3w9BA-569w73Gy66y3w.u64w90uBwAAw56EEwt.vw@scholar-alerts.bounces.google.com designates 209.85.214.201 as permitted sender) client-ip=209.85.214.201;
+Received: by 10.55.114.135 with POP3 id n129mf23670633qkc.1;
+        Mon, 02 Nov 2015 19:33:20 -0800 (PST)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: <3gRs4VhUKDFAAuz63s9s3w9BA-569w73Gy66y3w.u64w90uBwAAw56EEwt.vw@scholar-alerts.bounces.google.com>
+Received: from mail-ob0-f201.google.com ([209.85.214.201]) by mx-ha.web.de
+ (mxweb109) with ESMTPS (Nemesis) id 0MTuQP-1a2cHS0WWX-00Qj1X for
+ <erictessenow@web.de>; Tue, 03 Nov 2015 03:27:15 +0100
+Received: by obbhq1 with SMTP id hq1so280531obb.1
+        for <erictessenow@web.de>; Mon, 02 Nov 2015 18:27:14 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=vq/8H8FQsz5opebJhrmclFReevQd301YJ09Hw/lpnY4=;
+        b=B+65y5512Y1rAbmuKtF2PBMU1R4O+AwwCP79k3TFwgQ1+FaJ6pwyYTCqdyyKJyPyXN
+         lKasHuD73k9bx8u5QcFiWmdjrsdvxXuqeNevvFkEekSUDOoH0XUy0F6qyhs0zsdH7MOb
+         ozRmn6dp3mEFncsA27R8SuYqfKIynMlMUeNIuMeyW5FzMl7cDEjjTTPvcZnLx3SvkMoi
+         I2wOWtTsJN7GAc4Dl08GRp58pee898d9+sGiCCNSWpxFD/KABKjFOoTVQpT1X9yZjOsB
+         nRgOU6fVpIJz5fTyayuuqPUWHp19seHCBdoizCjgUf28AwueaoD745ZrUwxDNXrqOT1B
+         rrog==
+MIME-Version: 1.0
+X-Received: by 10.182.251.230 with SMTP id zn6mr20337676obc.8.1446517633935;
+ Mon, 02 Nov 2015 18:27:13 -0800 (PST)
+Message-ID: <001a11c1dfb6bb6b21052399a1f0@google.com>
+Date: Tue, 03 Nov 2015 02:27:13 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:QQupwZHoXHE=:aFJfesBNBjIfgVdrFvOlRR64QY
+ clmKIJX80nax4lGXtPpuFgtUjSX/tFf8aSTZbErvARorvECELHzTDIavn7lZo19SSSewUoB8X
+ JT9zJbK478rNfZ7t+R1awNFXFexPGJ+UJ9eBOtC/9nDxoMci6CH3s2glA4Ji+orp3HODnBXev
+ z2jjozx09n39sg2C3wkrtA/aU3QmKhmK04Mg/Rh3O5oQ6pp7Ivy3O8z5B2qbJh0xQSdJGxOJc
+ jwLH+SJ8aZ1BTXCvwd3tROMweVXudHl27u1F0Gek+TbQ/r8zxE2Yo+/x14RglMZjL1KYNXPeY
+ edF2RVaD3hDAZr2hu46c+ian+970NR6OPa9rvlpQ8nQUMQgeDKZQJ5pO/oxue+DIQ6ItnKqL7
+ SI7Jj3bN6+GQ4aLsWY4WO4sQ9pR6uSU2eR5n3ZbCKxerS8Is7eck6W3dJSx6v7chBCCA2ZIrr
+ rKzCcrGPCttNxlZhnsBSDtC1daWZ5Cu01p/1MbYbPlKqrTmTbLY3iUE6uW3DWtIF0Xl9JLvBe
+ qoOEIP4IbQzFgB+j0rf5POI9Flmdj/yOIJ4M37pzbzhhn5EYH/GfaoSc7F0J9E5JEtwTHm+9E
+ RP6xVfvIRkwxyDWwJw08v1mWrTKrLzukdnr9G2Q6hkmrGPcEQ9k6+LX0PBtjugo6/LrPqZJZG
+ SKwBdHkop5WHmrJCyZrbaWwy5BuIQTJy3lqb+lIG+xnDpPhDoRezyA3BMX96/AZ6BCWLhJjMK
+ s/JH0FREN4Wf0Q4Z6sA8DriPgYETEdWJOVKA9ujgNCCGoskLp+ekUhUbf4KELNrwnSUdwF7A9
+ 1gdP1U5stcHG+7M23f3KLOqEwkcX7F5jaSwQIMfmHx3QkY3sPGrBxLnosKEidEpohjbl7Jcu/
+ M9erawW1CZIHgwvGDSkoUWzqI8HcFaBKTk9Xr7Mp7qxYw1a9XFbAq6Q+c+m7TKrUxxwYZsIti
+ IM13bevhcbc3zBEvgr2Vg1ls6jAs26TwrVF4XKzOgaxVElguXkpVUDSOjJitBq1Q/RqRL+A6Y
+ gGX2j50zAjbg5VREFu+ETAMS/64i3r3L5Cf4+BJLahl6SujxwKP2EC8MACaHBIdYWOfcTpnI5
+ C9UWG31od+vXQXFAU2KZtEPuzXLZBSbz8skszDDuBbRjSxE0JxaecZCgoieB8DKdOhaVhrvpo
+ GNAleJ/byuZ5ezOXfUgSM7I9ya88NccoNJezgnndd/iOxL0AbBqOcJlh2PsTujvmL3GAGNU6a
+ IdFfTkRABZo0JFXQC+zcjAXOOUo19708vDskiggsYmAMhxDHaFTl9yctYG4rHGcPreDrc6BJQ
+ H6Kt1lB/7OrNCdpLjlhZgOjnqHEFVdjN9HvQHSJc++nNUJY=
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttp://journals.cambridge.org/abst=
+ract_S0269888915000107&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm0PhnRm0kRc=
+tUY50b6pCm2jdmd4EA&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=
+=3D#1a0dab style=3D"text-decoration:underline">Federated query processing o=
+n <b>linked data</b>: a qualitative survey and open challenges</font></a></=
+h3><div><font size=3D2 color=3D#006621>D Oguz, B Ergenc, S Yin, O Dikenelli=
+, A Hameurlain - The Knowledge Engineering  &hellip;, 2015</font></div><div=
+><font size=3D2 color=3D#222222>Abstract A large number of data providers p=
+ublish and connect their structured data on the <br>Web as <b>linked data</=
+b>. Thus, the Web of data becomes a global data space. In this paper, we <b=
+r>initially give an overview of query processing approaches used in this in=
+terlinked and <b> ...</b></font></div><br><h3 style=3D"font-weight:normal;m=
+argin:0;font-size:medium;max-width:44.5em"><a href=3D"http://scholar.google=
+.de/scholar_url?url=3Dhttp://link.springer.com/chapter/10.1007/978-3-319-26=
+148-5_28&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm0_UTWJBwpIoPcGhF-SQ8jYpJ=
+bp0Q&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab sty=
+le=3D"text-decoration:underline">Preference Queries with Ceteris Paribus Se=
+mantics for <b>Linked Data</b></font></a></h3><div><font size=3D2 color=3D#=
+006621>J Rosati, T Di Noia, T Lukasiewicz, R De Leone&hellip; - On the Move=
+ to Meaningful  &hellip;, 2015</font></div><div><font size=3D2 color=3D#222=
+222>Abstract User preferences play a central role in supporting complex and=
+ multifactorial <br>decision processes. Every personalized information filt=
+ering system should exploit a <br>preferences model of the user in order to=
+ match her interests as much as possible. In a <b> ...</b></font></div><br>=
+<h3 style=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em"=
+><a href=3D"http://scholar.google.de/scholar_url?url=3Dhttp://link.springer=
+.com/chapter/10.1007/978-3-319-26148-5_27&amp;hl=3Dde&amp;sa=3DX&amp;scisig=
+=3DAAGBfm32b99K8FPrVJm-TvSUpNfKrEqXpw&amp;nossl=3D1&amp;oi=3Dscholaralrt"><=
+font size=3D3 color=3D#1a0dab style=3D"text-decoration:underline">Matchmaki=
+ng Public Procurement Linked Open Data</font></a></h3><div><font size=3D2 c=
+olor=3D#006621>J Mynarz, V Sv=C3=A1tek, T Di Noia - On the Move to Meaningf=
+ul Internet Systems: OTM  &hellip;, 2015</font></div><div><font size=3D2 co=
+lor=3D#222222><b>...</b> Abstract. An increasing amount of public procureme=
+nt data is nowa- days being ported to <b>linked</b><br>
+<b>data</b> format, in view of its exploitation by government, commercial a=
+s well as non-profit subjects.<br>
+One of the crucial tasks in public procurement is matchmaking demand with s=
+upply. <b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"ht=
+tp://scholar.google.de/scholar_url?url=3Dhttp://ceur-ws.org/Vol-1491/iswc-d=
+cProceedings.pdf%23page%3D22&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm2Iis=
+usa_ufgJ4PCsM3nd4yqVTXKw&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3=
+ color=3D#1a0dab style=3D"text-decoration:underline">Improving discovery in=
+ Life Sciences Linked Open Data Cloud</font></a></h3><div><font size=3D2 co=
+lor=3D#006621>A Hasnain - ISWC-DC 2015 The ISWC 2015 Doctoral Consortium, 2=
+015</font></div><div><font size=3D2 color=3D#222222><b>...</b> interlinked =
+datasets. In: In <b>Linked</b> <b>Data</b> on the Web Workshop (LDOW 09), i=
+n conjunction<br>
+with WWW09. Citeseer (2009) 2. Bechhofer, S., Buchan, I., De Roure, D., Mis=
+sier, P.,<br>
+et al.: Why <b>linked</b> <b>data</b> is not enough for scientists. Future =
+<b>...</b>=20
+</font></div><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;=
+max-width:44.5em"><a href=3D"http://scholar.google.de/scholar_url?url=3Dhtt=
+p://link.springer.com/chapter/10.1007/978-3-319-26138-6_14&amp;hl=3Dde&amp;=
+sa=3DX&amp;scisig=3DAAGBfm2j9qUBaED971q25--pT726_d5jxg&amp;nossl=3D1&amp;oi=
+=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:und=
+erline">Propelling SMEs Business Intelligence Through <b>Linked Data </b>Pr=
+oduction and Consumption</font></a></h3><div><font size=3D2 color=3D#006621=
+>B Kapourani, E Fotopoulou, D Papaspyros&hellip; - On the Move to Meaningfu=
+l  &hellip;, 2015</font></div><div><font size=3D2 color=3D#222222>Abstract =
+The introduction of the <b>linked data </b>concepts to SMEs, coupled with s=
+ophisticated <br>analytics and visualizations deriving through an integrate=
+d environment, called the LinDA <br>Workbench, reduces the effort of specif=
+ic workflows within a company, by almost 50% in <b> ...</b></font></div><br=
+><h3 style=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em=
+"><font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"http://scholar.goo=
+gle.de/scholar_url?url=3Dhttp://ceur-ws.org/Vol-1491/iswc-dcProceedings.pdf=
+%23page%3D6&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm0v5vZugO0Il5pmbNMeGdd=
+1euTQ7g&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab =
+style=3D"text-decoration:underline">Iterative Query Refinement for Explorat=
+ory Search in Distributed Heterogeneous <b>Linked Data</b></font></a></h3><=
+div><font size=3D2 color=3D#006621>L De Vocht - ISWC-DC 2015 The ISWC 2015 =
+Doctoral Consortium, 2015</font></div><div><font size=3D2 color=3D#222222>A=
+bstract. Task-oriented search scenarios go beyond retrieving information wh=
+en a one-time <br>perception of search tasks is neither possible nor suffic=
+ient. Such scenarios typically need <br>further investigation, navigation o=
+r understanding of the search results. Formulating a <b> ...</b></font></di=
+v><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;max-width:4=
+4.5em"><a href=3D"http://scholar.google.de/scholar_url?url=3Dhttp://ieeexpl=
+ore.ieee.org/xpls/abs_all.jsp%3Farnumber%3D7311988&amp;hl=3Dde&amp;sa=3DX&a=
+mp;scisig=3DAAGBfm3doUBS3JcrvYVB4Ubec-MXPLJjlQ&amp;nossl=3D1&amp;oi=3Dschol=
+aralrt"><font size=3D3 color=3D#1a0dab style=3D"text-decoration:underline">=
+Enhancing property and type detection for a QA system over <b>linked data</=
+b></font></a></h3><div><font size=3D2 color=3D#006621>B Nicula, S Ruseti, T=
+ Rebedea - &hellip;  Conference-Networking in Education and Research  &hell=
+ip;, 2015</font></div><div><font size=3D2 color=3D#222222>Abstract=E2=80=95=
+In this paper we discuss the detection of concepts for question answering s=
+ystems <br>using <b>Linked Data</b>. The emphasis will be put on the detect=
+ion of types and properties. We <br>will present different methods that are=
+ currently being used for these tasks and the <b> ...</b></font></div><br><=
+h3 style=3D"font-weight:normal;margin:0;font-size:medium;max-width:44.5em">=
+<font size=3D2 color=3D#1a0dab>[PDF]</font> <a href=3D"http://scholar.googl=
+e.de/scholar_url?url=3Dhttp://ceur-ws.org/Vol-1491/iswc-dcProceedings.pdf%2=
+3page%3D14&amp;hl=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm3mc0ks2GHwsyiGIsZnzdDP=
+rnfT6A&amp;nossl=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab s=
+tyle=3D"text-decoration:underline">Peer-based query rewriting in SPARQL for=
+ semantic integration of <b>Linked Data</b></font></a></h3><div><font size=
+=3D2 color=3D#006621>MM Dimartino - ISWC-DC 2015 The ISWC 2015 Doctoral Con=
+sortium, 2015</font></div><div><font size=3D2 color=3D#222222>Abstract. In =
+this proposal we address the problem of ontology-based SPARQL query <br>ans=
+wering over distributed <b>Linked Data </b>sources, where the ontology is g=
+iven by conjunctive <br>mappings between the source schemas in a peer-to-pe=
+er fashion and by equality <b> ...</b></font></div><br><h3 style=3D"font-we=
+ight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D2 colo=
+r=3D#1a0dab>[PDF]</font> <a href=3D"http://scholar.google.de/scholar_url?ur=
+l=3Dhttp://ceur-ws.org/Vol-1491/iswc-dcProceedings.pdf%23page%3D71&amp;hl=
+=3Dde&amp;sa=3DX&amp;scisig=3DAAGBfm1tJewyuJsXGCl5NWZe330NflTbGg&amp;nossl=
+=3D1&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1a0dab style=3D"text-dec=
+oration:underline">Profiling the Linked (Open) Data</font></a></h3><div><fo=
+nt size=3D2 color=3D#006621>B Spahiu - ISWC-DC 2015 The ISWC 2015 Doctoral =
+Consortium, 2015</font></div><div><font size=3D2 color=3D#222222><b>...</b>=
+ profile its quality. Author in [7] propose an approach to profile the Web =
+of Data, but<br>
+in difference from this, the proposed approach profiles <b>Linked</b> <b>Da=
+ta</b> in terms of its<br>
+quality and summarize datasets in terms of its topic. 3 Research <b>...</b>=
+=20
+</font></div><br><p><hr noshade size=3D1><font size=3D2 color=3D#222222>Die=
+ser Google Scholar-Alert wird Ihnen von Google zur Verf=C3=BCgung gestellt.=
+<br><br><a href=3D"http://scholar.google.de/scholar_alerts?view_op=3Dcancel=
+_alert_options&amp;email_for_op=3Derictessenow%40web.de&amp;alert_id=3DAIfe=
+vv3NkPcJ&amp;hl=3Dde"><font color=3D#1a0dab>Alert stornieren</font></a><br>=
+</font></div></body></html>

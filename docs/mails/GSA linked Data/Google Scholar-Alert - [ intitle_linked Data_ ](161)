@@ -1,0 +1,120 @@
+Delivered-To: eric.tessenow@gmail.com
+Received: by 10.64.67.99 with SMTP id m3csp133643iet;
+        Fri, 6 Dec 2013 15:02:24 -0800 (PST)
+X-Received: by 10.43.132.66 with SMTP id ht2mr4718413icc.26.1386370941252;
+        Fri, 06 Dec 2013 15:02:21 -0800 (PST)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 30lKiUhUKDJsN7CJG5M5G9MON-IJM9KGTBJJBG9.7JH9MD7O9NN9IJRR96.89@scholar-alerts.bounces.google.com designates 209.85.192.202 as permitted sender) smtp.mail=30lKiUhUKDJsN7CJG5M5G9MON-IJM9KGTBJJBG9.7JH9MD7O9NN9IJRR96.89@scholar-alerts.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received-SPF: pass (google.com: domain of 30lKiUhUKDJsN7CJG5M5G9MON-IJM9KGTBJJBG9.7JH9MD7O9NN9IJRR96.89@scholar-alerts.bounces.google.com designates 209.85.192.202 as permitted sender) client-ip=209.85.192.202;
+Received: by 10.64.148.1 with POP3 id to1mf1118864ieb.38;
+        Fri, 06 Dec 2013 15:02:20 -0800 (PST)
+X-Gmail-Fetch-Info: erictessenow@web.de 2 pop3.web.de 995 erictessenow
+Return-Path: 30lKiUhUKDJsN7CJG5M5G9MON-IJM9KGTBJJBG9.7JH9MD7O9NN9IJRR96.89@scholar-alerts.bounces.google.com
+Received: from mail-pd0-f202.google.com ([209.85.192.202]) by mx-ha.web.de
+ (mxweb002) with ESMTPS (Nemesis) id 0MIt7h-1VrY8z06vZ-002a9I for
+ <erictessenow@web.de>; Fri, 06 Dec 2013 23:42:28 +0100
+Received: by mail-pd0-f202.google.com with SMTP id g10so208114pdj.3
+        for <erictessenow@web.de>; Fri, 06 Dec 2013 14:42:26 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=qBkMV3nnLpAwzofpxBBw5oOPas9WDKd3W8sFxfa4Ig8=;
+        b=kuIo9vI+MVStBMb6OtlzuOPZEDZWU75SEAY5dmdt8eP8LE5TSOnUvZr7/ruyj9xHTP
+         DdGgROHNN/BIeD5wR2ajRgnHqbtkRFWW10/c2ecrIssZaS35GfJi6VEWSTGprjyIrs7m
+         PU9IpPhBqyKmFUjHqlTBmwmAjUYmWkTbY3Vtj6cjYjB/Ener4yhvXtWQwthHKRgovFoB
+         vlH3OTdDT2UzrsVA00aVCaU6+sDM03C98L1YgVMKVUE46vtDu2lpCRtbaO2GEb24Jovc
+         Sf9OcRtCTSZG7u0rXas8RhIlEfYYMqj5YAE+mgjTJ/LF6/wstGG7KwPIb8ZlniDJX/jU
+         5O8Q==
+MIME-Version: 1.0
+X-Received: by 10.66.172.79 with SMTP id ba15mr3606318pac.26.1386369746345;
+ Fri, 06 Dec 2013 14:42:26 -0800 (PST)
+Message-ID: <047d7bd6b8aa421db404ece55cb4@google.com>
+Date: Fri, 06 Dec 2013 22:42:26 +0000
+Subject: Google Scholar-Alert - [ intitle:"linked Data" ]
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+To: erictessenow@web.de
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <erictessenow@web.de>
+X-UI-Filterresults: notjunk:1;V01:K0:5qm/5Gm6sdI=:TT7MQ9rWvZ9ih3HnnjMeUsqjMn
+ R2Asi55VZ3167fjsgsKivxY83GhsQITI4oMn2WB7UzXIPda2+H86dDMUqA2z/09GqDw70j08b
+ nc1J5ZOZCgnBIt8+hXldjw/LvpW2nKGp8rDuRHR6h/pHluySvIgLhmXuGDRMgVJaKQ6Ux+K1w
+ yU0OWoK0PYx623qMvWMMipTPX9loV8ufd/9wz45F87Y5Dy23YLNuDUbzJVFk4BZcXU2tdUchd
+ DqXloVy6CdSmrntTPSFHrvQmqcQ9S1klJmbR53SSNtJy4wVRmLOIeyYFW9q3wRjixwmd0Gzrj
+ 7uciA0LToBiJqTW/QXCv5qlFPLuDzcv4UyyUPjze9EauCzbz+cfkl5ZCtXDdMEYm5nTIlCcpE
+ H2Dfx78yrhwluwm3gJsi2sRFEFCPHm9FpYRLrytp8dtZKLZ7Wt3xo/4XCVmUieSUAiPNOlN8D
+ aUwYMgCpMP1C18mFupb+9ObX1NQiJ5wU4SHwMhCmpgrRnxgsEKq8cjQYHg/SXNg6hRaXuXklT
+ 2FbEl7Zj2LLyT9KUiedLSmu7zLLgsFW0LHQt9tUoD2mkzTiR2Uwtgj5PpFOaNMP9alLmNVYZ0
+ LrMJ+PoOtd5oPoWb5w0wjGgMXhY4FJsRAnI6auZHbom0EZPplgLEjwM1N92YWpYta5K/IjDxB
+ 3DqO6KZlGRyxCa67kKyvqsq2sdV+n+25u0shb0bQMT+Dq5Kx8bWek2GsKjRVLPNwcZVhuIm3b
+ 4oIBh/lzdU9bKnDG/rV4zdDXFxNPlpHZoOUtG9ks6GhzHqaCq8TPLnZQY2SVMKvO1UA4o1pEE
+ MtLKeuC5x+nn2w+6uZ9+DALi7GjEQhjRIy8mvcPihJ5tR8f6ezgyoO+Yw3MK6fAkcNBSbKhns
+ TRssX/ja8l4ajeBqXM2Rx4pC+BThUbgXmD6UbfU0dhTPZTI4cn3LR97D8akavlY4K+c5xkVpm
+ JcOTgNc7i1SjucFIYXTDNL8kUT6AdvWNVercYU6fTmLZ9YR/leShOaW8wifx34AiQ5Ev4FD6q
+ 5/d7YbuDMfSDOHq+ct9Xho6P0g0sHBS4jpaEJnEIwIGHSFxmtis/GVaDUjQXiIKuwZIiVOxEL
+ CaS7QiM72fdLh+hutr2lluT8HqYqqZY2TcHycSwcYxH2aE9uzCRSGf78vocQciTgNXjZ8USTc
+ ECsglFvttnK61hvopCw19irgdwLm80LHhwxPkMJ0hlQA==
+
+<!doctype html><html><head></head><body><div style=3D"font-family:arial,san=
+s-serif;font-size:medium;line-spacing:1.24"><p><font size=3D2><b>Google Sch=
+olar-Alert:[ intitle:&quot;linked Data&quot; ]</b></font></p><h3 style=3D"f=
+ont-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=3D=
+2 color=3D#1122cc>[HTML]</font> <a href=3D"http://scholar.google.de/scholar=
+_url?hl=3Dde&amp;q=3Dhttp://www.ncbi.nlm.nih.gov/pmc/articles/PMC3814477/&a=
+mp;sa=3DX&amp;scisig=3DAAGBfm108aNQWHwoieiDqOjDXUrRFt5pIQ&amp;oi=3Dscholara=
+lrt"><font size=3D3 color=3D#1122cc style=3D"text-decoration:underline">Fro=
+m EHRs to <b>Linked Data</b>: representing and mining encounter data for cl=
+inical expertise evaluation</font></a></h3><div><font size=3D2 color=3D#009=
+933>C Torniai, S Essaid, C Barnes, M Conlon, S Williams&hellip; - AMIA Summ=
+its on  &hellip;, 2013</font></div><div><font size=3D2 color=3D#222222>Abst=
+ract Translational science, today, involves multidisciplinary teams of scie=
+ntists rather <br>than single scientists. Teams facilitate biologically mea=
+ningful and clinically consequential <br>breakthroughs. There are a myriad =
+of sources of data about investigators, physicians, <b> ...</b></font></div=
+><br><h3 style=3D"font-weight:normal;margin:0;font-size:medium;max-width:44=
+.5em"><font size=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"http://scholar=
+.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://semantic-web-journal.org/syst=
+em/files/swj591.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm3PF8R-U26SbDa8CiaX68f48cU=
+jUg&amp;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D"text-deco=
+ration:underline">Supporting the <b>Linked Data </b>publication proc-ess wi=
+th the LOD2 Statistical Workbench</font></a></h3><div><font size=3D2 color=
+=3D#009933>V Janeva, B Van Nuffelenb, V Mijovi=C4=87a, K Kremerb&hellip;</f=
+ont></div><div><font size=3D2 color=3D#222222>Abstract. In the last few yea=
+rs, with the rise of the open data movement, a large and <br>increasing num=
+ber of governments and organizations have started to make information <br>f=
+reely available and easily accessible online. Additionally, in order to inc=
+rease <b> ...</b></font></div><br><h3 style=3D"font-weight:normal;margin:0;=
+font-size:medium;max-width:44.5em"><font size=3D2 color=3D#1122cc>[PDF]</fo=
+nt> <a href=3D"http://scholar.google.de/scholar_url?hl=3Dde&amp;q=3Dhttp://=
+www.dotrural.ac.uk/curios/uploads/TJMP2013.pdf&amp;sa=3DX&amp;scisig=3DAAGB=
+fm0ACV60vkbF4gPdMlesWx7hIsfhbQ&amp;oi=3Dscholaralrt"><font size=3D3 color=
+=3D#1122cc style=3D"text-decoration:underline">Reasoning Driven Configurati=
+on of <b>Linked Data </b>Content Management Systems</font></a></h3><div><fo=
+nt size=3D2 color=3D#009933>S Taylor, N Jekjantuk, C Mellish, JZ Pan</font>=
+</div><div><font size=3D2 color=3D#222222>Abstract The web of data has cont=
+inued to expand thanks to the principles of <b>Linked Data</b>, <br>increas=
+ing its impact on the web both in its depth and range of data sources. Howe=
+ver tools <br>allowing ordinary web users to contribute to this web of data=
+ are still lacking. In this paper <b> ...</b></font></div><br><h3 style=3D"=
+font-weight:normal;margin:0;font-size:medium;max-width:44.5em"><font size=
+=3D2 color=3D#1122cc>[PDF]</font> <a href=3D"http://scholar.google.de/schol=
+ar_url?hl=3Dde&amp;q=3Dhttp://www.geoinfo.info/proceedings_geoinfo2013.spli=
+t/paper2.pdf&amp;sa=3DX&amp;scisig=3DAAGBfm3u7CYA8QYdlXrM0wMynZFZdGtX9w&amp=
+;oi=3Dscholaralrt"><font size=3D3 color=3D#1122cc style=3D"text-decoration:=
+underline">Linked Geospatial Data: desafios e oportunidades de pesquisa</fo=
+nt></a></h3><div><font size=3D2 color=3D#009933>THVM de Moura, CA Davis Jr<=
+/font></div><div><font size=3D2 color=3D#222222><b>...</b> documents. This =
+work dis- cusses the applicability of <b>linked</b> <b>data</b> concepts to=
+ these<br>
+problems and presents a set of challenges and opportunities for research on=
+<br>
+geographic information retrieval and related topics. Resumo. Linked <b>...<=
+/b>=20
+</font></div><br><p><hr noshade size=3D1><font size=3D2 color=3D#222222>Die=
+ser Google Scholar-Alert wird Ihnen von Google zur Verf=C3=BCgung gestellt.=
+<br><br><a href=3D"http://scholar.google.de/scholar_alerts?view_op=3Dcancel=
+_alert_options&amp;email_for_op=3Derictessenow%40web.de&amp;alert_id=3DAIfe=
+vv3NkPcJ&amp;hl=3Dde"><font color=3D#1122cc>Alert stornieren</font></a><br>=
+</font></div></body></html>
