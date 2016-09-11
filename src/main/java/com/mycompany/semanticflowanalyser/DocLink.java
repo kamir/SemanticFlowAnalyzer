@@ -25,8 +25,6 @@ public class DocLink {
         d1 = _d1;
         d2 = _d2;
         
-        
-        
     }
     
 }
