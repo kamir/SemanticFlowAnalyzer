@@ -40,7 +40,8 @@ public class AppFILES2Cluster {
          * Use this collection name. The name will be added to the ID of each
          * document.
          */
-        String COLLECTION = "iMac_files_001";
+//        String COLLECTION = "iMac_files_001";
+        String COLLECTION = "MacPro2_files_001";
 
         /**
          * Where is the cluster?
